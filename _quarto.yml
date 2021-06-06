@@ -1,6 +1,6 @@
 project:
   type: site
-  output-dir: _site
+  output-dir: docs
   
 site:
   title: "Openscapes Team Compass"
