@@ -6,7 +6,7 @@ book:
   author: "Openscapes"
   site-url: https://openscapes.github.io/team-compass
   repo-url: https://github.com/openscapes/team-compass
-  date: "6/2/2021"
+  date: "Last updated June 2021"
   page-navigation: true
   sidebar:
     style: "docked"

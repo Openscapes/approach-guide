@@ -1,20 +1,28 @@
+From: <https://quarto.org/>
 
-Clone jules32/qtest repo (I first create repo on github.com and clone using RStudio's Git pane)
+## Setup
 
-```
-quarto create-project mybook --type book
-quarto serve mybook
+Clone openscapes/team-compass repo (I cloned using RStudio's Git pane)
 
-```
-
-Realize I want qtest as a book, not with a `mybook` subdirectory (move by hand)
+Install `quarto` library
 
 ```
-quarto serve qtest
+install.packages("quarto")
 ```
 
-Works perfectly
+## Workflow
 
-add .md and .ipynb to _quarto.yml
+Build the book, from the R Console: 
 
-auto-serves
+```
+quarto::quarto_serve()
+```
+
+## Publish
+
+```
+quarto render
+```
+
+
+Note that development server updates do not cause an update to the final site output. Consequently, you should always `quarto render` your site before deploying it, even if you have already previewed the changes with the development server.

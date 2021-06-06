@@ -2,26 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https:/openscapes.github.io/team-compass/index.html</loc>
-    <lastmod>2021-06-06T16:42:49.029Z</lastmod>
+    <lastmod>2021-06-06T16:59:46.436Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/docs/getting_started/earthdata_login.html</loc>
-    <lastmod>2021-06-06T16:42:49.030Z</lastmod>
+    <loc>https:/openscapes.github.io/team-compass/docs/practices/get-started.html</loc>
+    <lastmod>2021-06-06T16:59:46.437Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/docs/getting_started/authentication.html</loc>
-    <lastmod>2021-06-06T16:42:49.031Z</lastmod>
+    <loc>https:/openscapes.github.io/team-compass/docs/champions/about.html</loc>
+    <lastmod>2021-06-06T16:59:46.439Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/docs/getting_started/netrc_file.html</loc>
-    <lastmod>2021-06-06T16:42:49.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/openscapes.github.io/team-compass/docs/getting_started/inline_authentication.html</loc>
-    <lastmod>2021-06-06T16:42:49.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/openscapes.github.io/team-compass/docs/access/code-of-conduct.html</loc>
-    <lastmod>2021-06-06T16:42:49.034Z</lastmod>
+    <loc>https:/openscapes.github.io/team-compass/docs/code-of-conduct/code-of-conduct.html</loc>
+    <lastmod>2021-06-06T16:59:46.439Z</lastmod>
   </url>
 </urlset>
