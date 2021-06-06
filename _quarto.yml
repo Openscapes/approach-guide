@@ -1,11 +1,14 @@
 project:
-  type: book
-
-book:
+  type: site
+  output-dir: _site
+  
+site:
   title: "Openscapes Team Compass"
   author: "Openscapes"
+  logo: openscapes_hex.png
   site-url: https://openscapes.github.io/team-compass
   repo-url: https://github.com/openscapes/team-compass
+  repo-actions: [edit, issue]
   date: "Last updated June 2021"
   page-navigation: true
   sidebar:
@@ -13,21 +16,32 @@ book:
     background: light
     search: true
     collapse-level: 2
-  chapters:
-    - index.md
-# part: Getting Started
-    - docs/practices/get-started.md
-    - docs/champions/about.md
-    - docs/code-of-conduct/code-of-conduct.md
-    - docs/references.md
+    tools:
+      - icon: github
+        href: https://github.com/openscapes/team-compass
+    contents:
+      - index.md
+      - section: "Team Practices"
+        contents:
+          - docs/practices/get-started.md
+          - docs/practices/code-of-conduct.md
+      - section: "Champions Program"
+        contents:
+          - docs/champions/about.md
+          - docs/champions/operations.md
+      - section: "Reference"
+        contents:
+          - docs/reference/inspiration.md
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: report
-  epub:
-    cover-image: openscapes_hex.png
+    css: styles.css
+    toc: true # this adds the right-side "on this page" navigation
+#     
+# filters:
+#   - filters/include-files.lua
+
 

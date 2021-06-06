@@ -3,8 +3,6 @@ title: Code of Conduct
 format: html
 ---
 
-# Code of Conduct 
-
 **Also posted at <https://openscapes.org/code-of-conduct>**    
 **Version 2.0, April 2020**
 

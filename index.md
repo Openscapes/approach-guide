@@ -2,13 +2,11 @@
 title: "Welcome"
 ---
 
-# Welcome {.unnumbered} 
-
 This Team Compass is a guide for Openscapes team members to navigate our organization and community. 
 
 ## How to use the team compass {.unnumbered} 
 
-Openscapes team members should document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.
+Openscapes team members should help document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.
 
 If you see information here that is out of date, please propose an edit in [the team compass repository](https://github.com/2i2c-org/team-compass).
 
@@ -42,7 +40,7 @@ This section contains information about the Champions program, as well as ongoin
 :caption: Champions Program
 :maxdepth: 1
 champions/about
-champions/set-up
+champions/operations
 champions/community
 ```
 

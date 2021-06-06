@@ -7,6 +7,8 @@ format: html
 
 ## Background
 
+text
+
 ## Structure
 
-## Operations
+text
