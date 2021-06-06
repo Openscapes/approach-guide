@@ -2,10 +2,10 @@ project:
   type: book
 
 book:
-  title: "Cloud for Earth Science"
-  author: "NASA Openscapes Community"
-  site-url: https://jules32.github.io/qtest
-  repo-url: https://github.com/jules32/qtest
+  title: "Openscapes Team Compass"
+  author: "Openscapes"
+  site-url: https://openscapes.github.io/team-compass
+  repo-url: https://github.com/openscapes/team-compass
   date: "6/2/2021"
   page-navigation: true
   sidebar:
@@ -17,15 +17,15 @@ book:
     - index.md
 # part: Getting Started
     - docs/getting_started/earthdata_login.md
-    - docs/getting_started/earthdata_login_test.md
-    - docs/getting_started/authentication.md
-    - docs/getting_started/netrc_file.md
-    - docs/getting_started/inline_authentication.md
+    # - docs/getting_started/earthdata_login_test.md
+    # - docs/getting_started/authentication.md
+    # - docs/getting_started/netrc_file.md
+    # - docs/getting_started/inline_authentication.md
 # part: Backgound
 #   - cloud_optimized_data_formats.md
 # part: NASA Cloud Data Discovery
-#   - /discovery/discovery.md
-    - docs/access/access.md
+    - docs/practices/discovery.md
+    - docs/code-of-conduct/code-of-conduct.md
     - docs/references.md
 
 bibliography: references.bib

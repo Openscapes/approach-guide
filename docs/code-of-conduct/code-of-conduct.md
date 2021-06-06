@@ -1,11 +1,12 @@
 ---
-title: "Code of Conduct "
+title: Code of Conduct
 format: html
 ---
 
-**Version 2.0, April 2020**
+# Code of Conduct 
 
----
+**Also posted at <https://openscapes.org/code-of-conduct>**    
+**Version 2.0, April 2020**
 
 ### Our community is the most valuable thing about Openscapes.
 Supporting a safe, inclusive, welcoming, and harassment-free experience for everyone in our community is paramount, as is strengthening connections with other communities that have influenced our work. Our Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area.
@@ -67,4 +68,3 @@ If you experience or witness unacceptable behavior, or have any other concerns, 
 
 The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area (see Mozilla's [inclusion repo](https://github.com/mozilla/inclusion). Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and the groups described in [open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from [Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from [EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394) and [the coop at Fred Hutch](https://fredhutch.github.io/coop/community/coop-values/).
 
-<br>

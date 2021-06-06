@@ -1,1 +1,1 @@
-Sitemap: https://jules32.github.io/qtest/sitemap.xml
+Sitemap: https://openscapes.github.io/team-compass/sitemap.xml
