@@ -1,1 +1,0 @@
-# PO DAAC Authentication Example

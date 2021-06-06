@@ -16,15 +16,8 @@ book:
   chapters:
     - index.md
 # part: Getting Started
-    - docs/getting_started/earthdata_login.md
-    # - docs/getting_started/earthdata_login_test.md
-    # - docs/getting_started/authentication.md
-    # - docs/getting_started/netrc_file.md
-    # - docs/getting_started/inline_authentication.md
-# part: Backgound
-#   - cloud_optimized_data_formats.md
-# part: NASA Cloud Data Discovery
-    - docs/practices/discovery.md
+    - docs/practices/get-started.md
+    - docs/champions/about.md
     - docs/code-of-conduct/code-of-conduct.md
     - docs/references.md
 

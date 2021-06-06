@@ -1,1 +1,0 @@
-# LP DAAC netrc example
