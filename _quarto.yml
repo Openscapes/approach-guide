@@ -13,9 +13,6 @@ book:
     background: light
     search: true
     collapse-level: 2
-    tools:
-      - icon: github
-        href: https://github.com/jules32/qtest
   chapters:
     - index.md
 # part: Getting Started
@@ -28,7 +25,6 @@ book:
 #   - cloud_optimized_data_formats.md
 # part: NASA Cloud Data Discovery
 #   - /discovery/discovery.md
-    - docs/discovery/Navigate_CMR_STAC.ipynb  
     - docs/access/access.md
     - docs/references.md
 
@@ -40,5 +36,5 @@ format:
   pdf:
     documentclass: report
   epub:
-    cover-image: cover.png
+    cover-image: openscapes_hex.png
 
