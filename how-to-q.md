@@ -20,9 +20,8 @@ quarto::quarto_serve()
 
 ## Publish
 
+Run this before pushing to GitHub to publish:
 ```
-quarto render
+quarto::quarto_render()
 ```
 
-
-Note that development server updates do not cause an update to the final site output. Consequently, you should always `quarto render` your site before deploying it, even if you have already previewed the changes with the development server.
