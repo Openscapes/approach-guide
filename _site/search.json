@@ -21,7 +21,7 @@
     "href": "how-to-q.html#publish",
     "title": "Openscapes Team Compass",
     "section": "Publish",
-    "text": "quarto render\nNote that development server updates do not cause an update to the final site output. Consequently, you should always quarto render your site before deploying it, even if you have already previewed the changes with the development server."
+    "text": "Run this before pushing to GitHub to publish:\nquarto::quarto_render()"
   },
   {
     "href": "intro.html#section",
@@ -69,7 +69,7 @@
     "href": "docs/reference/inspiration.html",
     "title": "Inspiration",
     "section": "",
-    "text": "Many things inspire us and influence our work\n\nRStudio, E84, 2i2c, Mozilla, rOpenSci, RLadies\nrefs from Tara Robertson\n…"
+    "text": "Many things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…"
   },
   {
     "href": "docs/practices/code-of-conduct.html",

@@ -3,8 +3,10 @@ title: Inspiration
 format: html
 ---
 
-Many things inspire us and influence our work 
+Many things inspire us and influence our work for kinder science
 
-- RStudio, E84, 2i2c, Mozilla, rOpenSci, RLadies
-- refs from Tara Robertson
+- RStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD
+- Tara Robertson, Dawn Wright and references
+- URGE, Mica Estrada
+- Brene Brown, Jim Collins
 - ...
