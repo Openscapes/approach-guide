@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https:/jules32.github.io/qtest/index.html</loc>
+    <lastmod>2021-06-02T18:59:21.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/getting_started/earthdata_login.html</loc>
+    <lastmod>2021-06-02T18:59:21.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/getting_started/authentication.html</loc>
+    <lastmod>2021-06-02T18:59:21.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/getting_started/netrc_file.html</loc>
+    <lastmod>2021-06-02T18:59:21.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/getting_started/inline_authentication.html</loc>
+    <lastmod>2021-06-02T18:59:21.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/discovery/Navigate_CMR_STAC.html</loc>
+    <lastmod>2021-06-02T18:59:21.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/jules32.github.io/qtest/docs/access/access.html</loc>
+    <lastmod>2021-06-02T18:59:21.937Z</lastmod>
+  </url>
+</urlset>
