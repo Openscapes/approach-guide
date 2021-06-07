@@ -20,16 +20,16 @@ book:
     - index.md
     - part: "Team Practices"
       chapters:
-        - docs/practices/get-started.md
-        - docs/practices/code-of-conduct.md
+        - practices/get-started.md
+        - practices/code-of-conduct.md
     - part: "Champions Program"
       chapters:
-        - docs/champions/about.md
-        - docs/champions/operations.md
+        - champions/about.md
+        - champions/operations.md
     - part: "Reference"
       chapters:
-        - docs/reference/inspiration.md
-        - docs/reference/r-test.qmd
+        - reference/inspiration.md
+        - reference/r-test.qmd
 
 bibliography: references.bib
 
