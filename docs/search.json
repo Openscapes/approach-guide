@@ -1,73 +1,37 @@
 [
   {
-    "href": "summary.html#section",
-    "title": "Openscapes Team Compass",
-    "section": "—",
-    "text": ""
-  },
-  {
-    "href": "how-to-q.html#setup",
-    "title": "Openscapes Team Compass",
-    "section": "Setup",
-    "text": "Clone openscapes/team-compass repo (I cloned using RStudio’s Git pane)\nInstall quarto library\ninstall.packages(\"quarto\")"
-  },
-  {
-    "href": "how-to-q.html#workflow",
-    "title": "Openscapes Team Compass",
-    "section": "Workflow",
-    "text": "Build the book, from the R Console:\nquarto::quarto_serve()"
-  },
-  {
-    "href": "how-to-q.html#publish",
-    "title": "Openscapes Team Compass",
-    "section": "Publish",
-    "text": "Run this before pushing to GitHub to publish:\nquarto::quarto_render()"
-  },
-  {
-    "href": "intro.html#section",
-    "title": "Openscapes Team Compass",
-    "section": "—",
-    "text": ""
-  },
-  {
-    "href": "references.html#section",
-    "title": "Openscapes Team Compass",
-    "section": "—",
-    "text": ""
-  },
-  {
     "href": "index.html#how-to-use-the-team-compass",
-    "title": "Welcome",
-    "section": "How to use the team compass",
+    "title": "Openscapes Team Compass",
+    "section": "How to use the Team Compass",
     "text": "Openscapes team members should help document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.\nIf you see information here that is out of date, please propose an edit in the team compass repository.\nSee below for a brief overview of each section of the Team Compass, or browse the sections to the left on your own."
   },
   {
     "href": "index.html#team-practices",
-    "title": "Welcome",
+    "title": "Openscapes Team Compass",
     "section": "Team Practices",
     "text": "Information about working with the Openscapes team, understanding our processes and projects, and generally getting oriented.\nupcoming\n:caption: Team Practices\n:maxdepth: 1\nget-started\npractices/info-location\npractices/expectations\npractices/communication\npractices/coordination\npractices/tools\npractices/github-conventions\npractices/team-compass"
   },
   {
     "href": "index.html#champions-program",
-    "title": "Welcome",
+    "title": "Openscapes Team Compass",
     "section": "Champions Program",
     "text": "The Champions Program provides open data science mentorship to cohorts of research teams and is the flagship program of Openscapes. This section contains information about the Champions program, as well as ongoing updates about where information is stored.\nupdate\n:caption: Champions Program\n:maxdepth: 1\nchampions/about\nchampions/operations\nchampions/community"
   },
   {
     "href": "index.html#team-reference",
-    "title": "Welcome",
+    "title": "Openscapes Team Compass",
     "section": "Team Reference",
     "text": "Contains information about the Openscapes team and our projects, and some useful resources to learn more.\nupdate\n:maxdepth: 1\n:caption: Team Reference\ncode-of-conduct/index\nreference/projects\nreference/inspiration\nreference/terminology\nmeetings/eng/index"
   },
   {
     "href": "index.html#about-openscapes",
-    "title": "Welcome",
+    "title": "Openscapes Team Compass",
     "section": "About Openscapes",
     "text": "Information about the broader Openscapes organization, as well as its mission and structure.\nupdate\n:maxdepth: 1\n:caption: About Openscapes\n\nabout\nabout/team\nabout/structure\nabout/strategy\npositions"
   },
   {
     "href": "index.html#acknowledgements",
-    "title": "Welcome",
+    "title": "Openscapes Team Compass",
     "section": "Acknowledgements",
     "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture. This Team Compass document is modeled after https://2i2c.org/team-compass/."
   }

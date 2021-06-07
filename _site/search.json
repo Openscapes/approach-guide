@@ -1,11 +1,5 @@
 [
   {
-    "href": "summary.html#section",
-    "title": "Openscapes Team Compass",
-    "section": "—",
-    "text": ""
-  },
-  {
     "href": "how-to-q.html#setup",
     "title": "Openscapes Team Compass",
     "section": "Setup",
@@ -33,13 +27,25 @@
     "href": "docs/champions/operations.html#timeline",
     "title": "Operations",
     "section": "Timeline",
+    "text": "Begin 2.5 months before the cohort will start\n\nPlanning and prepare text for announcement emails, twitter, and website and google form (.5 months)\nAnnounce opportunity, nomination forms open 1 month\nSelection and request for interviews, coordination with teams (1 month)"
+  },
+  {
+    "href": "docs/champions/operations.html#planning",
+    "title": "Operations",
+    "section": "Planning",
     "text": ""
+  },
+  {
+    "href": "docs/champions/operations.html#announcement",
+    "title": "Operations",
+    "section": "Announcement",
+    "text": "events website\ngoogle form"
   },
   {
     "href": "docs/champions/operations.html#before-the-program",
     "title": "Operations",
     "section": "Before the program",
-    "text": ""
+    "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
   },
   {
     "href": "docs/champions/operations.html#before-each-call",
@@ -72,6 +78,12 @@
     "text": "Many things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…"
   },
   {
+    "href": "docs/reference/r-test.html",
+    "title": "Knitr Document",
+    "section": "",
+    "text": "library(ggplot2)\nggplot(airquality, aes(Temp, Ozone)) + \n        geom_point() + \n        geom_smooth(method = \"loess\", se = FALSE)\nsummary(airquality)"
+  },
+  {
     "href": "docs/practices/code-of-conduct.html",
     "title": "Code of Conduct",
     "section": "",
@@ -92,7 +104,7 @@
   {
     "href": "index.html#how-to-use-the-team-compass",
     "title": "Welcome",
-    "section": "How to use the team compass",
+    "section": "How to use the Team Compass",
     "text": "Openscapes team members should help document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.\nIf you see information here that is out of date, please propose an edit in the team compass repository.\nSee below for a brief overview of each section of the Team Compass, or browse the sections to the left on your own."
   },
   {

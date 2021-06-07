@@ -1,45 +1,43 @@
 project:
-  type: site
+  type: book
   output-dir: docs
   
-site:
+book:
   title: "Openscapes Team Compass"
   author: "Openscapes"
   logo: openscapes_hex.png
-  site-url: https://openscapes.github.io/team-compass
   repo-url: https://github.com/openscapes/team-compass
   repo-actions: [edit, issue]
-  date: "Last updated June 2021"
-  page-navigation: true
-  sidebar:
-    style: "docked"
-    background: light
-    search: true
-    collapse-level: 2
-    tools:
-      - icon: github
-        href: https://github.com/openscapes/team-compass
-    contents:
-      - index.md
-      - section: "Team Practices"
-        contents:
-          - docs/practices/get-started.md
-          - docs/practices/code-of-conduct.md
-      - section: "Champions Program"
-        contents:
-          - docs/champions/about.md
-          - docs/champions/operations.md
-      - section: "Reference"
-        contents:
-          - docs/reference/inspiration.md
+  sharing: [twitter]
+  # date: "Last updated June 2021"
+  # page-navigation: true
+  # sidebar:
+  #   style: "docked"
+  #   background: light
+  #   search: true
+  #   collapse-level: 2
+  chapters:
+    - index.md
+    - part: "Team Practices"
+      chapters:
+        - docs/practices/get-started.md
+        - docs/practices/code-of-conduct.md
+    - part: "Champions Program"
+      chapters:
+        - docs/champions/about.md
+        - docs/champions/operations.md
+    - part: "Reference"
+      chapters:
+        - docs/reference/inspiration.md
+        - docs/reference/r-test.qmd
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true # this adds the right-side "on this page" navigation
+    # css: styles.css
+    # toc: true # this adds the right-side "on this page" navigation
 #     
 # filters:
 #   - filters/include-files.lua

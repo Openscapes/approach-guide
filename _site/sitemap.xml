@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https:/openscapes.github.io/team-compass/summary.html</loc>
-    <lastmod>2021-06-06T18:08:05.613Z</lastmod>
-  </url>
-  <url>
     <loc>https:/openscapes.github.io/team-compass/how-to-q.html</loc>
-    <lastmod>2021-06-06T18:08:05.823Z</lastmod>
+    <lastmod>2021-06-07T19:26:57.055Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/intro.html</loc>
-    <lastmod>2021-06-06T18:08:05.997Z</lastmod>
+    <lastmod>2021-06-07T19:26:57.267Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/docs/champions/operations.html</loc>
-    <lastmod>2021-06-06T18:08:06.179Z</lastmod>
+    <lastmod>2021-06-07T19:26:57.448Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/docs/champions/about.html</loc>
-    <lastmod>2021-06-06T18:08:06.367Z</lastmod>
+    <lastmod>2021-06-07T19:26:57.626Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/docs/reference/inspiration.html</loc>
-    <lastmod>2021-06-06T18:08:06.539Z</lastmod>
+    <lastmod>2021-06-07T19:26:57.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/team-compass/docs/reference/r-test.html</loc>
+    <lastmod>2021-06-07T19:26:58.353Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/docs/practices/code-of-conduct.html</loc>
-    <lastmod>2021-06-06T18:08:06.775Z</lastmod>
+    <lastmod>2021-06-07T19:26:58.779Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/docs/practices/get-started.html</loc>
-    <lastmod>2021-06-06T18:08:06.955Z</lastmod>
+    <lastmod>2021-06-07T19:26:58.955Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/references.html</loc>
-    <lastmod>2021-06-06T18:08:07.126Z</lastmod>
+    <lastmod>2021-06-07T19:26:59.140Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/team-compass/index.html</loc>
-    <lastmod>2021-06-06T18:08:07.440Z</lastmod>
+    <lastmod>2021-06-07T19:26:59.457Z</lastmod>
   </url>
 </urlset>

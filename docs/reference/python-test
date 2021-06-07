@@ -1,0 +1,21 @@
+---
+title: "Jupyter Document"
+format: 
+  html:
+    code-background: true
+jupyter: python3
+---
+
+```{python}
+import matplotlib.pyplot as plt
+plt.plot([1,2,3,4])
+plt.show()
+```
+
+```{python}
+import pandas as pd
+d = {'one' : [1., 2., 3., 4.],
+     'two' : [4., 3., 2., 1.]}
+df = pd.DataFrame(d)
+df
+```

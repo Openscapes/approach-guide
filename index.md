@@ -4,7 +4,7 @@ title: "Welcome"
 
 This Team Compass is a guide for Openscapes team members to navigate our organization and community. 
 
-## How to use the team compass {.unnumbered} 
+## How to use the Team Compass {.unnumbered} 
 
 Openscapes team members should help document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.
 
