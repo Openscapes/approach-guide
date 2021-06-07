@@ -29,7 +29,8 @@ book:
     - part: "Reference"
       chapters:
         - reference/inspiration.md
-        - reference/r-test.qmd
+        - reference/python-test.qmd
+        - reference/r-test.Rmd
 
 bibliography: references.bib
 

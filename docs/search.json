@@ -96,6 +96,12 @@
     "text": "Many things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…"
   },
   {
+    "href": "reference/python-test.html",
+    "title": "Jupyter Document",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nplt.plot([1,2,3,4])\nplt.show()\n\n\n\n\n\nimport pandas as pd\nd = {'one' : [1., 2., 3., 4.],\n     'two' : [4., 3., 2., 1.]}\ndf = pd.DataFrame(d)\ndf\n\n\n\n\n  \n    \n      \n      one\n      two\n    \n  \n  \n    \n      0\n      1.0\n      4.0\n    \n    \n      1\n      2.0\n      3.0\n    \n    \n      2\n      3.0\n      2.0\n    \n    \n      3\n      4.0\n      1.0"
+  },
+  {
     "href": "reference/r-test.html",
     "title": "Knitr Document",
     "section": "",
