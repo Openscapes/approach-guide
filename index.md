@@ -4,6 +4,8 @@ title: "Welcome"
 
 This Team Compass is a guide for Openscapes team members to navigate our organization and community. 
 
+<!---
+
 ## How to use the Team Compass {.unnumbered} 
 
 Openscapes team members should help document everything relevant to operating the organization in the Openscapes team compass, and give it precedence over all other kinds of documentation unless explicitly stated otherwise in the team compass.
@@ -59,9 +61,13 @@ reference/terminology
 meetings/eng/index
 ```
 
+--->
+
 ## About Openscapes {.unnumbered} 
 
 Information about the broader Openscapes organization, as well as its mission and structure.
+
+<!---
 
 *update*
 ```{toctree}
@@ -74,6 +80,8 @@ about/structure
 about/strategy
 positions
 ```
+
+--->
 
 ## Acknowledgements {.unnumbered} 
 

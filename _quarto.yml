@@ -17,10 +17,10 @@ book:
   #   search: true
   #   collapse-level: 2
   chapters:
-    - index.md
-    - part: "Team Practices"
+    - text: "Welcome"
+      href: index.md  
+    - part: practices/index.md
       chapters:
-        - practices/get-started.md
         - practices/code-of-conduct.md
     - part: "Champions Program"
       chapters:
@@ -29,8 +29,6 @@ book:
     - part: "Reference"
       chapters:
         - reference/inspiration.md
-        - reference/python-test.qmd
-        - reference/r-test.Rmd
 
 bibliography: references.bib
 
