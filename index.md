@@ -83,12 +83,3 @@ positions
 
 --->
 
-## Acknowledgements {.unnumbered} 
-
-Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.
-This Team Compass document is modeled after <https://2i2c.org/team-compass/>.
-
-
-<!---
-hmm html comments don't seem to work
---->
