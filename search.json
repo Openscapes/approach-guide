@@ -3,19 +3,13 @@
     "href": "reference/inspiration.html",
     "title": "Inspiration",
     "section": "",
-    "text": "Many things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…"
+    "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.\nThis Team Compass document is inspired from https://thefaylab.github.io/lab-manual/index.html, https://the-turing-way.netlify.app/community-handbook, https://2i2c.org/team-compass/, and others.\nMany things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…"
   },
   {
     "href": "index.html#about-openscapes",
     "title": "Welcome",
     "section": "About Openscapes",
     "text": "Information about the broader Openscapes organization, as well as its mission and structure."
-  },
-  {
-    "href": "index.html#acknowledgements",
-    "title": "Welcome",
-    "section": "Acknowledgements",
-    "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture. This Team Compass document is modeled after https://2i2c.org/team-compass/."
   },
   {
     "href": "champions/operations.html#timeline",
