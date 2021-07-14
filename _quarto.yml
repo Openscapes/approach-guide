@@ -1,44 +1,46 @@
 project:
-  type: book
-  output-dir: docs
+  type: site
+  output-dir: _site
   
-book:
-  title: "Openscapes Team Compass"
-  author: "Openscapes"
-  logo: openscapes_hex.png
+site:
+  site-url: https://openscapes.github.io/team-compass
   repo-url: https://github.com/openscapes/team-compass
   repo-actions: [edit, issue]
-  sharing: [twitter]
-  # date: "Last updated June 2021"
-  # page-navigation: true
-  # sidebar:
-  #   style: "docked"
-  #   background: light
-  #   search: true
-  #   collapse-level: 2
-  chapters:
-    - text: "Welcome"
-      href: index.md  
-    - part: practices/index.md
-      chapters:
+  page-navigation: true
+  sidebar:
+    title: "Openscapes Team Compass"
+    logo: openscapes_hex.png
+    style: "docked"
+    background: light
+    search: true
+    collapse-level: 2
+    align: left
+    tools:
+      - icon: github
+        href: https://github.com/nasa-openscapes/earthdata-cloud-cookbook
+    contents:
+      - text: "Welcome"
+        href: index.md
+      - section: practices/index.md
+        contents:  
         - practices/code-of-conduct.md
-    - part: "Champions Program"
-      chapters:
+      - section: "Champions Program"
+        contents:
         - champions/about.md
         - champions/operations.md
-    - part: "Reference"
-      chapters:
+      - section: "Reference"
+        contents:
         - reference/inspiration.md
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-    # css: styles.css
-    # toc: true # this adds the right-side "on this page" navigation
-#     
-# filters:
-#   - filters/include-files.lua
-
-
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true 
+    

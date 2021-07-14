@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Openscapes Team Compass – 1&nbsp; Tooling</title>
+  <title>Operations</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -22,8 +22,8 @@
   <script src="../site_libs/quarto-search/autocomplete.min.js"></script>
   <script src="../site_libs/quarto-search/fuse.min.js"></script>
   <script src="../site_libs/quarto-search/quarto-search.js"></script>
-  <link href="../practices/code-of-conduct.html" rel="next">
-  <link href="../index.html" rel="prev">
+  <link href="../reference/inspiration.html" rel="next">
+  <link href="../champions/about.html" rel="prev">
   <script src="../site_libs/quarto-html/quarto.js"></script>
   <script src="../site_libs/quarto-html/popper.min.js"></script>
   <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -31,17 +31,20 @@
   <script src="../site_libs/quarto-html/anchor.min.js"></script>
   <script src="../site_libs/quarto-html/quarto-html.js"></script>
   <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="../site_libs/quarto-html/quarto-css-variables.css" rel="stylesheet">
+  <link class="quarto-color-scheme light" href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <link class="quarto-color-scheme dark" disabled="true" href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet">
   <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
   <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link class="quarto-color-scheme light" href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link class="quarto-color-scheme dark" disabled="true" href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
 <div id="quarto-search-results"></div>
 <header id="quarto-header" class="headroom fixed-top">
 <nav class="quarto-secondary-nav py-2 d-lg-none d-md-block " data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <div class="container-fluid d-flex justify-content-between">
-    <h1 class="quarto-secondary-nav-title mb-0 fs-3 d-inline">1&nbsp; Tooling</h1>
+    <h1 class="quarto-secondary-nav-title mb-0 fs-3 d-inline">Operations</h1>
     <button type="button" class="quarto-btn-toggle btn d-lg-none py-0 px-1 d-inline-block border-0 ">
       <i class="bi bi-chevron-right"></i>
     </button>
@@ -49,10 +52,10 @@
 </nav>
 </header>
  <!-- /navbar/sidebar -->
-<div class="container-fluid quarto-container d-flex flex-column page-layout-article" id="quarto-content">
-<div class="row flex-fill">
+<div class="container-fluid quarto-container d-flex flex-column page-layout-article">
+<div class="row flex-fill" id="quarto-content">
   <div id="quarto-sidebar" class="col col-12 col-lg-3 d-lg-flex px-0 pt-0 sidebar collapse sidebar-navigation">
-    <nav class="ms-lg-auto py-2 floating  overflow-scroll">
+    <nav class="me-lg-auto py-2 docked  overflow-scroll">
   <div class="px-3 pt-lg-2 mt-1 text-left sidebar-header sidebar-header-stacked">
     <img src="../openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
     <div class="sidebar-title mb-0 py-0">
@@ -60,8 +63,8 @@
       Openscapes Team Compass
       </a>
         <div class="sidebar-tools-main">
-    <a href="https://github.com/openscapes/team-compass" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/intent/tweet?url=|url|" title="Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/nasa-openscapes/earthdata-cloud-cookbook" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle " onclick="window.quartoToggleColorScheme(); return false;"><i class="bi"></i></a>
 </div>
     </div>
   </div>
@@ -72,8 +75,8 @@
 </form>
       </div>
         <div class="sidebar-tools-collapse">
-    <a href="https://github.com/openscapes/team-compass" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/intent/tweet?url=|url|" title="Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/nasa-openscapes/earthdata-cloud-cookbook" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle " onclick="window.quartoToggleColorScheme(); return false;"><i class="bi"></i></a>
 </div>
     </div>
   <div class="sidebar-menu-container"> 
@@ -84,18 +87,19 @@
       <ul class="list-unstyled sidebar-section depth1">
     <li class="">
         <div class="me-auto ">
-            <a class="sidebar-section-item d-inline-flex text-start w-100 " data-bs-toggle="collapse" data-bs-target="#teampractices-collapse" aria-expanded="true">
-              <div class="me-auto  sidebar-section-item">Team Practices</div>
-            <div><i class="bi bi-chevron-right ms-2 "></i></div>
+          <div class="d-inline-flex w-100 sidebar-section-item">
+            <div class="sidebar-section-link me-auto ">
+            <a href="../practices/index.html" class="">Team Practices</a>
+            </div>
+            <a class="text-start  " data-bs-toggle="collapse" data-bs-target="#teampractices-collapse" aria-expanded="true">
+              <div><i class="bi bi-chevron-right ms-2 "></i></div>
             </a>
+            </div>
         </div>
       <div class="collapse  show" id="teampractices-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="../practices/get-started.html" class="active"><span class="chapter-number">1</span>&nbsp; Get started at Openscapes</a>
-</li>
-          <li class="sidebar-item">
-  <a href="../practices/code-of-conduct.html" class=""><span class="chapter-number">2</span>&nbsp; Code of Conduct</a>
+  <a href="../practices/code-of-conduct.html" class="">Code of Conduct</a>
 </li>
         </ul>
       </div>
@@ -112,10 +116,10 @@
       <div class="collapse  show" id="championsprogram-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="../champions/about.html" class=""><span class="chapter-number">3</span>&nbsp; About</a>
+  <a href="../champions/about.html" class="">About</a>
 </li>
           <li class="sidebar-item">
-  <a href="../champions/operations.html" class=""><span class="chapter-number">4</span>&nbsp; Operations</a>
+  <a href="../champions/operations.html" class="active">Operations</a>
 </li>
         </ul>
       </div>
@@ -132,7 +136,7 @@
       <div class="collapse  show" id="reference-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="../reference/inspiration.html" class=""><span class="chapter-number">5</span>&nbsp; Inspiration</a>
+  <a href="../reference/inspiration.html" class="">Inspiration</a>
 </li>
         </ul>
       </div>
@@ -142,45 +146,70 @@
   </div>
 </nav>
   </div>
-  <div id="quarto-toc-sidebar" class="col col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-toc order-last"></div>
+  <div id="quarto-toc-sidebar" class="col col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-toc order-last"><nav id="TOC" role="doc-toc">
+<h2 id="toc-title">On this page</h2>
+<ul>
+<li><a href="#timeline" class="nav-link active" data-scroll-target="#timeline">Timeline</a></li>
+<li><a href="#planning" class="nav-link" data-scroll-target="#planning">Planning</a></li>
+<li><a href="#announcement" class="nav-link" data-scroll-target="#announcement">Announcement</a></li>
+<li><a href="#before-the-program" class="nav-link" data-scroll-target="#before-the-program">Before the program</a></li>
+<li><a href="#before-each-call" class="nav-link" data-scroll-target="#before-each-call">Before each call</a></li>
+<li><a href="#between-calls" class="nav-link" data-scroll-target="#between-calls">Between calls</a></li>
+</ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/team-compass/edit/main/champions/operations.md">Edit this page</a></p><p><a href="https://github.com/openscapes/team-compass/issues/new">Report an issue</a></p></div></div></nav></div>
   <div class="col mx-auto col-sm-12 col-md-9 col-lg-7 px-lg-4">
 <main>
 <header id="title-block-header">
-<h1 class="title d-none d-lg-block display-7">1&nbsp; Tooling</h1>
+<h1 class="title d-none d-lg-block display-7">Operations</h1>
 </header>
-<p>We work openly and for Future Us.</p>
-<p>We use these main tools:</p>
+
+<section id="timeline" class="level2">
+<h2 class="anchored" data-anchor-id="timeline">Timeline</h2>
+<p>Begin 2.5 months before the cohort will start</p>
 <ul>
-<li>Google Drive
-<ul>
-<li>Drive</li>
-<li>Calendar</li>
-</ul></li>
-<li>GitHub
-<ul>
-<li>coordination with Issues</li>
-<li>documentation in repos</li>
-<li>comms through website</li>
-</ul></li>
-<li>R/RStudio, Python/Jupyter
-<ul>
-<li>data analysis (R: tidyverse, RMarkdown)</li>
-<li>technical writing (RMarkdown, bookdown, blogdown, Jupyterbooks)</li>
-</ul></li>
-<li>Slack</li>
-<li>Zoom</li>
+<li>Planning and prepare text for announcement emails, twitter, and website and google form (.5 months)</li>
+<li>Announce opportunity, nomination forms open 1 month</li>
+<li>Selection and request for interviews, coordination with teams (1 month)</li>
 </ul>
+</section>
+<section id="planning" class="level2">
+<h2 class="anchored" data-anchor-id="planning">Planning</h2>
+</section>
+<section id="announcement" class="level2">
+<h2 class="anchored" data-anchor-id="announcement">Announcement</h2>
+<ul>
+<li>events website</li>
+<li>google form</li>
+</ul>
+</section>
+<section id="before-the-program" class="level2">
+<h2 class="anchored" data-anchor-id="before-the-program">Before the program</h2>
+<ul>
+<li>send calendar invites</li>
+<li>before Call 01 review:
+<ul>
+<li>Lowndes et al 2017, Perkel 2017</li>
+<li>Lowndes &amp; Horst CascadiaR keynote 2021</li>
+</ul></li>
+</ul>
+</section>
+<section id="before-each-call" class="level2">
+<h2 class="anchored" data-anchor-id="before-each-call">Before each call</h2>
+</section>
+<section id="between-calls" class="level2">
+<h2 class="anchored" data-anchor-id="between-calls">Between calls</h2>
 <!-- -->
+</section>
 </main>
-<div class="page-navigation ">
+<div class="page-navigation page-navigation-docked">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Welcome</span>
+      <a href="../champions/about.html">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">About</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../practices/code-of-conduct.html">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; Code of Conduct</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../reference/inspiration.html">
+        <span class="nav-page-text">Inspiration</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </div>

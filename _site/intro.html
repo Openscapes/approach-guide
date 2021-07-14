@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Openscapes Team Compass – how-to-q</title>
+  <title>intro</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -18,7 +18,7 @@
   <![endif]-->
   <script src="site_libs/quarto-nav/quarto-nav.js"></script>
   <script src="site_libs/quarto-nav/headroom.min.js"></script>
-  <meta name="quarto:offset" content=".">
+  <meta name="quarto:offset" content="./">
   <script src="site_libs/quarto-search/autocomplete.min.js"></script>
   <script src="site_libs/quarto-search/fuse.min.js"></script>
   <script src="site_libs/quarto-search/quarto-search.js"></script>
@@ -29,35 +29,12 @@
   <script src="site_libs/quarto-html/anchor.min.js"></script>
   <script src="site_libs/quarto-html/quarto-html.js"></script>
   <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link class="quarto-color-scheme light" href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <link class="quarto-color-scheme dark" disabled="true" href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet">
   <script src="site_libs/bootstrap/bootstrap.min.js"></script>
   <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
-  <style type="text/css">
-    details {
-      margin-bottom: 1em;
-    } 
-    details[show] {
-      margin-bottom: 0;
-    }
-
-    .quarto-unresolved-ref {
-      font-weight: 600;
-    }
-
-    .quarto-cover-image {
-      max-width: 35%;
-      float: right;
-      margin-left: 30px;
-    }
-
-    .cell-output-display {
-      overflow-x: scroll;
-    }
-
-    .hidden {
-      display: none;
-    }
-  </style>
+  <link class="quarto-color-scheme light" href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link class="quarto-color-scheme dark" disabled="true" href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -65,7 +42,7 @@
 <header id="quarto-header" class="headroom fixed-top">
 <nav class="quarto-secondary-nav py-2 d-lg-none d-md-block " data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <div class="container-fluid d-flex justify-content-between">
-    <h1 class="quarto-secondary-nav-title mb-0 fs-3 d-inline"></h1>
+    <h1 class="quarto-secondary-nav-title mb-0 fs-3 d-inline">(Untitled)</h1>
     <button type="button" class="quarto-btn-toggle btn d-lg-none py-0 px-1 d-inline-block border-0 ">
       <i class="bi bi-chevron-right"></i>
     </button>
@@ -73,17 +50,19 @@
 </nav>
 </header>
  <!-- /navbar/sidebar -->
-<div class="container-fluid quarto-container d-flex flex-column">
+<div class="container-fluid quarto-container d-flex flex-column page-layout-article">
 <div class="row flex-fill" id="quarto-content">
   <div id="quarto-sidebar" class="col col-12 col-lg-3 d-lg-flex px-0 pt-0 sidebar collapse sidebar-navigation">
     <nav class="me-lg-auto py-2 docked  overflow-scroll">
-  <div class="px-3 pt-lg-2 text-left">
-    <div class="sidebar-title mt-1 mb-0 py-0">
+  <div class="px-3 pt-lg-2 mt-1 text-left sidebar-header sidebar-header-stacked">
+    <img src="./openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+    <div class="sidebar-title mb-0 py-0">
       <a href="./">
       Openscapes Team Compass
       </a>
-        <div class="sidebar-tools-main mt-1">
-    <a href="https://github.com/openscapes/team-compass" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/nasa-openscapes/earthdata-cloud-cookbook" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle " onclick="window.quartoToggleColorScheme(); return false;"><i class="bi"></i></a>
 </div>
     </div>
   </div>
@@ -93,8 +72,9 @@
   <input id="quarto-search" class="form-control" type="search" placeholder="Search" aria-label="Search">
 </form>
       </div>
-        <div class="sidebar-tools-collapse mt-1">
-    <a href="https://github.com/openscapes/team-compass" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+        <div class="sidebar-tools-collapse">
+    <a href="https://github.com/nasa-openscapes/earthdata-cloud-cookbook" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle " onclick="window.quartoToggleColorScheme(); return false;"><i class="bi"></i></a>
 </div>
     </div>
   <div class="sidebar-menu-container"> 
@@ -105,20 +85,19 @@
       <ul class="list-unstyled sidebar-section depth1">
     <li class="">
         <div class="me-auto ">
-            <a class="sidebar-section-item d-inline-flex text-start w-100 " data-bs-toggle="collapse" data-bs-target="#teampractices-collapse" aria-expanded="true">
-              <div class="me-auto  sidebar-section-item">
-                Team Practices
-              </div>
-            <div><i class="bi bi-chevron-right ms-2 "></i></div>
+          <div class="d-inline-flex w-100 sidebar-section-item">
+            <div class="sidebar-section-link me-auto ">
+            <a href="./practices/index.html" class="">Team Practices</a>
+            </div>
+            <a class="text-start  " data-bs-toggle="collapse" data-bs-target="#teampractices-collapse" aria-expanded="true">
+              <div><i class="bi bi-chevron-right ms-2 "></i></div>
             </a>
+            </div>
         </div>
       <div class="collapse  show" id="teampractices-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="./docs/practices/get-started.html" class="">Get started at Openscapes</a>
-</li>
-          <li class="sidebar-item">
-  <a href="./docs/practices/code-of-conduct.html" class="">Code of Conduct</a>
+  <a href="./practices/code-of-conduct.html" class="">Code of Conduct</a>
 </li>
         </ul>
       </div>
@@ -128,19 +107,17 @@
     <li class="">
         <div class="me-auto ">
             <a class="sidebar-section-item d-inline-flex text-start w-100 " data-bs-toggle="collapse" data-bs-target="#championsprogram-collapse" aria-expanded="true">
-              <div class="me-auto  sidebar-section-item">
-                Champions Program
-              </div>
+              <div class="me-auto  sidebar-section-item">Champions Program</div>
             <div><i class="bi bi-chevron-right ms-2 "></i></div>
             </a>
         </div>
       <div class="collapse  show" id="championsprogram-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="./docs/champions/about.html" class="">About</a>
+  <a href="./champions/about.html" class="">About</a>
 </li>
           <li class="sidebar-item">
-  <a href="./docs/champions/operations.html" class="">Operations</a>
+  <a href="./champions/operations.html" class="">Operations</a>
 </li>
         </ul>
       </div>
@@ -150,16 +127,14 @@
     <li class="">
         <div class="me-auto ">
             <a class="sidebar-section-item d-inline-flex text-start w-100 " data-bs-toggle="collapse" data-bs-target="#reference-collapse" aria-expanded="true">
-              <div class="me-auto  sidebar-section-item">
-                Reference
-              </div>
+              <div class="me-auto  sidebar-section-item">Reference</div>
             <div><i class="bi bi-chevron-right ms-2 "></i></div>
             </a>
         </div>
       <div class="collapse  show" id="reference-collapse">
         <ul class="list-unstyled sidebar-item-contents">
           <li class="sidebar-item">
-  <a href="./docs/reference/inspiration.html" class="">Inspiration</a>
+  <a href="./reference/inspiration.html" class="">Inspiration</a>
 </li>
         </ul>
       </div>
@@ -172,30 +147,14 @@
   <div id="quarto-toc-sidebar" class="col col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-toc order-last"><nav id="TOC" role="doc-toc">
 <h2 id="toc-title">On this page</h2>
 <ul>
-<li><a href="#setup" class="nav-link active" data-scroll-target="#setup">Setup</a></li>
-<li><a href="#workflow" class="nav-link" data-scroll-target="#workflow">Workflow</a></li>
-<li><a href="#publish" class="nav-link" data-scroll-target="#publish">Publish</a></li>
+<li><a href="#introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
 </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/team-compass/edit/main/how-to-q.md">Edit this page</a></p><p><a href="https://github.com/openscapes/team-compass/issues/new">Report an issue</a></p></div></div></nav></div>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/team-compass/edit/main/intro.md">Edit this page</a></p><p><a href="https://github.com/openscapes/team-compass/issues/new">Report an issue</a></p></div></div></nav></div>
   <div class="col mx-auto col-sm-12 col-md-9 col-lg-7 px-lg-4">
 <main>
 
-<p>From: <a href="https://quarto.org/" class="uri">https://quarto.org/</a></p>
-<section id="setup" class="level2">
-<h2 class="anchored" data-anchor-id="setup">Setup</h2>
-<p>Clone openscapes/team-compass repo (I cloned using RStudio’s Git pane)</p>
-<p>Install <code>quarto</code> library</p>
-<pre><code>install.packages("quarto")</code></pre>
-</section>
-<section id="workflow" class="level2">
-<h2 class="anchored" data-anchor-id="workflow">Workflow</h2>
-<p>Build the book, from the R Console:</p>
-<pre><code>quarto::quarto_serve()</code></pre>
-</section>
-<section id="publish" class="level2">
-<h2 class="anchored" data-anchor-id="publish">Publish</h2>
-<p>Run this before pushing to GitHub to publish:</p>
-<pre><code>quarto::quarto_render()</code></pre>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
 <!-- -->
 </section>
 </main>
