@@ -24,10 +24,12 @@ site:
       - section: practices/index.md
         contents:  
         - practices/code-of-conduct.md
-      - section: "Champions Program"
+      - section: champions/index.qmd
         contents:
-        - champions/about.md
-        - champions/operations.md
+        - champions/timeline.md
+        - champions/plan.md
+        - champions/engage.md
+        - champions/deliver.md
       - section: "Reference"
         contents:
         - reference/inspiration.md
