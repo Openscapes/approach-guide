@@ -47,4 +47,4 @@ quarto::quarto_render()
 
 We've set GitHub up to publish at github.io from the `docs/` folder but can refine later. 
 
-Woop!
+Woop!!  
