@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https:/openscapes.github.io/team-compass/reference/inspiration.html</loc>
-    <lastmod>2021-07-14T21:15:52.243Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/reference/inspiration.html</loc>
+    <lastmod>2021-07-16T18:46:19.196Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/index.html</loc>
-    <lastmod>2021-07-14T21:15:52.971Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/index.html</loc>
+    <lastmod>2021-07-16T18:46:19.948Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/champions/operations.html</loc>
-    <lastmod>2021-07-14T21:15:53.639Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/champions/engage.html</loc>
+    <lastmod>2021-07-16T18:46:20.636Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/champions/about.html</loc>
-    <lastmod>2021-07-14T21:15:54.307Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/champions/timeline.html</loc>
+    <lastmod>2021-07-16T18:46:21.332Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/practices/code-of-conduct.html</loc>
-    <lastmod>2021-07-14T21:15:55.059Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/champions/about.html</loc>
+    <lastmod>2021-07-16T18:46:22.016Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/team-compass/practices/index.html</loc>
-    <lastmod>2021-07-14T21:15:55.799Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/champions/deliver.html</loc>
+    <lastmod>2021-07-16T18:46:22.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/champions/index.html</loc>
+    <lastmod>2021-07-16T18:46:23.412Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/champions/plan.html</loc>
+    <lastmod>2021-07-16T18:46:24.128Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/code-of-conduct.html</loc>
+    <lastmod>2021-07-16T18:46:24.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/index.html</loc>
+    <lastmod>2021-07-16T18:46:26.612Z</lastmod>
   </url>
 </urlset>

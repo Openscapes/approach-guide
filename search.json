@@ -9,55 +9,85 @@
     "href": "index.html#about-openscapes",
     "title": "Welcome",
     "section": "About Openscapes",
-    "text": "Information about the broader Openscapes organization, as well as its mission and structure."
+    "text": "Information about the broader Openscapes organization, as well as its mission and structure…\nWe complete a full revolution of our Flywheel each time we lead a Champions Cohort this includes developing mentors, investing in the curriculum, and delivering the cohort"
   },
   {
-    "href": "champions/operations.html#timeline",
-    "title": "Operations",
+    "href": "champions/engage.html#section",
+    "title": "Engage potential teams",
+    "section": "",
+    "text": "Engagement/Recruitment of Champions PIs and teams"
+  },
+  {
+    "href": "champions/timeline.html#timeline",
+    "title": "Timeline",
     "section": "Timeline",
     "text": "Begin 2.5 months before the cohort will start\n\nPlanning and prepare text for announcement emails, twitter, and website and google form (.5 months)\nAnnounce opportunity, nomination forms open 1 month\nSelection and request for interviews, coordination with teams (1 month)"
   },
   {
-    "href": "champions/operations.html#planning",
-    "title": "Operations",
+    "href": "champions/timeline.html#planning",
+    "title": "Timeline",
     "section": "Planning",
     "text": ""
   },
   {
-    "href": "champions/operations.html#announcement",
-    "title": "Operations",
+    "href": "champions/timeline.html#announcement",
+    "title": "Timeline",
     "section": "Announcement",
     "text": "events website\ngoogle form"
   },
   {
-    "href": "champions/operations.html#before-the-program",
-    "title": "Operations",
+    "href": "champions/timeline.html#before-the-program",
+    "title": "Timeline",
     "section": "Before the program",
     "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
   },
   {
-    "href": "champions/operations.html#before-each-call",
-    "title": "Operations",
+    "href": "champions/timeline.html#before-each-call",
+    "title": "Timeline",
     "section": "Before each call",
     "text": ""
   },
   {
-    "href": "champions/operations.html#between-calls",
-    "title": "Operations",
+    "href": "champions/timeline.html#between-calls",
+    "title": "Timeline",
     "section": "Between calls",
     "text": ""
   },
   {
-    "href": "champions/about.html#background",
-    "title": "About",
-    "section": "Background",
-    "text": "text"
+    "href": "champions/about.html",
+    "title": "",
+    "section": "",
+    "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
   },
   {
-    "href": "champions/about.html#structure",
-    "title": "About",
-    "section": "Structure",
-    "text": "text"
+    "href": "champions/deliver.html#setup",
+    "title": "Cohort Delivery",
+    "section": "Setup",
+    "text": "There is setup to do at the beginning of a Cohort, and also before each Cohort Call. This includes both tech setup and comms set up (i.e. emailing and coordinating)."
+  },
+  {
+    "href": "champions/deliver.html#roles",
+    "title": "Cohort Delivery",
+    "section": "Roles",
+    "text": "There are three main roles when we deliver a cohort. Hosting Assisting Teaching\n\nAgendas\nCohort Delivery"
+  },
+  {
+    "href": "champions/index.html#about-the-champions-program",
+    "title": "Champions Program Operations",
+    "section": "About the Champions Program",
+    "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research.\n\n\n(The above demonstrates how we can knit-child with a local .qmd) TODO: Further brief background and structure…"
+  },
+  {
+    "href": "champions/index.html#operations-overview",
+    "title": "Champions Program Operations",
+    "section": "Operations overview",
+    "text": ""
+  },
+  {
+    "href": "champions/plan.html",
+    "title": "Planning with Partners",
+    "section": "",
+    "text": "Planning Coordination with Partners"
   },
   {
     "href": "practices/code-of-conduct.html",
