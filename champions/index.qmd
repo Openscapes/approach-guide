@@ -12,7 +12,7 @@ format: html
 ```
 
 (The above demonstrates how we can knit-child with a local .qmd)
-TODO: Further brief background and structure.
+TODO: Further brief background and structure...
 
 ## Operations overview
 
