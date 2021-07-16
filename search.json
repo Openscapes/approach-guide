@@ -9,31 +9,91 @@
     "href": "index.html#about-openscapes",
     "title": "Welcome",
     "section": "About Openscapes",
-    "text": "Information about the broader Openscapes organization, as well as its mission and structure…\nWe complete a full revolution of our Flywheel each time we lead a Champions Cohort this includes developing mentors, investing in the curriculum, and delivering the cohort\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"
+    "text": "Openscapes is an approach for doing better science in less time. We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
   },
   {
-    "href": "champions/engage.html#section",
-    "title": "Engage potential teams",
-    "section": "",
-    "text": "Engagement/Recruitment of Champions PIs and teams"
+    "href": "index.html#about-this-guide",
+    "title": "Welcome",
+    "section": "About This Guide",
+    "text": "We have been growing Openscapes since founding it in 2018. This site is our attempt to codify our approach so that we can onboard others as we grow, so its ongoing development will focus on our immediate needs. Aligned with our values for kinder, open science, we are writing it openly, and in a way that others can use it on their own. We encourage anyone to use and “fork” this guide to make it your own (particularly when it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program. This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"
   },
   {
-    "href": "champions/timeline.html#overview",
-    "title": "Attracting research teams",
+    "href": "index.html#citation",
+    "title": "Welcome",
+    "section": "Citation",
+    "text": "Please cite this as TODO."
+  },
+  {
+    "href": "champions/timeline.html#high-level-timeline",
+    "title": "Planning timeline",
+    "section": "High-level timeline",
+    "text": "Schedule Cohort dates: as early as possible. See this section(link) about it.\nEngagement/Recruitment: 2 months prior\nDeliver the Champions Program to a cohort of research teams: 2-4 months."
+  },
+  {
+    "href": "champions/timeline.html#scheduling-cohort-dates",
+    "title": "Planning timeline",
+    "section": "Scheduling Cohort Dates",
+    "text": "Schedule the Cohort dates early as possible!!\nWe have found this procedure to work best:\n\nWe set date-times for all Cohort Calls that work for the Planning team (i.e. those of use involved with leading the Cohort Calls). This includes asking/exploring for any big conflicts like conferences that this community attends.\nWe announce the opportunity ~2 months ahead with the set date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official.” Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in. (More info on what is a team and how to pick teams here: https://www.openscapes.org/faq) [TODO: see this other chapter about this]\n\n\nExample\nThe Openscapes team will start of by suggesting a few Champions Cohort date-times to our partners. For example:\n\nThe NWFSC Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us:\n\n\nOption 1) Thursdays at 12-1:30 pm ET. Dates: September 16 & 30, October 14 & 28\n\n\nOption 2) Thursdays at 2-3:30 pm ET. Dates: September 16 & 30, October 14 & 28\n\n\nOption 3) Fridays at 12-1:30 pm ET. Dates: September 17, October 1, 15 & 29"
+  },
+  {
+    "href": "champions/timeline.html#example-detailed-timeline",
+    "title": "Planning timeline",
+    "section": "Example detailed timeline",
+    "text": "Once the dates are set\n\nJuly 30: Partners email their colleagues \n\nInclude details about the opportunity, link to nomination google form and webpage (Openscapes team posts these, draft text below)\nTargeted at PIs/leads\nDistributed to Partners, if not enough interest open it up to other affiliates/partners\n\nJuly 30 - Aug 20  Nomination period via Google Form\n\nPIs sign up and nominate their lab/group (1 sign-up per lab/group)\nForm will briefly ask about their interest in the program, participation requirements, and confirm their availability for the Cohort dates\nForm provides recommendations on how to choose 3 lab members to join\n\nAugust 24: Contact selected participants\n\nConfirm participation \nSchedule 30 mins one-on-ones with each PI\n\nAugust 30: 30-min one-on-ones with each PI \n\nIntroduce Openscapes, build trust, learn more about PI needs, help them choose who in their lab to participate\nConfirm full cohort email list of everyone participating from each lab/group\n\nAugust 9 : email full cohort (all PIs and group members)\n\nemail full cohort welcoming and expectations (and suggested pre-work reading/videos)\n\nSept-Oct: our awesome cohort\n\nOpen data science, leadership, community building.\nGitHub Clinic\nOpenscapes Social\n\nNovember\n\nPost final blogs, co-write with Partners"
+  },
+  {
+    "href": "champions/deliver.html#setup",
+    "title": "Delivering the program",
+    "section": "Setup",
+    "text": "There is setup to do at the beginning of a Cohort, and also before each Cohort Call. This includes both tech setup and comms setup (i.e. emailing and coordinating)."
+  },
+  {
+    "href": "champions/deliver.html#roles",
+    "title": "Delivering the program",
+    "section": "Roles",
+    "text": "There are three main roles when we deliver a cohort.\n\nHosting\nAssisting\nTeaching"
+  },
+  {
+    "href": "champions/deliver.html#before-the-cohort",
+    "title": "Delivering the program",
+    "section": "Before the Cohort",
+    "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
+  },
+  {
+    "href": "champions/deliver.html#before-each-cohort-call",
+    "title": "Delivering the program",
+    "section": "Before each Cohort Call",
+    "text": ""
+  },
+  {
+    "href": "champions/deliver.html#between-calls",
+    "title": "Delivering the program",
+    "section": "Between Calls",
+    "text": "Agendas"
+  },
+  {
+    "href": "champions/index.html#operations-overview",
+    "title": "Champions Program Operations",
+    "section": "Operations overview",
+    "text": "2 month or 4 month\nCurriculum table.\nPartnering and investing in curriculum"
+  },
+  {
+    "href": "champions/attract.html#overview",
+    "title": "Pre-cohort engagement",
     "section": "Overview",
-    "text": "We work with Partners to attract research teams interested in the Cohort. This coordinating work begins ~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a ~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting."
+    "text": "We work with Partners to attract research teams interested in the Cohort. This coordinating work begins ~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a ~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.\nWe focus our engagement/recruitment of team leads (i.e. PIs) to coordinate for their teams."
   },
   {
-    "href": "champions/timeline.html#example-text",
-    "title": "Attracting research teams",
+    "href": "champions/attract.html#example-text",
+    "title": "Pre-cohort engagement",
     "section": "Example text",
     "text": "When we work with partners we provide the following in a Google Doc as a starting place to edit and coordinate.\nopenscapes.org/events website: CS&S Cohort\n\n\n\n\n\n\nExample Google Form\n\n\n\n\n\nTitle: FDD Openscapes Champions Cohort\nHello! This form is to nominate your research group to participate in the Openscapes Champions program for FDD. This opportunity is open only to lab groups affiliated with FDD. Please provide one nomination per research group, by August 20, 2021. See <https://openscapes.github.io/events/posts/2021-09-17-XXXX> for more details.\n\n\n\nFirst name\nLast name\nEmail address\nWeb presence (website, Twitter, GitHub) (optional)\nORCID (see https://orcid.org/)  (optional)\nWhich institution are you affiliated with?\nHow did you hear about this FDD Openscapes opportunity?\nWho is the lead of the research group you are nominating?\nAre you this research group lead? If not please explain\n[Any other FDD specific questions]\nBriefly tell us why your team would be a good candidate for our Champions cohort. We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\nWhat is your research focus? (15 words or fewer)\nPlease share any relevant projects you might have worked on (links appreciated)\nHave you attended an “open” event before? For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.\nOpenscapes is committed to providing a welcoming community for all participants. One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)\nFor this opportunity, you will participate as a team with up 1-4 other members of your research group. Please describe who some of those individuals might be. Please see openscapes.org/faq for more details on selecting a team. \nPlease confirm you and your team are available for all program events:\n\nMay 7, 12:00-1:30pm PST\nMay 21, 12:00-1:30pm PST\nJune 4, 12:00-1:30pm PST\nJune 18,12:00-1:30pm PST\n\nWhere will you be joining from? This helps us understand time zones as we coordinate.\nPlease read and agree to our code of conduct before you submit your application to participate. [paste short summary, link to full CoC). (required).\n\nRadio buttons: agree, disagree\n\nThank you for the information. Anything else you’d like to share?\nSubmit button: “Apply”\n\n\nConfirmation message: Thank you for the nomination. We will be in touch in late August."
   },
   {
-    "href": "champions/timeline.html#example-timeline",
-    "title": "Attracting research teams",
-    "section": "Example timeline",
-    "text": "July 30: Partners email their colleagues \n\nInclude details about the opportunity, link to nomination google form and webpage (Openscapes team posts these, draft text below)\nTargeted at PIs/leads\nDistributed to Partners, if not enough interest open it up to other affiliates/partners\n\nJuly 30 - Aug 20  Nomination period via Google Form\n\nPIs sign up and nominate their lab/group (1 sign-up per lab/group)\nForm will briefly ask about their interest in the program, participation requirements, and confirm their availability for the Cohort dates\nForm provides recommendations on how to choose 3 lab members to join\n\nAugust 24: Contact selected participants\n\nConfirm participation \nSchedule 30 mins one-on-ones with each PI\n\nAugust 30: 30-min one-on-ones with each PI \n\nIntroduce Openscapes, build trust, learn more about PI needs, help them choose who in their lab to participate\nConfirm full cohort email list of everyone participating from each lab/group\n\nAugust 9 : email full cohort (all PIs and group members)\n\nemail full cohort welcoming and expectations (and suggested pre-work reading/videos)\n\nSept-Oct: our awesome cohort\n\nOpen data science, leadership, community building.\nGitHub Clinic\nOpenscapes Social\n\nNovember\n\nPost final blogs, co-write with Partners"
+    "href": "champions/design.html",
+    "title": "Program design",
+    "section": "",
+    "text": "2 or 4 months, Cohorts, remote, etc.\nCore 2-month Curriculum, invest for 4months (or reuse!)"
   },
   {
     "href": "champions/about.html",
@@ -42,52 +102,10 @@
     "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
   },
   {
-    "href": "champions/deliver.html#setup",
-    "title": "Cohort Delivery",
-    "section": "Setup",
-    "text": "There is setup to do at the beginning of a Cohort, and also before each Cohort Call. This includes both tech setup and comms setup (i.e. emailing and coordinating)."
-  },
-  {
-    "href": "champions/deliver.html#roles",
-    "title": "Cohort Delivery",
-    "section": "Roles",
-    "text": "There are three main roles when we deliver a cohort.\n\nHosting\nAssisting\nTeaching"
-  },
-  {
-    "href": "champions/deliver.html#before-the-cohort",
-    "title": "Cohort Delivery",
-    "section": "Before the Cohort",
-    "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
-  },
-  {
-    "href": "champions/deliver.html#before-each-cohort-call",
-    "title": "Cohort Delivery",
-    "section": "Before each Cohort Call",
-    "text": ""
-  },
-  {
-    "href": "champions/deliver.html#between-calls",
-    "title": "Cohort Delivery",
-    "section": "Between Calls",
-    "text": "Agendas"
-  },
-  {
-    "href": "champions/index.html#about-the-champions-program",
-    "title": "Champions Program Operations",
-    "section": "About the Champions Program",
-    "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research.\n\n\n(The above demonstrates how we can knit-child with a local .qmd) TODO: Further brief background and structure…"
-  },
-  {
-    "href": "champions/index.html#operations-overview",
-    "title": "Champions Program Operations",
-    "section": "Operations overview",
-    "text": ""
-  },
-  {
-    "href": "champions/plan.html",
-    "title": "Planning with Partners",
+    "href": "practices/partners.html",
+    "title": "Partners",
     "section": "",
-    "text": "Planning Coordination with Partners"
+    "text": "We work with really thoughtful partners that promote open science and kinder science. We are grateful to have so many different partners and types of partners supporting Openscapes.\nPartners can invest in Openscapes in different ways.\nSome provide funding to sponsor Champions Cohorts for their own communities or for open calls.\nOthers provide paid time to assist Champions Cohorts, thereby developing themselves as Openscapes Mentors to lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder/open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building.\n[MORE!]"
   },
   {
     "href": "practices/code-of-conduct.html",
@@ -96,21 +114,27 @@
     "text": "Also posted at https://openscapes.org/code-of-conduct\nVersion 2.0, April 2020\n\nOur community is the most valuable thing about Openscapes.\nSupporting a safe, inclusive, welcoming, and harassment-free experience for everyone in our community is paramount, as is strengthening connections with other communities that have influenced our work. Our Code of Conduct is heavily drawn from rOpenSci and Mozilla, who we greatly appreciate for their leadership in this area.\nOpenscapes is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone.\nDiversity is our strength, we try to cultivate a tone where everyone in the community, no matter their backgrounds and accomplishments, comes with a mind open to learning from, with, and for each other. In this mindset, questions are always welcome and appropriate because they don’t expose the lack of knowledge of the asker. Rather, questions expose opportunities for clarification for the original communicator, and for further opening up the conversation to include different perspectives and learning styles.\nIn our community we encourage listening and empathy in all of our interactions. This means:\nBe Respectful\nValue each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.\nBe Direct but Professional\nWe are likely to have some discussions about if and when criticism is respectful and when it’s not. We must be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don’t seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.\nBe Inclusive\nSeek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.\nBe inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:\n\nRemote (on video or phone)\nNot native language speakers\nComing from a different culture\nUsing pronouns other than “he” or “she”\nLiving in a different time zone\nFacing other challenges to participate\n\nThink about how you might facilitate alternative ways to contribute or participate. If you find yourself dominating a discussion, step back. Make way for other voices and listen actively to them.\nUnderstand Different Perspectives\nOur goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger.\nAppreciate and Accommodate Our Similarities and Differences\nWe come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect everyone to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions.\nLead by Example\nBy matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for our community.\n\n\nSummary\nBe respectful, honest, inclusive, accommodating, appreciative, and open to learning from everyone else.\nDo not attack, demean, disrupt, harass, or threaten others or encourage such behavior.\nThis Code of Conduct applies to all people participating in the Openscapes community, including Openscapes staff and leadership. It applies to all modes of interaction online including GitHub project repositories, remote calls, and in person at Openscapes -hosted events.\n\n\nReporting Guidelines\nIf you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organiser Julia Lowndes at openscapes @ nceas.ucsb.edu or independent community member Allison Horst at ahorst @ ucsb.edu with a description of what has occurred and any supporting information that would be helpful. After receiving a concise description of your situation, Julia or Allison will review the report and determine next steps. We will respect confidentiality requests for the purpose of protecting victims of abuse.\n\nThe Openscapes Code of Conduct is heavily drawn from rOpenSci and Mozilla, who we greatly appreciate for their leadership in this area (see Mozilla’s inclusion repo. Additional resources influencing this document include RStudio, Open Post Academics, and the groups described in open software means kinder science. Please also see the value and ethics statements from Ben Marwick’s lab as well as other inspiring examples from EpiEllie’s twitter thread and the coop at Fred Hutch."
   },
   {
-    "href": "practices/index.html#openscapes-ethos",
-    "title": "Team Practices",
-    "section": "Openscapes Ethos",
-    "text": "We work openly and for Future Us.\nOpenscapes Mindset."
+    "href": "practices/onboarding.html#cohort-assistants",
+    "title": "Onboarding",
+    "section": "Cohort Assistants",
+    "text": "Welcome to the team!\nThe following chapters in this book describe operations in more detail. But the first step for onboarding is to experience the Cohort Calls to see what they are really like. We’ll give you access to an example folder of Openscapes_CohortCalls. The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:\n\nRead the blog post to get an overview\nWatch 04_CallRecording while reading through 04_CallAgenda. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go\nLook through a few examples in the PathwaysShare folder (linked from the 04_CallAgenda)\nIf you have time, also go through 01_CallRecording and 01_CallAgenda"
   },
   {
-    "href": "practices/index.html#seaside-chats",
-    "title": "Team Practices",
-    "section": "Seaside Chats",
+    "href": "practices/index.html#openscapes-ethos",
+    "title": "Mindset and Practice",
+    "section": "Openscapes Ethos",
+    "text": "We work openly and for Future Us.\nOpenscapes Mindset.\nGrowth Mindset.\nContinual learning — and practicing and iterating with that learning\npsychological safety. kinder science"
+  },
+  {
+    "href": "practices/seaside-chats.html",
+    "title": "Seaside Chats",
+    "section": "",
     "text": "These are regular meetings where we skillshare and learn together. This will likely be the avenue of how you are onboarded. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together."
   },
   {
-    "href": "practices/index.html#tooling",
-    "title": "Team Practices",
-    "section": "Tooling",
-    "text": "We use these main tools:\n\nGoogle Drive\n\nDrive\nCalendar\n\nGitHub\n\ncoordination with Issues\ndocumentation in repos\ncomms through website\n\nR/RStudio\n\ndata analysis (R: tidyverse, RMarkdown)\ntechnical writing (RMarkdown, bookdown, blogdown, Quarto)\n\nSlack\nZoom"
+    "href": "practices/tooling.html",
+    "title": "Tooling",
+    "section": "",
+    "text": "We try to use a few amount of tools that interoperate well. We also explore and learn new tools but always always with an eye towards interoperability with our current tools, and with an understanding of how the open science community and environmental/Earth science communities are working.\nWe use these main tools:\n\nGoogle Drive\n\nDrive\nCalendar\n\nGitHub\n\nversion control for everything that’s not Google Drive\ncoordination with Issues\npublishing all our R-based web communications (see next)\ncomms through website\n\nR/RStudio\n\ndata analysis (R: tidyverse, RMarkdown)\ncommunications and technical writing (RMarkdown, bookdown, blogdown, Quarto)\n\nSlack\nZoom\nORCID/Rescognito?\nAirtable"
   }
 ]

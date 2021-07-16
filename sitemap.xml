@@ -2,42 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https:/openscapes.github.io/approach-guide/reference/inspiration.html</loc>
-    <lastmod>2021-07-16T19:58:29.210Z</lastmod>
+    <lastmod>2021-07-16T23:00:03.753Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/index.html</loc>
-    <lastmod>2021-07-16T19:58:29.882Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/openscapes.github.io/approach-guide/champions/engage.html</loc>
-    <lastmod>2021-07-16T19:58:30.498Z</lastmod>
+    <lastmod>2021-07-16T23:00:04.581Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/champions/timeline.html</loc>
-    <lastmod>2021-07-16T19:58:32.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/openscapes.github.io/approach-guide/champions/about.html</loc>
-    <lastmod>2021-07-16T19:58:32.899Z</lastmod>
+    <lastmod>2021-07-16T23:00:05.397Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/champions/deliver.html</loc>
-    <lastmod>2021-07-16T19:58:33.539Z</lastmod>
+    <lastmod>2021-07-16T23:00:06.133Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/champions/index.html</loc>
-    <lastmod>2021-07-16T19:58:35.207Z</lastmod>
+    <lastmod>2021-07-16T23:00:06.817Z</lastmod>
   </url>
   <url>
-    <loc>https:/openscapes.github.io/approach-guide/champions/plan.html</loc>
-    <lastmod>2021-07-16T19:58:35.795Z</lastmod>
+    <loc>https:/openscapes.github.io/approach-guide/champions/attract.html</loc>
+    <lastmod>2021-07-16T23:00:07.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/champions/design.html</loc>
+    <lastmod>2021-07-16T23:00:08.389Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/champions/about.html</loc>
+    <lastmod>2021-07-16T23:00:09.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/partners.html</loc>
+    <lastmod>2021-07-16T23:00:09.825Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/practices/code-of-conduct.html</loc>
-    <lastmod>2021-07-16T19:58:36.515Z</lastmod>
+    <lastmod>2021-07-16T23:00:10.641Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/onboarding.html</loc>
+    <lastmod>2021-07-16T23:00:11.373Z</lastmod>
   </url>
   <url>
     <loc>https:/openscapes.github.io/approach-guide/practices/index.html</loc>
-    <lastmod>2021-07-16T19:58:37.147Z</lastmod>
+    <lastmod>2021-07-16T23:00:12.089Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/seaside-chats.html</loc>
+    <lastmod>2021-07-16T23:00:14.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/openscapes.github.io/approach-guide/practices/tooling.html</loc>
+    <lastmod>2021-07-16T23:00:15.505Z</lastmod>
   </url>
 </urlset>
