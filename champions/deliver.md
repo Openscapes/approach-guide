@@ -28,9 +28,23 @@ There are three main roles when we deliver a cohort.
 
 ## Before each Cohort Call
 
+### Agendas
+
 ## Between Calls
 
-### Agendas
+### Clinics
+
+GitHub Clinic
+
+### Co-working
+
+Not "Office Hours
+
+## After the program
+
+### 3-month check ins
+
+
 
 
 
