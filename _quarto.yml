@@ -3,12 +3,12 @@ project:
   output-dir: _site
   
 site:
-  site-url: https://openscapes.github.io/team-compass
-  repo-url: https://github.com/openscapes/team-compass
+  site-url: https://openscapes.github.io/approach-guide
+  repo-url: https://github.com/openscapes/approach-guide
   repo-actions: [edit, issue]
   page-navigation: true
   sidebar:
-    title: "Openscapes Team Compass"
+    title: "Openscapes Approach Guide"
     logo: openscapes_hex.png
     style: "docked"
     background: light
@@ -17,7 +17,7 @@ site:
     align: left
     tools:
       - icon: github
-        href: https://github.com/nasa-openscapes/earthdata-cloud-cookbook
+        href: https://github.com/openscapes/approach-guide
     contents:
       - text: "Welcome"
         href: index.md
