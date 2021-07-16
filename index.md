@@ -11,3 +11,5 @@ In early open development! A Guide for orienting and onboarding to the Openscape
 Information about the broader Openscapes organization, as well as its mission and structure...
 
 We complete a full revolution of our Flywheel each time we lead a Champions Cohort this includes developing mentors, investing in the curriculum, and delivering the cohort
+
+[![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}](https://openscapes.org)
