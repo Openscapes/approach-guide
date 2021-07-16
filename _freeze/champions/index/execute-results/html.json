@@ -1,5 +1,5 @@
 {
-  "hash": "2f8b09cf97dab484019286487b13994f",
+  "hash": "e12075b30f64b08f804295a57c07a3bd",
   "result": {
     "markdown": "---\ntitle: \"Champions Program Operations\"\nformat: html\n---\n\n\n\n## About the Champions Program\n\n\n**Openscapes Champions is an open data science mentorship program for science teams.**\nWe support researchers to reimagine data analysis & stewardship as a\ncollaborative effort, develop modern skills that are of immediate value\nto them, and cultivate collaborative and inclusive research\ncommunities. We work with academic, government, and non-profit research\nteams who become part of the open science movement as Champions\nempowered with new skillsets and mindsets for modern data-intensive\nscience. Learn these Champions' stories through our [blog](https://www.openscapes.org/blog/tags/case-study/), [media](https://www.openscapes.org/media), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4).\n\n\\\n\n(The above demonstrates how we can knit-child with a local .qmd)\nTODO: Further brief background and structure...\n\n## Operations overview\n\n",
     "supporting": [],

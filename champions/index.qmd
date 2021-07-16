@@ -3,17 +3,10 @@ title: "Champions Program Operations"
 format: html
 ---
 
-
-
-## About the Champions Program
-
-```{r, child="about.qmd"}
-
-```
-
-(The above demonstrates how we can knit-child with a local .qmd)
-TODO: Further brief background and structure...
-
 ## Operations overview
 
+2 month or 4 month
 
+Curriculum table. 
+
+Partnering and investing in curriculum
