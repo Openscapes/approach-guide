@@ -18,40 +18,22 @@
     "text": "Engagement/Recruitment of Champions PIs and teams"
   },
   {
-    "href": "champions/timeline.html#timeline",
-    "title": "Timeline",
-    "section": "Timeline",
-    "text": "Begin 2.5 months before the cohort will start\n\nPlanning and prepare text for announcement emails, twitter, and website and google form (.5 months)\nAnnounce opportunity, nomination forms open 1 month\nSelection and request for interviews, coordination with teams (1 month)"
+    "href": "champions/timeline.html#overview",
+    "title": "Attracting research teams",
+    "section": "Overview",
+    "text": "We work with Partners to attract research teams interested in the Cohort. This coordinating work begins ~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a ~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting."
   },
   {
-    "href": "champions/timeline.html#planning",
-    "title": "Timeline",
-    "section": "Planning",
-    "text": ""
+    "href": "champions/timeline.html#example-text",
+    "title": "Attracting research teams",
+    "section": "Example text",
+    "text": "When we work with partners we provide the following in a Google Doc as a starting place to edit and coordinate.\nopenscapes.org/events website: CS&S Cohort\n\n\n\n\n\n\nExample Google Form\n\n\n\n\n\nTitle: FDD Openscapes Champions Cohort\nHello! This form is to nominate your research group to participate in the Openscapes Champions program for FDD. This opportunity is open only to lab groups affiliated with FDD. Please provide one nomination per research group, by August 20, 2021. See <https://openscapes.github.io/events/posts/2021-09-17-XXXX> for more details.\n\n\n\nFirst name\nLast name\nEmail address\nWeb presence (website, Twitter, GitHub) (optional)\nORCID (see https://orcid.org/)  (optional)\nWhich institution are you affiliated with?\nHow did you hear about this FDD Openscapes opportunity?\nWho is the lead of the research group you are nominating?\nAre you this research group lead? If not please explain\n[Any other FDD specific questions]\nBriefly tell us why your team would be a good candidate for our Champions cohort. We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\nWhat is your research focus? (15 words or fewer)\nPlease share any relevant projects you might have worked on (links appreciated)\nHave you attended an “open” event before? For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.\nOpenscapes is committed to providing a welcoming community for all participants. One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)\nFor this opportunity, you will participate as a team with up 1-4 other members of your research group. Please describe who some of those individuals might be. Please see openscapes.org/faq for more details on selecting a team. \nPlease confirm you and your team are available for all program events:\n\nMay 7, 12:00-1:30pm PST\nMay 21, 12:00-1:30pm PST\nJune 4, 12:00-1:30pm PST\nJune 18,12:00-1:30pm PST\n\nWhere will you be joining from? This helps us understand time zones as we coordinate.\nPlease read and agree to our code of conduct before you submit your application to participate. [paste short summary, link to full CoC). (required).\n\nRadio buttons: agree, disagree\n\nThank you for the information. Anything else you’d like to share?\nSubmit button: “Apply”\n\n\nConfirmation message: Thank you for the nomination. We will be in touch in late August."
   },
   {
-    "href": "champions/timeline.html#announcement",
-    "title": "Timeline",
-    "section": "Announcement",
-    "text": "events website\ngoogle form"
-  },
-  {
-    "href": "champions/timeline.html#before-the-program",
-    "title": "Timeline",
-    "section": "Before the program",
-    "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
-  },
-  {
-    "href": "champions/timeline.html#before-each-call",
-    "title": "Timeline",
-    "section": "Before each call",
-    "text": ""
-  },
-  {
-    "href": "champions/timeline.html#between-calls",
-    "title": "Timeline",
-    "section": "Between calls",
-    "text": ""
+    "href": "champions/timeline.html#example-timeline",
+    "title": "Attracting research teams",
+    "section": "Example timeline",
+    "text": "July 30: Partners email their colleagues \n\nInclude details about the opportunity, link to nomination google form and webpage (Openscapes team posts these, draft text below)\nTargeted at PIs/leads\nDistributed to Partners, if not enough interest open it up to other affiliates/partners\n\nJuly 30 - Aug 20  Nomination period via Google Form\n\nPIs sign up and nominate their lab/group (1 sign-up per lab/group)\nForm will briefly ask about their interest in the program, participation requirements, and confirm their availability for the Cohort dates\nForm provides recommendations on how to choose 3 lab members to join\n\nAugust 24: Contact selected participants\n\nConfirm participation \nSchedule 30 mins one-on-ones with each PI\n\nAugust 30: 30-min one-on-ones with each PI \n\nIntroduce Openscapes, build trust, learn more about PI needs, help them choose who in their lab to participate\nConfirm full cohort email list of everyone participating from each lab/group\n\nAugust 9 : email full cohort (all PIs and group members)\n\nemail full cohort welcoming and expectations (and suggested pre-work reading/videos)\n\nSept-Oct: our awesome cohort\n\nOpen data science, leadership, community building.\nGitHub Clinic\nOpenscapes Social\n\nNovember\n\nPost final blogs, co-write with Partners"
   },
   {
     "href": "champions/about.html",
@@ -63,13 +45,31 @@
     "href": "champions/deliver.html#setup",
     "title": "Cohort Delivery",
     "section": "Setup",
-    "text": "There is setup to do at the beginning of a Cohort, and also before each Cohort Call. This includes both tech setup and comms set up (i.e. emailing and coordinating)."
+    "text": "There is setup to do at the beginning of a Cohort, and also before each Cohort Call. This includes both tech setup and comms setup (i.e. emailing and coordinating)."
   },
   {
     "href": "champions/deliver.html#roles",
     "title": "Cohort Delivery",
     "section": "Roles",
-    "text": "There are three main roles when we deliver a cohort. Hosting Assisting Teaching\n\nAgendas\nCohort Delivery"
+    "text": "There are three main roles when we deliver a cohort.\n\nHosting\nAssisting\nTeaching"
+  },
+  {
+    "href": "champions/deliver.html#before-the-cohort",
+    "title": "Cohort Delivery",
+    "section": "Before the Cohort",
+    "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
+  },
+  {
+    "href": "champions/deliver.html#before-each-cohort-call",
+    "title": "Cohort Delivery",
+    "section": "Before each Cohort Call",
+    "text": ""
+  },
+  {
+    "href": "champions/deliver.html#between-calls",
+    "title": "Cohort Delivery",
+    "section": "Between Calls",
+    "text": "Agendas"
   },
   {
     "href": "champions/index.html#about-the-champions-program",
