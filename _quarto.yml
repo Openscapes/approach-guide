@@ -1,6 +1,10 @@
 project:
   type: site
   output-dir: _site
+
+execute:
+  ipynb: false
+  freeze: true
   
 site:
   site-url: https://openscapes.github.io/approach-guide
