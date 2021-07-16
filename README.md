@@ -1,3 +1,3 @@
 # Openscapes Approach Guide
 
-This is our guide for orienting and onboarding to the Openscapes approach.
+A guide for orienting and onboarding to the Openscapes approach.
