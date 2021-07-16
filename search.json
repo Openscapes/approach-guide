@@ -63,13 +63,19 @@
     "href": "champions/deliver.html#before-each-cohort-call",
     "title": "Delivering the program",
     "section": "Before each Cohort Call",
-    "text": ""
+    "text": "Agendas"
   },
   {
     "href": "champions/deliver.html#between-calls",
     "title": "Delivering the program",
     "section": "Between Calls",
-    "text": "Agendas"
+    "text": "Clinics\nGitHub Clinic\n\n\nCo-working\nNot “Office Hours"
+  },
+  {
+    "href": "champions/deliver.html#after-the-program",
+    "title": "Delivering the program",
+    "section": "After the program",
+    "text": "3-month check ins"
   },
   {
     "href": "champions/index.html#operations-overview",
@@ -126,10 +132,28 @@
     "text": "We work openly and for Future Us.\nOpenscapes Mindset.\nGrowth Mindset.\nContinual learning — and practicing and iterating with that learning\npsychological safety. kinder science"
   },
   {
-    "href": "practices/seaside-chats.html",
+    "href": "practices/seaside-chats.html#seaside-chats",
     "title": "Seaside Chats",
-    "section": "",
+    "section": "Seaside Chats",
     "text": "These are regular meetings where we skillshare and learn together. This will likely be the avenue of how you are onboarded. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together."
+  },
+  {
+    "href": "practices/seaside-chats.html#co-working",
+    "title": "Seaside Chats",
+    "section": "Co-working",
+    "text": ""
+  },
+  {
+    "href": "practices/seaside-chats.html#hackathons",
+    "title": "Seaside Chats",
+    "section": "Hackathons",
+    "text": ""
+  },
+  {
+    "href": "practices/seaside-chats.html#community-calls",
+    "title": "Seaside Chats",
+    "section": "Community Calls!",
+    "text": ""
   },
   {
     "href": "practices/tooling.html",
