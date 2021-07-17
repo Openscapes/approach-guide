@@ -59,7 +59,7 @@
     <img src="./openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">
-      Openscapes Approach Guide
+      Approach Guide
       </a>
         <div class="sidebar-tools-main">
     <a href="https://github.com/openscapes/approach-guide" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
@@ -163,6 +163,30 @@
       </div>
     </li>
   </ul>
+      <ul class="list-unstyled sidebar-section depth1">
+    <li class="">
+        <div class="me-auto ">
+          <div class="d-inline-flex w-100 sidebar-section-item">
+            <div class="sidebar-section-link me-auto ">
+            <a href="./contributing/index.html" class="">Contributing</a>
+            </div>
+            <a class="text-start  " data-bs-toggle="collapse" data-bs-target="#contributing-collapse" aria-expanded="true">
+              <div><i class="bi bi-chevron-right ms-2 "></i></div>
+            </a>
+            </div>
+        </div>
+      <div class="collapse  show" id="contributing-collapse">
+        <ul class="list-unstyled sidebar-item-contents">
+          <li class="sidebar-item">
+  <a href="./contributing/setup.html" class="">Setup</a>
+</li>
+          <li class="sidebar-item">
+  <a href="./contributing/workflow.html" class="">Workflow</a>
+</li>
+        </ul>
+      </div>
+    </li>
+  </ul>
   </ul>
   </div>
 </nav>
@@ -171,7 +195,10 @@
 <h2 id="toc-title">On this page</h2>
 <ul>
 <li><a href="#about-openscapes" class="nav-link active" data-scroll-target="#about-openscapes">About Openscapes</a></li>
-<li><a href="#about-this-guide" class="nav-link" data-scroll-target="#about-this-guide">About This Guide</a></li>
+<li><a href="#about-this-guide" class="nav-link" data-scroll-target="#about-this-guide">About This Guide</a>
+<ul class="collapse">
+<li><a href="#built-with-quarto" class="nav-link" data-scroll-target="#built-with-quarto">Built with Quarto</a></li>
+</ul></li>
 <li><a href="#citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
 </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/index.md">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new">Report an issue</a></p></div></div></nav></div>
@@ -181,7 +208,7 @@
 <h1 class="title d-none d-lg-block display-7">Welcome</h1>
 </header>
 
-<p>This is the Openscapes Approach Guide! It is an open and iterating resource to welcome more people to the Openscapes approach.</p>
+<p><strong>Welcome to the Openscapes Approach Guide!</strong> This is an open and iterating resource to onboard more people to the Openscapes approach.</p>
 <section id="about-openscapes" class="level2">
 <h2 class="anchored" data-anchor-id="about-openscapes">About Openscapes</h2>
 <p><strong><a href="https://openscapes.org">Openscapes</a> is an approach for doing better science in less time.</strong> We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.</p>
@@ -189,14 +216,20 @@
 </section>
 <section id="about-this-guide" class="level2">
 <h2 class="anchored" data-anchor-id="about-this-guide">About This Guide</h2>
-<p>We have been growing Openscapes since founding it in 2018. This site is our attempt to codify our approach so that we can onboard others as we grow, so its ongoing development will focus on our immediate needs. Aligned with our values for kinder, open science, we are writing it openly, and in a way that others can use it on their own. We encourage anyone to use and “fork” this guide to make it your own (particularly when it’s a bit more developed!).</p>
-<p>We complete a full revolution of our Flywheel each time we lead the Champions Program. This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.</p>
+<p>We’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly, and designing it so that others could use it on their own too. We encourage anyone to use and “fork” it to make it your own (particularly when it’s a bit more developed!).</p>
+<p>We complete a full revolution of our <a href="https://www.jimcollins.com/concepts/the-flywheel.html">Flywheel</a> each time we lead the Champions Program.</p>
 <div id="fig-anonymous-1223930" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><a href="https://openscapes.org"><img src="openscapes-flywheel.png" class="img-fluid figure-img" alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"></a></p>
 <p></p><figcaption aria-hidden="true" class="figure-caption">Figure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire</figcaption><p></p>
 </figure>
 </div>
+<p>Each turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork.</p>
+<p>This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.</p>
+<section id="built-with-quarto" class="level3">
+<h3 class="anchored" data-anchor-id="built-with-quarto">Built with Quarto</h3>
+<p>We’re collaboratively making the Openscapes Approach Guide with Quarto: <a href="https://quarto.org" class="uri">https://quarto.org</a>. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.</p>
+</section>
 </section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
