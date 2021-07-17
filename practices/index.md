@@ -1,5 +1,5 @@
 ---
-title: Mindset and Practice
+title: "Mindset and Practice"
 ---
 
 *Need to iterate this title!*

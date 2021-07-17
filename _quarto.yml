@@ -12,7 +12,7 @@ site:
   repo-actions: [edit, issue]
   page-navigation: true
   sidebar:
-    title: "Openscapes Approach Guide"
+    title: "Approach Guide"
     logo: openscapes_hex.png
     style: "docked"
     background: light
@@ -41,6 +41,10 @@ site:
       - section: "Reference"
         contents:
         - reference/inspiration.md
+      - section: contributing/index.md
+        contents:
+        - contributing/setup.md
+        - contributing/workflow.md
 
 bibliography: references.bib
 

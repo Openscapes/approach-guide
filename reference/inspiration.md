@@ -14,3 +14,6 @@ Many things inspire us and influence our work for kinder science
 - URGE, Mica Estrada
 - Brene Brown, Jim Collins
 - ...
+
+
+Zotero!

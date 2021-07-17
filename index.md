@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-This is the Openscapes Approach Guide! It is an open and iterating resource to welcome more people to the Openscapes approach. 
+**Welcome to the Openscapes Approach Guide!** This is an open and iterating resource to onboard more people to the Openscapes approach. 
 
 ## About Openscapes
 
@@ -12,11 +12,19 @@ This is the Openscapes Approach Guide! It is an open and iterating resource to w
 
 ## About This Guide
 
-We have been growing Openscapes since founding it in 2018. This site is our attempt to codify our approach so that we can onboard others as we grow, so its ongoing development will focus on our immediate needs. Aligned with our values for kinder, open science, we are writing it openly, and in a way that others can use it on their own. We encourage anyone to use and "fork" this guide to make it your own (particularly when it's a bit more developed!). 
+We've been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly, and designing it so that others could use it on their own too. We encourage anyone to use and "fork" it to make it your own (particularly when it's a bit more developed!). 
 
-We complete a full revolution of our Flywheel each time we lead the Champions Program. This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program. 
+We complete a full revolution of our [Flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) each time we lead the Champions Program. 
 
 [![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}](https://openscapes.org)
+
+Each turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork. 
+
+This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program. 
+
+### Built with Quarto
+
+We're collaboratively making the Openscapes Approach Guide with Quarto: <https://quarto.org>. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.
 
 ## Citation 
 
