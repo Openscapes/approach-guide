@@ -6,10 +6,10 @@
     "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.\nThis Team Compass document is inspired from https://thefaylab.github.io/lab-manual/index.html, https://the-turing-way.netlify.app/community-handbook, https://2i2c.org/team-compass/, and others.\nMany things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…\n\nZotero!"
   },
   {
-    "href": "contributing/setup.html",
+    "href": "contributing/setup.html#install-r-and-rstudio",
     "title": "Setup",
-    "section": "",
-    "text": "IDE GitHub (ref GH Clinic)"
+    "section": "Install R and RStudio",
+    "text": "To download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\nFollow your operating system’s normal installation process\n\n\nInstall Quarto\nTo cownload and Install Quarto:\nFirst, in your internet browser, go to the very latest version of the Quarto command line interface (CLI): https://github.com/quarto-dev/quarto-cli/releases/latest. Download Quarto by clicking on the file appropriate for your operating system:\n\nLinux: amd64.deb\nMac: macos.pkg\nWindows: win.msi\n\nOnce download is complete, follow the installation prompts on your computer like you do for other software.\nFinally, check to make sure Quarto installed properly. Open a command line terminal and type the following. Note: The RStudio IDE has a terminal in the bottom left pane, on a tab called “Terminal”:\nquarto check install \n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
   },
   {
     "href": "contributing/workflow.html",
@@ -18,10 +18,16 @@
     "text": "Push to Main"
   },
   {
-    "href": "contributing/index.html",
+    "href": "contributing/index.html#how-to-contribute",
     "title": "Contributing",
-    "section": "",
-    "text": "Contributing to Quarto via GitHub here.\nLike the Cloud Cookbook, but simpler, from RStudio IDE (build tab!) and pushing directly to Main."
+    "section": "How to contribute",
+    "text": "This is how we collaborate to create this guide.\nWe build the book with Quarto and collaborate and publish through GitHub. We develop content in the RStudio IDE, which is also how we interface with Git/Hub."
+  },
+  {
+    "href": "contributing/index.html#quarto",
+    "title": "Contributing",
+    "section": "Quarto",
+    "text": "We’re developing the Openscapes Approach Guide with Quarto: quarto.org. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered using Jupyter and Knitr engines.\nWhat is Quarto? Quarto builds from what RStudio learned from RMarkdown but enables different engines (Jupyter and knitr). It is both a Command Line Tool and R package. .qmd is a new filetype like .Rmd — meaning it’s a text file but coupled with an engine can execute code and be rendered as html, pdf, word, and beyond — but for other languages like Python. Quarto can convert .ipynb files to and from .md and .qmd easily so you can develop and publish with collaborators that have different workflows. Once the book is “served” locally, .md files auto-update as you edit, and files with executable code can be rendered individually, and the behavior of different code chunks can be controlled and cached.\n(Note: with Quarto, e-books and websites are very similarly structured, with e-books being set up for numbered chapters and references and websites set up for higher number of pages and organization. We can talk about our book as a book even as we explore whether book/website better suits our needs. This is assigned in _quarto.yml, as we’ll explore later)."
   },
   {
     "href": "index.html#about-openscapes",
