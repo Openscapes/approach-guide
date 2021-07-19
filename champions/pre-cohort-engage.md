@@ -3,10 +3,6 @@ title: "Pre-cohort engagement"
 format: html
 ---
 
-*Could also be titled: attracting research teams?*
-
-
-
 ## Overview
 
 Since 2018 we have iterated on a coordination strategy that works well for coordinating with partners and attracting research teams to participate in the Champions Cohort. This coordinating work begins \~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a \~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.
@@ -115,11 +111,15 @@ We have a selection rubric and work with partners to select participating teams.
 
 ### Email to confirm team leads
 
-We send an email to potential team leads, asking them for a 1:1 intro call.
+We send an email to potential team leads with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls.  
 
 ### Send out Google Calendar Invites
 
-We add team leads to the Openscapes Community Calendar's Cohort Calls. We also email them with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls. Then we add the teams to the Calendar Invites. 
+We add team leads and members to the Openscapes Community Calendar's Cohort Calls. 
+
+### Follow teams on Twitter
+
+As we are introduced to team leads and members, we follow them on Twitter from the Openscapes account. 
 
 ### 1:1 Intro calls
 
