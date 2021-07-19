@@ -42,6 +42,36 @@
     "text": "Please cite this as TODO."
   },
   {
+    "href": "champions/pre-cohort-engage.html#overview",
+    "title": "Pre-cohort engagement",
+    "section": "Overview",
+    "text": "Since 2018 we have iterated on a coordination strategy that works well for coordinating with partners and attracting research teams to participate in the Champions Cohort. This coordinating work begins ~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a ~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.\nWe focus our engagement/recruitment of team leads (i.e. PIs) to coordinate for their teams.\nWe have found this procedure to work best:\n\nWe schedule date-times for all Cohort Calls that work for everyone involved with leading them. Cohorts meet twice monthly for 2 or 4 months via Zoom for 1.5 hours on a specific week day on alternating weeks.\nWe announce the opportunity with the scheduled date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more official. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in."
+  },
+  {
+    "href": "champions/pre-cohort-engage.html#planning-document",
+    "title": "Pre-cohort engagement",
+    "section": "Planning document",
+    "text": "We make a copy of our Openscapes-CohortPlanningDoc to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.\nThe following is a high-level overview of what is in the Planning Doc and announcement, with example text."
+  },
+  {
+    "href": "champions/pre-cohort-engage.html#announcement-call-for-nominations",
+    "title": "Pre-cohort engagement",
+    "section": "Announcement: call for nominations",
+    "text": "Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity as ask team leads to nominate their teams.\n\nEmail, Twitter, Fliers\nOur partners will distribute the announcement via their channels through email, listeserves, fliers, etc. We can also tweet the announcement from our account (https://twitter.com/openscapes). All announcements will link to the opportunity’s post on the Openscapes events page (see next).\n\n\nOpenscapes events page\nWe create a post on the Openscapes Events page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondance, fliers, tweets, etc. Here is an example: https://openscapes.github.io/events/posts/2021-05-07-css-champions\n\n\nGoogle Form\nThe events page links to a Google Form (~10 minutes) that research leads fill out to nominate their team to participate. Below is example text.\n\n\n\n\n\n\nExample Google Form\n\n\n\n\n\nTitle: FDD Openscapes Champions Cohort\nHello! This form is to nominate your research group to participate in the Openscapes Champions program for FDD. This opportunity is open only to lab groups affiliated with FDD. Please provide one nomination per research group, by August 20, 2021. See <https://openscapes.github.io/events/posts/2021-09-17-XXXX> for more details.\n\n\n\nFirst name\nLast name\nEmail address\nWeb presence (website, Twitter, GitHub) (optional)\nORCID (see https://orcid.org/)  (optional)\nWhich institution are you affiliated with?\nHow did you hear about this FDD Openscapes opportunity?\nWho is the lead of the research group you are nominating?\nAre you this research group lead? If not please explain\n[Any other FDD specific questions]\nBriefly tell us why your team would be a good candidate for our Champions cohort. We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\nWhat is your research focus? (15 words or fewer)\nPlease share any relevant projects you might have worked on (links appreciated)\nHave you attended an “open” event before? For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.\nOpenscapes is committed to providing a welcoming community for all participants. One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)\nFor this opportunity, you will participate as a team with up 1-4 other members of your research group. Please describe who some of those individuals might be. Please see openscapes.org/faq for more details on selecting a team. \nPlease confirm you and your team are available for all program events:\n\nMay 7, 12:00-1:30pm PST\nMay 21, 12:00-1:30pm PST\nJune 4, 12:00-1:30pm PST\nJune 18,12:00-1:30pm PST\n\nWhere will you be joining from? This helps us understand time zones as we coordinate.\nPlease read and agree to our code of conduct before you submit your application to participate. [paste short summary, link to full CoC). (required).\n\nRadio buttons: agree, disagree\n\nThank you for the information. Anything else you’d like to share?\nSubmit button: “Apply”\n\n\nConfirmation message: Thank you for the nomination. We will be in touch in late August."
+  },
+  {
+    "href": "champions/pre-cohort-engage.html#selection-and-coordination",
+    "title": "Pre-cohort engagement",
+    "section": "Selection and coordination",
+    "text": "We have example text for these that we will pull into a template Google Doc and link here \n\nSelection rubric\nWe have a selection rubric and work with partners to select participating teams.\n\n\nEmail to confirm team leads\nWe send an email to potential team leads, asking them for a 1:1 intro call.\n\n\nSend out Google Calendar Invites\nWe add team leads to the Openscapes Community Calendar’s Cohort Calls. We also email them with more details and ask them to reply cc’ing their teams and scheduling 1:1 intro calls. Then we add the teams to the Calendar Invites.\n\n\n1:1 Intro calls\nWe use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team’s needs. We schedule these 1:1’s for ~1 month before the start of the cohort"
+  },
+  {
+    "href": "champions/pre-cohort-engage.html#cohort-welcome",
+    "title": "Pre-cohort engagement",
+    "section": "Cohort welcome",
+    "text": "~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan. We request in advance they:\n\nread Lowndes et al. 2017\nwatch the SORTEE plenary recording (30 mins)\n\nWe’ll also schedule the GitHub Clinic."
+  },
+  {
     "href": "champions/timeline.html#high-level-timeline",
     "title": "Planning timeline",
     "section": "High-level timeline",
@@ -99,25 +129,13 @@
     "href": "champions/index.html#operations-overview",
     "title": "Champions Program Operations",
     "section": "Operations overview",
-    "text": "2 month or 4 month\nCurriculum table.\nPartnering and investing in curriculum"
-  },
-  {
-    "href": "champions/attract.html#overview",
-    "title": "Pre-cohort engagement",
-    "section": "Overview",
-    "text": "We work with Partners to attract research teams interested in the Cohort. This coordinating work begins ~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a ~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.\nWe focus our engagement/recruitment of team leads (i.e. PIs) to coordinate for their teams."
-  },
-  {
-    "href": "champions/attract.html#example-text",
-    "title": "Pre-cohort engagement",
-    "section": "Example text",
-    "text": "When we work with partners we provide the following in a Google Doc as a starting place to edit and coordinate.\nopenscapes.org/events website: CS&S Cohort\n\n\n\n\n\n\nExample Google Form\n\n\n\n\n\nTitle: FDD Openscapes Champions Cohort\nHello! This form is to nominate your research group to participate in the Openscapes Champions program for FDD. This opportunity is open only to lab groups affiliated with FDD. Please provide one nomination per research group, by August 20, 2021. See <https://openscapes.github.io/events/posts/2021-09-17-XXXX> for more details.\n\n\n\nFirst name\nLast name\nEmail address\nWeb presence (website, Twitter, GitHub) (optional)\nORCID (see https://orcid.org/)  (optional)\nWhich institution are you affiliated with?\nHow did you hear about this FDD Openscapes opportunity?\nWho is the lead of the research group you are nominating?\nAre you this research group lead? If not please explain\n[Any other FDD specific questions]\nBriefly tell us why your team would be a good candidate for our Champions cohort. We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\nWhat is your research focus? (15 words or fewer)\nPlease share any relevant projects you might have worked on (links appreciated)\nHave you attended an “open” event before? For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.\nOpenscapes is committed to providing a welcoming community for all participants. One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)\nFor this opportunity, you will participate as a team with up 1-4 other members of your research group. Please describe who some of those individuals might be. Please see openscapes.org/faq for more details on selecting a team. \nPlease confirm you and your team are available for all program events:\n\nMay 7, 12:00-1:30pm PST\nMay 21, 12:00-1:30pm PST\nJune 4, 12:00-1:30pm PST\nJune 18,12:00-1:30pm PST\n\nWhere will you be joining from? This helps us understand time zones as we coordinate.\nPlease read and agree to our code of conduct before you submit your application to participate. [paste short summary, link to full CoC). (required).\n\nRadio buttons: agree, disagree\n\nThank you for the information. Anything else you’d like to share?\nSubmit button: “Apply”\n\n\nConfirmation message: Thank you for the nomination. We will be in touch in late August."
+    "text": "The following can be built into a statement of work with our Partners.\n\nSummary and Scope\nThe Openscapes team will lead a 2- or 4 month Champions Cohot: a remote workshop series for a cohort of research teams.. The cohort of 6-8 teams (up to 40 participants; ~4 individuals/team) meets twice monthly over 2 or 4 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nThe goals of the Champions workshop series are to help teams normalize data discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others onto new (and existing) projects.\nWorkshop goals include:\n\nCreate leaders within a research community to champion open science best practices\nHelp participants adopt open science tooling and practices, including reproducibility, openness, collaboration, inclusion, share methods sooner\nParticipants build trust and community within and across teams (across career stages)\nParticipants are more confident sharing imperfect work within their teams and cohort\nParticipants become champions for open science and part of the bigger open science movement\n\n\n\nServices\nOpenscapes will provide the curriculum, agendas, and lead the remote workshop series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nTeam culture, Technical strategies for future us\nCoding communities & Guest lecture (team fits into bigger picture)\nSharing Pathways forward\n\nAdditionally, we lead:\n\nGitHub Clinics for hands-on team skill-building\nCommunity engagement leading up to, throughout, and after the Cohort\n\nOpenscapes will co-create recruiting materials (e.g., openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote workshop series along with workshop helpers."
   },
   {
     "href": "champions/design.html",
     "title": "Program design",
     "section": "",
-    "text": "2 or 4 months, Cohorts, remote, etc.\nCore 2-month Curriculum, invest for 4months (or reuse!)"
+    "text": "2 or 4 months, Cohorts, remote, etc.\nCore 2-month Curriculum, invest for 4months (or reuse!)\nInclude slide from SORTEE\n(More info on what is a team and how to pick teams here: https://www.openscapes.org/faq)."
   },
   {
     "href": "champions/about.html",
@@ -126,10 +144,22 @@
     "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
   },
   {
-    "href": "practices/partners.html",
+    "href": "practices/partners.html#funding-partners",
     "title": "Partners",
-    "section": "",
-    "text": "We work with really thoughtful partners that promote open science and kinder science. We are grateful to have so many different partners and types of partners supporting Openscapes.\nPartners can invest in Openscapes in different ways.\nSome provide funding to sponsor Champions Cohorts for their own communities or for open calls.\n\nOthers provide paid time to assist Champions Cohorts, thereby developing themselves as Openscapes Mentors to lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder/open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building.\n[MORE!]"
+    "section": "Funding Partners",
+    "text": "Some of our partners provide funding. We work with partners to develop a scope of work, whether that is delivering a 2- or 4-month Champions Cohort for specific communities or open calls across communities; investing in additional curriculum for a specific Cohort; or a longer engagement through the Openscapes Framework over several years. Each investment in Openscapes also contributes to strengthening our Flywheel."
+  },
+  {
+    "href": "practices/partners.html#mentor-partners",
+    "title": "Partners",
+    "section": "Mentor Partners",
+    "text": "Some of our partners contribute paid time assist Champions Cohorts, thereby developing themselves as Openscapes Mentors to lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building.\nCurrently we are working with Mentors that will be assisting Champions Cohorts for their own community (e.g. NASA0, as well as with Mentors assisting Champions Cohorts outside their community (e.g. California EPA).\n[MORE!]"
+  },
+  {
+    "href": "practices/partners.html#our-partners",
+    "title": "Partners",
+    "section": "Our partners",
+    "text": "TODO!"
   },
   {
     "href": "practices/code-of-conduct.html",
