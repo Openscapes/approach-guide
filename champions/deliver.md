@@ -17,7 +17,7 @@ There are three main roles when we deliver a cohort.
 -   Assisting
 -   Teaching
 
-## Before the Cohort
+## Before the Cohort {#sec-before-cohort}
 
 -   send calendar invites
 

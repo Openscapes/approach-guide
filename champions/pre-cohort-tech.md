@@ -5,13 +5,17 @@ format: html
 
 *Could also be titled: pre-cohort tech?*
 
-Note: we are working to automate our tech setup for each cohort. This work will eventually be in an `openscapesr` R package, stay tuned. 
+## Overview
 
-Here is the tech setup involved
+Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We'll schedule GitHub Clinics prior to the second Cohort Call. 
+
+*Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an `openscapesr` R package, stay tuned.* 
 
 ## Data entry
 
-Keep coordinated with who is in which cohort, whether we've added them to the calendars and twitter, etc. 
+As teams form, we: 
+
+- Update with who is in which cohort, whether we've added them to the calendars and twitter, etc. 
 
 ## Google Folder
 
@@ -20,7 +24,7 @@ Prior to the first Cohort Call, we:
 - Create a Google Folder
 - Add all Cohort emails (note: some participants will provide a gmail address if their univerity email isn't gmail; add this address as well)
 - Add a Pathways folder
-- Add 01_CallAgenda updated for the cohort
+- Add 01_CallAgenda updated for the cohort (detailed in @sec-before-cohort)
 
 ## GitHub repo
 
