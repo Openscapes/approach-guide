@@ -63,7 +63,7 @@
     "href": "champions/pre-cohort-engage.html#selection-and-coordination",
     "title": "Pre-cohort engagement",
     "section": "Selection and coordination",
-    "text": "We have example text for these that we will pull into a template Google Doc and link here \n\nSelection rubric\nWe have a selection rubric and work with partners to select participating teams.\n\n\nEmail to confirm team leads\nWe send an email to potential team leads, asking them for a 1:1 intro call.\n\n\nSend out Google Calendar Invites\nWe add team leads to the Openscapes Community Calendar’s Cohort Calls. We also email them with more details and ask them to reply cc’ing their teams and scheduling 1:1 intro calls. Then we add the teams to the Calendar Invites.\n\n\n1:1 Intro calls\nWe use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team’s needs. We schedule these 1:1’s for ~1 month before the start of the cohort"
+    "text": "We have example text for these that we will pull into a template Google Doc and link here \n\nSelection rubric\nWe have a selection rubric and work with partners to select participating teams.\n\n\nEmail to confirm team leads\nWe send an email to potential team leads with more details and ask them to reply cc’ing their teams and scheduling 1:1 intro calls.\n\n\nSend out Google Calendar Invites\nWe add team leads and members to the Openscapes Community Calendar’s Cohort Calls.\n\n\nFollow teams on Twitter\nAs we are introduced to team leads and members, we follow them on Twitter from the Openscapes account.\n\n\n1:1 Intro calls\nWe use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team’s needs. We schedule these 1:1’s for ~1 month before the start of the cohort"
   },
   {
     "href": "champions/pre-cohort-engage.html#cohort-welcome",
@@ -102,7 +102,7 @@
     "text": "There are three main roles when we deliver a cohort.\n\nHosting\nAssisting\nTeaching"
   },
   {
-    "href": "champions/deliver.html#before-the-cohort",
+    "href": "champions/deliver.html#sec-before-cohort",
     "title": "Delivering the program",
     "section": "Before the Cohort",
     "text": "send calendar invites\nbefore Call 01 review:\n\nLowndes et al 2017, Perkel 2017\nLowndes & Horst CascadiaR keynote 2021"
@@ -126,6 +126,42 @@
     "text": "3-month check ins"
   },
   {
+    "href": "champions/pre-cohort-tech.html#overview",
+    "title": "Pre-cohort tech setup",
+    "section": "Overview",
+    "text": "Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an openscapesr R package, stay tuned."
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#data-entry",
+    "title": "Pre-cohort tech setup",
+    "section": "Data entry",
+    "text": "As teams form, we:\n\nUpdate with who is in which cohort, whether we’ve added them to the calendars and twitter, etc."
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#google-folder",
+    "title": "Pre-cohort tech setup",
+    "section": "Google Folder",
+    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder\nAdd 01_CallAgenda updated for the cohort (detailed in ?@sec-before-cohort)"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#github-repo",
+    "title": "Pre-cohort tech setup",
+    "section": "GitHub repo",
+    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nAdd all usernames with admin privileges (ask for usernames prior to Clinic)\nCreate each person’s files for the Clinic"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#slack",
+    "title": "Pre-cohort tech setup",
+    "section": "Slack",
+    "text": "After the first Cohort Call, we:\n\nCreate a private Slack channel for the cohort Invite everyone to Slack"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#airtable",
+    "title": "Pre-cohort tech setup",
+    "section": "Airtable",
+    "text": "(upcoming?)"
+  },
+  {
     "href": "champions/index.html#operations-overview",
     "title": "Champions Program Operations",
     "section": "Operations overview",
@@ -147,13 +183,13 @@
     "href": "practices/partners.html#funding-partners",
     "title": "Partners",
     "section": "Funding Partners",
-    "text": "Some of our partners provide funding. We work with partners to develop a scope of work, whether that is delivering a 2- or 4-month Champions Cohort for specific communities or open calls across communities; investing in additional curriculum for a specific Cohort; or a longer engagement through the Openscapes Framework over several years. Each investment in Openscapes also contributes to strengthening our Flywheel."
+    "text": "Some of our partners provide funding. We work with partners to develop a scope of work, whether that is delivering a 2- or 4-month Champions Cohort for specific communities or open calls across communities; investing in additional curriculum for a specific Cohort; or a longer engagement through the Openscapes Framework over several years. Each investment in Openscapes also contributes to strengthening our Flywheel and the broader open science movement."
   },
   {
     "href": "practices/partners.html#mentor-partners",
     "title": "Partners",
     "section": "Mentor Partners",
-    "text": "Some of our partners contribute paid time assist Champions Cohorts, thereby developing themselves as Openscapes Mentors to lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building.\nCurrently we are working with Mentors that will be assisting Champions Cohorts for their own community (e.g. NASA0, as well as with Mentors assisting Champions Cohorts outside their community (e.g. California EPA).\n[MORE!]"
+    "text": "Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building."
   },
   {
     "href": "practices/partners.html#our-partners",
@@ -171,7 +207,7 @@
     "href": "practices/onboarding.html#cohort-assistants",
     "title": "Onboarding",
     "section": "Cohort Assistants",
-    "text": "Welcome to the team!\nThe following chapters in this book describe operations in more detail. But the first step for onboarding is to experience the Cohort Calls to see what they are really like. We’ll give you access to an example folder of Openscapes_CohortCalls. The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:\n\nRead the blog post to get an overview\nWatch 04_CallRecording while reading through 04_CallAgenda. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go\nLook through a few examples in the PathwaysShare folder (linked from the 04_CallAgenda)\nIf you have time, also go through 01_CallRecording and 01_CallAgenda"
+    "text": "Welcome to the team!\nThe following chapters in this book describe operations in more detail. Here we describe what onboarding will look like.\n\nExperience a Cohort Call\nThe first step for onboarding is to experience the Cohort Calls to see what they are really like. We’ll give you access to an example folder of Openscapes_CohortCalls. The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:\n\nRead the blog post to get an overview\nWatch 04_CallRecording while reading through 04_CallAgenda. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go\nLook through a few examples in the PathwaysShare folder (linked from the 04_CallAgenda)\nIf you have time, also go through 01_CallRecording and 01_CallAgenda\n\n\n\nSeaside Chats\nOur first few Seaside Chats together will focus on onboarding. We expect this to look like:\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site"
   },
   {
     "href": "practices/index.html#openscapes-ethos",
