@@ -36,7 +36,7 @@ site:
         contents:
         - champions/design.md
         - champions/timeline.md
-        - champions/pre-cohort.md
+        - champions/pre-cohort-engage.md
         - champions/deliver.md
       - section: "Reference"
         contents:
