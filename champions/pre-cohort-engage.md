@@ -9,10 +9,7 @@ Since 2018 we have iterated on a coordination strategy that works well for coord
 
 We focus our engagement/recruitment of team leads (i.e. PIs) to coordinate for their teams.
 
-We have found this procedure to work best: 
-
-- **We schedule date-times for all Cohort Calls** that work for everyone involved with leading them. Cohorts meet twice monthly for 2 or 4 months via Zoom for 1.5 hours on a specific week day on alternating weeks. 
-- **We announce the opportunity with the scheduled date-times** and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more official. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in. 
+We begin this planning once we've scheduled the dates, ~2 months before the Cohort begins: see the Timeline Chapter for details about timing. 
 
 
 ## Planning document

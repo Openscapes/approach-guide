@@ -17,13 +17,13 @@ Schedule the Cohort dates early as possible!!
 
 We have found this procedure to work best: 
 
-1. **We set date-times** for all Cohort Calls that work for the Planning team (i.e. those of use involved with leading the Cohort Calls). This includes asking/exploring for any big conflicts like conferences that this community attends.
-1. **We announce the opportunity ~2 months ahead** with the set date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official”. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in. (More info on what is a team and how to pick teams here: <https://www.openscapes.org/faq>) [TODO: see this other chapter about this]
+1. **We schedule date-times** for all Cohort Calls that work for the Planning team (i.e. those of use involved with leading the Cohort Calls). This includes asking/exploring for any big conflicts like conferences that this community attends.
+1. **We announce the opportunity ~2 months ahead** with the scheduled date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official”. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in. 
 
-### Example
-The Openscapes team will start of by suggesting a few Champions Cohort date-times to our partners. For example: 
+:::{.callout-tip collapse="true"}
+## Example: Scheduling date times 
 
-> The NWFSC Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us: 
+> The [NAME] Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us: 
 
 > **Option 1) Thursdays at 12-1:30 pm ET.** 
 Dates: September 16 & 30, October 14 & 28
@@ -34,6 +34,7 @@ Dates: September 16 & 30, October 14 & 28
 > **Option 3) Fridays at 12-1:30 pm ET.** 
 Dates: September 17, October 1, 15 & 29
 
+:::
 
 
 ## Example detailed timeline
