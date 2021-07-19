@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-**Welcome to the Openscapes Approach Guide!** This is an open and iterating resource to onboard more people to the Openscapes approach. 
+**Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to onboard folks to the Openscapes approach. 
 
 ## About Openscapes
 

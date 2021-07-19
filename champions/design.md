@@ -7,3 +7,5 @@ format: html
 
 Core 2-month Curriculum, invest for 4months (or reuse!)
 
+Include slide from SORTEE
+
