@@ -126,8 +126,9 @@ We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. T
 
 ~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan. We request in advance they: 
 
-- read Lowndes et al. 2017
+- read Lowndes et al. 2017, *Perkel 2017?*
 - watch the SORTEE plenary recording (30 mins)
+- *watch Lowndes & Horst CascadiaR keynote 2021 (15 mins)?*
 
 We'll also schedule the GitHub Clinic. 
 

@@ -26,7 +26,7 @@ Openscapes will provide the curriculum, agendas, and lead the remote workshop se
 
 1. Openscapes mindset, Better science in less time
 1. Team culture, Technical strategies for future us
-1. Coding communities & Guest lecture (team fits into bigger picture)
+1. Coding communities, Research examples
 1. Sharing Pathways forward
 
 Additionally, we lead: 
