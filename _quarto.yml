@@ -13,7 +13,7 @@ site:
   page-navigation: true
   sidebar:
     title: "Approach Guide"
-    logo: openscapes_hex.png
+    logo: images/openscapes_hex.png
     style: "docked"
     background: light
     search: true

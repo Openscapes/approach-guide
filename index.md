@@ -16,7 +16,9 @@ We've been growing Openscapes since founding it in 2018. This is our attempt to 
 
 We complete a full revolution of our [Flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) each time we lead the Champions Program. 
 
-[![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}](https://openscapes.org)
+[![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}](https://openscapes.org)
+
+![](url or filepath)
 
 Each turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork. 
 
