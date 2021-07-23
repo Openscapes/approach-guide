@@ -3,12 +3,12 @@ title: "Program design"
 format: html
 ---
 
-2 or 4 months, Cohorts, remote, etc.
+[![Openscapes Champions programs incldue several components](OpenscapesChampionsDesign.png){fig.alt="Openscapes Champions program slide shows"}](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit)
 
-Core 2-month Curriculum, invest for 4months (or reuse!)
-
-Include slide from SORTEE
-
-![](images/Screen%20Shot%202021-07-23%20at%2012.22.37%20PM.png)
+Figure: Openscapes Program design
 
 (More info on what is a team and how to pick teams here: <https://www.openscapes.org/faq>).
+
+2 or 4 months, Cohorts, remote, etc.
+
+[Core 2-month Curriculum, invest for 4months (or reuse!)](https://openscapes.github.io/series/index.html#agendas)
