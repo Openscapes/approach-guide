@@ -4,6 +4,10 @@ title: "Setup"
 
 To contribute, please do the following (20 minutes). All software is open source and free. 
 
+### Built with Quarto
+
+We're collaboratively making the Openscapes Approach Guide with Quarto: <https://quarto.org>. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.
+
 ## Install R and RStudio
 
 To download and install R and RStudio:

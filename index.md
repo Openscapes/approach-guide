@@ -24,9 +24,6 @@ Each turn of the flywheel delivers the Champions program for a Cohort of researc
 
 This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program. 
 
-### Built with Quarto
-
-We're collaboratively making the Openscapes Approach Guide with Quarto: <https://quarto.org>. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.
 
 ## Citation 
 
