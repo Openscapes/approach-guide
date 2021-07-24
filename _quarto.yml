@@ -46,6 +46,8 @@ site:
         contents:
         - contributing/setup.md
         - contributing/workflow.md
+    footer:
+      - attribution:"For attribution, please cite this work as Openscapes Approach Guide. Retrieved from https://github.com/Openscapes/approach-guide "
 
 bibliography: references.bib
 
