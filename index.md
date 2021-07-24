@@ -10,7 +10,7 @@ author:
     affiliation_url: https://openscapes.org
 citation_url: https://openscapes.github.io/approach-guide/
 slug: index
-
+bibliography: references.bib
 ---
 
 **Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to onboard folks to the Openscapes approach. 
