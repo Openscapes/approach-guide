@@ -22,7 +22,11 @@ Currently we are working with Mentors that will be assisting Champions Cohorts f
 
 ## Our partners
 
-*TODO!*
+### California Water Boards
+
+[Anna Holder](mailto:anna.holder@waterboards.ca.gov) is an Environmental Scientist in the [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) and the [Surface Water Ambient Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/). She is involved in building data communities within and outside of the Water Boards and was the lead staff for developing and implementing the Water Boards [College of Water Informatics](https://www.waterboards.ca.gov/resources/oima/cowi/). Anna obtained her M.S. and B.S. from CSU Monterey Bay in Applied Marine and Watershed Science, and has conducted research on market squid, [rockfish](https://spo.nmfs.noaa.gov/sites/default/files/pdf-content/fish-bull/holder_0.pdf), and [using modeling to predict the distribution of fishes on the remote north slope of Alaska](https://doi.org/10.1016/j.ecolmodel.2020.109231). Regardless of her role, Anna uses ecology, data science, and science communication to contribute to and inform the sustainable and equitable management of natural resources.
+
+[Corey Clatterbuck](corey.clatterbuck@waterboards.ca.gov) is a [California Sea Grant Fellow](https://caseagrant.ucsd.edu/profile/corey-clatterbuck-sheherhers) in the [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) and the [Surface Water Ambient Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/). Corey earned her PhD in the Joint Doctoral Program in Ecology at San Diego State University and the University of California, Davis in 2021.
 
 <!---
 - NCEAS
