@@ -30,6 +30,38 @@ Our partners will distribute the announcement via their channels through email, 
 
 We create a post on the Openscapes Events page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondance, fliers, tweets, etc. Here is an example: <https://openscapes.github.io/events/posts/2021-05-07-css-champions>
 
+
+:::{.callout-tip collapse="true"}
+## Example events page text
+## Program overview
+
+**This is a professional development and leadership opportunity for NOAA research groups to explore open data science practices.**
+
+**[Openscapes](https://openscapes.org)** is an approach for doing better science in less time[^1]. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science[^2], enabling increased efficiency and resilience for teams so that their work has more enduring impact. 
+
+**[Openscapes Champions](https://www.openscapes.org/champions/)** is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata, cloud), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. 
+
+**This opportunity is funded by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
+
+## Cohort details
+
+Our NWFSC Cohort will meet four times over two months, on alternating Fridays.
+
+* **Dates:** Sep 17, Oct 1, Oct 15, Oct 29, 2021
+* **Times:** 11:00-12:30 pm PST 
+* **Where:** remotely, via Zoom
+* **Who:** Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc). 
+* **Cost:** Free; this opportunity is sponsored by NWFSC
+* **Expected time commitment:** In addition to 3 hours/month over Zoom as a full cohort, participants will meet independently to further discuss topics with their research group. The minimum expected time commitment is 5 hrs/month for 2 months.
+
+## Nominate your team to participate
+
+Nominate your team by filling out this [Google Form](https://forms.gle/ukhkoMzLXGdQXqtg7) by August 20, 2021. This opportunity is open only to those affiliated with NOAA NMFS. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2021. 
+
+Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [ FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
+:::
+
+
 ### Google Form
 
 The events page links to a Google Form (~10 minutes) that research leads fill out to nominate their team to participate. Below is example text.
@@ -70,7 +102,7 @@ Hello! This form is to nominate your research group to participate in the Opensc
 
 -   **Have you attended an "open" event before?** For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.
 
--   **Openscapes is committed to providing a welcoming community for all participants.** One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)
+-   **Openscapes is committed to providing a welcoming community for all participants.** One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research.  If you identify with any of these groups and wish to share this information with us, or wish to share specific needs that would help make your experience participating in this remote workshop series easier or more comfortable, please use the box below.  (optional)
 
 -   **For this opportunity, you will participate as a team with up 1-4 other members of your research group. Please describe who some of those individuals might be.** Please see openscapes.org/faq for more details on selecting a team. 
 
@@ -97,6 +129,8 @@ Hello! This form is to nominate your research group to participate in the Opensc
 \
 **Confirmation message:** Thank you for the nomination. We will be in touch in late August.
 :::
+
+Remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us
 
 ## Selection and coordination
 

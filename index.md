@@ -1,8 +1,7 @@
 ---
-title: "Welcome"
-description: | 
-  Openscapes Approach guide to document our process. 
-date: July 24, 2021
+title: "Openscapes Approach Guide"
+subtitle: "Openscapes Approach guide to document our process" 
+date: July 26, 2021 #"`r Sys.Date()`"
 author:
   - name: Julia Stewart Lowndes 
     url: https://openscapes.org
@@ -12,6 +11,8 @@ citation_url: https://openscapes.github.io/approach-guide/
 slug: index
 bibliography: references.bib
 ---
+
+## Welcome
 
 **Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to onboard folks to the Openscapes approach. 
 
