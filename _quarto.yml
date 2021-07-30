@@ -39,6 +39,7 @@ site:
         - champions/pre-cohort-engage.md
         - champions/pre-cohort-tech.md
         - champions/leading.md
+        - champions/followup.md
       - section: "Reference"
         contents:
         - reference/inspiration.md

@@ -45,14 +45,14 @@ We create a post on the Openscapes Events page with details about the opportunit
 
 ## Cohort details
 
-Our NWFSC Cohort will meet four times over two months, on alternating Fridays.
+**Our NWFSC Cohort will meet four times over two months, on alternating Fridays.**
 
 * **Dates:** Sep 17, Oct 1, Oct 15, Oct 29, 2021
 * **Times:** 11:00-12:30 pm PST 
 * **Where:** remotely, via Zoom
 * **Who:** Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc). 
 * **Cost:** Free; this opportunity is sponsored by NWFSC
-* **Expected time commitment:** In addition to 3 hours/month over Zoom as a full cohort, participants will meet independently to further discuss topics with their research group. The minimum expected time commitment is 5 hrs/month for 2 months.
+* **Expected time commitment:** The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
 
 ## Nominate your team to participate
 
