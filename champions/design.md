@@ -9,4 +9,4 @@ format: html
 
 2 or 4 months, Cohorts, remote, etc.
 
-[Core 2-month Curriculum, invest for 4months (or reuse!)](https://openscapes.github.io/series/index.html#agendas)
+[Openscapes Lesson Series)](https://openscapes.github.io/series/)

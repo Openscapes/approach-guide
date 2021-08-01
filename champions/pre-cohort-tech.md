@@ -19,14 +19,36 @@ As teams form, we:
 
 They will s
 
-## Google Folder
+## Cohort Google Folder
 
 Prior to the first Cohort Call, we: 
 
-- Create a Google Folder
+- Create a Google Folder with the name of the cohort in brackets, e.g. `2021-noaa-nwfsc`
 - Add all Cohort emails (note: some participants will provide a gmail address if their univerity email isn't gmail; add this address as well)
 - Add a Pathways folder
-- Add 01_CallAgenda updated for the cohort (detailed in @sec-before-cohort)
+
+## Agendas
+
+[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
+
+- Make a copy
+- Save it in the Cohort Google Folder
+- Edit dates, times, add Google Folder links and Zoom links
+- Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
+
+We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See 
+
+### Agenda structure
+
+Cohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure: 
+
+- Roll call with ice breaker
+- Welcome with Code of Conduct reminder
+- Slides with activity 1
+- Slides with activity 2
+- Efficiency tip
+
+Activities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together.
 
 ## GitHub repo
 
