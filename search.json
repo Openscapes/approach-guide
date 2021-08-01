@@ -36,10 +36,16 @@
     "text": "As teams form, we:\n\nUpdate with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nThey will s"
   },
   {
-    "href": "champions/pre-cohort-tech.html#google-folder",
+    "href": "champions/pre-cohort-tech.html#cohort-google-folder",
     "title": "Pre-cohort tech setup",
-    "section": "Google Folder",
-    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder\nAdd 01_CallAgenda updated for the cohort (detailed in ?@sec-before-cohort)"
+    "section": "Cohort Google Folder",
+    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. 2021-noaa-nwfsc\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#agendas",
+    "title": "Pre-cohort tech setup",
+    "section": "Agendas",
+    "text": "Blank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See\n\nAgenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nSlides with activity 1\nSlides with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
   },
   {
     "href": "champions/pre-cohort-tech.html#github-repo",
@@ -69,13 +75,19 @@
     "href": "champions/leading.html#roles",
     "title": "Leading Cohort Calls",
     "section": "Roles",
-    "text": "There are three main roles when we lead Cohort Calls.\n\nHosting\nAssisting\nTeaching"
+    "text": "There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.\n\nTech Host: Zoom co-host, create breakout groups, monitor chat, help note-taking\nFacilitator: Leads discussion as noted in the Agenda\nTeacher: Talks through demos and slides"
   },
   {
     "href": "champions/leading.html#before-each-cohort-call",
     "title": "Leading Cohort Calls",
     "section": "Before each Cohort Call",
-    "text": "Agendas"
+    "text": "Prepare the Agenda; see pre-cohort-tech."
+  },
+  {
+    "href": "champions/leading.html#during-cohort-calls",
+    "title": "Leading Cohort Calls",
+    "section": "During Cohort Calls",
+    "text": "Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage."
   },
   {
     "href": "champions/leading.html#between-calls",
@@ -105,7 +117,7 @@
     "href": "champions/design.html",
     "title": "Program design",
     "section": "",
-    "text": "Figure 1: Openscapes Champions programs include several components\n\n\n(More info on what is a team and how to pick teams here: https://www.openscapes.org/faq).\n2 or 4 months, Cohorts, remote, etc.\nCore 2-month Curriculum, invest for 4months (or reuse!)"
+    "text": "Figure 1: Openscapes Champions programs include several components\n\n\n(More info on what is a team and how to pick teams here: https://www.openscapes.org/faq).\n2 or 4 months, Cohorts, remote, etc.\nOpenscapes Lesson Series)"
   },
   {
     "href": "champions/pre-cohort-engage.html#overview",
