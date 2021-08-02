@@ -5,7 +5,7 @@ format: html
 
 We work with really thoughtful partners that support open science and kinder science. We are grateful to have so many different partners and types of partners supporting Openscapes. 
 
-Partners can invest in Openscapes in different ways. We are interested in not only leading the Champions Program for partner communities but in developing Champions Program Mentors within partner communities — our plan for scaling Openscapes is for more people to be able to lead the Champions program as part of their paid jobs. 
+Partners can invest in Openscapes in different ways. We are interested in not only leading the Champions Program for partner communities but in developing Champions Program Mentors within partner communities — our plan for scaling Openscapes is for more people to be able to lead the Champions program for their communities as part of their paid jobs. 
 
 ## Funding Partners
 
@@ -13,7 +13,7 @@ Some of our partners provide funding. We work with partners to develop a scope o
 
 ## Mentor Partners
 
-Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people's jobs is something important to us: this not only builds long-term capacity and resilience for kinder open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building. 
+Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people's jobs is something important to us: Mentor Partners build long-term capacity and resilience for kinder open data science within other communities. And they also make visible and value the labor and expertise that goes into open science, training, and community building, which is critical to promote diversity, equity, and inclusion in these spaces.
 
 <!---
 [MORE!]

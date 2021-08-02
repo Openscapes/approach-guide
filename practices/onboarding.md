@@ -2,25 +2,24 @@
 title: Onboarding
 ---
 
-This is how we onboard. 
+## Welcome to the team! 
 
-Build skills as we go. Build shared skillsets in part through Seaside Chats. Tooling is next. [MORE!]
+As we start collaborating with folks to deliver the Champions Program we will be documenting the onboarding process here. We are onboarding folks to collaborate in different capacities — i.e. as mentors, evaluators, lesson contributors — so we will be trying to be as streamlined as possible with the most relevant information and skill-building to meet specific needs and timeframes. We are excited for more communities to be able to use the Openscapes approach. 
 
-## Cohort Assistants
+## First Introductions
 
-Welcome to the team! 
+To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including looking at a few blogs and slide decks.
 
-The following chapters in this book describe operations in more detail. Here we describe what onboarding will look like. 
+## Experience a Cohort Call
 
-### Experience a Cohort Call
-
-The first step for onboarding is to experience the Cohort Calls to see what they are really like. We'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you: 
+The next step for onboarding is to experience the Cohort Calls to see what they are really like. We'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you: 
 
 - Read the blog post to get an overview
 - Watch `04_CallRecording` while reading through `04_CallAgenda`. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go
 - Look through a few examples in the `PathwaysShare` folder (linked from the `04_CallAgenda`)
 - If you have time, also go through `01_CallRecording` and `01_CallAgenda`
 
+## Cohort Assistants
 ### Seaside Chats
 
 Our first few Seaside Chats together will focus on onboarding. We expect this to look like: 

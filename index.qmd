@@ -1,26 +1,24 @@
 ---
 title: "Openscapes Approach Guide"
-subtitle: "Openscapes Approach guide to document our process" 
-date: July 26, 2021 #"`r Sys.Date()`"
-author:
-  - name: Julia Stewart Lowndes 
-    url: https://openscapes.org
-    affiliation: UCSB
-    affiliation_url: https://openscapes.org
+subtitle: "A guide to the Openscapes approach" 
+date: "`r Sys.Date()`"
+author: "Julie Lowndes, Erin Robinson, et al."
 citation_url: https://openscapes.github.io/approach-guide/
 slug: index
 bibliography: references.bib
 ---
 
+![](images/horst-openscapes-mentors.jpg)
+
 ## Welcome
 
-**Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to onboard folks to the Openscapes approach. 
+**Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to document our process and onboard folks to the Openscapes approach. 
 
 ## About Openscapes
 
 **[Openscapes](https://openscapes.org) is an approach for doing better science in less time.** We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. 
 
-**Openscapes Champions is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. 
+**[Openscapes Champions](https://openscapes.org/champions) is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. 
 
 ## About This Guide
 
