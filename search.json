@@ -168,6 +168,30 @@
     "text": "~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan. We request in advance they:\n\nread Lowndes et al. 2017, Perkel 2017?\nwatch the SORTEE plenary recording (30 mins)\nwatch Lowndes & Horst CascadiaR keynote 2021 (15 mins)?\n\nWe’ll also schedule the GitHub Clinic."
   },
   {
+    "href": "index.html#welcome",
+    "title": "Openscapes Approach Guide",
+    "section": "Welcome",
+    "text": "Welcome to the Openscapes Approach Guide! This is an open and iterating guide to document our process and onboard folks to the Openscapes approach."
+  },
+  {
+    "href": "index.html#about-openscapes",
+    "title": "Openscapes Approach Guide",
+    "section": "About Openscapes",
+    "text": "Openscapes is an approach for doing better science in less time. We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
+  },
+  {
+    "href": "index.html#about-this-guide",
+    "title": "Openscapes Approach Guide",
+    "section": "About This Guide",
+    "text": "We’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly, and designing it so that others could use it on their own too. We encourage anyone to use and “fork” it to make it your own (particularly when it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto: https://quarto.org. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines."
+  },
+  {
+    "href": "index.html#citation",
+    "title": "Openscapes Approach Guide",
+    "section": "Citation",
+    "text": "Please cite this guide as: Julia Stewart Lowndes & Erin Robinson. (2021). Openscapes Approach Guide (Version v0.0.1)."
+  },
+  {
     "href": "contributing/setup.html#install-r-and-rstudio",
     "title": "Setup",
     "section": "Install R and RStudio",
@@ -198,30 +222,6 @@
     "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.\nThis Approach Guide document is inspired from https://thefaylab.github.io/lab-manual/index.html, https://the-turing-way.netlify.app/community-handbook, https://2i2c.org/team-compass/, and others.\nMany things inspire us and influence our work for kinder science\n\nRStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD\nTara Robertson, Dawn Wright and references\nURGE, Mica Estrada\nBrene Brown, Jim Collins\n…\n\nOur Resources page has some resources meant to welcome environmental scientists who are newly onboarding to open data science. We also have a public Openscapes Zotero library linking publications, talks, and curricula. Our Openscapes GitHub Organization has pinned repositories of interest, including the teaching-learning-resources repo where we use Issues to jot down specific tools or learning resources for open, reproducible, inclusive science."
   },
   {
-    "href": "index.html#welcome",
-    "title": "Openscapes Approach Guide",
-    "section": "Welcome",
-    "text": "Welcome to the Openscapes Approach Guide! This is an open and iterating guide to onboard folks to the Openscapes approach."
-  },
-  {
-    "href": "index.html#about-openscapes",
-    "title": "Openscapes Approach Guide",
-    "section": "About Openscapes",
-    "text": "Openscapes is an approach for doing better science in less time. We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
-  },
-  {
-    "href": "index.html#about-this-guide",
-    "title": "Openscapes Approach Guide",
-    "section": "About This Guide",
-    "text": "We’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly, and designing it so that others could use it on their own too. We encourage anyone to use and “fork” it to make it your own (particularly when it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto: https://quarto.org. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines."
-  },
-  {
-    "href": "index.html#citation",
-    "title": "Openscapes Approach Guide",
-    "section": "Citation",
-    "text": "Please cite this guide as: Julia Stewart Lowndes & Erin Robinson. (2021). Openscapes Approach Guide (Version v0.0.1)."
-  },
-  {
     "href": "practices/code-of-conduct.html",
     "title": "Code of Conduct",
     "section": "",
@@ -237,7 +237,7 @@
     "href": "practices/partners.html#mentor-partners",
     "title": "Partners",
     "section": "Mentor Partners",
-    "text": "Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: this not only builds long-term capacity and resilience for kinder open data science within other groups, but it also makes visible and values the labor and expertise that goes into open science, training, and community building."
+    "text": "Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people’s jobs is something important to us: Mentor Partners build long-term capacity and resilience for kinder open data science within other communities. And they also make visible and value the labor and expertise that goes into open science, training, and community building, which is critical to promote diversity, equity, and inclusion in these spaces."
   },
   {
     "href": "practices/partners.html#our-partners",
@@ -246,40 +246,58 @@
     "text": "California Water Boards\nAnna Holder is an Environmental Scientist in the Office of Information Management and Analysis and the Surface Water Ambient Monitoring Program. She is involved in building data communities within and outside of the Water Boards and was the lead staff for developing and implementing the Water Boards College of Water Informatics. Anna obtained her M.S. and B.S. from CSU Monterey Bay in Applied Marine and Watershed Science, and has conducted research on market squid, rockfish, and using modeling to predict the distribution of fishes on the remote north slope of Alaska. Regardless of her role, Anna uses ecology, data science, and science communication to contribute to and inform the sustainable and equitable management of natural resources.\nCorey Clatterbuck is a California Sea Grant Fellow in the Office of Information Management and Analysis and the Surface Water Ambient Monitoring Program. Corey earned her PhD in the Joint Doctoral Program in Ecology at San Diego State University and the University of California, Davis in 2021."
   },
   {
+    "href": "practices/onboarding.html#welcome-to-the-team",
+    "title": "Onboarding",
+    "section": "Welcome to the team!",
+    "text": "As we start collaborating with folks to deliver the Champions Program we will be documenting the onboarding process here. We are onboarding folks to collaborate in different capacities — i.e. as mentors, evaluators, lesson contributors — so we will be trying to be as streamlined as possible with the most relevant information and skill-building to meet specific needs and timeframes. We are excited for more communities to be able to use the Openscapes approach."
+  },
+  {
+    "href": "practices/onboarding.html#first-introductions",
+    "title": "Onboarding",
+    "section": "First Introductions",
+    "text": "To first get a sense of Openscapes, we recommend looking through openscapes.org, including looking at a few blogs and slide decks."
+  },
+  {
+    "href": "practices/onboarding.html#experience-a-cohort-call",
+    "title": "Onboarding",
+    "section": "Experience a Cohort Call",
+    "text": "The next step for onboarding is to experience the Cohort Calls to see what they are really like. We’ll give you access to an example folder of Openscapes_CohortCalls. The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:\n\nRead the blog post to get an overview\nWatch 04_CallRecording while reading through 04_CallAgenda. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go\nLook through a few examples in the PathwaysShare folder (linked from the 04_CallAgenda)\nIf you have time, also go through 01_CallRecording and 01_CallAgenda"
+  },
+  {
     "href": "practices/onboarding.html#cohort-assistants",
     "title": "Onboarding",
     "section": "Cohort Assistants",
-    "text": "Welcome to the team!\nThe following chapters in this book describe operations in more detail. Here we describe what onboarding will look like.\n\nExperience a Cohort Call\nThe first step for onboarding is to experience the Cohort Calls to see what they are really like. We’ll give you access to an example folder of Openscapes_CohortCalls. The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:\n\nRead the blog post to get an overview\nWatch 04_CallRecording while reading through 04_CallAgenda. We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go\nLook through a few examples in the PathwaysShare folder (linked from the 04_CallAgenda)\nIf you have time, also go through 01_CallRecording and 01_CallAgenda\n\n\n\nSeaside Chats\nOur first few Seaside Chats together will focus on onboarding. We expect this to look like:\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site"
+    "text": "Seaside Chats\nOur first few Seaside Chats together will focus on onboarding. We expect this to look like:\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site"
   },
   {
     "href": "practices/seaside-chats.html#seaside-chats",
     "title": "Seaside Chats",
     "section": "Seaside Chats",
-    "text": "These are regular meetings where we skillshare and learn together. This will likely be the avenue of how you are onboarded. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together."
+    "text": "We build shared skillsets in part through Seaside Chats. Seaside Chats are regular meetings where we skillshare and learn together. This will likely be the avenue for onboarding. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together."
   },
   {
     "href": "practices/seaside-chats.html#co-working",
     "title": "Seaside Chats",
     "section": "Co-working",
-    "text": ""
+    "text": "We also have co-working sessions where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve."
   },
   {
     "href": "practices/seaside-chats.html#hackathons",
     "title": "Seaside Chats",
     "section": "Hackathons",
-    "text": ""
+    "text": "We have hackathons to tackle specific tasks together. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a hackathon! We made chapter headings to outline the guide and built and iterated as we went."
   },
   {
     "href": "practices/seaside-chats.html#community-calls",
     "title": "Seaside Chats",
-    "section": "Community Calls!",
-    "text": ""
+    "section": "Community Calls",
+    "text": "We have 4 Community Calls per year where we discuss and explore topics relevant to Openscapes."
   },
   {
     "href": "practices/index.html#openscapes-ethos",
     "title": "Mindset and Practice",
     "section": "Openscapes Ethos",
-    "text": "We work openly and for Future Us.\nOpenscapes Mindset.\nGrowth Mindset.\nContinual learning — and practicing and iterating with that learning\npsychological safety. kinder science"
+    "text": "We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We work towards kinder science.\nWe work openly and for Future Us.\nOpenscapes Mindset.\nGrowth Mindset.\nContinual learning — and practicing and iterating with that learning.\nPsychological safety (Edmundson).\nKinder science.\nWe use the same open source tools that teach."
   },
   {
     "href": "practices/tooling.html",
