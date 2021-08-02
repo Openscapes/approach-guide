@@ -1,5 +1,5 @@
 ---
-title: "Following Cohort Calls"
+title: "Followup"
 format: html
 ---
 
@@ -7,5 +7,6 @@ format: html
 
 *Modeled after SGCI*
 
+- very limited structure on the call
 - revisit repo
-- exampl
+- share summaries from pathways
