@@ -38,7 +38,7 @@ site:
         - champions/timeline.md
         - champions/pre-cohort-engage.md
         - champions/pre-cohort-tech.md
-        - champions/lessons.md
+        - champions/lessons.qmd
         - champions/leading.md
         - champions/followup.md
       - section: "Reference"

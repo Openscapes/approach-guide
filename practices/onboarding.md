@@ -25,7 +25,7 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
 
 ### Lesson Contributors
 
-1. **Getting oriented**: discuss Cohort Calls, lesson structure, brainstorm lesson plan
+1. **Getting oriented**: discuss Cohort Calls, [lesson series](/champions/lessons.html), brainstorm lesson plan
     - cohort dates/calendar
     - add to Slack
 1. **Lesson workplan**: solidify lesson plan, establish workplan/co-working

@@ -3,8 +3,6 @@ title: "Pre-cohort tech setup"
 format: html
 ---
 
-*Could also be titled: pre-cohort tech?*
-
 ## Overview
 
 Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We'll schedule GitHub Clinics prior to the second Cohort Call.
