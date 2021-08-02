@@ -25,6 +25,7 @@ Below are the tools that we use *TODO: and descriptions of how/why!*
 - all websites and books
 - data analysis (R: tidyverse, RMarkdown)
 - communications and technical writing (RMarkdown, bookdown, blogdown, Quarto)
+- Follow these [installation instructions](https://ucsb-meds.github.io/meds-install-guide) 1-6 to install and configure RStudio with GitHub 
 
 ### Google Calendar
 
