@@ -36,7 +36,7 @@ Prior to the first Cohort Call, we:
 
 We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See
 
-### Agenda structure  {#agenda-structure}
+### Agenda structure {#agenda-structure}
 
 Cohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:
 
