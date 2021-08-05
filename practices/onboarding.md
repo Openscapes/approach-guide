@@ -12,7 +12,7 @@ To first get a sense of Openscapes, we recommend looking through [openscapes.org
 
 ## Experience a Cohort Call
 
-The next step is to experience the Cohort Calls to see what they are really like. We'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you: 
+The next step is to experience the Cohort Calls to see what they are really like. Hopefully this can happen live, but if not we'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you: 
 
 - Read the blog post to get an overview
 - Watch a `CallRecording` while at the same time reading through the accompanying `CallAgenda` (we'll let you know which one we recommend). We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go

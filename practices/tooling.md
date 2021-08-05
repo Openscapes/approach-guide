@@ -4,7 +4,7 @@ title: "Tooling"
 
 We try to use a few amount of tools that interoperate well and are open source and collaborative.
 
-We also explore and learn new tools but always always with an eye towards interoperability with our current tools, and with an understanding of how the open science community and environmental/Earth science communities are working.
+We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.
 
 Below are the tools that we use *TODO: and descriptions of how/why!*
 
