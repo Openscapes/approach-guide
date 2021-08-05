@@ -41,13 +41,11 @@ site:
         - champions/lessons.qmd
         - champions/leading.md
         - champions/followup.md
-      - section: "Reference"
-        contents:
-        - reference/inspiration.md
       - section: contributing/index.md
         contents:
         - contributing/setup.md
         - contributing/workflow.md
+        - contributing/inspiration.md
     footer:
       - attribution:"For attribution, please cite this work as Openscapes Approach Guide. Retrieved from https://github.com/Openscapes/approach-guide "
 

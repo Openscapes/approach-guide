@@ -2,7 +2,7 @@
 title: "Openscapes Approach Guide"
 subtitle: "A guide to the Openscapes approach" 
 date: "`r Sys.Date()`"
-author: "Julie Lowndes, Erin Robinson, et al."
+author: "Julie Lowndes and Erin Robinson"
 citation_url: https://openscapes.github.io/approach-guide/
 slug: index
 bibliography: references.bib
