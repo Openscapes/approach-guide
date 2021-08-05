@@ -1,8 +1,8 @@
 ---
-title: "Mindset and Practice"
+title: "Openscapes approach"
 ---
 
-## Openscapes Ethos
+## Openscapes Mindset and practice
 
 **We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.** These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We work towards **kinder science.**
 
