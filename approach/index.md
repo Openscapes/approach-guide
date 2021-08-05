@@ -1,5 +1,5 @@
 ---
-title: "Openscapes approach"
+title: "Openscapes Approach"
 ---
 
 ## Openscapes Mindset and practice
