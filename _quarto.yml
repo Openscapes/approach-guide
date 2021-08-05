@@ -25,13 +25,13 @@ site:
     contents:
       - text: "Welcome"
         href: index.md
-      - section: practices/index.md
+      - section: approach/index.md
         contents:  
-        - practices/code-of-conduct.md
-        - practices/seaside-chats.md
-        - practices/onboarding.md
-        - practices/tooling.md
-        - practices/partners.md
+        - approach/code-of-conduct.md
+        - approach/seaside-chats.md
+        - approach/onboarding.md
+        - approach/tooling.md
+        - approach/partners.md
       - section: champions/index.qmd
         contents:
         - champions/design.md
