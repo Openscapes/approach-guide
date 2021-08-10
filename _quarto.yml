@@ -25,7 +25,7 @@ site:
     contents:
       - text: "Welcome"
         href: index.md
-      - section: approach/index.md
+      - section: approach/index.qmd
         contents:  
         - approach/code-of-conduct.md
         - approach/seaside-chats.md
