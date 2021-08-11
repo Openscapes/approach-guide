@@ -24,8 +24,8 @@ site:
         href: https://github.com/openscapes/approach-guide
     contents:
       - text: "Welcome"
-        href: index.md
-      - section: approach/index.qmd
+        href: index.qmd
+      - section: approach/index.md
         contents:  
         - approach/code-of-conduct.md
         - approach/seaside-chats.md
