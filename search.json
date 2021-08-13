@@ -6,30 +6,6 @@
     "text": "The following can be built into a statement of work with our Partners.\n\nSummary and Scope\nOpenscapes offers mentorship, training, coaching and community organizing centered around open data science to help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report. Our approach for doing better, more reproducible and inclusive team science in less time, is to first support scientists to create workflows that allow sharing with themselves (Future You) as well as with their teams and collaborators (Future Us). Future Us considers our teams, communities, and those who will be joining and continuing our work, whether that is next hours, weeks or decades (Lowndes & Robinson, 2021).\nOften we find that research teams are not sharing openly, internally among themselves. By considering and creating practices that support Future Us, the Openscapes approach helps research groups reimagine data analysis, develop modern data management and sharing skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches promote kinder science through technical tooling and diversity, equity, and inclusion, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a mentorship and professional development opportunity for scientific research teams to explore open data science, including data management and sharing practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend a Champions cohort series as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g., R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThrough the Champions cohort series, a cohort of 6-8 teams will meet 4 times over 2 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nChampions Cohort Goals\nThe goals of the Champions cohort series is to help teams normalize open data science discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others on new (and existing) projects. We will:\n\nCreate leaders within a research community to champion open science best practices\nHelp participants adopt open science tooling and practices, including reproducibility, openness, collaboration, inclusion, share methods sooner\nExplore practices that build trust and community within and across teams (across career stages)\nImprove ease and confidence in sharing imperfect work within their teams and cohort\nEmpower participants to become champions for more collaborative, open science within their teams and transform their own workflows.\n\n\n\nServices\nOpenscapes will provide the curriculum, agendas, and lead the remote cohort series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nTeam culture, Technical strategies for future us\nCoding communities, Research examples\nSharing Pathways forward\n\nAdditionally, we lead:\n\nGitHub Clinics for hands-on team skill-building\nCommunity engagement leading up to, throughout, and after the Cohort\n\nOpenscapes will co-create recruiting materials (e.g., openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote workshop series along with workshop helpers. We are beginning to evaluate the Champions program as well.\nNote: Participants attend as teams. Participants attend as teams including team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are: 1) Everyone sees the value in open project management and data sharing practices 2) Leads enable their team members to invest time in learning skills and developing lab workflows 3) Team members have guidance, agency, and support to incorporate open science, data management and sharing concepts into their research 4) Everyone contributes to growing the community of practice within the research group, institution, and online, in whatever capacity their role and circumstances allow. See also the Champions Program FAQ."
   },
   {
-    "href": "champions/between-cohort-calls.html#digests",
-    "title": "Between Cohort Calls",
-    "section": "Digests",
-    "text": "We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.\nDigests include links to the Call’s agenda, the Call’s goals, slides, and some excerpts from the shared notes.\nSee examples:\n\n01 Call Digest [ CSS ]\n02 Call Digest [ CSS ]\n03 Call Digest [ CSS ]\n04 Call Digest [ CSS ]"
-  },
-  {
-    "href": "champions/between-cohort-calls.html#clinics",
-    "title": "Between Cohort Calls",
-    "section": "Clinics",
-    "text": "GitHub Clinic"
-  },
-  {
-    "href": "champions/between-cohort-calls.html#co-working",
-    "title": "Between Cohort Calls",
-    "section": "Co-working",
-    "text": "Not Office Hours"
-  },
-  {
-    "href": "champions/between-cohort-calls.html#seaside-chats",
-    "title": "Between Cohort Calls",
-    "section": "Seaside Chats",
-    "text": "Champions teams will hold Seaside Chats."
-  },
-  {
     "href": "champions/timeline.html#high-level-timeline",
     "title": "Planning timeline",
     "section": "High-level timeline",
@@ -132,6 +108,36 @@
     "text": "Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage."
   },
   {
+    "href": "champions/leading-cohort-calls.html#between-cohort-calls",
+    "title": "Leading Cohort Calls",
+    "section": "Between Cohort Calls",
+    "text": "Between Calls there are tasks for the Openscapes team and for the Champions teams."
+  },
+  {
+    "href": "champions/leading-cohort-calls.html#digests",
+    "title": "Leading Cohort Calls",
+    "section": "Digests",
+    "text": "We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.\nDigests include links to the Call’s agenda, the Call’s goals, slides, and some excerpts from the shared notes.\nSee examples:\n\n01 Call Digest [ CSS ]\n02 Call Digest [ CSS ]\n03 Call Digest [ CSS ]\n04 Call Digest [ CSS ]"
+  },
+  {
+    "href": "champions/leading-cohort-calls.html#clinics",
+    "title": "Leading Cohort Calls",
+    "section": "Clinics",
+    "text": "GitHub Clinic"
+  },
+  {
+    "href": "champions/leading-cohort-calls.html#co-working",
+    "title": "Leading Cohort Calls",
+    "section": "Co-working",
+    "text": "Not Office Hours"
+  },
+  {
+    "href": "champions/leading-cohort-calls.html#seaside-chats",
+    "title": "Leading Cohort Calls",
+    "section": "Seaside Chats",
+    "text": "Champions teams will hold Seaside Chats."
+  },
+  {
     "href": "champions/design.html",
     "title": "Program design",
     "section": "",
@@ -177,7 +183,7 @@
     "href": "champions/pre-cohort-engage.html#selection-and-coordination",
     "title": "Pre-cohort engagement",
     "section": "Selection and coordination",
-    "text": "We have example text for these that we will pull into a template Google Doc and link here \n\nSelection rubric\nWe have a selection rubric and work with partners to select participating teams.\n\n\nEmail to confirm team leads\nWe send an email to potential team leads with more details and ask them to reply cc’ing their teams and scheduling 1:1 intro calls.\n\n\nSend out Google Calendar Invites\nWe add team leads and members to the Openscapes Community Calendar’s Cohort Calls.\n\n\nFollow teams on Twitter\nAs we are introduced to team leads and members, we follow them on Twitter from the Openscapes account.\n\n\n1:1 Intro calls\nWe use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team’s needs. We schedule these 1:1’s for ~1 month before the start of the cohort"
+    "text": "We have example text for these that we will pull into a template Google Doc and link here \n\nSelection rubric\nWe have a selection rubric and work with partners to select participating teams.\n\n\nEmail to confirm team leads\nWe send an email to potential team leads with more details and ask them to reply cc’ing their teams and scheduling 1:1 intro calls.\n\n\n\n\n\n\nExample email confirmation to teams\n\n\n\n\n\nThanks [PI],\nAnd great to meet you all! I’ve just sent Google Calendar invites and will be in touch more before our first Cohort Call on September 9.\nLooking forward to it,\nJulie\n\n\n\n\n\nSend out Google Calendar Invites\nWe add team leads and members to the Openscapes Community Calendar’s Cohort Calls.\n\n\nFollow teams on Twitter\nAs we are introduced to team leads and members, we follow them on Twitter from the Openscapes account.\n\n\n1:1 Intro calls\nWe use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team’s needs. We schedule these 1:1’s for ~1 month before the start of the cohort"
   },
   {
     "href": "champions/pre-cohort-engage.html#cohort-welcome",
