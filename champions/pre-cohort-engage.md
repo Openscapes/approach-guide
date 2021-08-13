@@ -147,11 +147,11 @@ We send an email to potential team leads with more details and ask them to reply
 ## Example email confirmation to teams
 Thanks [PI],
 
-And great to meet you all! I've just sent Google Calendar invites and will be in touch more before our first Cohort Call on September 9.
+And hi [folks], great to meet you all! I've just sent Google Calendar invites and will be in touch more before our first Cohort Call on [date].
 
 Looking forward to it,
 
-Julie
+Julie and Erin
 :::
 
 ### Send out Google Calendar Invites
