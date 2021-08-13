@@ -143,6 +143,17 @@ We have a selection rubric and work with partners to select participating teams.
 
 We send an email to potential team leads with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls.
 
+::: {.callout-tip collapse="true"}
+## Example email confirmation to teams
+Thanks [PI],
+
+And great to meet you all! I've just sent Google Calendar invites and will be in touch more before our first Cohort Call on September 9.
+
+Looking forward to it,
+
+Julie
+:::
+
 ### Send out Google Calendar Invites
 
 We add team leads and members to the Openscapes Community Calendar's Cohort Calls.

@@ -41,7 +41,6 @@ site:
         - champions/pre-cohort-tech.md
         - champions/lessons.qmd
         - champions/leading-cohort-calls.md
-        - champions/between-cohort-calls.md
         - champions/post-cohort-followup.md
       - section: contributing/index.md
         contents:
