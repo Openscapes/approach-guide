@@ -15,11 +15,11 @@ Each lesson is a 10-15 minute slide deck or demo, and there are two lessons per 
 
 We review our planned lessons before we teach. We add relevant updates and links; there are new examples and features that we add! It's a balance of adding these to slides or book chapters so that the slides have up-to-date information but aren't too overwhelming.
 
-## New lessons
+## Lesson Planning
 
-We'll be collaborating to develop new lessons with partners for our four-month cohorts! More here soon.
+We'll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.
 
-New lessons will build from the core lessons we lead for two-month cohorts (from the [Series welcome page](https://openscapes.github.io/series/)):
+New lessons will build from the core lessons we lead for two-month cohorts (from the [Series welcome](https://openscapes.github.io/series/)):
 
 ```{r, child="_agenda_2month.Rmd"}
 ```

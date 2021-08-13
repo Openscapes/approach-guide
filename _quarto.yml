@@ -32,6 +32,7 @@ site:
         - approach/onboarding.md
         - approach/tooling.md
         - approach/partners.md
+        - approach/calendar.md
       - section: champions/index.qmd
         contents:
         - champions/design.md
@@ -39,8 +40,9 @@ site:
         - champions/pre-cohort-engage.md
         - champions/pre-cohort-tech.md
         - champions/lessons.qmd
-        - champions/leading.md
-        - champions/followup.md
+        - champions/leading-cohort-calls.md
+        - champions/between-cohort-calls.md
+        - champions/post-cohort-followup.md
       - section: contributing/index.md
         contents:
         - contributing/setup.md

@@ -1,5 +1,5 @@
 ---
-title: Seaside Chats
+title: Seaside Chats, etc.
 ---
 
 This is all (some of?) the way we work together
