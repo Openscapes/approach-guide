@@ -15,33 +15,34 @@ Prior to the GitHub Clinic, we:
 
 -   Create a Cohort GitHub repo within the Openscapes GitHub organization.
 -   Make it a website repo: Settings > Pages > Source: main, dir: root
--   Add a Code of Coduct
+-   Add our Code of Coduct
 -   Write Cohort info on the README
 -   *Add Evaluation information*
 
-Example: <https://github.com/Openscapes/2021-nwfsc-cohort-2>
+Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
 ### For the GitHub Clinic:
 
 Before the GitHub Clinic, we:
 
 -   Add all usernames with admin privileges
-
 -   Create each person's files
 
-We'll need to ask people to create a GitHub account and share their username with us:
+We'll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next. 
 
 ## Data entry
 
 As teams form, we:
 
--   Update with who is in which cohort, whether we've added them to the calendars and twitter, etc.
+-   Update database with who is in which cohort, whether we've added them to the calendars and twitter, etc.
+
+More details upcoming: Airtable
 
 ## Cohort Google Folder
 
 Prior to the first Cohort Call, we:
 
--   Create a Google Folder with the name of the cohort in brackets, e.g. `2021-noaa-nwfsc`
+-   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
 -   Add all Cohort emails (note: some participants will provide a gmail address if their univerity email isn't gmail; add this address as well)
 -   Add a Pathways folder
 
@@ -74,6 +75,3 @@ After the first Cohort Call, we:
 
 -   Create a private Slack channel for the cohort Invite everyone to Slack
 
-## Airtable
-
-(upcoming?)
