@@ -30,10 +30,16 @@
     "text": "Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an openscapesr R package, stay tuned."
   },
   {
+    "href": "champions/pre-cohort-tech.html#github-repo",
+    "title": "Pre-cohort tech setup",
+    "section": "GitHub repo",
+    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd a Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-nwfsc-cohort-2\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us:"
+  },
+  {
     "href": "champions/pre-cohort-tech.html#data-entry",
     "title": "Pre-cohort tech setup",
     "section": "Data entry",
-    "text": "As teams form, we:\n\nUpdate with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nThey will s"
+    "text": "As teams form, we:\n\nUpdate with who is in which cohort, whether we’ve added them to the calendars and twitter, etc."
   },
   {
     "href": "champions/pre-cohort-tech.html#cohort-google-folder",
@@ -46,12 +52,6 @@
     "title": "Pre-cohort tech setup",
     "section": "Agendas",
     "text": "Blank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See\n\nAgenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nSlides with activity 1\nSlides with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#github-repo",
-    "title": "Pre-cohort tech setup",
-    "section": "GitHub repo",
-    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a gh-pages repo\nAdd all usernames with admin privileges (ask for usernames prior to Clinic)\nCreate each person’s files for the Clinic\nAdd a Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-nwfsc-cohort-2"
   },
   {
     "href": "champions/pre-cohort-tech.html#slack",
