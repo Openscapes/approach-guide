@@ -9,13 +9,33 @@ Here is the tech setup that we do one time per Cohort. Some things we do before 
 
 *Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an `openscapesr` R package, stay tuned.*
 
+## GitHub repo
+
+Prior to the GitHub Clinic, we:
+
+-   Create a Cohort GitHub repo within the Openscapes GitHub organization.
+-   Make it a website repo: Settings > Pages > Source: main, dir: root
+-   Add a Code of Coduct
+-   Write Cohort info on the README
+-   *Add Evaluation information*
+
+Example: <https://github.com/Openscapes/2021-nwfsc-cohort-2>
+
+### For the GitHub Clinic:
+
+Before the GitHub Clinic, we:
+
+-   Add all usernames with admin privileges
+
+-   Create each person's files
+
+We'll need to ask people to create a GitHub account and share their username with us:
+
 ## Data entry
 
 As teams form, we:
 
 -   Update with who is in which cohort, whether we've added them to the calendars and twitter, etc.
-
-They will s
 
 ## Cohort Google Folder
 
@@ -47,20 +67,6 @@ Cohort Calls are 1 hour 30 minutes. Each Call is different, but they have this c
 -   Efficiency tip
 
 Activities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together.
-
-## GitHub repo
-
-Prior to the GitHub Clinic, we:
-
--   Create a Cohort GitHub repo within the Openscapes GitHub organization.
--   Make it a gh-pages repo
--   Add all usernames with admin privileges (ask for usernames prior to Clinic)
--   Create each person's files for the Clinic
--   Add a Code of Coduct
--   Write Cohort info on the README
--   *Add Evaluation information*
-
-Example: <https://github.com/Openscapes/2021-nwfsc-cohort-2>
 
 ## Slack
 
