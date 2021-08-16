@@ -194,8 +194,8 @@
   <div id="quarto-toc-sidebar" class="col col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-toc order-last"><nav id="TOC" role="doc-toc">
 <h2 id="toc-title">On this page</h2>
 <ul>
-<li><a href="#how-to-contribute" class="nav-link active" data-scroll-target="#how-to-contribute">How to contribute</a></li>
-<li><a href="#quarto" class="nav-link" data-scroll-target="#quarto">Quarto</a></li>
+<li><a href="#how-to-contribute" class="nav-link active" data-scroll-target="#how-to-contribute"> <span class="header-section-number">1</span> How to contribute</a></li>
+<li><a href="#quarto" class="nav-link" data-scroll-target="#quarto"> <span class="header-section-number">2</span> Quarto</a></li>
 </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/contributing/index.md">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new">Report an issue</a></p></div></div></nav></div>
   <div class="col mx-auto col-sm-12 col-md-9 col-lg-7 px-lg-4">
@@ -204,13 +204,13 @@
 <h1 class="title d-none d-lg-block display-7">Contributing</h1>
 </header>
 
-<section id="how-to-contribute" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-contribute">How to contribute</h2>
+<section id="how-to-contribute" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="how-to-contribute"><span class="header-section-number">1</span> How to contribute</h2>
 <p>This is how we collaborate to create this guide.</p>
 <p>We build the book with Quarto and collaborate and publish through GitHub. We develop content in the RStudio IDE, which is also how we interface with Git/Hub.</p>
 </section>
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<section id="quarto" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="quarto"><span class="header-section-number">2</span> Quarto</h2>
 <p>We’re developing the Openscapes Approach Guide with <strong>Quarto</strong>: <a href="https://quarto.org/">quarto.org</a>. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered using Jupyter and Knitr engines.</p>
 <p>What is Quarto? Quarto builds from what RStudio learned from RMarkdown but enables different engines (Jupyter and knitr). It is both a Command Line Tool and R package. <code>.qmd</code> is a new filetype like <code>.Rmd</code> — meaning it’s a text file but coupled with an engine can execute code and be rendered as html, pdf, word, and beyond — but for other languages like Python. Quarto can convert <code>.ipynb</code> files to and from <code>.md</code> and <code>.qmd</code> easily so you can develop and publish with collaborators that have different workflows. Once the book is “served” locally, <code>.md</code> files auto-update as you edit, and files with executable code can be rendered individually, and the behavior of different code chunks can be controlled and cached.</p>
 <p>(Note: with Quarto, e-books and websites are very similarly structured, with e-books being set up for numbered chapters and references and websites set up for higher number of pages and organization. We can talk about our book as a book even as we explore whether book/website better suits our needs. This is assigned in <code>_quarto.yml</code>, as we’ll explore later).</p>
