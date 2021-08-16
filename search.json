@@ -33,19 +33,19 @@
     "href": "champions/pre-cohort-tech.html#github-repo",
     "title": "Pre-cohort tech setup",
     "section": "GitHub repo",
-    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd a Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-nwfsc-cohort-2\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us:"
+    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next."
   },
   {
     "href": "champions/pre-cohort-tech.html#data-entry",
     "title": "Pre-cohort tech setup",
     "section": "Data entry",
-    "text": "As teams form, we:\n\nUpdate with who is in which cohort, whether we’ve added them to the calendars and twitter, etc."
+    "text": "As teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nMore details upcoming: Airtable"
   },
   {
     "href": "champions/pre-cohort-tech.html#cohort-google-folder",
     "title": "Pre-cohort tech setup",
     "section": "Cohort Google Folder",
-    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. 2021-noaa-nwfsc\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
+    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
   },
   {
     "href": "champions/pre-cohort-tech.html#agenda-setup",
@@ -58,12 +58,6 @@
     "title": "Pre-cohort tech setup",
     "section": "Slack",
     "text": "After the first Cohort Call, we:\n\nCreate a private Slack channel for the cohort Invite everyone to Slack"
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#airtable",
-    "title": "Pre-cohort tech setup",
-    "section": "Airtable",
-    "text": "(upcoming?)"
   },
   {
     "href": "champions/about.html",
