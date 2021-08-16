@@ -45,7 +45,7 @@ Prior to the first Cohort Call, we:
 -   Add all Cohort emails (note: some participants will provide a gmail address if their univerity email isn't gmail; add this address as well)
 -   Add a Pathways folder
 
-## Agendas
+## Agendas {#sec-agenda-setup}
 
 [Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
 

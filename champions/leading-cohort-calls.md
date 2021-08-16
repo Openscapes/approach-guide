@@ -15,7 +15,7 @@ There are three main roles when we lead Cohort Calls. When folks are assisting a
 
 ## Before each Cohort Call
 
-Prepare the Agenda; see pre-cohort-tech.
+Prepare the Agenda; see @sec-agenda-setup.
 
 ## During Cohort Calls
 
