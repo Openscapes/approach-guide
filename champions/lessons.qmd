@@ -1,5 +1,5 @@
 ---
-title: "Lesson Series"
+title: "Lesson Planning"
 format: html
 ---
 
@@ -7,13 +7,15 @@ format: html
 source("import_remote.R")
 ```
 
-## Lessons Review
-
 The [Openscapes Champions Series](https://openscapes.github.io/series/) describe the lessons we currently teach, with each lesson represented as a book chapter with linked slides. During Cohort Calls we teach from the slides and not from the book chapters; the chapters will ultimately be a stand-alone resource for self-paced learning (this is a work in progress).
 
 Each lesson is a 10-15 minute slide deck or demo, and there are two lessons per Cohort Call. Lessons are taught followed by an activity so particpants can reflect how topics apply to their own work (see more about [agenda structure](/champions/pre-cohort-tech.html#agenda-structure)). 
 
+## Lessons Review
+
 We review our planned lessons before we teach. We add relevant updates and links; there are new examples and features that we add! It's a balance of adding these to slides or book chapters so that the slides have up-to-date information but aren't too overwhelming.
+
+We also invite Guest speakers. 
 
 ## Lesson Planning
 

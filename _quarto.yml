@@ -36,10 +36,10 @@ site:
       - section: champions/index.qmd
         contents:
         - champions/design.md
-        - champions/lessons.qmd
         - champions/timeline.md
         - champions/pre-cohort-engage.md
         - champions/pre-cohort-tech.md
+        - champions/lessons.qmd
         - champions/leading-cohort-calls.md
         - champions/post-cohort-followup.md
       - section: contributing/index.md

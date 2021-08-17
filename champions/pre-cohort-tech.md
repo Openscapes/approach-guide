@@ -63,8 +63,8 @@ Cohort Calls are 1 hour 30 minutes. Each Call is different, but they have this c
 
 -   Roll call with ice breaker
 -   Welcome with Code of Conduct reminder
--   Slides with activity 1
--   Slides with activity 2
+-   Lesson with activity 1
+-   Lesson with activity 2
 -   Efficiency tip
 
 Activities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together.
