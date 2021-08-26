@@ -10,7 +10,7 @@ We work with our Partners to plan a Champions Cohort, which includes planning de
 1. [**Partners Planning Call**](#partners-planning-call): Kicks off collaboration.
 1. [**Schedule Cohort Dates**](#schedule-cohort-dates): Set dates as early as possible.
 1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.md): ~2 months prior to Cohort start date. 
-1. [**Lead the Champions Program**](/champions/leadning-cohort-calls): 2-4 months. 
+1. [**Leading Cohort Calls**](/champions/leading-cohort-calls): 2-4 months. 
 
 :::{.callout-tip collapse="true"}
 ## Example detailed timeline
