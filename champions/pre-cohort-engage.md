@@ -146,33 +146,30 @@ We send an email to potential team leads with more details and ask them to reply
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to selected PIs
 
-Subject: 
-Welcome to the FDD Openscapes Champions Cohort 🎉  
+Subject: Welcome to the FDD Openscapes Champions Cohort 🎉
 
-Dear [PI], 
+Dear \[PI\],
 
-Thank you for nominating your team to participate in the FDD Openscapes Champions Cohort! We are excited for you to be a part of the cohort; this email is your official acceptance. To confirm you're still able to participate, please: 
+Thank you for nominating your team to participate in the FDD Openscapes Champions Cohort! We are excited for you to be a part of the cohort; this email is your official acceptance. To confirm you're still able to participate, please:
 
-1. [Book a 30-minute intro call on August 27 or 30]() – or suggest other times if that is not possible, preferably September 10. 
-2. Respond to this email, cc’ing your team members (up to 4 others). We will then add you and your team to Google Calendar invites for all 4 Cohort Calls. 
+1.  [Book a 30-minute intro call on August 27 or 30]() -- or suggest other times if that is not possible, preferably September 10.
+2.  Respond to this email, cc'ing your team members (up to 4 others). We will then add you and your team to Google Calendar invites for all 4 Cohort Calls.
 
-Our [cohort page](https://openscapes.github.io/2021-fdd/) details the dates and times, as well as some background about Openscapes and FDD. We will also email the full cohort closer to the September 17 start date. 
+Our [cohort page](https://openscapes.github.io/2021-fdd/) details the dates and times, as well as some background about Openscapes and FDD. We will also email the full cohort closer to the September 17 start date.
 
-Please let us know if you have any questions! We’re looking forward to working and learning with you. 
+Please let us know if you have any questions! We're looking forward to working and learning with you.
 
-
-Cheers,  
-Julie Lowndes and Erin Robinson  
+Cheers,\
+Julie Lowndes and Erin Robinson\
 Co-Directors, Openscapes
-
 :::
-
 
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
-Thanks [PI],
 
-And hi [folks], great to meet you all! OpenscapesParticipants [ 2021-fdd ] is our growing participant list, would you all please update information for your row? I've also just sent Google Calendar invites and will be in touch more before our first Cohort Call on [date].
+Thanks \[PI\],
+
+And hi \[folks\], great to meet you all! OpenscapesParticipants \[ 2021-fdd \] is our growing participant list, would you all please update information for your row? I've also just sent Google Calendar invites and will be in touch more before our first Cohort Call on \[date\].
 
 Looking forward to it,
 
@@ -189,26 +186,75 @@ As we are introduced to team leads and members, we follow them on Twitter from t
 
 ### 1:1 Intro calls
 
-These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions. 
+These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
 
 We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team's needs. We schedule these 1:1's for \~1 month before the start of the cohort
 
+::: {.callout-tip collapse="true"}  
+## Example agenda for 1:1 intro calls  
+**Openscapes Champions Cohort Intro Call**
+
+[ Participants ]  
+27 August 2021  
+30 minutes  
+
+**Agenda:**
+
+-   Intros
+
+    -    
+
+-   Openscapes Champions Cohort
+
+    -   2 months to think about where you are and where you want to go
+
+    -   Focus on open science, collaboration, data, inclusion
+
+    -   Geared towards adult learning -- focus on your own work
+
+    -   Mentorship for you and your team (up to 5 total people)
+
+        -   Don't need a shared project: idea is that there are common workflows across projects.
+
+    -   What it's not: a coding workshop or webinar. Engaging discussions w/ your team and peers. 
+
+    -   4x 1.5-hour Cohort Calls over Zoom, Sept-Oct 2021
+
+        -   Seaside Chats (data-oriented meetings) on alternating weeks
+
+            -   Distribute learning load and build leadership & resilience 
+
+        -   1x GitHub Clinic -- publishing & collaboration from the browser
+
+-   Team and whole research group
+
+    -    
+
+-   Goals for the next few months? -- start thinking about these
+
+    -    
+
+-    Other 
+
+    -   \
+:::
+
 ## Guest lecturers
 
-We invite guest lecturers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest lecturers are  Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorium for their time and expertise.
+We invite guest lecturers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest lecturers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorium for their time and expertise.
 
 ::: {.callout-tip collapse="true"}
 ## Example email to guest lecturer
 
-Hi [ potential guest lecturer], 
+Hi \[ potential guest lecturer\],
 
-How are you? I hope you’ve had a break this summer and are doing ok with everything going on.
+How are you? I hope you've had a break this summer and are doing ok with everything going on.
 
-Openscapes a few Champions cohorts we’re leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here’s the [cohort page](https://openscapes.github.io/2021-fdd/)).
+Openscapes a few Champions cohorts we're leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here's the [cohort page](https://openscapes.github.io/2021-fdd/)).
 
-We wanted to see if you’d be interested in guest lecturing at one of these Cohort Calls for 20-25 minutes, presenting ~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We’re thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you’re welcome to just attend for your part). We are able to offer an honorarium as well.
+We wanted to see if you'd be interested in guest lecturing at one of these Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We're thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you're welcome to just attend for your part). We are able to offer an honorarium as well.
 
-We’re excited to hear your ideas, and if this isn’t the right thing now to think about if there’s another way we can involve you in the future if you’d like. We’d love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?
+We're excited to hear your ideas, and if this isn't the right thing now to think about if there's another way we can involve you in the future if you'd like. We'd love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?
 
 Cheers,
 
