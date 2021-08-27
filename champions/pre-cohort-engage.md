@@ -164,6 +164,14 @@ Julie Lowndes and Erin Robinson\
 Co-Directors, Openscapes
 :::
 
+### Team setup and calendaring
+
+Here's the process as they PIs confirm with their teams: 
+
+- Add to OpenscapesParticipants \[ 2021-fdd \]
+- Add team leads and members to the Cohort Calls on the Openscapes Community Google Calendar
+- Reply all welcome email to team members with confirmation
+
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
 
@@ -175,10 +183,6 @@ Looking forward to it,
 
 Julie and Erin
 :::
-
-### Send out Google Calendar Invites
-
-We add team leads and members to the Openscapes Community Calendar's Cohort Calls.
 
 ### Follow teams on Twitter
 
