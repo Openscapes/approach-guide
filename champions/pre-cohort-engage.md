@@ -166,11 +166,11 @@ Co-Directors, Openscapes
 
 ### Team setup and calendaring
 
-Here's the process as they PIs confirm with their teams: 
+Here's the process as they PIs confirm with their teams:
 
-- Add to OpenscapesParticipants \[ 2021-fdd \]
-- Add team leads and members to the Cohort Calls on the Openscapes Community Google Calendar
-- Reply all welcome email to team members with confirmation
+-   Add to OpenscapesParticipants \[ 2021-fdd \]
+-   Add team leads and members to the Cohort Calls on the Openscapes Community Google Calendar
+-   Reply all welcome email to team members with confirmation
 
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
@@ -194,13 +194,14 @@ These are short intro calls with Openscapes and team leads to start getting to k
 
 We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team's needs. We schedule these 1:1's for \~1 month before the start of the cohort
 
-::: {.callout-tip collapse="true"}  
-## Example agenda for 1:1 intro calls  
+::: {.callout-tip collapse="true"}
+## Example agenda for 1:1 intro calls
+
 **Openscapes Champions Cohort Intro Call**
 
-[ Participants ]  
-27 August 2021  
-30 minutes  
+\[ Participants \]\
+27 August 2021\
+30 minutes
 
 **Agenda:**
 
@@ -267,10 +268,50 @@ Julie and Erin
 
 ## Cohort welcome
 
-\~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan. We request in advance they:
+\~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan and a few action items. This includes providing an email address that can access Google Drive and their GitHub username!
 
--   read Lowndes et al. 2017, *Perkel 2017?*
--   watch the SORTEE plenary recording (30 mins)
--   *watch Lowndes & Horst CascadiaR keynote 2021 (15 mins)?*
+::: {.callout-tip collapse="true"}
+## Example email to welcome cohort
+Hello All, 
 
-We'll also schedule the GitHub Clinic.
+We are so excited to welcome you to the 2021 SASI Openscapes Champions Cohort! Our first Cohort Call is in one week on September 9 and we wanted to share some information with you.
+
+**Plan.**
+
+[Openscapes](https://openscapes.org) is an approach for doing better science in less time. We help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Our Cohort is supported by the Gordon and Betty Moore Foundation's [Symbiosis in Aquatic Systems Initiative (SASI)](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative), and we’re partnering with [protocols.io](https://protocols.io), a secure platform for developing and sharing reproducible methods. 
+
+**Cohort Logistics.**
+
+Details and short intros of participating labs are at[ https://openscapes.github.io/2021-sasi](https://openscapes.github.io/2021-sasi). We pulled intros from your websites; if you have edits please do so through GitHub – and if you don’t yet know how to do this, you’ll learn in our GitHub Clinic after Call 1!
+
+**Before Sept 9, please**:
+
+1. **Check that you’ve received Google Calendar invites with Zoom links** for our 8 Cohort Calls starting Sept 9. If you have not received these invites, please let us know. 
+2. **Complete your information in OpenscapesParticipants [ 2021-sasi ]** to make sure you can access the software we’ll use (Google Drive and GitHub).
+3. **Read [Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools. Optionally, you can also review the slides/video of a [recent plenary](https://www.openscapes.org/blog/2021/08/01/sortee-plenary/).
+
+**Additional Information.**
+
+All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code-of-conduct).
+
+Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
+
+Schedule “Seaside Chats”:** **In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings “[Seaside Chats](https://github.com/Openscapes/seaside-chats)” and suggest you schedule them with your team now (PIs do not need to attend).
+
+The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more – this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
+
+**Meet the Openscapes team.**
+
+We’re the team you’ll see most often on the calls, along with a few guest speakers:
+
+* [Julie Lowndes](http://jules32.github.cio), Openscapes founder and co-director, NCEAS, UCSB
+* [Erin Robinson](http://erinrobinson.net/), Openscapes co-director, Metadata Game Changers
+* [Lenny Teytelman](https://www.protocols.io/researchers/lenny-teytelman8), protocols.io founder and CEO
+* [Emma Ganley](https://www.linkedin.com/in/eganley/), protocols.io Director of Strategic Initiatives
+
+Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we’re looking forward to getting to know all of you and strengthening relationships within the Cohort. 
+
+Cheers,
+
+Julie, Erin, Lenny, and Emma
+:::
