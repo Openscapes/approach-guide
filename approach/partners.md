@@ -15,6 +15,8 @@ Some of our partners provide funding. We work with partners to develop a scope o
 
 Some of our partners contribute paid time to assist Champions Cohorts, thereby developing Openscapes Mentors that will help lead future Cohorts within their own communities. Having this assistance and mentorship development be part of people's jobs is something important to us: Mentor Partners build long-term capacity and resilience for kinder open data science within their own communities while becoming more connected with broader open science communities. And they also make visible and value the labor and expertise that goes into open science, training, and community building, which is critical to promote diversity, equity, and inclusion in these spaces.
 
+Some of these partners contribute to Champions Program curriculum and co-lead Cohort Calls. This is an exciting work in progress with some of our four month cohorts!
+
 <!---
 [MORE!]
 Currently we are working with Mentors that will be assisting Champions Cohorts for their own community (e.g. NASA), as well as with Mentors assisting Champions Cohorts outside their community (e.g. California EPA). --->

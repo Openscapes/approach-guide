@@ -296,7 +296,7 @@ All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code
 
 Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
 
-Schedule “Seaside Chats”:** **In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings “[Seaside Chats](https://github.com/Openscapes/seaside-chats)” and suggest you schedule them with your team now (PIs do not need to attend).
+Schedule “Seaside Chats”: In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings “[Seaside Chats](https://github.com/Openscapes/seaside-chats)” and suggest you schedule them with your team now (PIs do not need to attend).
 
 The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more – this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
 
