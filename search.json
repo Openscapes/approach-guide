@@ -201,13 +201,13 @@
     "href": "index.html#about-openscapes",
     "title": "Openscapes Approach Guide",
     "section": "About Openscapes",
-    "text": "Openscapes is an approach for doing better science in less time. We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
+    "text": "Openscapes is an approach for doing better science in less time. We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
   },
   {
     "href": "index.html#about-this-guide",
     "title": "Openscapes Approach Guide",
     "section": "About This Guide",
-    "text": "We’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly, and designing it so that others could use it on their own too. We encourage anyone to use and “fork” it to make it your own (particularly when it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, investing in the Champions curriculum as we learn and to meet specific Cohort needs, and attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto: https://quarto.org. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines."
+    "text": "We’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and “fork” it to make it your own (particularly as it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nFigure 1: Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto: https://quarto.org. Quarto builds from what RStudio learned from RMarkdown, which we use for all Openscapes websites, blogs, and more. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines."
   },
   {
     "href": "index.html#citation",
@@ -324,10 +324,46 @@
     "text": "We have 4 Community Calls per year where we discuss and explore topics relevant to Openscapes."
   },
   {
-    "href": "approach/index.html#openscapes-mindset-and-practice",
+    "href": "approach/index.html#openscapes-mindset",
     "title": "Openscapes Approach",
-    "section": "Openscapes Mindset and practice",
-    "text": "We work openly and for Future Us.\nOpenscapes Mindset.\nGrowth Mindset.\nContinual learning — and practicing and iterating with that learning.\nPsychological safety (Edmundson).\nKinder science.\nWe use the same open source tools that teach."
+    "section": "Openscapes Mindset",
+    "text": "The Openscapes Mindset is about moving away from lonely, individual science and towards science that is more efficient, open, collaborative, inclusive and kind. We describe this for research teams in the Champions Lesson Series. This mindset also drives how we lead Openscapes as a program and an approach, as described below."
+  },
+  {
+    "href": "approach/index.html#we-work-openly-and-for-future-us.",
+    "title": "Openscapes Approach",
+    "section": "We work openly and for Future Us.",
+    "text": "We share imperfect work and work in progress openly. Some examples of this are this Approach Guide, the Lesson Series, as well as our how-we-work Openscapes Planning GitHub Project. We also have open learning conversations through our Community Calls."
+  },
+  {
+    "href": "approach/index.html#growth-mindset",
+    "title": "Openscapes Approach",
+    "section": "Growth Mindset",
+    "text": "We work with a Growth Mindset, described by Dr. Carol Dweck as having an understanding that our talents and abilities can be developed through effort, good teaching, and persistence. This is opposed to a fixed mindset, where individuals believe their basic abilities, their intelligence, their talents, are just fixed traits and cannot be improved through hard work."
+  },
+  {
+    "href": "approach/index.html#continual-learning-practice-and-iteration",
+    "title": "Openscapes Approach",
+    "section": "Continual learning, practice, and iteration",
+    "text": "We are continually learning and practicing what we learn. We practice in our Champions Cohorts, Community Calls, our team Seaside Chats, and in conversation. As we practice we iterate with that learning."
+  },
+  {
+    "href": "approach/index.html#psychological-safety",
+    "title": "Openscapes Approach",
+    "section": "Psychological Safety",
+    "text": "We practice and promote psychological safety, described by Dr. Amy Edmundson as a shared belief held by members of a team that the team is safe for interpersonal risk taking.\nPart of this practice is to start off team meetings with check-ins to see how everyone is doing that day/week, and explicitly voicing to new partners that psychological safety is foundational to our work and to please speak up if something is ever not feeling right."
+  },
+  {
+    "href": "approach/index.html#kinder-science",
+    "title": "Openscapes Approach",
+    "section": "Kinder science",
+    "text": "We work not only towards open science, but kinder science, and approach this in our work through empathy and listening, and also onboarding folks to the tooling we use to reduce friction as we collaborate. From Lowndes 2019 Open Software Means Kinder Science: “Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It’s about technology enabling social infrastructure that can promote inclusivity to create kinder science.”"
+  },
+  {
+    "href": "approach/index.html#we-use-the-same-open-source-tools-that-we-teach",
+    "title": "Openscapes Approach",
+    "section": "We use the same open source tools that we teach",
+    "text": "We use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can’t imagine science without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning."
   },
   {
     "href": "approach/tooling.html",
