@@ -268,10 +268,12 @@ Julie and Erin
 
 ## Cohort welcome
 
+### Week prior
+
 \~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan and a few action items. This includes providing an email address that can access Google Drive and their GitHub username!
 
 ::: {.callout-tip collapse="true"}
-## Example email to welcome cohort
+## Example email to welcome cohort: week prior
 Hello All, 
 
 We are so excited to welcome you to the 2021 SASI Openscapes Champions Cohort! Our first Cohort Call is in one week on September 9 and we wanted to share some information with you.
@@ -315,3 +317,25 @@ Cheers,
 
 Julie, Erin, Lenny, and Emma
 :::
+
+### Day prior
+
+
+::: {.callout-tip collapse="true"}
+## Example email to welcome cohort: day prior
+
+Hi All,
+
+We're excited to meet you all with your teams as a full Cohort tomorrow at [ Time ] Pacific Time!
+
+You should have all received Google Calendar invites with the Zoom call-in information; call-in info is also pasted below. We've also just invited you to the [ Openscapes_CohortCalls folder ] where all agendas and other documents will be organized throughout our Cohort.
+
+Please also update your information in the [] OpenscapesParticipants spreadsheet ] and learn about the other participating teams at [ https://openscapes.github.io/2021-sasi ].
+
+Looking forward to it!
+Cheers,
+Julie, Erin, Lenny, and Emma
+
+Zoom call-in information
+
+[ via web and phone ]
