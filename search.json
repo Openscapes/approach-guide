@@ -327,7 +327,7 @@
     "href": "champions/leading-cohort-calls.html#roles",
     "title": "Leading Cohort Calls",
     "section": "Roles",
-    "text": "There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.\n\nTech Host: Zoom co-host, create breakout groups, monitor chat, help note-taking\nFacilitator: Leads discussion as noted in the Agenda\nTeacher: Talks through demos and slides"
+    "text": "There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.\n\nTech Host: Zoom co-host, create breakout groups, monitor chat & Slack, help note-taking\nFacilitator: Leads discussion as noted in the Agenda\nTeacher: Talks through demos and slides"
   },
   {
     "href": "champions/leading-cohort-calls.html#before-each-cohort-call",
@@ -339,7 +339,7 @@
     "href": "champions/leading-cohort-calls.html#during-cohort-calls",
     "title": "Leading Cohort Calls",
     "section": "During Cohort Calls",
-    "text": "Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage."
+    "text": "Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage.\n\n\n\n\n\n\n\nExample chat welcome text\n\n\n\n\n\nWelcome! Please write your name in Roll Call as you join: [ doc ]\nIf you need access to the doc please put your email in chat\nAnd please rename yourself with how you’d like to be called and your team name (hover over your name or video > 3 dots > Rename)"
   },
   {
     "href": "champions/leading-cohort-calls.html#between-cohort-calls",
@@ -370,5 +370,11 @@
     "title": "Leading Cohort Calls",
     "section": "Seaside Chats",
     "text": "Champions teams will hold Seaside Chats."
+  },
+  {
+    "href": "champions/leading-cohort-calls.html#first-cohort-call",
+    "title": "Leading Cohort Calls",
+    "section": "First Cohort Call",
+    "text": "Beforehand\nSet up Slack Channel with all assistants\n\n\n\n\n\n\nExample slack text: team coordination\n\n\n\n\n\nHi All, Excited for today! We’ll share the [ Agenda ] in chat, and expect that some folks will still need to request access. We’ll ask them to share their emails in chat so that we can add them quickly - to the folder if possible. If you add access for someone, would you also add their email to [ OpenscapesParticipants ] and I’ll revisit afterwards. Thanks!\n\n\n\n\n\nAfterwards\nSlack invites\n\nCreate a private Slack channel for the Cohort, invite everyone to the Org and private channel\nWrite a welcome message in the general or welcome channel\n\n\n\nGitHub Clinic Invites\nSend Calendar Invites for the GitHub Clinics:\n\n\n\n\n\n\nExample Google Calendar Description text: GitHub Clinic\n\n\n\n\n\nGitHub Clinics that can serve as your first Seaside Chat. We’ll cover how to use GitHub collaboratively from the browser: focused on publishing and project management.\nThere are 2 options and 2 calendar invites; please accept a time that works for you and we’ll share the recording as well if your team will meet independently for your first Seaside Chat."
   }
 ]
