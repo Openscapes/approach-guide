@@ -7,10 +7,10 @@ Everyone on the Openscapes team should be a confident leader and active contribu
 
 ## Roles
 
-There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.
+There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms. 
 
 -   **Tech Host**: Zoom co-host, create breakout groups, monitor chat & Slack, help note-taking
--   **Facilitator**: Leads discussion as noted in the Agenda
+-   **Facilitator**: Zoom co-host, leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
 ## Before Cohort Calls
@@ -53,7 +53,7 @@ See examples:
 
 ### Clinics
 
-**GitHub Clinics** are 1 hour long, and require at least two team members. 
+**GitHub Clinics** are 1 hour long, and require at least two team members.
 
 During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team. 
 
