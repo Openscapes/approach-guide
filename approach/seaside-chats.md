@@ -14,7 +14,7 @@ We also have [co-working sessions](https://www.cscce.org/2020/02/04/online-co-wo
 
 ## Hackathons
 
-We have hackathons to tackle specific tasks together. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a hackathon! We made chapter headings to outline the guide and built and iterated as we went.
+We have hackathons to tackle specific tasks together. We use this word to mean working on something together in real time that benefits the project or team. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a hackathon! We made chapter headings to outline the guide and built and iterated as we went.
 
 ## Community Calls
 

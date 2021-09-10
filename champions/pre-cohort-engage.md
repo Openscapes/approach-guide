@@ -274,23 +274,26 @@ Julie and Erin
 
 ::: {.callout-tip collapse="true"}
 ## Example email to welcome cohort: week prior
-Hello All, 
+
+**Welcome to Openscapes -- SASI Champions Cohort** 
+
+Hello All,
 
 We are so excited to welcome you to the 2021 SASI Openscapes Champions Cohort! Our first Cohort Call is in one week on September 9 and we wanted to share some information with you.
 
 **Plan.**
 
-[Openscapes](https://openscapes.org) is an approach for doing better science in less time. We help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Our Cohort is supported by the Gordon and Betty Moore Foundation's [Symbiosis in Aquatic Systems Initiative (SASI)](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative), and we’re partnering with [protocols.io](https://protocols.io), a secure platform for developing and sharing reproducible methods. 
+[Openscapes](https://openscapes.org) is an approach for doing better science in less time. Through the Champions program we help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Our Cohort is supported by the Gordon and Betty Moore Foundation's [Symbiosis in Aquatic Systems Initiative (SASI)](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative), and we're partnering with [protocols.io](https://protocols.io), a secure platform for developing and sharing reproducible methods.
 
 **Cohort Logistics.**
 
-Details and short intros of participating labs are at[ https://openscapes.github.io/2021-sasi](https://openscapes.github.io/2021-sasi). We pulled intros from your websites; if you have edits please do so through GitHub – and if you don’t yet know how to do this, you’ll learn in our GitHub Clinic after Call 1!
+Details and short intros of participating labs are at <https://openscapes.github.io/2021-sasi>. We pulled intros from your websites; if you have edits please do so through GitHub -- and if you don't yet know how to do this, you'll learn in our GitHub Clinic after Call 1!
 
 **Before Sept 9, please**:
 
-1. **Check that you’ve received Google Calendar invites with Zoom links** for our 8 Cohort Calls starting Sept 9. If you have not received these invites, please let us know. 
-2. **Complete your information in OpenscapesParticipants [ 2021-sasi ]** to make sure you can access the software we’ll use (Google Drive and GitHub).
-3. **Read [Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools. Optionally, you can also review the slides/video of a [recent plenary](https://www.openscapes.org/blog/2021/08/01/sortee-plenary/).
+1.  **Check that you've received Google Calendar invites with Zoom links** for our 8 Cohort Calls starting Sept 9. If you have not received these invites, please let us know.
+2.  **Complete your information in OpenscapesParticipants \[ 2021-sasi \]** to make sure you can access the software we'll use (Google Drive and GitHub).
+3.  **Read [Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools. Optionally, you can also review the slides/video of a [recent plenary](https://www.openscapes.org/blog/2021/08/01/sortee-plenary/).
 
 **Additional Information.**
 
@@ -298,20 +301,20 @@ All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code
 
 Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
 
-Schedule “Seaside Chats”: In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings “[Seaside Chats](https://github.com/Openscapes/seaside-chats)” and suggest you schedule them with your team now (PIs do not need to attend).
+Schedule "Seaside Chats": In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings "[Seaside Chats](https://github.com/Openscapes/seaside-chats)" and suggest you schedule them with your team now (PIs do not need to attend).
 
-The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more – this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
+The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more -- this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
 
 **Meet the Openscapes team.**
 
-We’re the team you’ll see most often on the calls, along with a few guest speakers:
+We're the team you'll see most often on the calls, along with a few guest speakers:
 
-* [Julie Lowndes](http://jules32.github.cio), Openscapes founder and co-director, NCEAS, UCSB
-* [Erin Robinson](http://erinrobinson.net/), Openscapes co-director, Metadata Game Changers
-* [Lenny Teytelman](https://www.protocols.io/researchers/lenny-teytelman8), protocols.io founder and CEO
-* [Emma Ganley](https://www.linkedin.com/in/eganley/), protocols.io Director of Strategic Initiatives
+-   [Julie Lowndes](http://jules32.github.cio), Openscapes founder and co-director, NCEAS, UCSB
+-   [Erin Robinson](http://erinrobinson.net/), Openscapes co-director, Metadata Game Changers
+-   [Lenny Teytelman](https://www.protocols.io/researchers/lenny-teytelman8), protocols.io founder and CEO
+-   [Emma Ganley](https://www.linkedin.com/in/eganley/), protocols.io Director of Strategic Initiatives
 
-Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we’re looking forward to getting to know all of you and strengthening relationships within the Cohort. 
+Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we're looking forward to getting to know all of you and strengthening relationships within the Cohort.
 
 Cheers,
 
@@ -320,23 +323,20 @@ Julie, Erin, Lenny, and Emma
 
 ### Day prior
 
-
 ::: {.callout-tip collapse="true"}
 ## Example email to welcome cohort: day prior
 
 Hi All,
 
-We're excited to meet you all with your teams as a full Cohort tomorrow at [ Time ] Pacific Time!
+We're excited to meet you all with your teams as a full Cohort tomorrow at \[ Time \] Pacific Time!
 
-You should have all received Google Calendar invites with the Zoom call-in information; call-in info is also pasted below. We've also just invited you to the [ Openscapes_CohortCalls folder ] where all agendas and other documents will be organized throughout our Cohort.
+You should have all received Google Calendar invites with the Zoom call-in information; call-in info is also pasted below. We've also just invited you to the \[ Openscapes_CohortCalls folder \] where all agendas and other documents will be organized throughout our Cohort.
 
-Please also update your information in the [] OpenscapesParticipants spreadsheet ] and learn about the other participating teams at [ https://openscapes.github.io/2021-sasi ].
+Please also update your information in the \[\] OpenscapesParticipants spreadsheet \] and learn about the other participating teams at \[ https://openscapes.github.io/2021-sasi \].
 
-Looking forward to it!
-Cheers,
-Julie, Erin, Lenny, and Emma
+Looking forward to it! Cheers, Julie, Erin, Lenny, and Emma
 
 Zoom call-in information
 
-[ via web and phone ]
+\[ via web and phone \]
 :::
