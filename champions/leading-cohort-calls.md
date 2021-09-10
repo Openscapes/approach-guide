@@ -59,6 +59,8 @@ During the Clinic, the Tech Host will make breakout groups, either based on thei
 
 The Facilitator leads the agenda, and Teacher talks through the slides and screenshares. 
 
+Team members can also circulate in the breakout rooms to check in, help, and share.
+
 Preparing for the GitHub Clinic involves: 
 
 - making a copy of the [GitHub Clinic Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit)
