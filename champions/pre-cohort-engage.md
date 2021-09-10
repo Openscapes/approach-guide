@@ -244,20 +244,20 @@ We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. T
     -   \
 :::
 
-## Guest lecturers
+## Guest teachers
 
-We invite guest lecturers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest lecturers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorium for their time and expertise.
+We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
 
 ::: {.callout-tip collapse="true"}
-## Example email to guest lecturer
+## Example email to guest teacher
 
-Hi \[ potential guest lecturer\],
+Hi \[ potential guest teacher\],
 
 How are you? I hope you've had a break this summer and are doing ok with everything going on.
 
 Openscapes a few Champions cohorts we're leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here's the [cohort page](https://openscapes.github.io/2021-fdd/)).
 
-We wanted to see if you'd be interested in guest lecturing at one of these Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We're thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you're welcome to just attend for your part). We are able to offer an honorarium as well.
+We wanted to see if you'd be interested in being a guest teacher at one of these Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We're thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you're welcome to just attend for your part). We are able to offer an honorarium as well.
 
 We're excited to hear your ideas, and if this isn't the right thing now to think about if there's another way we can involve you in the future if you'd like. We'd love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?
 
@@ -275,7 +275,7 @@ Julie and Erin
 ::: {.callout-tip collapse="true"}
 ## Example email to welcome cohort: week prior
 
-**Welcome to Openscapes -- SASI Champions Cohort** 
+**Welcome to Openscapes -- SASI Champions Cohort**
 
 Hello All,
 

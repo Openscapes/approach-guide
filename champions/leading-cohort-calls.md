@@ -13,9 +13,10 @@ There are three main roles when we lead Cohort Calls. When folks are assisting a
 -   **Facilitator**: Leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
-## Before each Cohort Call
+## Before Cohort Calls
 
-Prepare the Agenda; see [Agenda Setup](/champions/pre-cohort-tech.md#agenda-setup).
+- Prepare the Agenda; see [Agenda Setup](/champions/pre-cohort-tech.md#agenda-setup).
+- Review Roles, with particular focus on facilitator and tech host roles
 
 ## During Cohort Calls
 
@@ -37,7 +38,7 @@ And please rename yourself with how you'd like to be called and your team name (
 
 Between Calls there are tasks for the Openscapes team and for the Champions teams.
 
-## Digests
+### Digests
 
 We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
 
@@ -50,19 +51,31 @@ See examples:
 -   [03 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/17)
 -   [04 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/19)
 
-## Clinics
+### Clinics
 
-GitHub Clinic
+**GitHub Clinics** are 1 hour long, and require at least two team members. 
 
-## Co-working
+During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team. 
+
+The Facilitator leads the agenda, and Teacher talks through the slides and screenshares. 
+
+Preparing for the GitHub Clinic involves: 
+
+- making a copy of the [GitHub Clinic Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit)
+- adding participant GitHub usernames to the Cohort's repo
+- reviewing the slides
+
+### Co-working
 
 Not Office Hours
 
-## Seaside Chats
+### Seaside Chats
 
 Champions teams will hold Seaside Chats.
 
 ## First Cohort Call
+
+The first Cohort Call has additional setup and followup, since we introduce and follow up on things that we discuss together (i.e. Slack)
 
 ### Beforehand
 
