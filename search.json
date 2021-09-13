@@ -204,6 +204,42 @@
     "text": "The following can be built into a statement of work with our Partners.\n\nSummary and Scope\nOpenscapes offers mentorship, training, coaching and community organizing centered around open data science to help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report. Our approach for doing better, more reproducible and inclusive team science in less time, is to first support scientists to create workflows that allow sharing with themselves (Future You) as well as with their teams and collaborators (Future Us). Future Us considers our teams, communities, and those who will be joining and continuing our work, whether that is next hours, weeks or decades (Lowndes & Robinson, 2021).\nOften we find that research teams are not sharing openly, internally among themselves. By considering and creating practices that support Future Us, the Openscapes approach helps research groups reimagine data analysis, develop modern data management and sharing skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches promote kinder science through technical tooling and diversity, equity, and inclusion, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a mentorship and professional development opportunity for scientific research teams to explore open data science, including data management and sharing practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend a Champions cohort series as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g., R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThrough the Champions cohort series, a cohort of 6-8 teams will meet 4 times over 2 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nChampions Cohort Goals\nThe goals of the Champions cohort series is to help teams normalize open data science discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others on new (and existing) projects. We will:\n\nCreate leaders within a research community to champion open science best practices\nHelp participants adopt open science tooling and practices, including reproducibility, openness, collaboration, inclusion, share methods sooner\nExplore practices that build trust and community within and across teams (across career stages)\nImprove ease and confidence in sharing imperfect work within their teams and cohort\nEmpower participants to become champions for more collaborative, open science within their teams and transform their own workflows.\n\n\n\nServices\nOpenscapes will provide the curriculum, agendas, and lead the remote cohort series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nTeam culture, Technical strategies for future us\nCoding communities, Research examples\nSharing Pathways forward\n\nAdditionally, we lead:\n\nGitHub Clinics for hands-on team skill-building\nCommunity engagement leading up to, throughout, and after the Cohort\n\nOpenscapes will co-create recruiting materials (e.g., openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote workshop series along with workshop helpers. We are beginning to evaluate the Champions program as well.\nNote: Participants attend as teams. Participants attend as teams including team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are: 1) Everyone sees the value in open project management and data sharing practices 2) Leads enable their team members to invest time in learning skills and developing lab workflows 3) Team members have guidance, agency, and support to incorporate open science, data management and sharing concepts into their research 4) Everyone contributes to growing the community of practice within the research group, institution, and online, in whatever capacity their role and circumstances allow. See also the Champions Program FAQ."
   },
   {
+    "href": "champions/pre-cohort-tech.html#overview",
+    "title": "Pre-cohort tech setup",
+    "section": "Overview",
+    "text": "Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an openscapesr R package, stay tuned."
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#github-repo",
+    "title": "Pre-cohort tech setup",
+    "section": "GitHub repo",
+    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\nTemporary hacky approach for adding files to the repo for the GitHub Clinic:\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(datapasta) # install.packages(\"datapasta\")\n# restart RStudio Session: click on the repo name top right, click on the name of the repo\n\nfile_in <-  \"gh-clinic-text.md\"\ntext_template <- read_lines(file_in)\n\n## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!\ncohort <-c(\"Ameya\", \"Amy\", \"Andrea\", \"Anthony\", \"Chris\", \"Daniel\", \"Danyel\", \"Duran\", \"Ellysa\", \n           \"Gabrielle\", \"Hu\", \"Jonathan\", \"Julia\", \"Kathyn\", \"Kelly\", \"Madeline\", \"Maria_t\", \"Maria_r\", \"Megan\", \n           \"Nicole\", \"Nidal\", \"Nipam\", \"Sittman\", \"Sophia\", \"Srikari\", \"Swapna\", \"Syrena\", \"Yixian\")\n## check by hand that there are no dupicates and if so, underscore with last name intitial\ncohort <- str_to_lower(cohort)\n\nsetwd(\"github-clinic\")\n\nfor (champion in cohort) {\n  \n  file_out <- glue::glue(champion, \".md\")\n  text_write <- write_lines(text_template, file_out)\n  \n}\n\n\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next."
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#data-entry",
+    "title": "Pre-cohort tech setup",
+    "section": "Data entry",
+    "text": "As teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nMore details upcoming: Airtable"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#cohort-google-folder",
+    "title": "Pre-cohort tech setup",
+    "section": "Cohort Google Folder",
+    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#agenda-setup",
+    "title": "Pre-cohort tech setup",
+    "section": "Agendas",
+    "text": "Blank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See\n\nAgenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nLesson with activity 1\nLesson with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
+  },
+  {
+    "href": "champions/pre-cohort-tech.html#slack",
+    "title": "Pre-cohort tech setup",
+    "section": "Slack",
+    "text": "After the first Cohort Call, we:\n\nCreate a private Slack channel for the cohort Invite everyone to Slack"
+  },
+  {
     "href": "champions/design.html",
     "title": "Program design",
     "section": "",
@@ -276,42 +312,6 @@
     "text": "Modeled after SGCI\n\nvery limited structure on the call\nrevisit repo\nshare summaries from pathways"
   },
   {
-    "href": "champions/pre-cohort-tech.html#overview",
-    "title": "Pre-cohort tech setup",
-    "section": "Overview",
-    "text": "Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an openscapesr R package, stay tuned."
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#github-repo",
-    "title": "Pre-cohort tech setup",
-    "section": "GitHub repo",
-    "text": "Prior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next."
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#data-entry",
-    "title": "Pre-cohort tech setup",
-    "section": "Data entry",
-    "text": "As teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nMore details upcoming: Airtable"
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#cohort-google-folder",
-    "title": "Pre-cohort tech setup",
-    "section": "Cohort Google Folder",
-    "text": "Prior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#agenda-setup",
-    "title": "Pre-cohort tech setup",
-    "section": "Agendas",
-    "text": "Blank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See\n\nAgenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nLesson with activity 1\nLesson with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
-  },
-  {
-    "href": "champions/pre-cohort-tech.html#slack",
-    "title": "Pre-cohort tech setup",
-    "section": "Slack",
-    "text": "After the first Cohort Call, we:\n\nCreate a private Slack channel for the cohort Invite everyone to Slack"
-  },
-  {
     "href": "champions/lessons.html#lessons-review",
     "title": "Lesson Planning",
     "section": "Lessons Review",
@@ -339,7 +339,7 @@
     "href": "champions/leading-cohort-calls.html#during-cohort-calls",
     "title": "Leading Cohort Calls",
     "section": "During Cohort Calls",
-    "text": "Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage.\n\n\n\n\n\n\n\nExample chat welcome text\n\n\n\n\n\nWelcome! Please write your name in Roll Call as you join: [ doc ]\nIf you need access to the doc please put your email in chat\nAnd please rename yourself with how you’d like to be called and your team name (hover over your name or video > 3 dots > Rename)"
+    "text": "Software to have open:\n\nZoom\nSlack for back-channeling if needed, likely not\nWelcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nmonitor the chat\nhelp with note-taking. Both to capture what folks are saying and to role-model. Help other engage.\n\n\n\n\n\n\n\nExample chat welcome text\n\n\n\n\n\nWelcome! Please write your name in Roll Call as you join: [ doc ]\nIf you need access to the doc please put your email in chat\nAnd please rename yourself with how you’d like to be called and your team name (hover over your name or video > 3 dots > Rename)"
   },
   {
     "href": "champions/leading-cohort-calls.html#between-cohort-calls",
@@ -351,6 +351,6 @@
     "href": "champions/leading-cohort-calls.html#first-cohort-call",
     "title": "Leading Cohort Calls",
     "section": "First Cohort Call",
-    "text": "The first Cohort Call has additional setup and followup, since we introduce and follow up on things that we discuss together (i.e. Slack)\n\nBeforehand\nSet up Slack Channel with all assistants\n\n\n\n\n\n\nExample slack text: team coordination\n\n\n\n\n\nHi All, Excited for today! We’ll share the [ Agenda ] in chat, and expect that some folks will still need to request access. We’ll ask them to share their emails in chat so that we can add them quickly - to the folder if possible. If you add access for someone, would you also add their email to [ OpenscapesParticipants ] and I’ll revisit afterwards. Thanks!\n\n\n\n\n\nAfterwards\nSlack invites\n\nCreate a private Slack channel for the Cohort, invite everyone to the Org and private channel\nWrite a welcome message in the general or welcome channel\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nHi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details.\n\n\n\n\n\nGitHub Clinic Invites\nSend Calendar Invites for the GitHub Clinics:\n\n\n\n\n\n\nExample Google Calendar Description text: GitHub Clinic\n\n\n\n\n\nGitHub Clinics that can serve as your first Seaside Chat. We’ll cover how to use GitHub collaboratively from the browser: focused on publishing and project management.\nThere are 2 options and 2 calendar invites; please accept a time that works for you and we’ll share the recording as well if your team will meet independently for your first Seaside Chat."
+    "text": "The first Cohort Call has additional setup and followup, since we introduce and follow up on things that we discuss together (i.e. Slack)\n\nBeforehand\nSet up Slack Channel with all assistants\n\n\n\n\n\n\nExample slack text: team coordination\n\n\n\n\n\nHi All, Excited for today! We’ll share the [ Agenda ] in chat, and expect that some folks will still need to request access. We’ll ask them to share their emails in chat so that we can add them quickly - to the folder if possible. If you add access for someone, would you also add their email to [ OpenscapesParticipants ] and I’ll revisit afterwards. Thanks!\n\n\n\n\n\nAfterwards\nSlack invites\n\nCreate a private Slack channel for the Cohort, invite everyone to the Org and private channel\nWrite a welcome message in the general or welcome channel\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nHi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details.\n\n\n\n\n\nGitHub Clinic Invites\nSend Calendar Invites for the GitHub Clinics:\n\n\n\n\n\n\nExample Google Calendar Description text: GitHub Clinic\n\n\n\n\n\nGitHub Clinics that can serve as your first Seaside Chat. We’ll cover how to use GitHub collaboratively from the browser: focused on publishing and project management.\nThere are 2 options and 2 calendar invites; please accept a time that works for you and we’ll share the recording as well if your team will meet independently for your first Seaside Chat.\n\n\n\nSlack reminder:\n\n\n\n\n\n\nExample Slack reminder text: GitHub Clinic\n\n\n\n\n\nHi @channel! Today’s GitHub Clinic is in 3 hours (12pm PT, [ zoom link ])! For folks who’ve already provided their github usernames, please check your email to accept the invitation from GitHub for the repository. And for folks who haven’t yet shared/created a GitHub username, there is still time! Create an account at GitHub.com and share your username here in slack or in the [ participant spreadsheet ]. Thanks!\n\n\n\nCreate a Cohort copy of the GitHub Clinic Agenda Template, save it in the Cohort’s folder"
   }
 ]
