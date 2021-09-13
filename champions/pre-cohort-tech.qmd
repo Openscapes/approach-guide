@@ -1,6 +1,9 @@
 ---
 title: "Pre-cohort tech setup"
-format: html
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
 ---
 
 ## Overview
@@ -20,6 +23,35 @@ Prior to the GitHub Clinic, we:
 -   *Add Evaluation information*
 
 Example: <https://github.com/Openscapes/2021-noaa-nmfs>
+
+Temporary hacky approach for adding files to the repo for the GitHub Clinic: 
+
+```{r}
+#| eval: false
+library(tidyverse)
+library(datapasta) # install.packages("datapasta")
+# restart RStudio Session: click on the repo name top right, click on the name of the repo
+
+file_in <-  "gh-clinic-text.md"
+text_template <- read_lines(file_in)
+
+## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!
+cohort <-c("Ameya", "Amy", "Andrea", "Anthony", "Chris", "Daniel", "Danyel", "Duran", "Ellysa", 
+           "Gabrielle", "Hu", "Jonathan", "Julia", "Kathyn", "Kelly", "Madeline", "Maria_t", "Maria_r", "Megan", 
+           "Nicole", "Nidal", "Nipam", "Sittman", "Sophia", "Srikari", "Swapna", "Syrena", "Yixian")
+## check by hand that there are no dupicates and if so, underscore with last name intitial
+cohort <- str_to_lower(cohort)
+
+setwd("github-clinic")
+
+for (champion in cohort) {
+  
+  file_out <- glue::glue(champion, ".md")
+  text_write <- write_lines(text_template, file_out)
+  
+}
+
+```
 
 ### For the GitHub Clinic:
 

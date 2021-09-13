@@ -13,12 +13,18 @@ There are three main roles when we lead Cohort Calls. When folks are assisting a
 -   **Facilitator**: Zoom co-host, leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
+
 ## Before Cohort Calls
 
 - Prepare the Agenda; see [Agenda Setup](/champions/pre-cohort-tech.md#agenda-setup).
 - Review Roles, with particular focus on facilitator and tech host roles
 
 ## During Cohort Calls
+
+Software to have open: 
+
+- Zoom
+- Slack for back-channeling if needed, likely not 
 
 -   Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)
 -   monitor the chat
@@ -111,3 +117,13 @@ GitHub Clinics that can serve as your first Seaside Chat. We'll cover how to use
 
 There are 2 options and 2 calendar invites; please accept a time that works for you and we'll share the recording as well if your team will meet independently for your first Seaside Chat.
 :::
+
+Slack reminder: 
+
+::: {.callout-tip collapse="true"}
+## Example Slack reminder text: GitHub Clinic
+Hi \@channel! Today's GitHub Clinic is in 3 hours (12pm PT, [ zoom link ])! For folks who've already provided their github usernames, please check your email to accept the invitation from GitHub for the repository. And for folks who haven't yet shared/created a GitHub username, there is still time! Create an account at GitHub.com and share your username here in slack or in the [ participant spreadsheet ]. Thanks!
+
+:::
+
+Create a Cohort copy of the [GitHub Clinic Agenda Template](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit#heading=h.ypq91biaklid), save it in the Cohort's folder
