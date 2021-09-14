@@ -24,7 +24,19 @@ Prior to the GitHub Clinic, we:
 
 Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
-Temporary hacky approach for adding files to the repo for the GitHub Clinic: 
+### For the GitHub Clinic:
+
+Before the GitHub Clinic, we:
+
+-   Add all usernames with member privileges
+    - create a GitHub "team" for the cohort and then give it access to the Cohort repo
+-   Create each person's files
+
+We'll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next. 
+
+
+
+#### Temporary hacky approach for adding files to the repo for the GitHub Clinic: 
 
 ```{r}
 #| eval: false
@@ -53,14 +65,12 @@ for (champion in cohort) {
 
 ```
 
-### For the GitHub Clinic:
+### Leading GitHub Clinics
 
-Before the GitHub Clinic, we:
+- add Openscapes Team as co-hosts
 
--   Add all usernames with admin privileges
--   Create each person's files
 
-We'll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next. 
+
 
 ## Data entry
 
