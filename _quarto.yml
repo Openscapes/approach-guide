@@ -47,8 +47,7 @@ site:
         - contributing/setup.md
         - contributing/workflow.md
         - contributing/inspiration.md
-    footer:
-      - attribution:"For attribution, please cite this work as Openscapes Approach Guide. Retrieved from https://github.com/Openscapes/approach-guide "
+  footer: "**Citation.** Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide."
 
 bibliography: references.bib
 
