@@ -2,7 +2,7 @@
 title: "Openscapes Approach Guide"
 subtitle: "A guide to the Openscapes approach" 
 date: "`r Sys.Date()`"
-author: "Julie Lowndes and Erin Robinson"
+author: "Julia Stewart Lowndes & Erin Robinson"
 citation_url: https://openscapes.github.io/approach-guide/
 slug: index
 bibliography: references.bib
@@ -40,8 +40,10 @@ We're collaboratively making the Openscapes Approach Guide with Quarto: <https:/
 
 ## Citation 
 
+All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md).
+
 Please cite this guide as: 
 
-Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.
+The Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.
 
 ![[Openscapes artwork by Allison Horst](https://www.openscapes.org/gallery/)](images/horst-openscapes-mentors.jpg)

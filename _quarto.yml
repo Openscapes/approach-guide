@@ -47,7 +47,7 @@ site:
         - contributing/setup.md
         - contributing/workflow.md
         - contributing/inspiration.md
-  footer: "Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1)."
+  footer: "Openscapes Core Team, Julia Stewart Lowndes & Erin Robinson (2021). Openscapes Approach Guide (Version v0.0.1)."
 
 bibliography: references.bib
 
