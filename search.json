@@ -96,6 +96,12 @@
     "text": "We’ll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. Here are the first few meetings.\n\nLesson Contributors\n\nGetting oriented: discuss Cohort Calls, lesson series, brainstorm lesson plan\n\ncohort dates/calendar\nadd to Slack\n\nLesson workplan: solidify lesson plan, establish workplan/co-working\n\n\n\nCohort Assistants\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site"
   },
   {
+    "href": "approach/onboarding.html#github-issues",
+    "title": "Onboarding",
+    "section": "GitHub Issues",
+    "text": "As we get further along with planning the Cohort (and perhaps a GitHub Clinic), we’ll add a GitHub team to the cohort-planning, where we’ll use Issues to help coordinate and also pin “quicklinks” so that we can easily navigate to the docs we need when we need them when leading cohort calls!"
+  },
+  {
     "href": "approach/calendar.html#calendar",
     "title": "Calendar",
     "section": "Calendar",
@@ -306,10 +312,22 @@
     "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill sets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
   },
   {
+    "href": "champions/post-cohort-followup.html#thank-you-email",
+    "title": "Post-Cohort followup",
+    "section": "Thank you email",
+    "text": ""
+  },
+  {
+    "href": "champions/post-cohort-followup.html#survey",
+    "title": "Post-Cohort followup",
+    "section": "Survey",
+    "text": ""
+  },
+  {
     "href": "champions/post-cohort-followup.html#month-check-ins",
     "title": "Post-Cohort followup",
     "section": "3-Month Check-Ins",
-    "text": "Modeled after SGCI\n\nvery limited structure on the call\nrevisit repo\nshare summaries from pathways"
+    "text": "Modeled after SGCI\n\nvery limited structure on the call\nrevisit repo\nshare summaries from pathways\n\n\n\n\n\n\n\nExample Google Calendar text: CSS Openscapes 3-month check-in (optional)\n\n\n\n\n\nHello CS&S Champions! This is an optional 3-month check-in to reconnect and share updates since our Cohort. You can also always connect with the community more on Slack, and through upcoming community calls and other events: https://openscapes.org/events"
   },
   {
     "href": "champions/lessons.html#lessons-review",
