@@ -37,3 +37,8 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
 1. **GitHub Clinic**: using GitHub to collaborate and publish from the web
 1. **RMarkdown/Quarto Clinic**: how to contribute to the approach-guide and events site
 
+## GitHub Issues
+
+As we get further along with planning the Cohort (and perhaps a GitHub Clinic), we'll add a GitHub team to the [cohort-planning](https://github.com/openscapes/cohort-planning), where we'll use Issues to help coordinate and also pin "quicklinks" so that we can easily navigate to the docs we need when we need them when leading cohort calls!
+
+![](images/github-cohort-planning.png)
