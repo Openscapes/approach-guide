@@ -19,3 +19,14 @@ We have hackathons to tackle specific tasks together. We use this word to mean w
 ## Community Calls
 
 We have 4 Community Calls per year where we discuss and explore topics relevant to Openscapes. 
+
+Community Calls are an hour long and generally follow this structure: 
+
+- begin 5 mins prior: rotating welcome slides and pump-up music
+- 5 mins: welcome, code of conduct, plan for the call, introduce guest
+- 25 mins: prepared conversation with guest
+- 10 mins: moderated questions/discussion from the chat
+- 10 mins: open discussion
+- finish 5 mins before a full hour 
+
+
