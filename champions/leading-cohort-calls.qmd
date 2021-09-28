@@ -13,6 +13,7 @@ There are three main roles when we lead Cohort Calls. When folks are assisting a
 -   **Facilitator**: Zoom co-host, leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
+Notes: focus on capturing questions and conversations and less about slides
 
 ## Before Cohort Calls
 
@@ -75,7 +76,15 @@ Preparing for the GitHub Clinic involves:
 
 ### Co-working
 
-Not Office Hours
+We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#): 
+
+#### Example Co-working agenda
+
+- Brief intros to share what we’re planning to work on
+- Create breakout rooms based on topics, and you can move yourself. Today: 
+    - ProjectBoards
+    - ChattierRoom - Eli there for Q&A. Pop in and out. 
+- Brief closing to share what you did & any resources!
 
 ### Seaside Chats
 

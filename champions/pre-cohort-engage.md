@@ -266,6 +266,25 @@ Cheers,
 Julie and Erin
 :::
 
+Followup email the week before:
+
+::: {.callout-tip collapse="true"}
+## Example email to guest teacher: week prior
+Hi Emily and Chanté,
+
+We're excited about your guest teaching and wanted to check in about it. We've had a good first week and two GitHub Clinics and people are excited to learn from how you both work!
+
+I've just shared our [draft Agenda] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you'd like, and whether it would make most sense to have more of a group discussion rather than breakouts. 
+
+How does all this sound? Happy to meet to chat about it/review together if you have questions, or continue discussions by email.
+
+Thank you!
+
+Cheers,
+
+Julie
+:::
+
 ## Cohort welcome
 
 ### Week prior
