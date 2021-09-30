@@ -76,9 +76,12 @@ Preparing for the GitHub Clinic involves:
 
 ### Co-working
 
+This is something we've just started with the Cohorts fall 2021 and they are going well. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too.  
+
 We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#): 
 
 #### Example Co-working agenda
+We share what we're going to work on, and then work quietly and then check in at the end as well. We also make breakout rooms for Q&A if folks want to screenshare and talk things out.
 
 - Brief intros to share what we’re planning to work on
 - Create breakout rooms based on topics, and you can move yourself. Today: 
