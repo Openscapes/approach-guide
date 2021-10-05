@@ -42,3 +42,7 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
 As we get further along with planning the Cohort (and perhaps a GitHub Clinic), we'll add a GitHub team to the [cohort-planning](https://github.com/openscapes/cohort-planning), where we'll use Issues to help coordinate and also pin "quicklinks" so that we can easily navigate to the docs we need when we need them when leading cohort calls!
 
 ![](images/github-cohort-planning.png)
+
+The [cohort-planning](https://github.com/openscapes/cohort-planning) repository is one of the repositories included in the Openscapes Organizational-level Projects board that helps us organize our "todo" items. We are getting into the rhythm of using Project Boards and can set up additional ones too.
+
+![](images/github-project-board.png)
