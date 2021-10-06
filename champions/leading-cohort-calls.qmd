@@ -13,7 +13,9 @@ There are three main roles when we lead Cohort Calls. When folks are assisting a
 -   **Facilitator**: Zoom co-host, leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
-Notes: focus on capturing questions and conversations and less about slides
+Note-taking should focus on capturing questions and conversations and less about slides. Copying questions from the Chat into the Agenda is also really helpful. 
+
+- Example Roles: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1)
 
 ## Before Cohort Calls
 
@@ -26,10 +28,11 @@ Software to have open:
 
 - Zoom
 - Slack for back-channeling if needed, likely not 
-
+- Agenda
+- Quicklinks Issue, Participants List (example: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1))
 -   Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)
--   monitor the chat
--   help with note-taking. Both to capture what folks are saying and to role-model. Help other engage.
+-   Monitor the chat
+-   Help with note-taking. Both to capture what folks are saying and to role-model. Help others engage.
 
 ::: {.callout-tip collapse="true"}
 ## Example chat welcome text
@@ -43,13 +46,15 @@ And please rename yourself with how you'd like to be called and your team name (
 
 ## Between Cohort Calls
 
-Between Calls there are tasks for the Openscapes team and for the Champions teams.
+Between Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).
 
 ### Digests
 
 We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
 
 Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes.
+
+We develop these in the Openscapes [cohort-planning](https://github.com/Openscapes/cohort-planning/issues?q=+label%3Adigest+) repo. 
 
 See examples:
 
@@ -58,29 +63,14 @@ See examples:
 -   [03 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/17)
 -   [04 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/19)
 
-### Clinics
-
-**GitHub Clinics** are 1 hour long, and require at least two team members.
-
-During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team. 
-
-The Facilitator leads the agenda, and Teacher talks through the slides and screenshares. 
-
-Team members can also circulate in the breakout rooms to check in, help, and share.
-
-Preparing for the GitHub Clinic involves: 
-
-- making a copy of the [GitHub Clinic Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit)
-- adding participant GitHub usernames to the Cohort's repo
-- reviewing the slides
-
 ### Co-working
 
 This is something we've just started with the Cohorts fall 2021 and they are going well. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too.  
 
-We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#): 
+We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#). 
 
-#### Example Co-working agenda
+::: {.callout-tip collapse="true"}
+## Example Co-working agenda
 We share what we're going to work on, and then work quietly and then check in at the end as well. We also make breakout rooms for Q&A if folks want to screenshare and talk things out.
 
 - Brief intros to share what we’re planning to work on
@@ -88,10 +78,11 @@ We share what we're going to work on, and then work quietly and then check in at
     - ProjectBoards
     - ChattierRoom - Eli there for Q&A. Pop in and out. 
 - Brief closing to share what you did & any resources!
+:::
 
 ### Seaside Chats
 
-Champions teams will hold Seaside Chats.
+Champions teams will hold Seaside Chats, and we share suggested topics each Cohort Call.
 
 ## First Cohort Call
 
@@ -139,3 +130,20 @@ Hi \@channel! Today's GitHub Clinic is in 3 hours (12pm PT, [ zoom link ])! For 
 :::
 
 Create a Cohort copy of the [GitHub Clinic Agenda Template](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit#heading=h.ypq91biaklid), save it in the Cohort's folder
+
+## GitHub Clinic
+
+**GitHub Clinic** are 1 hour long, and require at least two team members. *Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.* 
+
+During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team. 
+
+The Facilitator leads the agenda, and Teacher talks through the slides and screenshares. 
+
+Team members can also circulate in the breakout rooms to check in, help, and share.
+
+Preparing for the GitHub Clinic involves: 
+
+- making a copy of the [GitHub Clinic Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit)
+- adding participant GitHub usernames to the Cohort's repo
+- reviewing the slides
+

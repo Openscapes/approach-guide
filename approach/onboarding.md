@@ -18,7 +18,7 @@ The next step is to experience the Cohort Calls to see what they are really like
 - Watch a `CallRecording` while at the same time reading through the accompanying `CallAgenda` (we'll let you know which one we recommend). We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go
 - If you have time, also go through an additional agendas, recordings, and a few examples in the `PathwaysShare` folder
 
-## Seaside Chats
+## Seaside Chats / Co-working
 
 We'll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. Here are the first few meetings. 
 
@@ -28,6 +28,8 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
     - cohort dates/calendar
     - add to Slack
 1. **Lesson workplan**: solidify lesson plan, establish workplan/co-working
+    - Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
+1. **Co-working**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
 
 ### Cohort Assistants
 
@@ -36,6 +38,7 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
     - add to Slack
 1. **GitHub Clinic**: using GitHub to collaborate and publish from the web
 1. **RMarkdown/Quarto Clinic**: how to contribute to the approach-guide and events site
+1. **Co-working**: from here, we'll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects
 
 ## GitHub Issues
 

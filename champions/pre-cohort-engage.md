@@ -164,6 +164,29 @@ Julie Lowndes and Erin Robinson\
 Co-Directors, Openscapes
 :::
 
+#### Email to decline
+
+Declinining nominees is the worst.
+
+::: {.callout-tip collapse="true"}
+## Example email to decline nominees
+
+Dear NAME, 
+
+Thank you for nominating your team to participate in the Openscapes Champions CS&S Cohort; we appreciate your interest in learning with us. This was our first open call and we had more interest than we expected, and have not been able to accept all of the great teams that applied. Unfortunately, this means that we are not able to include you in our CS&S cohort.
+
+We will be looking to offer more opportunities like this one as we grow Openscapes as a program, and invite you to stay tuned through our (infrequent) newsletter and via Twitter @openscapes. There are also upcoming virtual opportunities at NCEAS, including through the Reproducible Research Techniques for Synthesis course in July.
+
+Cheers,
+
+Julie Lowndes and Erin Robinson
+
+Co-Directors, Openscapes
+
+
+
+:::
+
 ### Team setup and calendaring
 
 Here's the process as they PIs confirm with their teams:

@@ -4,6 +4,7 @@ format: html
 ---
 
 ```{r, echo=FALSE, message=FALSE}
+#| eval: false
 source("import_remote.R")
 ```
 
@@ -15,11 +16,13 @@ Each lesson is a 10-15 minute slide deck or demo, and there are two lessons per 
 
 We review our planned lessons before we teach. We add relevant updates and links; there are new examples and features that we add! It's a balance of adding these to slides or book chapters so that the slides have up-to-date information but aren't too overwhelming.
 
-We also invite Guest speakers. 
+We also invite guest teachers, and offer to pay them for their time. 
 
 ## Lesson Planning
 
 We'll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.
+
+- Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
 
 New lessons will build from the core lessons we lead for two-month cohorts (from the [Series welcome](https://openscapes.github.io/series/)):
 
