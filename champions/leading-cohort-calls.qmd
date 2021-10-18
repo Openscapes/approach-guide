@@ -44,6 +44,10 @@ Welcome! Please write your name in Roll Call as you join: \[ doc \]
 And please rename yourself with how you'd like to be called and your team name (hover over your name or video \> 3 dots \> Rename)
 :::
 
+### Guest teachers' presentations
+
+Screenshare! This way we can edit out the recording if groups would like to share these presentations publicly, for example with NOAA NMFS' Em Markowitz' [Data to Product Workflows](https://www.youtube.com/watch?v=CyqOjQwQLy8).
+
 ## Between Cohort Calls
 
 Between Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).
