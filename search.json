@@ -21,7 +21,7 @@
     "href": "contributing/setup.html#install-r-and-rstudio",
     "title": "Setup",
     "section": "Install R and RStudio",
-    "text": "To download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\nFollow your operating system’s normal installation process\n\n\nInstall Quarto\nTo cownload and Install Quarto:\nFirst, in your internet browser, go to the very latest version of the Quarto command line interface (CLI): https://github.com/quarto-dev/quarto-cli/releases/latest. Download Quarto by clicking on the file appropriate for your operating system:\n\nLinux: amd64.deb\nMac: macos.pkg\nWindows: win.msi\n\nOnce download is complete, follow the installation prompts on your computer like you do for other software.\nFinally, check to make sure Quarto installed properly. Open a command line terminal and type the following. Note: The RStudio IDE has a terminal in the bottom left pane, on a tab called “Terminal”:\nquarto check install \n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
+    "text": "To download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\nFollow your operating system’s normal installation process\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
   },
   {
     "href": "contributing/workflow.html",
@@ -376,6 +376,24 @@
     "title": "Post-Cohort followup",
     "section": "Honoraria for Guest Teachers",
     "text": "Example email text: Openscapes Honorarium\n\n\n\n\n\nHi [Name],\nThank you for presenting at the Openscapes Champions Cohort Series on [June 25, 2021].\nIn appreciation of your time spent preparing and presenting at our event, we are able to provide a $150 stipend. I’ve attached two forms here that UCSB needs in order to process this for you. Please send them back to me and let me know if you have further questions.\nThank you very much, Cheers, Julie"
+  },
+  {
+    "href": "champions/post-cohort-followup.html#follow-up-with-partners",
+    "title": "Post-Cohort followup",
+    "section": "Follow up with Partners",
+    "text": "Send thank you / report out email"
+  },
+  {
+    "href": "champions/post-cohort-followup.html#blog",
+    "title": "Post-Cohort followup",
+    "section": "Blog",
+    "text": ""
+  },
+  {
+    "href": "champions/post-cohort-followup.html#thank-you-letters-stickers",
+    "title": "Post-Cohort followup",
+    "section": "Thank you letters & stickers",
+    "text": "We love snail mail. This is a chance to send a written thank you to teams and also share physical Openscapes stickers."
   },
   {
     "href": "champions/post-cohort-followup.html#month-check-ins",
