@@ -24,10 +24,16 @@
     "text": "To download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\nFollow your operating system’s normal installation process\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
   },
   {
-    "href": "contributing/workflow.html",
+    "href": "contributing/workflow.html#overview",
     "title": "Workflow",
-    "section": "",
-    "text": "Please see https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/workflow.html, except we are currently pushing to the main branch and using the RStudio IDE rather than the command line. We’ll describe this workflow here before long."
+    "section": "Overview",
+    "text": "We’ll use GitHub branches, consider them temporary and unlimited\nWe’ll interact with Quarto through RStudio"
+  },
+  {
+    "href": "contributing/workflow.html#create-a-branch-on-github.com",
+    "title": "Workflow",
+    "section": "Create a branch on GitHub.com",
+    "text": "Go to https://github.com/Openscapes/approach-guide click the main branch and type your-branch name for your branch\nClone/pull https://github.com/Openscapes/approach-guide locally to RStudio\nClick in the top-right on main and switch to your-branch; this will add it to the “local branches” section."
   },
   {
     "href": "approach/seaside-chats.html#seaside-chats",
