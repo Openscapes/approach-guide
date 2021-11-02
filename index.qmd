@@ -8,7 +8,7 @@ slug: index
 bibliography: references.bib
 ---
 
-![](images/horst-openscapes-mentors.jpg)
+![](images/horst-openscapes-mentors.jpg) 
 
 ## Welcome
 
