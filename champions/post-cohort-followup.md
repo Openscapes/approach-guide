@@ -23,6 +23,16 @@ Julie
 
 :::
 
+## Follow up with Partners
+
+Send thank you / report out email 
+
+## Blog
+
+## Thank you letters & stickers
+
+We love snail mail. This is a chance to send a written thank you to teams and also share physical Openscapes stickers. 
+
 ## 3-Month Check-Ins
 
 *Modeled after SGCI*

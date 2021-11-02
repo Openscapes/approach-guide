@@ -15,21 +15,11 @@ To download and install R and RStudio:
 
 ### Install Quarto
 
-To cownload and Install Quarto:
+To download and Install Quarto:
 
-First, in your internet browser, go to the very latest version of the Quarto command line interface (CLI): <https://github.com/quarto-dev/quarto-cli/releases/latest>. Download Quarto by clicking on the file appropriate for your operating system:
+- Quarto: <https://quarto.org/docs/getting-started/installation.html>
 
--   **Linux**: amd64.deb
--   **Mac**: macos.pkg
--   **Windows**: win.msi
-
-Once download is complete, follow the installation prompts on your computer like you do for other software.
-    
-Finally, check to make sure Quarto installed properly. Open a command line terminal and type the following. Note: The RStudio IDE has a terminal in the bottom left pane, on a tab called "Terminal": 
-
-``` {.bash}
-quarto check install 
-```
+This will install the Quarto command-line interface (CLI), which can be used even if you don't have R or Python installed. 
 
 ### Create a GitHub account
 
