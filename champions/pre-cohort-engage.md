@@ -7,7 +7,7 @@ format: html
 
 Since 2018 we have iterated on a coordination strategy that works well for coordinating with partners and attracting research teams to participate in the Champions Cohort. This coordinating work begins \~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a \~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.
 
-We focus our engagement/recruitment of team leads (i.e. PIs) to coordinate for their teams.
+\*\*We focus our engagement/recruitment of team leads\*\* (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
 
 We begin this planning once we've scheduled the dates, \~2 months before the Cohort begins: see the Timeline Chapter for details about timing.
 
@@ -57,7 +57,7 @@ We create a post on the Openscapes Events page with details about the opportunit
 
 Nominate your team by filling out this [Google Form](https://forms.gle/ukhkoMzLXGdQXqtg7) by August 20, 2021. This opportunity is open only to those affiliated with NOAA NMFS. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2021.
 
-Learn more about the [Openscapes Champions Program](https://openscapes.org/champions) and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
+Learn more about the [Openscapes Champions Program](https://openscapes.org/champions), [stories from previous cohorts](https://openscapes.org/cohorts)\], and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: openscapes at nceas.ucsb.edu
 :::
 
 ### Google Form
@@ -67,11 +67,11 @@ The events page links to a Google Form (\~10 minutes) that research leads fill o
 ::: {.callout-tip collapse="true"}
 ## Example Google Form
 
-Title: FDD Openscapes Champions Cohort
+Title: NASA Openscapes Champions Cohort
 
-Hello! This form is to nominate your research group to participate in the Openscapes Champions program for FDD. This opportunity is open only to lab groups affiliated with FDD. Please provide one nomination per research group, by August 20, 2021. See [\<https://openscapes.github.io/events/posts/2021-09-17-XXXX>](https://openscapes.github.io/events/posts/2021-05-07-XXXX) for more details.
+Hello! This form is to nominate your research group to participate in the NASA Openscapes Champions Cohort. This is a professional development and leadership opportunity for scientists that use data from NASA's Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) and are interested in collaborative open data science practices and migrating their workflows to the cloud.
 
-\
+This opportunity is open only to research groups that use data from NASA DAACs. Please provide one nomination per research group, by February 1, 2022. See https://nasa-openscapes.github.io/champions for more information about NASA Openscapes, and https://openscapes.org/faqs for more details about team composition.\
 
 -   **First name**
 
@@ -91,7 +91,7 @@ Hello! This form is to nominate your research group to participate in the Opensc
 
 -   **Are you this research group lead? If not please explain**
 
--   **\[Any other FDD specific questions\]**
+-   **\[Any other NASA specific questions\]**
 
 -   **Briefly tell us why your team would be a good candidate for our Champions cohort.** We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.
 
@@ -99,7 +99,7 @@ Hello! This form is to nominate your research group to participate in the Opensc
 
 -   **Please share any relevant projects you might have worked on** (links appreciated)
 
--   **Have you attended an "open" event before?** For example through the National Center for Ecological Analysis and Synthesis (NCEAS), Mozilla, or The Carpentries? Please share.
+-   **Have you attended an "open" event before?** For example through the NASA Cloud Hackathon, Pangeo, Mozilla, The Carpentries, or National Center for Ecological Analysis and Synthesis (NCEAS)? Please share.
 
 -   **Openscapes is committed to providing a welcoming community for all participants.** One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ, differently-abled individuals, and any other underrepresented minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs that would help make your experience participating in this remote workshop series easier or more comfortable, please use the box below. (optional)
 
@@ -171,7 +171,7 @@ Declinining nominees is the worst.
 ::: {.callout-tip collapse="true"}
 ## Example email to decline nominees
 
-Dear NAME, 
+Dear NAME,
 
 Thank you for nominating your team to participate in the Openscapes Champions CS&S Cohort; we appreciate your interest in learning with us. This was our first open call and we had more interest than we expected, and have not been able to accept all of the great teams that applied. Unfortunately, this means that we are not able to include you in our CS&S cohort.
 
@@ -182,9 +182,6 @@ Cheers,
 Julie Lowndes and Erin Robinson
 
 Co-Directors, Openscapes
-
-
-
 :::
 
 ### Team setup and calendaring
@@ -293,11 +290,12 @@ Followup email the week before:
 
 ::: {.callout-tip collapse="true"}
 ## Example email to guest teacher: week prior
+
 Hi Emily and Chanté,
 
 We're excited about your guest teaching and wanted to check in about it. We've had a good first week and two GitHub Clinics and people are excited to learn from how you both work!
 
-I've just shared our [draft Agenda] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you'd like, and whether it would make most sense to have more of a group discussion rather than breakouts. 
+I've just shared our \[draft Agenda\] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you'd like, and whether it would make most sense to have more of a group discussion rather than breakouts.
 
 How does all this sound? Happy to meet to chat about it/review together if you have questions, or continue discussions by email.
 
