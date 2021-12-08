@@ -7,21 +7,27 @@ execute:
   freeze: true
   
 site:
+  title: "Approach Guide"
   site-url: https://openscapes.github.io/approach-guide
   repo-url: https://github.com/openscapes/approach-guide
   repo-actions: [edit, issue]
   page-navigation: true
-  sidebar:
-    title: "Approach Guide"
-    logo: images/openscapes_hex.png
-    style: "docked"
+  page-footer: "Openscapes Core Team, Julia Stewart Lowndes & Erin Robinson (2021). Openscapes Approach Guide (Version v0.0.1)."
+  
+  navbar: 
     background: light
-    search: true
-    collapse-level: 2
-    align: left
-    tools:
+    right: 
+      - sidebar:menu
       - icon: github
         href: https://github.com/openscapes/approach-guide
+        
+  sidebar:   
+    - id: welcome
+      title: "Menu"
+      logo: images/openscapes_hex.png
+      style: "docked"
+      collapse-level: 1
+      align: left
     contents:
       - text: "Welcome"
         href: index.qmd
@@ -47,7 +53,6 @@ site:
         - contributing/setup.md
         - contributing/workflow.md
         - contributing/inspiration.md
-  footer: "Openscapes Core Team, Julia Stewart Lowndes & Erin Robinson (2021). Openscapes Approach Guide (Version v0.0.1)."
 
 bibliography: references.bib
 
@@ -61,3 +66,6 @@ format:
     css: styles.css
     toc: true 
     
+filters:
+  - include-files.lua
+  - quarto    
