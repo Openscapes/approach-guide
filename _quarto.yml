@@ -22,39 +22,37 @@ site:
         href: https://github.com/openscapes/approach-guide
         
   sidebar:   
-    - id: welcome
+    - id: menu
       title: "Menu"
       logo: images/openscapes_hex.png
       style: "docked"
       collapse-level: 1
       align: left
-    contents:
-      - text: "Welcome"
-        href: index.qmd
-      - section: approach/index.md
-        contents:  
-        - approach/code-of-conduct.md
-        - approach/seaside-chats.md
-        - approach/onboarding.md
-        - approach/tooling.md
-        - approach/partners.md
-        - approach/calendar.md
-      - section: champions/index.qmd
-        contents:
-        - champions/design.md
-        - champions/timeline.md
-        - champions/pre-cohort-engage.md
-        - champions/pre-cohort-tech.qmd
-        - champions/lessons.qmd
-        - champions/leading-cohort-calls.qmd
-        - champions/post-cohort-followup.md
-      - section: contributing/index.md
-        contents:
-        - contributing/setup.md
-        - contributing/workflow.md
-        - contributing/inspiration.md
-
-bibliography: references.bib
+      contents:
+        - text: "Welcome"
+          href: index.qmd
+        - section: approach/index.md
+          contents:  
+          - approach/code-of-conduct.md
+          - approach/seaside-chats.md
+          - approach/onboarding.md
+          - approach/tooling.md
+          - approach/partners.md
+          - approach/calendar.md
+        - section: champions/index.qmd
+          contents:
+          - champions/design.md
+          - champions/timeline.md
+          - champions/pre-cohort-engage.md
+          - champions/pre-cohort-tech.qmd
+          - champions/lessons.qmd
+          - champions/leading-cohort-calls.qmd
+          - champions/post-cohort-followup.md
+        - section: contributing/index.md
+          contents:
+          - contributing/setup.md
+          - contributing/workflow.md
+          - contributing/inspiration.md
 
 format:
   html:
