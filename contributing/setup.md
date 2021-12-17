@@ -9,11 +9,8 @@ To contribute, please do the following (20 minutes). All software is open source
 To download and install R and RStudio:
 
 -   R: <https://cloud.r-project.org/>
+
 -   RStudio: <http://www.rstudio.com/download>
-
-I w
-
--   **Follow your operating** system's normal installation process
 
 ### Install Quarto
 

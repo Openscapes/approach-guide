@@ -16,7 +16,7 @@ This Approach Guide document is inspired from:
 Many things inspire us and influence our work for kinder science
 
 -   RStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD
--   Tara Robertson, Dawn Wright and references
+-   Tara Robertson, Dawn Wright and others
 -   URGE, Mica Estrada
 -   Brene Brown, Jim Collins
 -   ...

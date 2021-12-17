@@ -7,7 +7,7 @@ execute:
   freeze: true
   
 site:
-  title: "Approach Guide"
+  title: "Openscapes Approach Guide" 
   site-url: https://openscapes.github.io/approach-guide
   repo-url: https://github.com/openscapes/approach-guide
   repo-actions: [edit, issue]
@@ -29,30 +29,34 @@ site:
       collapse-level: 1
       align: left
       contents:
-        - text: "Welcome"
-          href: index.qmd
-        - section: approach/index.md
+        - section: "Welcome"
+          contents:
+            - index.qmd
+        - section: "Openscapes Approach"
           contents:  
-          - approach/code-of-conduct.md
-          - approach/seaside-chats.md
-          - approach/onboarding.md
-          - approach/tooling.md
-          - approach/partners.md
-          - approach/calendar.md
-        - section: champions/index.qmd
+            - approach/index.md
+            - approach/code-of-conduct.md
+            - approach/seaside-chats.md
+            - approach/onboarding.md
+            - approach/tooling.md
+            - approach/partners.md
+            - approach/calendar.md
+        - section: "Champions Program"
           contents:
-          - champions/design.md
-          - champions/timeline.md
-          - champions/pre-cohort-engage.md
-          - champions/pre-cohort-tech.qmd
-          - champions/lessons.qmd
-          - champions/leading-cohort-calls.qmd
-          - champions/post-cohort-followup.md
-        - section: contributing/index.md
+            - champions/index.qmd
+            - champions/design.md
+            - champions/timeline.md
+            - champions/pre-cohort-engage.md
+            - champions/pre-cohort-tech.qmd
+            - champions/lessons.qmd
+            - champions/leading-cohort-calls.qmd
+            - champions/post-cohort-followup.md
+        - section: "Contributing"
           contents:
-          - contributing/setup.md
-          - contributing/workflow.md
-          - contributing/inspiration.md
+            - contributing/index.md
+            - contributing/setup.md
+            - contributing/workflow.md
+            - contributing/inspiration.md
 
 format:
   html:
