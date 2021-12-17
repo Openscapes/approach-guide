@@ -2,14 +2,14 @@
   {
     "objectID": "LICENSE.html#process-documents-and-data",
     "href": "LICENSE.html#process-documents-and-data",
-    "title": "Approach Guide",
+    "title": "Openscapes Approach Guide",
     "section": "Process documents and data",
     "text": "Process documents and data\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
   },
   {
     "objectID": "LICENSE.html#software",
     "href": "LICENSE.html#software",
-    "title": "Approach Guide",
+    "title": "Openscapes Approach Guide",
     "section": "Software",
     "text": "Software\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
@@ -37,49 +37,49 @@
   {
     "objectID": "approach/index.html#openscapes-mindset",
     "href": "approach/index.html#openscapes-mindset",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "Openscapes Mindset",
     "text": "Openscapes Mindset\nThe Openscapes Mindset is about moving away from lonely, individual science and towards science that is more efficient, open, collaborative, inclusive and kind. We describe this for research teams in the Champions Lesson Series. This mindset also drives how we lead Openscapes as a program and an approach, as described below."
   },
   {
     "objectID": "approach/index.html#we-work-openly-and-for-future-us.",
     "href": "approach/index.html#we-work-openly-and-for-future-us.",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "We work openly and for Future Us.",
     "text": "We work openly and for Future Us.\nWe share imperfect work and work in progress openly. Some examples of this are this Approach Guide, the Lesson Series, as well as our how-we-work Openscapes Planning GitHub Project. We also have open learning conversations through our Community Calls."
   },
   {
     "objectID": "approach/index.html#growth-mindset",
     "href": "approach/index.html#growth-mindset",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "Growth Mindset",
     "text": "Growth Mindset\nWe work with a Growth Mindset, described by Dr. Carol Dweck as having an understanding that our talents and abilities can be developed through effort, good teaching, and persistence. This is opposed to a fixed mindset, where individuals believe their basic abilities, their intelligence, their talents, are just fixed traits and cannot be improved through hard work."
   },
   {
     "objectID": "approach/index.html#continual-learning-practice-and-iteration",
     "href": "approach/index.html#continual-learning-practice-and-iteration",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "Continual learning, practice, and iteration",
     "text": "Continual learning, practice, and iteration\nWe are continually learning and practicing what we learn. We practice in our Champions Cohorts, Community Calls, our team Seaside Chats, and in conversation. As we practice we iterate with that learning."
   },
   {
     "objectID": "approach/index.html#psychological-safety",
     "href": "approach/index.html#psychological-safety",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "Psychological Safety",
     "text": "Psychological Safety\nWe practice and promote psychological safety, described by Dr. Amy Edmundson as a shared belief held by members of a team that the team is safe for interpersonal risk taking.\nPart of this practice is to start off team meetings with check-ins to see how everyone is doing that day/week, and explicitly voicing to new partners that psychological safety is foundational to our work and to please speak up if something is ever not feeling right."
   },
   {
     "objectID": "approach/index.html#kinder-science",
     "href": "approach/index.html#kinder-science",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "Kinder science",
     "text": "Kinder science\nWe work not only towards open science, but kinder science, and approach this in our work through empathy and listening, and also onboarding folks to the tooling we use to reduce friction as we collaborate. From Lowndes 2019 Open Software Means Kinder Science: “Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It’s about technology enabling social infrastructure that can promote inclusivity to create kinder science.”"
   },
   {
     "objectID": "approach/index.html#we-use-the-same-open-source-tools-that-we-teach",
     "href": "approach/index.html#we-use-the-same-open-source-tools-that-we-teach",
-    "title": "Openscapes Approach",
+    "title": "Approach Overview",
     "section": "We use the same open source tools that we teach",
     "text": "We use the same open source tools that we teach\nWe use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can’t imagine science without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning."
   },
@@ -219,14 +219,14 @@
   {
     "objectID": "contributing/index.html#how-to-contribute",
     "href": "contributing/index.html#how-to-contribute",
-    "title": "Contributing",
+    "title": "Overview",
     "section": "How to contribute",
     "text": "How to contribute\nThis is how we collaborate to create this guide.\nWe build the book with Quarto and collaborate and publish through GitHub. We develop content in the RStudio IDE, which is also how we interface with Git/Hub."
   },
   {
     "objectID": "contributing/index.html#quarto",
     "href": "contributing/index.html#quarto",
-    "title": "Contributing",
+    "title": "Overview",
     "section": "Quarto",
     "text": "Quarto\nWe’re developing the Openscapes Approach Guide with Quarto: quarto.org. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered using Jupyter and Knitr engines.\nWhat is Quarto? Quarto builds from what RStudio learned from RMarkdown but enables different engines (Jupyter and knitr). It is both a Command Line Tool and R package. .qmd is a new filetype like .Rmd — meaning it’s a text file but coupled with an engine can execute code and be rendered as html, pdf, word, and beyond — but for other languages like Python. Quarto can convert .ipynb files to and from .md and .qmd easily so you can develop and publish with collaborators that have different workflows. Once the book is “served” locally, .md files auto-update as you edit, and files with executable code can be rendered individually, and the behavior of different code chunks can be controlled and cached.\n(Note: with Quarto, e-books and websites are very similarly structured, with e-books being set up for numbered chapters and references and websites set up for higher number of pages and organization. We can talk about our book as a book even as we explore whether book/website better suits our needs. This is assigned in _quarto.yml, as we’ll explore later)."
   },
@@ -235,7 +235,7 @@
     "href": "contributing/setup.html#install-r-and-rstudio",
     "title": "Setup",
     "section": "Install R and RStudio",
-    "text": "Install R and RStudio\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\nI w\n\nFollow your operating system’s normal installation process\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
+    "text": "Install R and RStudio\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
   },
   {
     "objectID": "champions/leading-cohort-calls.html#roles",
@@ -303,7 +303,7 @@
   {
     "objectID": "champions/index.html",
     "href": "champions/index.html",
-    "title": "Champions Program Operations",
+    "title": "Operations Overview",
     "section": "",
     "text": "The following can be built into a statement of work with our Partners.\n\nSummary and Scope\nOpenscapes offers mentorship, training, coaching and community organizing centered around open data science to help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report. Our approach for doing better, more reproducible and inclusive team science in less time, is to first support scientists to create workflows that allow sharing with themselves (Future You) as well as with their teams and collaborators (Future Us). Future Us considers our teams, communities, and those who will be joining and continuing our work, whether that is next hours, weeks or decades (Lowndes & Robinson, 2021).\nOften we find that research teams are not sharing openly, internally among themselves. By considering and creating practices that support Future Us, the Openscapes approach helps research groups reimagine data analysis, develop modern data management and sharing skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches promote kinder science through technical tooling and diversity, equity, and inclusion, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a mentorship and professional development opportunity for scientific research teams to explore open data science, including data management and sharing practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend a Champions cohort series as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g., R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.\nThrough the Champions cohort series, a cohort of 6-8 teams will meet 4 times over 2 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nChampions Cohort Goals\nThe goals of the Champions cohort series is to help teams normalize open data science discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others on new (and existing) projects. We will:\n\nCreate leaders within a research community to champion open science best practices\nHelp participants adopt open science tooling and practices, including reproducibility, openness, collaboration, inclusion, share methods sooner\nExplore practices that build trust and community within and across teams (across career stages)\nImprove ease and confidence in sharing imperfect work within their teams and cohort\nEmpower participants to become champions for more collaborative, open science within their teams and transform their own workflows.\n\n\n\nServices\nOpenscapes will provide the curriculum, agendas, and lead the remote cohort series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nTeam culture, Technical strategies for future us\nCoding communities, Research examples\nSharing Pathways forward\n\nAdditionally, we lead:\n\nGitHub Clinics for hands-on team skill-building\nCommunity engagement leading up to, throughout, and after the Cohort\n\nOpenscapes will co-create recruiting materials (e.g., openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote workshop series along with workshop helpers. We are beginning to evaluate the Champions program as well.\nNote: Participants attend as teams. Participants attend as teams including team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are: 1) Everyone sees the value in open project management and data sharing practices 2) Leads enable their team members to invest time in learning skills and developing lab workflows 3) Team members have guidance, agency, and support to incorporate open science, data management and sharing concepts into their research 4) Everyone contributes to growing the community of practice within the research group, institution, and online, in whatever capacity their role and circumstances allow. See also the Champions Program FAQ."
   },
@@ -471,7 +471,7 @@
   {
     "objectID": "champions/about.html",
     "href": "champions/about.html",
-    "title": "Approach Guide",
+    "title": "Openscapes Approach Guide",
     "section": "",
     "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill sets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
   },
