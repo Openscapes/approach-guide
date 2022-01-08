@@ -312,35 +312,42 @@
     "href": "champions/pre-cohort-tech.html#overview",
     "title": "Pre-cohort tech setup",
     "section": "Overview",
-    "text": "Overview\nHere is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an openscapesr R package, stay tuned."
+    "text": "Overview\nHere is the tech setup that we do one time per Cohort. Most things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We review Cohort Agendas before each Cohort and make minor adjustments before each call.\nNote: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the kyber R package, stay tuned."
   },
   {
-    "objectID": "champions/pre-cohort-tech.html#github-repo",
-    "href": "champions/pre-cohort-tech.html#github-repo",
+    "objectID": "champions/pre-cohort-tech.html#cohort-registry",
+    "href": "champions/pre-cohort-tech.html#cohort-registry",
     "title": "Pre-cohort tech setup",
-    "section": "GitHub repo",
-    "text": "GitHub repo\nPrior to the GitHub Clinic, we:\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with admin privileges\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.\n\nTemporary hacky approach for adding files to the repo for the GitHub Clinic:\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(datapasta) # install.packages(\"datapasta\")\n# restart RStudio Session: click on the repo name top right, click on the name of the repo\n\nfile_in <-  \"gh-clinic-text.md\"\ntext_template <- read_lines(file_in)\n\n## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!\ncohort <-c(\"Ameya\", \"Amy\", \"Andrea\", \"Anthony\", \"Chris\", \"Daniel\", \"Danyel\", \"Duran\", \"Ellysa\", \n           \"Gabrielle\", \"Hu\", \"Jonathan\", \"Julia\", \"Kathyn\", \"Kelly\", \"Madeline\", \"Maria_t\", \"Maria_r\", \"Megan\", \n           \"Nicole\", \"Nidal\", \"Nipam\", \"Sittman\", \"Sophia\", \"Srikari\", \"Swapna\", \"Syrena\", \"Yixian\")\n## check by hand that there are no dupicates and if so, underscore with last name intitial\ncohort <- str_to_lower(cohort)\n\nsetwd(\"github-clinic\")\n\nfor (champion in cohort) {\n  \n  file_out <- glue::glue(champion, \".md\")\n  text_write <- write_lines(text_template, file_out)\n  \n}"
-  },
-  {
-    "objectID": "champions/pre-cohort-tech.html#data-entry",
-    "href": "champions/pre-cohort-tech.html#data-entry",
-    "title": "Pre-cohort tech setup",
-    "section": "Data entry",
-    "text": "Data entry\nAs teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\n\nMore details upcoming: Airtable"
+    "section": "Cohort Registry",
+    "text": "Cohort Registry\nReview the Cohort Registry Google Doc and update information for the new Cohort. make this public once it’s tidied and stable. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).\n\ncohort-planning\nCreate an issue https://github.com/Openscapes/cohort-planning/issues to keep track of links and tag other co-leads and assists. We’re using GitHub teams."
   },
   {
     "objectID": "champions/pre-cohort-tech.html#cohort-google-folder",
     "href": "champions/pre-cohort-tech.html#cohort-google-folder",
     "title": "Pre-cohort tech setup",
     "section": "Cohort Google Folder",
-    "text": "Cohort Google Folder\nPrior to the first Cohort Call, we:\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)\nAdd a Pathways folder"
+    "text": "Cohort Google Folder\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd a Pathways folder and add a shortcut for the Pathways Spreadsheet"
   },
   {
     "objectID": "champions/pre-cohort-tech.html#agenda-setup",
     "href": "champions/pre-cohort-tech.html#agenda-setup",
     "title": "Pre-cohort tech setup",
-    "section": "Agendas",
-    "text": "Agendas\nBlank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See\n\nAgenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nLesson with activity 1\nLesson with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
+    "section": "Agenda setup",
+    "text": "Agenda setup\nBlank agendas are in a public Google Folder. Before each Cohort Call, we:\n\nMake a copy\nSave it in the Cohort Google Folder\nEdit dates, times, add Google Folder links and Zoom links\nReview and tailor for Cohort and Facilitator (including Land Acknowledgement)\n\nWe usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants."
+  },
+  {
+    "objectID": "champions/pre-cohort-tech.html#github-repo",
+    "href": "champions/pre-cohort-tech.html#github-repo",
+    "title": "Pre-cohort tech setup",
+    "section": "GitHub repo",
+    "text": "GitHub repo\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with member privileges to a GitHub Team titled 2022-noaa-afsc-teams\nGive the Team access to the Cohort repo\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.\n\nTemporary hacky approach for adding files to the repo for the GitHub Clinic:\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(datapasta) # install.packages(\"datapasta\")\n# restart RStudio Session: click on the repo name top right, click on the name of the repo\n\nfile_in <-  \"gh-clinic-text.md\"\ntext_template <- read_lines(file_in)\n\n## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!\ncohort <-c(\"Ameya\", \"Amy\", \"Andrea\", \"Anthony\", \"Chris\", \"Daniel\", \"Danyel\", \"Duran\", \"Ellysa\", \n           \"Gabrielle\", \"Hu\", \"Jonathan\", \"Julia\", \"Kathyn\", \"Kelly\", \"Madeline\", \"Maria_t\", \"Maria_r\", \"Megan\", \n           \"Nicole\", \"Nidal\", \"Nipam\", \"Sittman\", \"Sophia\", \"Srikari\", \"Swapna\", \"Syrena\", \"Yixian\")\n## check by hand that there are no dupicates and if so, underscore with last name intitial\ncohort <- str_to_lower(cohort)\n\nsetwd(\"github-clinic\")\n\nfor (champion in cohort) {\n  \n  file_out <- glue::glue(champion, \".md\")\n  text_write <- write_lines(text_template, file_out)\n  \n}\n\n\n\n\n\nLeading GitHub Clinics\n\nadd Openscapes Team as co-hosts"
+  },
+  {
+    "objectID": "champions/pre-cohort-tech.html#data-entry",
+    "href": "champions/pre-cohort-tech.html#data-entry",
+    "title": "Pre-cohort tech setup",
+    "section": "Data entry",
+    "text": "Data entry\nAs teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\nGoogle Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn’t gmail; add this address as well)"
   },
   {
     "objectID": "champions/pre-cohort-tech.html#slack",
@@ -487,6 +494,13 @@
     "href": "champions/lessons.html#lesson-planning",
     "title": "Lesson Planning",
     "section": "Lesson Planning",
-    "text": "Lesson Planning\nWe’ll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.\n\nExample: SASI Cohort Lesson Plan\n\nNew lessons will build from the core lessons we lead for two-month cohorts (from the Series welcome):\n\n\n\n\n\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n> GitHub Clinic <\npublishing, project management\nHands-on collaboration in the browser: editing, committing, and Issues\n\n\n2. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n3. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n4. Pathways share and next steps"
+    "text": "Lesson Planning\nWe’ll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.\n\nExample: SASI Cohort Lesson Plan\n\nNew lessons will build from the core lessons we lead for two-month cohorts (from the Series welcome):\n\n\n\n\n\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub Clinic\npublishing, project management\nExplore GitHub for organization, documentation, and project management\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps"
+  },
+  {
+    "objectID": "champions/lessons.html#agenda-structure",
+    "href": "champions/lessons.html#agenda-structure",
+    "title": "Lesson Planning",
+    "section": "Agenda structure",
+    "text": "Agenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nLesson with activity 1\nLesson with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
   }
 ]

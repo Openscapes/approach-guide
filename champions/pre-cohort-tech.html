@@ -359,16 +359,18 @@
 <h2 id="toc-title">On this page</h2>
 <ul>
 <li><a href="#overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+<li><a href="#cohort-registry" class="nav-link" data-scroll-target="#cohort-registry">Cohort Registry</a>
+<ul class="collapse">
+<li><a href="#cohort-planning" class="nav-link" data-scroll-target="#cohort-planning">cohort-planning</a></li>
+</ul></li>
+<li><a href="#cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
+<li><a href="#agenda-setup" class="nav-link" data-scroll-target="#agenda-setup">Agenda setup</a></li>
 <li><a href="#github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a>
 <ul class="collapse">
 <li><a href="#for-the-github-clinic" class="nav-link" data-scroll-target="#for-the-github-clinic">For the GitHub Clinic:</a></li>
+<li><a href="#leading-github-clinics" class="nav-link" data-scroll-target="#leading-github-clinics">Leading GitHub Clinics</a></li>
 </ul></li>
 <li><a href="#data-entry" class="nav-link" data-scroll-target="#data-entry">Data entry</a></li>
-<li><a href="#cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
-<li><a href="#agenda-setup" class="nav-link" data-scroll-target="#agenda-setup">Agendas</a>
-<ul class="collapse">
-<li><a href="#agenda-structure" class="nav-link" data-scroll-target="#agenda-structure">Agenda structure</a></li>
-</ul></li>
 <li><a href="#slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
 </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/champions/pre-cohort-tech.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -381,12 +383,37 @@
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>Here is the tech setup that we do one time per Cohort. Some things we do before the first Cohort Call (i.e.&nbsp;Google Folder) and some after the first Cohort Call (i.e.&nbsp;Slack). We’ll schedule GitHub Clinics prior to the second Cohort Call.</p>
-<p><em>Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in an <code>openscapesr</code> R package, stay tuned.</em></p>
+<p>Here is the tech setup that we do one time per Cohort. Most things we do before the first Cohort Call (i.e.&nbsp;Google Folder) and some after the first Cohort Call (i.e.&nbsp;Slack). We review Cohort Agendas before each Cohort and make minor adjustments before each call.</p>
+<p><em>Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the <code>kyber</code> R package, stay tuned.</em></p>
+</section>
+<section id="cohort-registry" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-registry">Cohort Registry</h2>
+<p>Review the <a href="https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382">Cohort Registry</a> Google Doc and update information for the new Cohort. <em>make this public once it’s tidied and stable</em>. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).</p>
+<section id="cohort-planning" class="level3">
+<h3 class="anchored" data-anchor-id="cohort-planning">cohort-planning</h3>
+<p>Create an issue <a href="https://github.com/Openscapes/cohort-planning/issues" class="uri">https://github.com/Openscapes/cohort-planning/issues</a> to keep track of links and tag other co-leads and assists. We’re using GitHub teams.</p>
+</section>
+</section>
+<section id="cohort-google-folder" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
+<ul>
+<li>Create a Google Folder with the name of the cohort in brackets, e.g.&nbsp;<code>[ 2021-noaa-nmfs ]</code></li>
+<li>Add a Pathways folder and add a shortcut for the <a href="https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0">Pathways Spreadsheet</a></li>
+</ul>
+</section>
+<section id="agenda-setup" class="level2">
+<h2 class="anchored" data-anchor-id="agenda-setup">Agenda setup</h2>
+<p><a href="https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing">Blank agendas</a> are in a public Google Folder. Before each Cohort Call, we:</p>
+<ul>
+<li>Make a copy</li>
+<li>Save it in the Cohort Google Folder</li>
+<li>Edit dates, times, add Google Folder links and Zoom links</li>
+<li>Review and tailor for Cohort and Facilitator (including Land Acknowledgement)</li>
+</ul>
+<p>We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.</p>
 </section>
 <section id="github-repo" class="level2">
 <h2 class="anchored" data-anchor-id="github-repo">GitHub repo</h2>
-<p>Prior to the GitHub Clinic, we:</p>
 <ul>
 <li>Create a Cohort GitHub repo within the Openscapes GitHub organization.</li>
 <li>Make it a website repo: Settings &gt; Pages &gt; Source: main, dir: root</li>
@@ -399,7 +426,8 @@
 <h3 class="anchored" data-anchor-id="for-the-github-clinic">For the GitHub Clinic:</h3>
 <p>Before the GitHub Clinic, we:</p>
 <ul>
-<li>Add all usernames with admin privileges</li>
+<li>Add all usernames with member privileges to a GitHub Team titled <code>2022-noaa-afsc-teams</code></li>
+<li>Give the Team access to the Cohort repo</li>
 <li>Create each person’s files</li>
 </ul>
 <p>We’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.</p>
@@ -434,46 +462,20 @@
 </div>
 </section>
 </section>
+<section id="leading-github-clinics" class="level3">
+<h3 class="anchored" data-anchor-id="leading-github-clinics">Leading GitHub Clinics</h3>
+<ul>
+<li>add Openscapes Team as co-hosts</li>
+</ul>
+</section>
 </section>
 <section id="data-entry" class="level2">
 <h2 class="anchored" data-anchor-id="data-entry">Data entry</h2>
 <p>As teams form, we:</p>
 <ul>
 <li>Update database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.</li>
+<li>Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn’t gmail; add this address as well)</li>
 </ul>
-<p>More details upcoming: Airtable</p>
-</section>
-<section id="cohort-google-folder" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
-<p>Prior to the first Cohort Call, we:</p>
-<ul>
-<li>Create a Google Folder with the name of the cohort in brackets, e.g.&nbsp;<code>[ 2021-noaa-nmfs ]</code></li>
-<li>Add all Cohort emails (note: some participants will provide a gmail address if their univerity email isn’t gmail; add this address as well)</li>
-<li>Add a Pathways folder</li>
-</ul>
-</section>
-<section id="agenda-setup" class="level2">
-<h2 class="anchored" data-anchor-id="agenda-setup">Agendas</h2>
-<p><a href="https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing">Blank agendas</a> are in a public Google Folder. Before each Cohort Call, we:</p>
-<ul>
-<li>Make a copy</li>
-<li>Save it in the Cohort Google Folder</li>
-<li>Edit dates, times, add Google Folder links and Zoom links</li>
-<li>Review and tailor for Cohort and Facilitator (including Land Acknowledgement)</li>
-</ul>
-<p>We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants. See</p>
-<section id="agenda-structure" class="level3">
-<h3 class="anchored" data-anchor-id="agenda-structure">Agenda structure</h3>
-<p>Cohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:</p>
-<ul>
-<li>Roll call with ice breaker</li>
-<li>Welcome with Code of Conduct reminder</li>
-<li>Lesson with activity 1</li>
-<li>Lesson with activity 2</li>
-<li>Efficiency tip</li>
-</ul>
-<p>Activities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together.</p>
-</section>
 </section>
 <section id="slack" class="level2">
 <h2 class="anchored" data-anchor-id="slack">Slack</h2>
