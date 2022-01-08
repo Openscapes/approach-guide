@@ -19,7 +19,7 @@ Note-taking should focus on capturing questions and conversations and less about
 
 ## Before Cohort Calls
 
-- Prepare the Agenda; see [Agenda Setup](/champions/pre-cohort-tech.md#agenda-setup).
+- Prepare the Agenda; see [Agenda Setup](/champions/pre-cohort-tech.qmd#agenda-setup).
 - Review Roles, with particular focus on facilitator and tech host roles
 
 ## During Cohort Calls
