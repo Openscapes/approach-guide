@@ -52,6 +52,18 @@ Screenshare! This way we can edit out the recording if groups would like to shar
 
 Between Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).
 
+### Field Notes
+
+We ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal "field notes" that will help us improve between Cohort Calls and across Cohorts. 
+
+Prompts to answer include: 
+
+- Top-of-mind
+- Brief summary of how it went
+- Rose / Bud / Thorn - something that was good, developing, or tricky
+
+Write field notes in the Planning Docs, at the bottom
+
 ### Digests
 
 We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
