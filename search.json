@@ -319,7 +319,14 @@
     "href": "champions/pre-cohort-tech.html#cohort-registry",
     "title": "Pre-cohort tech setup",
     "section": "Cohort Registry",
-    "text": "Cohort Registry\nReview the Cohort Registry Google Doc and update information for the new Cohort. make this public once it’s tidied and stable. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).\n\ncohort-planning\nCreate an issue https://github.com/Openscapes/cohort-planning/issues to keep track of links and tag other co-leads and assists. We’re using GitHub teams."
+    "text": "Cohort Registry\nReview the Cohort Registry Google Doc and update information for the new Cohort. make this public once it’s tidied and stable. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below)."
+  },
+  {
+    "objectID": "champions/pre-cohort-tech.html#cohort-planning-issue",
+    "href": "champions/pre-cohort-tech.html#cohort-planning-issue",
+    "title": "Pre-cohort tech setup",
+    "section": "cohort-planning Issue",
+    "text": "cohort-planning Issue\nCreate an issue https://github.com/Openscapes/cohort-planning/issues to keep track of links and tag other co-leads and assists. We’re using GitHub teams."
   },
   {
     "objectID": "champions/pre-cohort-tech.html#cohort-google-folder",
@@ -327,6 +334,13 @@
     "title": "Pre-cohort tech setup",
     "section": "Cohort Google Folder",
     "text": "Cohort Google Folder\n\nCreate a Google Folder with the name of the cohort in brackets, e.g. [ 2021-noaa-nmfs ]\nAdd a Pathways folder and add a shortcut for the Pathways Spreadsheet"
+  },
+  {
+    "objectID": "champions/pre-cohort-tech.html#data-entry",
+    "href": "champions/pre-cohort-tech.html#data-entry",
+    "title": "Pre-cohort tech setup",
+    "section": "Data entry",
+    "text": "Data entry\nAs teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\nGoogle Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn’t gmail; add this address as well)"
   },
   {
     "objectID": "champions/pre-cohort-tech.html#agenda-setup",
@@ -341,13 +355,6 @@
     "title": "Pre-cohort tech setup",
     "section": "GitHub repo",
     "text": "GitHub repo\n\nCreate a Cohort GitHub repo within the Openscapes GitHub organization.\nMake it a website repo: Settings > Pages > Source: main, dir: root\nAdd our Code of Coduct\nWrite Cohort info on the README\nAdd Evaluation information\n\nExample: https://github.com/Openscapes/2021-noaa-nmfs\n\nFor the GitHub Clinic:\nBefore the GitHub Clinic, we:\n\nAdd all usernames with member privileges to a GitHub Team titled 2022-noaa-afsc-teams\nGive the Team access to the Cohort repo\nCreate each person’s files\n\nWe’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.\n\nTemporary hacky approach for adding files to the repo for the GitHub Clinic:\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(datapasta) # install.packages(\"datapasta\")\n# restart RStudio Session: click on the repo name top right, click on the name of the repo\n\nfile_in <-  \"gh-clinic-text.md\"\ntext_template <- read_lines(file_in)\n\n## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!\ncohort <-c(\"Ameya\", \"Amy\", \"Andrea\", \"Anthony\", \"Chris\", \"Daniel\", \"Danyel\", \"Duran\", \"Ellysa\", \n           \"Gabrielle\", \"Hu\", \"Jonathan\", \"Julia\", \"Kathyn\", \"Kelly\", \"Madeline\", \"Maria_t\", \"Maria_r\", \"Megan\", \n           \"Nicole\", \"Nidal\", \"Nipam\", \"Sittman\", \"Sophia\", \"Srikari\", \"Swapna\", \"Syrena\", \"Yixian\")\n## check by hand that there are no dupicates and if so, underscore with last name intitial\ncohort <- str_to_lower(cohort)\n\nsetwd(\"github-clinic\")\n\nfor (champion in cohort) {\n  \n  file_out <- glue::glue(champion, \".md\")\n  text_write <- write_lines(text_template, file_out)\n  \n}\n\n\n\n\n\nLeading GitHub Clinics\n\nadd Openscapes Team as co-hosts"
-  },
-  {
-    "objectID": "champions/pre-cohort-tech.html#data-entry",
-    "href": "champions/pre-cohort-tech.html#data-entry",
-    "title": "Pre-cohort tech setup",
-    "section": "Data entry",
-    "text": "Data entry\nAs teams form, we:\n\nUpdate database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.\nGoogle Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn’t gmail; add this address as well)"
   },
   {
     "objectID": "champions/pre-cohort-tech.html#slack",
