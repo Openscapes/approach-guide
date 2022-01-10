@@ -16,7 +16,7 @@ Here is the tech setup that we do one time per Cohort. Most things we do before 
 
 Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382) Google Doc and update information for the new Cohort. *make this public once it's tidied and stable*. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).
 
-### cohort-planning Issue
+## cohort-planning Issue
 
 Create an issue <https://github.com/Openscapes/cohort-planning/issues> to keep track of links and tag other co-leads and assists. We're using GitHub teams.
 
