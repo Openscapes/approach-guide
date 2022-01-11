@@ -279,8 +279,8 @@ Hello All,
 
 We are so excited to welcome you to the 2022 AFSC Openscapes Champions Cohort! Our first Cohort Call is on January 28 and we wanted to share some information with you, including how to prepare for the cohort series. Em Markowitz, Josh London, and Megsie Siple from AFSC are assisting this cohort; we are all available to answer any questions so please do not hesitate to contact us. Many thanks to Jeremy Rusin for coordination and support in creating this opportunity.
 
-* **Dates: **January 28, February 4, 11, 25 and March 11, 2022
-* **Times: **12:00-1:30pm PT 
+* **Dates:** January 28, February 4, 11, 25 and March 11, 2022
+* **Times:** 12:00-1:30pm PT 
 * **Where:** remotely, via Zoom (from the browser)
 
 **Plan.**
@@ -293,13 +293,13 @@ You can learn more about past cohorts at [openscapes.org/blog](https://openscape
 
 1. **Check that you've received Google Calendar invites with Zoom links** **for our 5 Cohort Calls starting Jan 28**. You've also received invites for optional Co-working times in ~alternating weeks (described more below). If you have not received these invites, please let us know.
 
-2. **[Book a 30-minute intro call on Jan 20 or 21](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxqT08taDU4THRJfGRlZmF1bHR8M2FhNmFkNTRkYjJmZTk1MDFhMjQ0NjJmMzYwNDNiOWE)** – or suggest other times if that is not possible. These "1:1's" are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
+2. **[Book a 30-minute intro call on Jan 20 or 21]** – or suggest other times if that is not possible. These "1:1's" are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
 
-We'll email again following the intro calls with more information, and ask that you read[ Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160): Our path to better science in less time using open data science tools before January 28. 
+We'll email again following the intro calls with more information, and ask that you read [Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160): Our path to better science in less time using open data science tools before January 28. 
 
-**Additional Information. **
+**Additional Information.**
 
-All Openscapes events abide by our[ Code of Conduct](https://openscapes.org/code-of-conduct).
+All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code-of-conduct).
 
 Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
 
