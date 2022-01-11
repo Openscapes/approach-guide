@@ -12,36 +12,33 @@ Here is the tech setup that we do one time per Cohort. Most things we do before 
 
 *Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the `kyber` R package, stay tuned.*
 
-## Cohort Registry
+## GitHub Issues
 
-Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382) Google Doc and update information for the new Cohort. *make this public once it's tidied and stable*. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).
+We use the <https://github.com/Openscapes/cohort-planning/issues> repository to track collective TODO's as well as to have "quick links" available before each Cohort Call. This repository coordinates across cohorts, so it's best to "unwatch" except when you're tagged and then we tag each issue with the folks involved. We're using GitHub teams to group folks involved in each cohort and easily tag them. This way, we can all learn and coordinate across cohorts when we want to poke through the issues but aren't cluttered with emails. 
 
-## cohort-planning Issue
+Two starting Issues to make: 
 
-Create an issue <https://github.com/Openscapes/cohort-planning/issues> to keep track of links and tag other co-leads and assists. We're using GitHub teams.
+- "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of  <https://github.com/Openscapes/cohort-planning/issues>
+- "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48) 
 
 ## Cohort Google Folder
 
 -   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
 -   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
 
+We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
+
+## Cohort Registry
+
+Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382) Google Doc and update information for the new Cohort. *make this public once it's tidied and stable and describe its use for `kyber`*. 
+
 ## Data entry
 
 As teams form, we:
 
--   Update database with who is in which cohort, whether we've added them to the calendars and twitter, etc.
+-   Update database with who is in which cohort
 -   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn't gmail; add this address as well)
 
-## Agenda setup {#agenda-setup}
-
-[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
-
--   Make a copy
--   Save it in the Cohort Google Folder
--   Edit dates, times, add Google Folder links and Zoom links
--   Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
-
-We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.
 
 ## GitHub repo 
 
@@ -96,8 +93,6 @@ for (champion in cohort) {
 ### Leading GitHub Clinics
 
 - add Openscapes Team as co-hosts
-
-
 
 
 ## Slack

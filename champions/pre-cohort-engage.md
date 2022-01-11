@@ -7,7 +7,7 @@ format: html
 
 Since 2018 we have iterated on a coordination strategy that works well for coordinating with partners and attracting research teams to participate in the Champions Cohort. This coordinating work begins \~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a \~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.
 
-\*\*We focus our engagement/recruitment of team leads\*\* (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
+**We focus our engagement/recruitment of team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
 
 We begin this planning once we've scheduled the dates, \~2 months before the Cohort begins: see the Timeline Chapter for details about timing.
 
@@ -133,15 +133,17 @@ Remember to change the settings (so it's not restricted to any particular respon
 
 ## Selection and coordination
 
+Selection and coordination varies somewhat depending on the Cohort. Academic cohorts are most often nominated by faculty PI, so first email communications are with them and then team/lab/group members are added as a second step as teams confirm, and finally we write the cohort as a whole. Government cohorts are often selected within the agency with less focus on "team lead", and so email communications are sent out to the whole cohort from the start. Below are examples of the Academic cohort process, ending with the [Cohort Welcome](#cohort-welcome) email to the whole cohort - see there for examples for welcoming government groups as well.
+
 *We have example text for these that we will pull into a template Google Doc and link here* <!---TODO: https://docs.google.com/document/d/1LzSL-ZzX2VFDh1Av1_uuADiB4Jc1F5j2dM_mo3d1fyg/edit#--->
 
 ### Selection rubric
 
-We have a selection rubric and work with partners to select participating teams.
+We have a selection rubric and work with partners to select participating teams. Many groups have their own internal process however, and that's great.
 
 ### Email to confirm team leads
 
-We send an email to potential team leads with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls.
+When teams have nominated themselves, we send an email to potential team leads with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls.
 
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to selected PIs
@@ -264,56 +266,61 @@ We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. T
     -   \
 :::
 
-## Guest teachers
-
-We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
-
-::: {.callout-tip collapse="true"}
-## Example email to guest teacher
-
-Hi \[ potential guest teacher\],
-
-How are you? I hope you've had a break this summer and are doing ok with everything going on.
-
-Openscapes a few Champions cohorts we're leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here's the [cohort page](https://openscapes.github.io/2021-fdd/)).
-
-We wanted to see if you'd be interested in being a guest teacher at one of these Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We're thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you're welcome to just attend for your part). We are able to offer an honorarium as well.
-
-We're excited to hear your ideas, and if this isn't the right thing now to think about if there's another way we can involve you in the future if you'd like. We'd love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?
-
-Cheers,
-
-Julie and Erin
-:::
-
-Followup email the week before:
-
-::: {.callout-tip collapse="true"}
-## Example email to guest teacher: week prior
-
-Hi Emily and Chanté,
-
-We're excited about your guest teaching and wanted to check in about it. We've had a good first week and two GitHub Clinics and people are excited to learn from how you both work!
-
-I've just shared our \[draft Agenda\] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you'd like, and whether it would make most sense to have more of a group discussion rather than breakouts.
-
-How does all this sound? Happy to meet to chat about it/review together if you have questions, or continue discussions by email.
-
-Thank you!
-
-Cheers,
-
-Julie
-:::
-
 ## Cohort welcome
+
+Here is an example Cohort welcome email as a first email communication with a (government) group, and below is cohort welcome email when we have already been communicating with PIs, and then their teams individually.
+
+::: {.callout-tip collapse="true"}
+## Example email to welcome (government) cohort
+
+**Welcome to Openscapes – NMFS AFSC Champions Cohort**
+
+Hello All,
+
+We are so excited to welcome you to the 2022 AFSC Openscapes Champions Cohort! Our first Cohort Call is on January 28 and we wanted to share some information with you, including how to prepare for the cohort series. Em Markowitz, Josh London, and Megsie Siple from AFSC are assisting this cohort; we are all available to answer any questions so please do not hesitate to contact us. Many thanks to Jeremy Rusin for coordination and support in creating this opportunity.
+
+* **Dates: **January 28, February 4, 11, 25 and March 11, 2022
+* **Times: **12:00-1:30pm PT 
+* **Where:** remotely, via Zoom (from the browser)
+
+**Plan.**
+
+[Openscapes](https://openscapes.org/) is an approach for doing better science in less time. Through the Champions program we help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more – this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
+
+You can learn more about past cohorts at [openscapes.org/blog](https://openscapes.org/blog) (including [NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/), [NWFSC](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/), [NMFS](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/), and [FDD](https://www.openscapes.org/blog/2021/11/12/fdd-champions/) cohorts), as well as [openscapes.org/media](https://openscapes.org/media).
+
+**Preparing for our Cohort. This week, please**:
+
+1. **Check that you've received Google Calendar invites with Zoom links** **for our 5 Cohort Calls starting Jan 28**. You've also received invites for optional Co-working times in ~alternating weeks (described more below). If you have not received these invites, please let us know.
+
+2. **[Book a 30-minute intro call on Jan 20 or 21](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxqT08taDU4THRJfGRlZmF1bHR8M2FhNmFkNTRkYjJmZTk1MDFhMjQ0NjJmMzYwNDNiOWE)** – or suggest other times if that is not possible. These "1:1's" are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
+
+We'll email again following the intro calls with more information, and ask that you read[ Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160): Our path to better science in less time using open data science tools before January 28. 
+
+**Additional Information. **
+
+All Openscapes events abide by our[ Code of Conduct](https://openscapes.org/code-of-conduct).
+
+Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
+
+Schedule "Seaside Chats": In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings "[Seaside Chats](https://github.com/Openscapes/seaside-chats)" and suggest you schedule them with your team now. People usually schedule these as 60-min meetings but you can make them whatever length you want. Megsie, Em, and Josh are able to join some of your Seaside Chats as well to help.
+
+Optional "Co-working" sessions: times to implement what we've learned during Cohort Calls, where we work on our own projects at the same time together. Sometimes, this means quiet work with check-ins to break up, be accountable for, and get feedback on focused work, and sometimes this involves breakout rooms and screensharing to plan and problem solve.
+
+Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we're looking forward to getting to know all of you and strengthening relationships within the Cohort.
+
+Cheers,
+
+Julie, Em, Josh, and Megsie
+
+:::
 
 ### Week prior
 
 \~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan and a few action items. This includes providing an email address that can access Google Drive and their GitHub username!
 
 ::: {.callout-tip collapse="true"}
-## Example email to welcome cohort: week prior
+## Example email to welcome (academic) cohort: week prior
 
 **Welcome to Openscapes -- SASI Champions Cohort**
 
@@ -361,6 +368,7 @@ Cheers,
 Julie, Erin, Lenny, and Emma
 :::
 
+
 ### Day prior
 
 ::: {.callout-tip collapse="true"}
@@ -379,4 +387,46 @@ Looking forward to it! Cheers, Julie, Erin, Lenny, and Emma
 Zoom call-in information
 
 \[ via web and phone \]
+:::
+
+## Guest teachers
+
+We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
+
+::: {.callout-tip collapse="true"}
+## Example email to guest teacher
+
+Hi \[ potential guest teacher\],
+
+How are you? I hope you've had a break this summer and are doing ok with everything going on.
+
+Openscapes a few Champions cohorts we're leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here's the [cohort page](https://openscapes.github.io/2021-fdd/)).
+
+We wanted to see if you'd be interested in being a guest teacher at one of these Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We're thinking of you joining the second call and presenting about [data strategies for future us](https://openscapes.github.io/series/data-strategies.html), or the third and presenting about [coding strategies for future us](https://openscapes.github.io/series/coding-strategies.html). You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you're welcome to just attend for your part). We are able to offer an honorarium as well.
+
+We're excited to hear your ideas, and if this isn't the right thing now to think about if there's another way we can involve you in the future if you'd like. We'd love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?
+
+Cheers,
+
+Julie and Erin
+:::
+
+Followup email the week before:
+
+::: {.callout-tip collapse="true"}
+## Example email to guest teacher: week prior
+
+Hi Emily and Chanté,
+
+We're excited about your guest teaching and wanted to check in about it. We've had a good first week and two GitHub Clinics and people are excited to learn from how you both work!
+
+I've just shared our \[draft Agenda\] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you'd like, and whether it would make most sense to have more of a group discussion rather than breakouts.
+
+How does all this sound? Happy to meet to chat about it/review together if you have questions, or continue discussions by email.
+
+Thank you!
+
+Cheers,
+
+Julie
 :::
