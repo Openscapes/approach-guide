@@ -359,11 +359,10 @@
 <h2 id="toc-title">On this page</h2>
 <ul>
 <li><a href="#overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-<li><a href="#cohort-registry" class="nav-link" data-scroll-target="#cohort-registry">Cohort Registry</a></li>
-<li><a href="#cohort-planning-issue" class="nav-link" data-scroll-target="#cohort-planning-issue">cohort-planning Issue</a></li>
+<li><a href="#github-issues" class="nav-link" data-scroll-target="#github-issues">GitHub Issues</a></li>
 <li><a href="#cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
+<li><a href="#cohort-registry" class="nav-link" data-scroll-target="#cohort-registry">Cohort Registry</a></li>
 <li><a href="#data-entry" class="nav-link" data-scroll-target="#data-entry">Data entry</a></li>
-<li><a href="#agenda-setup" class="nav-link" data-scroll-target="#agenda-setup">Agenda setup</a></li>
 <li><a href="#github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a>
 <ul class="collapse">
 <li><a href="#for-the-github-clinic" class="nav-link" data-scroll-target="#for-the-github-clinic">For the GitHub Clinic:</a></li>
@@ -384,13 +383,14 @@
 <p>Here is the tech setup that we do one time per Cohort. Most things we do before the first Cohort Call (i.e.&nbsp;Google Folder) and some after the first Cohort Call (i.e.&nbsp;Slack). We review Cohort Agendas before each Cohort and make minor adjustments before each call.</p>
 <p><em>Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the <code>kyber</code> R package, stay tuned.</em></p>
 </section>
-<section id="cohort-registry" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-registry">Cohort Registry</h2>
-<p>Review the <a href="https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382">Cohort Registry</a> Google Doc and update information for the new Cohort. <em>make this public once it’s tidied and stable</em>. This will be iterative as you create the Cohort Google Drive Folder and GitHub repo (see below).</p>
-</section>
-<section id="cohort-planning-issue" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-planning-issue">cohort-planning Issue</h2>
-<p>Create an issue <a href="https://github.com/Openscapes/cohort-planning/issues" class="uri">https://github.com/Openscapes/cohort-planning/issues</a> to keep track of links and tag other co-leads and assists. We’re using GitHub teams.</p>
+<section id="github-issues" class="level2">
+<h2 class="anchored" data-anchor-id="github-issues">GitHub Issues</h2>
+<p>We use the <a href="https://github.com/Openscapes/cohort-planning/issues" class="uri">https://github.com/Openscapes/cohort-planning/issues</a> repository to track collective TODO’s as well as to have “quick links” available before each Cohort Call. This repository coordinates across cohorts, so it’s best to “unwatch” except when you’re tagged and then we tag each issue with the folks involved. We’re using GitHub teams to group folks involved in each cohort and easily tag them. This way, we can all learn and coordinate across cohorts when we want to poke through the issues but aren’t cluttered with emails.</p>
+<p>Two starting Issues to make:</p>
+<ul>
+<li>“Quicklinks” Issue with links nice to have open during Cohort Calls. Example: <a href="https://github.com/Openscapes/cohort-planning/issues/47">2022-nmfs-afsc</a>. We pin this issue so that it shows up at the top of <a href="https://github.com/Openscapes/cohort-planning/issues" class="uri">https://github.com/Openscapes/cohort-planning/issues</a></li>
+<li>“Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what’s been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: <a href="https://github.com/Openscapes/cohort-planning/issues/48">2022-nmfs-afsc</a></li>
+</ul>
 </section>
 <section id="cohort-google-folder" class="level2">
 <h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
@@ -398,25 +398,19 @@
 <li>Create a Google Folder with the name of the cohort in brackets, e.g.&nbsp;<code>[ 2021-noaa-nmfs ]</code></li>
 <li>Add a Pathways folder and add a shortcut for the <a href="https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0">Pathways Spreadsheet</a></li>
 </ul>
+<p>We’ll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.</p>
+</section>
+<section id="cohort-registry" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-registry">Cohort Registry</h2>
+<p>Review the <a href="https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382">Cohort Registry</a> Google Doc and update information for the new Cohort. <em>make this public once it’s tidied and stable and describe its use for <code>kyber</code></em>.</p>
 </section>
 <section id="data-entry" class="level2">
 <h2 class="anchored" data-anchor-id="data-entry">Data entry</h2>
 <p>As teams form, we:</p>
 <ul>
-<li>Update database with who is in which cohort, whether we’ve added them to the calendars and twitter, etc.</li>
+<li>Update database with who is in which cohort</li>
 <li>Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn’t gmail; add this address as well)</li>
 </ul>
-</section>
-<section id="agenda-setup" class="level2">
-<h2 class="anchored" data-anchor-id="agenda-setup">Agenda setup</h2>
-<p><a href="https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing">Blank agendas</a> are in a public Google Folder. Before each Cohort Call, we:</p>
-<ul>
-<li>Make a copy</li>
-<li>Save it in the Cohort Google Folder</li>
-<li>Edit dates, times, add Google Folder links and Zoom links</li>
-<li>Review and tailor for Cohort and Facilitator (including Land Acknowledgement)</li>
-</ul>
-<p>We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.</p>
 </section>
 <section id="github-repo" class="level2">
 <h2 class="anchored" data-anchor-id="github-repo">GitHub repo</h2>
