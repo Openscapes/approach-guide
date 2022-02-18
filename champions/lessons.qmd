@@ -3,7 +3,7 @@ title: "Lesson Planning"
 format: html
 ---
 
-```{r, echo=FALSE, message=FALSE}
+```{.r}
 #| eval: false
 source("import_remote.R")
 ```
