@@ -2,7 +2,9 @@
 title: Seaside Chats, etc.
 ---
 
-This is all (some of?) the way we work together
+This is all (some of?) the way we work together. 
+
+![Artwork by Allison Horst for the MEDS program, this captures how we work too!](images/horst_MEDS_coworking.jpg){width=80%}
 
 ## Seaside Chats
 
@@ -28,5 +30,10 @@ Community Calls are an hour long and generally follow this structure:
 - 10 mins: moderated questions/discussion from the chat
 - 10 mins: open discussion
 - finish 5 mins before a full hour 
+
+## Resources of note
+
+- https://twitter.com/GalaxyKate/status/1480330155487014916?s=20
+
 
 

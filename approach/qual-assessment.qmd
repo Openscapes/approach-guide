@@ -1,0 +1,8 @@
+
+- Download agendas as .odt to import into Taguette
+Field notes
+
+
+Field notes
+ - Quick reflections after each cohort for each mentors
+ - then we code this private reflections doc in addition to our 
