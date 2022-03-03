@@ -1,7 +1,7 @@
 ---
 title: "Openscapes Approach Guide"
 subtitle: "A guide to the Openscapes approach" 
-date: "`r Sys.Date()`"
+date: "February 2022"
 author: "Julia Stewart Lowndes & Erin Robinson"
 citation_url: https://openscapes.github.io/approach-guide/
 slug: index
