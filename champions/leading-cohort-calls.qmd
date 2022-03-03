@@ -56,6 +56,13 @@ Welcome! Please write your name in Roll Call as you join: \[ doc \]
 And please rename yourself with how you'd like to be called and your team name (hover over your name or video \> 3 dots \> Rename)
 :::
 
+### Making breakout rooms
+
+Breakout rooms are generally random or as teams. 
+
+- Random: set up breakout rooms just before we go into them; for example if you set them up during roll call and more folks join before the reflections, you won't be able to create new rooms for them
+- Teams: this takes more time and you'll need the participant list in front of you
+
 ### Guest teachers' presentations
 
 Screenshare! This way we can edit out the recording if groups would like to share these presentations publicly, for example with NOAA NMFS' Em Markowitz' [Data to Product Workflows](https://www.youtube.com/watch?v=CyqOjQwQLy8).
