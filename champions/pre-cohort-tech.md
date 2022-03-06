@@ -1,8 +1,5 @@
 ---
 title: "Pre-cohort tech setup"
-format:
-  html:
-    code-fold: true
 ---
 
 ## Overview
@@ -32,7 +29,7 @@ Here is an example to paste into an issue, for example: <https://github.com/NASA
 - [Planning Folder] - to share with Mentors
 - [Cohort Folder] - to share with Champions (a subfolder within planning folder)
 
----
+*** 
 
 This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/) and focused on the engagement and tech setup after participants have been selected.
 
@@ -69,8 +66,6 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 - "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of  <https://github.com/Openscapes/cohort-planning/issues>
 - "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48) 
-
-
 
 ## Cohort Google Folder
 
@@ -114,8 +109,7 @@ We'll need to ask people to create a GitHub account and share their username wit
 
 **Temporary hacky approach for adding files to the repo for the GitHub Clinic:** 
 
-```{r}
-#| eval: false
+```{.r}
 library(tidyverse)
 library(datapasta) # install.packages("datapasta")
 # restart RStudio Session: click on the repo name top right, click on the name of the repo
