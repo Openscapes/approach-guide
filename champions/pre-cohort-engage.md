@@ -15,7 +15,19 @@ We begin this planning once we've scheduled the dates, \~2 months before the Coh
 
 We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1uzQ-hic0Kn0pNyeb9VwVNDwMYRetZgiXkQ2mZIe_TXk/edit?usp=sharing) to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.
 
-The following is a high-level overview of what is in the Planning Doc and announcement, with example text.
+The following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.
+
+::: {.callout-tip collapse="true"}
+## Example GitHub Issue checklist
+
+## prep announcement
+
+- [ ] draft events page (https://openscapes.github.io/events)
+- [ ] create google form
+- [ ] post events page (with linked google form)
+- [ ] tweet and link to events page
+:::
+
 
 ## Announcement: call for nominations
 
