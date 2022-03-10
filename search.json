@@ -179,14 +179,28 @@
     "href": "champions/pre-cohort-engage.html#planning-document",
     "title": "Pre-cohort engagement",
     "section": "Planning document",
-    "text": "Planning document\nWe make a copy of our Openscapes-CohortPlanningDoc to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.\nThe following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.\n\n\n\n\n\n\nExample GitHub Issue checklist\n\n\n\n\n\nprep announcement\n\n\ndraft events page (https://openscapes.github.io/events)\n\ncreate google form\n\npost events page (with linked google form)\n\ntweet and link to events page"
+    "text": "Planning document\nWe make a copy of our Openscapes-CohortPlanningDoc to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.\nThe following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.\n\n\n\n\n\n\nExample GitHub Issue checklist\n\n\n\n\n\n\nPrep Announcement\n\n\ndraft events page (https://openscapes.github.io/events)\n\ncreate google form\n\npost events page (with linked google form)\n\ntweet and link to events page\n\nThis issue is to help track the pre-cohort setup, following the approach-guide and focused on the engagement and tech setup after participants have been selected.\nThese TODO’s are for @jules32 unless otherwise noted. cc: @Openscapes/2022-noaa-afsc-assist\n\n\nFor Cohort Planning Team\n\n\ninvite co-leads/assists to Google Calendar Cohort Calls\n\ncreate GitHub Team with co-leads/assists\n\ncreate Quicklinks issue and pin, tag assists team\n\ncreate planning Google Folder: Engage-2022-AFSC (should rename this for consistency)\n\nadd co-leads/assists to Google Folder\n\nsetup Planning Doc\n\nfor Seaside Chats doc, add co-leads/assists\n\n\n\nFor Participants\n\n\ncreate Google Folder: Openscapes_CohortCalls [ 2021-noaa-afsc ]\n\nadd participants emails to Openscapes_CohortCalls [ 2021-noaa-afsc ] - Do this the day before Cohort Call 1\n\nadd participants emails to Google Calendar Invites: Cohort Calls\n\nadd participants emails to Google Calendar Invites: Co-working times (optional) (experiment, previously have added those times week-to-week)\n\ndraft welcome email\n\nsend welcome email\n\nsend “reminder” email 1 day before, after adding participants to Openscapes_CohortCalls [ 2021-noaa-afsc ]\n\ncreate GitHub repo - upcoming, testing kyber package for automation"
   },
   {
     "objectID": "champions/pre-cohort-engage.html#prep-announcement",
     "href": "champions/pre-cohort-engage.html#prep-announcement",
     "title": "Pre-cohort engagement",
-    "section": "prep announcement",
-    "text": "prep announcement\n\n\ndraft events page (https://openscapes.github.io/events)\n\ncreate google form\n\npost events page (with linked google form)\n\ntweet and link to events page"
+    "section": "Prep Announcement",
+    "text": "Prep Announcement\n\n\ndraft events page (https://openscapes.github.io/events)\n\ncreate google form\n\npost events page (with linked google form)\n\ntweet and link to events page\n\nThis issue is to help track the pre-cohort setup, following the approach-guide and focused on the engagement and tech setup after participants have been selected.\nThese TODO’s are for @jules32 unless otherwise noted. cc: @Openscapes/2022-noaa-afsc-assist"
+  },
+  {
+    "objectID": "champions/pre-cohort-engage.html#for-cohort-planning-team",
+    "href": "champions/pre-cohort-engage.html#for-cohort-planning-team",
+    "title": "Pre-cohort engagement",
+    "section": "For Cohort Planning Team",
+    "text": "For Cohort Planning Team\n\n\ninvite co-leads/assists to Google Calendar Cohort Calls\n\ncreate GitHub Team with co-leads/assists\n\ncreate Quicklinks issue and pin, tag assists team\n\ncreate planning Google Folder: Engage-2022-AFSC (should rename this for consistency)\n\nadd co-leads/assists to Google Folder\n\nsetup Planning Doc\n\nfor Seaside Chats doc, add co-leads/assists"
+  },
+  {
+    "objectID": "champions/pre-cohort-engage.html#for-participants",
+    "href": "champions/pre-cohort-engage.html#for-participants",
+    "title": "Pre-cohort engagement",
+    "section": "For Participants",
+    "text": "For Participants\n\n\ncreate Google Folder: Openscapes_CohortCalls [ 2021-noaa-afsc ]\n\nadd participants emails to Openscapes_CohortCalls [ 2021-noaa-afsc ] - Do this the day before Cohort Call 1\n\nadd participants emails to Google Calendar Invites: Cohort Calls\n\nadd participants emails to Google Calendar Invites: Co-working times (optional) (experiment, previously have added those times week-to-week)\n\ndraft welcome email\n\nsend welcome email\n\nsend “reminder” email 1 day before, after adding participants to Openscapes_CohortCalls [ 2021-noaa-afsc ]\n\ncreate GitHub repo - upcoming, testing kyber package for automation"
   },
   {
     "objectID": "champions/pre-cohort-engage.html#announcement-call-for-nominations",
