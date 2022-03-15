@@ -205,7 +205,7 @@ Co-Directors, Openscapes
 
 #### Email to decline
 
-Declinining nominees is the worst.
+Declining nominees is the worst.
 
 ::: {.callout-tip collapse="true"}
 ## Example email to decline nominees
