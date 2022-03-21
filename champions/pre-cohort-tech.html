@@ -11,69 +11,6 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
-    pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-    pre > code.sourceCode > span:empty { height: 1.2em; }
-    .sourceCode { overflow: visible; }
-    code.sourceCode > span { color: inherit; text-decoration: inherit; }
-    div.sourceCode { margin: 1em 0; }
-    pre.sourceCode { margin: 0; }
-    @media screen {
-    div.sourceCode { overflow: auto; }
-    }
-    @media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-    }
-    pre.numberSource code
-      { counter-reset: source-line 0; }
-    pre.numberSource code > span
-      { position: relative; left: -4em; counter-increment: source-line; }
-    pre.numberSource code > span > a:first-child::before
-      { content: counter(source-line);
-        position: relative; left: -1em; text-align: right; vertical-align: baseline;
-        border: none; display: inline-block;
-        -webkit-touch-callout: none; -webkit-user-select: none;
-        -khtml-user-select: none; -moz-user-select: none;
-        -ms-user-select: none; user-select: none;
-        padding: 0 4px; width: 4em;
-        color: #aaaaaa;
-      }
-    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-    div.sourceCode
-      {   }
-    @media screen {
-    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-    }
-    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-    code span.at { color: #7d9029; } /* Attribute */
-    code span.bn { color: #40a070; } /* BaseN */
-    code span.bu { } /* BuiltIn */
-    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-    code span.ch { color: #4070a0; } /* Char */
-    code span.cn { color: #880000; } /* Constant */
-    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-    code span.dt { color: #902000; } /* DataType */
-    code span.dv { color: #40a070; } /* DecVal */
-    code span.er { color: #ff0000; font-weight: bold; } /* Error */
-    code span.ex { } /* Extension */
-    code span.fl { color: #40a070; } /* Float */
-    code span.fu { color: #06287e; } /* Function */
-    code span.im { } /* Import */
-    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-    code span.op { color: #666666; } /* Operator */
-    code span.ot { color: #007020; } /* Other */
-    code span.pp { color: #bc7a00; } /* Preprocessor */
-    code span.sc { color: #4070a0; } /* SpecialChar */
-    code span.ss { color: #bb6688; } /* SpecialString */
-    code span.st { color: #4070a0; } /* String */
-    code span.va { color: #19177c; } /* Variable */
-    code span.vs { color: #4070a0; } /* VerbatimString */
-    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
   </style>
 
   <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -299,8 +236,7 @@
 <li><a href="#data-entry" class="nav-link" data-scroll-target="#data-entry">Data entry</a></li>
 <li><a href="#github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a>
 <ul class="collapse">
-<li><a href="#for-the-github-clinic" class="nav-link" data-scroll-target="#for-the-github-clinic">For the GitHub Clinic:</a></li>
-<li><a href="#leading-github-clinics" class="nav-link" data-scroll-target="#leading-github-clinics">Leading GitHub Clinics</a></li>
+<li><a href="#github-clinics" class="nav-link" data-scroll-target="#github-clinics">GitHub Clinics:</a></li>
 </ul></li>
 <li><a href="#slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
 </ul>
@@ -316,12 +252,11 @@
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>Here is the tech setup that we do one time per Cohort. Most things we do before the first Cohort Call (i.e.&nbsp;Google Folder) and some after the first Cohort Call (i.e.&nbsp;Slack). We review Cohort Agendas before each Cohort and make minor adjustments before each call.</p>
 <p><em>Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the <code>kyber</code> R package, stay tuned.</em></p>
-<p>Here is a checklist you can paste into an Issue to track the following things.</p>
 </section>
 <section id="github-issues" class="level2">
 <h2 class="anchored" data-anchor-id="github-issues">GitHub Issues</h2>
 <p>We create a “Quicklinks planning” GitHub Issue to help with our planning. The Quicklinks planning Issues tracks collective TODO’s as a checklist and has “quick links” that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).</p>
-<p>We experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository but think it’s better to do in the cohort’s repo itself - one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic.</p>
+<p>We experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository and also in the Cohort repo itself. In the cohort’s repo it’s one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see below.</p>
 <p>Here is an example to paste into an issue, for example: <a href="https://github.com/NASA-Openscapes/2022-nasa/issues/1" class="uri">https://github.com/NASA-Openscapes/2022-nasa/issues/1</a></p>
 <div class="callout-tip callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target="#callout-1" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -435,44 +370,17 @@ add participants emails to Google Calendar Invites: Co-working times (optional)<
 <li><em>Add Evaluation information</em></li>
 </ul>
 <p>Example: <a href="https://github.com/Openscapes/2021-noaa-nmfs" class="uri">https://github.com/Openscapes/2021-noaa-nmfs</a></p>
-<section id="for-the-github-clinic" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-github-clinic">For the GitHub Clinic:</h3>
-<p>Before the GitHub Clinic, we:</p>
+<section id="github-clinics" class="level3">
+<h3 class="anchored" data-anchor-id="github-clinics">GitHub Clinics:</h3>
+<p>GitHub Clinics should be part of the Cohort Calls, if possible. We experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.</p>
+<p>Before the GitHub Clinic, we do the following (with <code>kyber</code>):</p>
 <ul>
 <li>Add all usernames with member privileges to a GitHub Team titled <code>2022-noaa-afsc-teams</code></li>
 <li>Give the Team access to the Cohort repo</li>
 <li>Create each person’s files</li>
 </ul>
 <p>We’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.</p>
-<p><strong>Temporary hacky approach for adding files to the repo for the GitHub Clinic:</strong></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(datapasta) <span class="co"># install.packages("datapasta")</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># restart RStudio Session: click on the repo name top right, click on the name of the repo</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>file_in <span class="ot">&lt;-</span>  <span class="st">"gh-clinic-text.md"</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>text_template <span class="ot">&lt;-</span> <span class="fu">read_lines</span>(file_in)</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="do">## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>cohort <span class="ot">&lt;-</span><span class="fu">c</span>(<span class="st">"Ameya"</span>, <span class="st">"Amy"</span>, <span class="st">"Andrea"</span>, <span class="st">"Anthony"</span>, <span class="st">"Chris"</span>, <span class="st">"Daniel"</span>, <span class="st">"Danyel"</span>, <span class="st">"Duran"</span>, <span class="st">"Ellysa"</span>, </span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>           <span class="st">"Gabrielle"</span>, <span class="st">"Hu"</span>, <span class="st">"Jonathan"</span>, <span class="st">"Julia"</span>, <span class="st">"Kathyn"</span>, <span class="st">"Kelly"</span>, <span class="st">"Madeline"</span>, <span class="st">"Maria_t"</span>, <span class="st">"Maria_r"</span>, <span class="st">"Megan"</span>, </span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>           <span class="st">"Nicole"</span>, <span class="st">"Nidal"</span>, <span class="st">"Nipam"</span>, <span class="st">"Sittman"</span>, <span class="st">"Sophia"</span>, <span class="st">"Srikari"</span>, <span class="st">"Swapna"</span>, <span class="st">"Syrena"</span>, <span class="st">"Yixian"</span>)</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="do">## check by hand that there are no dupicates and if so, underscore with last name intitial</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>cohort <span class="ot">&lt;-</span> <span class="fu">str_to_lower</span>(cohort)</span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="fu">setwd</span>(<span class="st">"github-clinic"</span>)</span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (champion <span class="cf">in</span> cohort) {</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  file_out <span class="ot">&lt;-</span> glue<span class="sc">::</span><span class="fu">glue</span>(champion, <span class="st">".md"</span>)</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  text_write <span class="ot">&lt;-</span> <span class="fu">write_lines</span>(text_template, file_out)</span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-<section id="leading-github-clinics" class="level3">
-<h3 class="anchored" data-anchor-id="leading-github-clinics">Leading GitHub Clinics</h3>
-<ul>
-<li>add Openscapes Team as co-hosts</li>
-</ul>
+<p>(Review <code>kyber</code>’s README until it is incorporated here in the Approach Guide).</p>
 </section>
 </section>
 <section id="slack" class="level2">
