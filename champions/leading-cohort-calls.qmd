@@ -100,7 +100,7 @@ See examples:
 
 ### Co-working
 
-This is something we've just started with the Cohorts fall 2021 and they are going well. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too.  
+We started co-working with Cohorts in fall 2021. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too. Champions have said it's a really nice practice to take back to their research groups and it's also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.  
 
 We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#). 
 
@@ -144,23 +144,13 @@ Hi All, Excited for today! We'll share the \[ Agenda \] in chat, and expect that
 Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details. 
 :::
 
-### GitHub Clinic Invites
+### Prepare for GitHub Clinic
 
-Send Calendar Invites for the GitHub Clinics:
-
-::: {.callout-tip collapse="true"}
-## Example Google Calendar Description text: GitHub Clinic
-
-GitHub Clinics that can serve as your first Seaside Chat. We'll cover how to use GitHub collaboratively from the browser: focused on publishing and project management.
-
-There are 2 options and 2 calendar invites; please accept a time that works for you and we'll share the recording as well if your team will meet independently for your first Seaside Chat.
-:::
-
-Slack reminder: 
+GitHub Clinics are most often during Cohort Call 2:
 
 ::: {.callout-tip collapse="true"}
 ## Example Slack reminder text: GitHub Clinic
-Hi \@channel! Today's GitHub Clinic is in 3 hours (12pm PT, [ zoom link ])! For folks who've already provided their github usernames, please check your email to accept the invitation from GitHub for the repository. And for folks who haven't yet shared/created a GitHub username, there is still time! Create an account at GitHub.com and share your username here in slack or in the [ participant spreadsheet ]. Thanks!
+Hi \@channel! Today's Cohort Call is in 3 hours, we'll be learning GitHub (12pm PT, [ zoom link ])! For folks who've already provided their github usernames, please check your email to accept the invitation from GitHub for the repository. And for folks who haven't yet shared/created a GitHub username, there is still time! Create an account at GitHub.com and share your username here in slack or in the [ participant spreadsheet ]. Thanks!
 
 :::
 
@@ -178,7 +168,6 @@ Team members can also circulate in the breakout rooms to check in, help, and sha
 
 Preparing for the GitHub Clinic involves: 
 
-- making a copy of the [GitHub Clinic Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit)
 - adding participant GitHub usernames to the Cohort's repo
 - reviewing the slides
 

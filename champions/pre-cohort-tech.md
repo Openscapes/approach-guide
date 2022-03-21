@@ -8,13 +8,11 @@ Here is the tech setup that we do one time per Cohort. Most things we do before 
 
 *Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the `kyber` R package, stay tuned.*
 
-Here is a checklist you can paste into an Issue to track the following things. 
-
 ## GitHub Issues
 
 We create a "Quicklinks planning" GitHub Issue to help with our planning. The Quicklinks planning Issues tracks collective TODO's as a checklist  and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!). 
 
-We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository but think it's better to do in the cohort's repo itself - one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. 
+We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see below.
 
 Here is an example to paste into an issue, for example: <https://github.com/NASA-Openscapes/2022-nasa/issues/1>
 
@@ -97,9 +95,11 @@ As teams form, we:
 Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
 
-### For the GitHub Clinic:
+### GitHub Clinics:
 
-Before the GitHub Clinic, we:
+GitHub Clinics should be part of the Cohort Calls, if possible. We experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.
+
+Before the GitHub Clinic, we do the following (with `kyber`):
 
 - Add all usernames with member privileges to a GitHub Team titled `2022-noaa-afsc-teams`
 - Give the Team access to the Cohort repo
@@ -107,37 +107,7 @@ Before the GitHub Clinic, we:
 
 We'll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next. 
 
-**Temporary hacky approach for adding files to the repo for the GitHub Clinic:** 
-
-```{.r}
-library(tidyverse)
-library(datapasta) # install.packages("datapasta")
-# restart RStudio Session: click on the repo name top right, click on the name of the repo
-
-file_in <-  "gh-clinic-text.md"
-text_template <- read_lines(file_in)
-
-## use `datapasta` addin to vector_paste these names formatted from the spreadsheet!
-cohort <-c("Ameya", "Amy", "Andrea", "Anthony", "Chris", "Daniel", "Danyel", "Duran", "Ellysa", 
-           "Gabrielle", "Hu", "Jonathan", "Julia", "Kathyn", "Kelly", "Madeline", "Maria_t", "Maria_r", "Megan", 
-           "Nicole", "Nidal", "Nipam", "Sittman", "Sophia", "Srikari", "Swapna", "Syrena", "Yixian")
-## check by hand that there are no dupicates and if so, underscore with last name intitial
-cohort <- str_to_lower(cohort)
-
-setwd("github-clinic")
-
-for (champion in cohort) {
-  
-  file_out <- glue::glue(champion, ".md")
-  text_write <- write_lines(text_template, file_out)
-  
-}
-
-```
-
-### Leading GitHub Clinics
-
-- add Openscapes Team as co-hosts
+(Review `kyber`'s README until it is incorporated here in the Approach Guide).
 
 
 ## Slack
