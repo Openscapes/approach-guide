@@ -37,7 +37,7 @@ website:
         contents:  
           - approach/index.md
           - approach/code-of-conduct.md
-          - approach/seaside-chats.md
+          - approach/seaside-chats.qmd
           - approach/onboarding.md
           - approach/tooling.md
           - approach/partners.md

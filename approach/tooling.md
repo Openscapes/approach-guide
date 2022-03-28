@@ -6,7 +6,7 @@ We try to use a few amount of tools that interoperate well and are open source a
 
 We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.
 
-Below are the tools that we use, why we use them, and set up instructions and [notes](https://github.com/Openscapes/teaching-learning-resources/issues/12).
+Below are the tools that we use, why we use them, and set up instructions. (Herre are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
 
 ### Google Drive
 
@@ -25,23 +25,23 @@ Below are the tools that we use, why we use them, and set up instructions and [n
 - all websites and books
 - data analysis (R: tidyverse, RMarkdown)
 - communications and technical writing (RMarkdown, bookdown, blogdown, Quarto)
-- Follow these [installation instructions](https://ucsb-meds.github.io/meds-install-guide) Steps 1-6 to install and configure RStudio with GitHub 
+- [RStudio and GitHub setup instructions](https://openscapes.github.io/series/how-to/setup-rstudio-github.html)
 
 ### Google Calendar
 
   
 ### Slack
 
-- https://slack.com/downloads
+- <https://slack.com/downloads>
 
 ### Zoom
 
-- https://zoom.com/downloads
+- <https://zoom.com/downloads>
 
 
 ### Zotero
 
-- https://www.zotero.org/
+- <https://www.zotero.org/>
 - Login from browser
 - Download desktop app and Zotero Connector to Firefox
 
@@ -50,5 +50,3 @@ In our Openscapes group library, we have resources not limited to academic artic
 ### ORCID/Rescognito
 
 upcoming
-
-### Airtable

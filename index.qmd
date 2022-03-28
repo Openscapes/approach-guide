@@ -35,7 +35,7 @@ This book will ultimately describe the Openscapes Approach as all parts of our F
 
 ### Built with Quarto
 
-We're collaboratively making the Openscapes Approach Guide with Quarto: <https://quarto.org>. Quarto builds from what RStudio learned from RMarkdown, which we use toopenly develop and publish all Openscapes websites and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.
+We're collaboratively making the Openscapes Approach Guide with Quarto: <https://quarto.org>. Quarto builds from what RStudio learned from RMarkdown, which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines.
 
 ## Citation 
 
