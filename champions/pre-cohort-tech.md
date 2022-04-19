@@ -95,7 +95,7 @@ As teams form, we:
 Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
 
-### GitHub Clinics:
+## GitHub Clinics
 
 GitHub Clinics should be part of the Cohort Calls, if possible. We experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.
 
@@ -108,6 +108,26 @@ Before the GitHub Clinic, we do the following (with `kyber`):
 We'll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next. 
 
 (Review `kyber`'s README until it is incorporated here in the Approach Guide).
+
+### Prepare for GitHub Clinic
+
+GitHub Clinics are most often during Cohort Call 2
+
+### GitHub Clinic overview
+
+**GitHub Clinic** are 1 hour long, and require at least two team members. *Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.* 
+
+During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team. 
+
+The Facilitator leads the agenda, and Teacher talks through the slides and screenshares. 
+
+Team members can also circulate in the breakout rooms to check in, help, and share.
+
+Preparing for the GitHub Clinic involves: 
+
+- adding participant GitHub usernames to the Cohort's repo
+- reviewing the slides
+
 
 
 ## Slack

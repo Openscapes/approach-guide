@@ -46,7 +46,7 @@ website:
         contents:
           - champions/index.qmd
           - champions/design.md
-          - champions/timeline.md
+          - champions/cohort-planning.md
           - champions/pre-cohort-engage.md
           - champions/pre-cohort-tech.md
           - champions/lessons.qmd

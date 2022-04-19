@@ -5,11 +5,11 @@ format: html
 
 ## Overview
 
-Since 2018 we have iterated on a coordination strategy that works well for coordinating with partners and attracting research teams to participate in the Champions Cohort. This coordinating work begins \~2.5 months before the cohort will start, and the time allows for preparing text for communications (announcement emails, twitter, and website and google form), having a \~1 month long nomination period, selection, and 1:1 interviews with each team lead prior to the cohort starting.
+Pre-cohort engagement is focused on potential participants for the Cohort.
 
 **We focus our engagement/recruitment of team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
 
-We begin this planning once we've scheduled the dates, \~2 months before the Cohort begins: see the Timeline Chapter for details about timing.
+We begin this engagement once we've scheduled the dates, \~2 months before the Cohort begins: see the Program Design Chapter for details about timing.
 
 ## Planning document
 
