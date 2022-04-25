@@ -4,17 +4,37 @@ title: "Pre-cohort tech setup"
 
 ## Overview
 
-Here is the tech setup that we do one time per Cohort. Most things we do before the first Cohort Call (i.e. Google Folder) and some after the first Cohort Call (i.e. Slack). We review Cohort Agendas before each Cohort and make minor adjustments before each call.  
+Pre-cohort tech setup involves the technical infrastructure for Champions Cohorts. 
 
-*Note: we are working to automate our tech setup for each cohort 😍 This work will eventually be in the `kyber` R package, stay tuned.*
+Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (i.e. inviting folks to Slack). 
 
-## GitHub Issues
+We generate and review Agendas prior to each Cohort Call; they are not created all in advance. 
+
+## Cohort Registry
+
+Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
+
+- **cohort_name**: our convention is `year-shortname`
+- **date_start**: in DD/MM/YYYY format
+- **github_repo**: github repository (even if not yet created)
+- **google_drive_folder** 
+
+
+## Cohort Google Folder
+
+-   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
+-   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
+
+We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
+
+
+## Planning GitHub Issue
 
 We create a "Quicklinks planning" GitHub Issue to help with our planning. The Quicklinks planning Issues tracks collective TODO's as a checklist  and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!). 
 
-We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see below.
+We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.
 
-Here is an example to paste into an issue, for example: <https://github.com/NASA-Openscapes/2022-nasa/issues/1>
+Here is an example to paste into an issue, for example: <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>
 
 
 ::: {.callout-tip collapse="true"}
@@ -65,28 +85,12 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 - "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of  <https://github.com/Openscapes/cohort-planning/issues>
 - "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48) 
 
-## Cohort Google Folder
-
--   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
--   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
-
-We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
-
-## Cohort Registry
-
-Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit#gid=695033382) Google Doc and update information for the new Cohort. *make this public once it's tidied and stable and describe its use for `kyber`*. 
-
-## Data entry
-
-As teams form, we:
-
--   Update database with who is in which cohort
--   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn't gmail; add this address as well)
-
 
 ## GitHub repo 
 
--   Create a Cohort GitHub repo within the Openscapes GitHub organization.
+Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the `kyber` package. For now, follow [these instructions](https://github.com/openscapes/kyber/tree/dev#kyber) (in the dev branch). 
+
+Then, 
 -   Make it a website repo: Settings > Pages > Source: main, dir: root
 -   Add our Code of Coduct
 -   Write Cohort info on the README
@@ -94,6 +98,12 @@ As teams form, we:
 
 Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
+## Data entry
+
+As teams form, we:
+
+-   Update database with who is in which cohort
+-   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn't gmail; add this address as well)
 
 ## GitHub Clinics
 
