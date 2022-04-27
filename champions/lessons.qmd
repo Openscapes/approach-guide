@@ -2,11 +2,6 @@
 title: "Lesson Planning"
 ---
 
-```{.r}
-#| eval: false
-source("import_remote.R")
-```
-
 The [Openscapes Champions Series](https://openscapes.github.io/series/) describe the lessons we currently teach, with each lesson represented as a book chapter with linked slides. During Cohort Calls we teach from the slides and not from the book chapters; the chapters will ultimately be a stand-alone resource for self-paced learning (this is a work in progress).
 
 Each lesson is a 10-15 minute slide deck or demo, and there are two lessons per Cohort Call. Lessons are taught followed by an activity so particpants can reflect how topics apply to their own work (see more about [agenda structure](/champions/pre-cohort-tech.html#agenda-structure)). 
@@ -21,13 +16,20 @@ We also invite guest teachers, and offer to pay them for their time.
 
 We'll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.
 
-- Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
+Examples: 
+
+- [SASI Champions Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
+- [ NASA Champions Lesson Plan](https://docs.google.com/spreadsheets/d/1wDhV0ncbYuqVPv7jCE0y1E6TsWXeGKIfddUmsr3LmBU/edit?usp=sharing)
 
 New lessons will build from the core lessons we lead for two-month cohorts (from the [Series welcome](https://openscapes.github.io/series/)):
 
-```{.include}
-_agenda_2month.md
-```
+Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
+------------------|----------------------|---------------------------
+1. Openscapes mindset, better science in less time | [mindset](mindset.qmd), [better science in less time](better-science.qmd) | Pathway - where are you now
+2. GitHub Clinic: publishing & project management | [publishing](github-pub.qmd), [project management](github-issues.qmd) | Shared organizing with GitHub
+3. Team culture and data strategies for future us | [team culture](team-culture.qmd), [data strategies](data-strategies.qmd) | Onboarding docs, code of conduct
+4. Open communities and coding strategies for future us | [open communities](communities.qmd), [coding strategies](coding-strategies.qmd) | Pathway - next steps
+5. Pathways share and next steps |  | 
 
 
 ## Agenda structure {#agenda-structure}

@@ -7,8 +7,14 @@ format: html
 
 The Champions Program is described at <https://openscapes.org> and is taught with the [Champions Lesson Series](https://openscapes.github.io/series/), which are open educational resources.
 
-[![](images/OpenscapesChampionsDesign.png){fig.alt="Openscapes Champions program slide shows" fig-align="center" width="70%"}](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit)
+[![](images/OpenscapesChampionsDesign.jpg){fig.alt="Openscapes Champions program slide shows" fig-align="center" width="90%"}](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit)
 
+Here are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants: 
+
+- [Openscapes_ChampionsIntro2022](https://docs.google.com/presentation/d/1yCzG8cdFsTxmFyZijiUGi2hlyuJVM_i-imkTrao_O1g/edit#slide=id.gb1d0505bec_0_0) 
+- [NMFS_Openscapes_2022_04_18](https://docs.google.com/presentation/d/1VAzYflkUTMVBS0onDThhVXxvja3z-nRGPwRuVsNKFks/edit#slide=id.g1138e626848_0_861) 
+- [Openscapes_Intro_AFSC_2021_12_02](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit#slide=id.gcfa9a8ce7e_0_246)
+- [NWFSC_Openscapes_2022_02_14](NWFSC_Openscapes_2022_02_14)
 
 ## High-level timeline
 
