@@ -80,4 +80,8 @@ Dates: September 17, October 1, 15 & 29
 
 :::
 
-<!--- ## Example: NOAA Fisheries --->
+## Example: NOAA Fisheries
+
+Openscapes has led 5 Cohorts with NOAA Fisheries (officially called NMFS: National Marine Fisheries Service) so far. We’re planning 2-3 Cohorts for 2022. (We also have a 3-year proposal for NMFS-wide Openscapes 2023-2025 that we're presenting to leadership). Planning has involved proposals to center supervisors, presentations to center leadership, coordination with center staff, and presentations to recruit participants and “ask me anything” sessions to answer questions, building from [Openscapes’ pubs, slides](https://openscapes.org/media), etc and [operations overview](https://openscapes.github.io/approach-guide/champions/). 
+
+Coming soon: link to the **NMFS Openscapes README** with planning resources reused/remixed across NMFS science centers.

@@ -7,6 +7,8 @@ format: html
 
 ## Survey
 
+Here is the [survey template](https://docs.google.com/forms/d/e/1FAIpQLSdu7fJCWfTScw5-P62fjmuzmA7Y0x2O1yWhpDpZe5-THjCyjQ/viewform?usp=sf_link) we sent out to Champions following the cohort.
+
 ## Honoraria for Guest Teachers
 
 ::: {.callout-tip collapse="true"}
