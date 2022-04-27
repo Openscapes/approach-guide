@@ -13,8 +13,9 @@ Here are a few example presentations to introduce the Champions program with dif
 
 - [Openscapes_ChampionsIntro2022](https://docs.google.com/presentation/d/1yCzG8cdFsTxmFyZijiUGi2hlyuJVM_i-imkTrao_O1g/edit#slide=id.gb1d0505bec_0_0) 
 - [NMFS_Openscapes_2022_04_18](https://docs.google.com/presentation/d/1VAzYflkUTMVBS0onDThhVXxvja3z-nRGPwRuVsNKFks/edit#slide=id.g1138e626848_0_861) 
+- [NWFSC_Openscapes_2022_02_14](https://docs.google.com/presentation/d/1qyW3KcwxiKwBffjsJ-fMF0snG99ahqZAnfq2xDSRPdc/edit?usp=sharing)
 - [Openscapes_Intro_AFSC_2021_12_02](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit#slide=id.gcfa9a8ce7e_0_246)
-- [NWFSC_Openscapes_2022_02_14](NWFSC_Openscapes_2022_02_14)
+
 
 ## High-level timeline
 
