@@ -256,7 +256,7 @@
     "href": "champions/lessons.html#lesson-planning",
     "title": "Lesson Planning",
     "section": "Lesson Planning",
-    "text": "Lesson Planning\nWe’ll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.\n\nExample: SASI Cohort Lesson Plan\n\nNew lessons will build from the core lessons we lead for two-month cohorts (from the Series welcome):\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub Clinic\npublishing, project management\nExplore GitHub for organization, documentation, and project management\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps"
+    "text": "Lesson Planning\nWe’ll be collaborating to develop new lessons with partners for our four-month cohorts! We do this with a spreadsheet to plan lessons and implement them closer to teaching dates so that we can be responsive to cohort needs. Planning includes topics, slide decks, activities, efficiency tips, and Seaside Chat topics. More here soon.\nExamples:\n\nSASI Champions Lesson Plan\nNASA Champions Lesson Plan\n\nNew lessons will build from the core lessons we lead for two-month cohorts (from the Series welcome):\n\n\n\nCohort Call Topics\nSeries Chapters\nSeaside Chat Topics\n\n\n\n\n1. Openscapes mindset, better science in less time\nmindset, better science in less time\nPathway - where are you now\n\n\n2. GitHub Clinic: publishing & project management\npublishing, project management\nShared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nOnboarding docs, code of conduct\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nPathway - next steps\n\n\n5. Pathways share and next steps"
   },
   {
     "objectID": "champions/lessons.html#agenda-structure",
@@ -368,7 +368,7 @@
     "href": "champions/design.html#champions-program-design",
     "title": "Program Design & Timeline",
     "section": "Champions Program Design",
-    "text": "Champions Program Design\nThe Champions Program is described at https://openscapes.org and is taught with the Champions Lesson Series, which are open educational resources."
+    "text": "Champions Program Design\nThe Champions Program is described at https://openscapes.org and is taught with the Champions Lesson Series, which are open educational resources.\n\n\n\n\n\nHere are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants:\n\nOpenscapes_ChampionsIntro2022\nNMFS_Openscapes_2022_04_18\nOpenscapes_Intro_AFSC_2021_12_02\nNWFSC_Openscapes_2022_02_14"
   },
   {
     "objectID": "champions/design.html#high-level-timeline",
@@ -389,7 +389,7 @@
     "href": "champions/post-cohort-followup.html#survey",
     "title": "Post-Cohort followup",
     "section": "Survey",
-    "text": "Survey"
+    "text": "Survey\nHere is the survey template we sent out to Champions following the cohort."
   },
   {
     "objectID": "champions/post-cohort-followup.html#honoraria-for-guest-teachers",
@@ -558,6 +558,13 @@
     "title": "Cohort Planning",
     "section": "Schedule Cohort Dates",
     "text": "Schedule Cohort Dates\nSchedule the Cohort dates early as possible!!\nWe have found this procedure to work best:\n\nWe schedule date-times for all Cohort Calls that work for anyone involved with leading the Cohort Calls. This includes asking/exploring for any big conflicts like conferences that this community attends.\nWe announce the opportunity ~2 months ahead with the scheduled date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official”. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in.\n\n\n\n\n\n\n\nExample: Scheduling date times\n\n\n\n\n\n\nThe [NAME] Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us:\n\n\nOption 1) Thursdays at 12-1:30 pm ET. Dates: September 16 & 30, October 14 & 28\n\n\nOption 2) Thursdays at 2-3:30 pm ET. Dates: September 16 & 30, October 14 & 28\n\n\nOption 3) Fridays at 12-1:30 pm ET. Dates: September 17, October 1, 15 & 29"
+  },
+  {
+    "objectID": "champions/cohort-planning.html#example-noaa-fisheries",
+    "href": "champions/cohort-planning.html#example-noaa-fisheries",
+    "title": "Cohort Planning",
+    "section": "Example: NOAA Fisheries",
+    "text": "Example: NOAA Fisheries\nOpenscapes has led 5 Cohorts with NOAA Fisheries (officially called NMFS: National Marine Fisheries Service) so far. We’re planning 2-3 Cohorts for 2022. (We also have a 3-year proposal for NMFS-wide Openscapes 2023-2025 that we’re presenting to leadership). Planning has involved proposals to center supervisors, presentations to center leadership, coordination with center staff, and presentations to recruit participants and “ask me anything” sessions to answer questions, building from Openscapes’ pubs, slides, etc and operations overview.\nComing soon: link to the NMFS Openscapes README with planning resources reused/remixed across NMFS science centers."
   },
   {
     "objectID": "LICENSE.html#process-documents-and-data",
