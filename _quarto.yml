@@ -47,7 +47,7 @@ website:
           - champions/index.qmd
           - champions/design.md
           - champions/cohort-planning.md
-          - champions/pre-cohort-engage.md
+          - champions/pre-cohort-engage.qmd
           - champions/pre-cohort-tech.md
           - champions/lessons.qmd
           - champions/leading-cohort-calls.qmd
