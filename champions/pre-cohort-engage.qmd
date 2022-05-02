@@ -10,6 +10,8 @@ Pre-cohort engagement is focused on potential participants for the Cohort.
 
 We begin this engagement once we've scheduled the dates, \~2 months before the Cohort begins: see the Program Design Chapter for details about timing.
 
+Depending on the Cohort, recruitment may happen by the partners internally rather than by Openscapes. Approaches we've iterated/formalized can still help in these cases - for example having a public webpage with all information (which gives it some official "weight" and is also a single place to point folks to for details), and focusing on engaging and building trust with team leads so that their teams are approved to spend time.
+
 ## Announcement: call for nominations
 
 Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity as ask team leads to nominate their teams.
