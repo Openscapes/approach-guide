@@ -43,6 +43,18 @@ We host monthly virtual social hours May through August for people to (re)connec
 
 To keep these truly low-barrier, no RVSP or preparation are required. The day and time may vary each month.
 
+::: {.callout-tip collapse="true"}
+## Example Slack text to announce next Social Hour
+
+\@channel Y'all are invited to our first Openscapes Social Hour!
+
+Time: Monday, May 16th, 1:00 - 1:50pm PT (UTC -7)\
+Where: Zoom link\
+No RSVP or preparation needed 😅 Bring snacks / mocktails / cocktails!
+
+We wanted to create a way for people to (re)connect informally with other Champions, Mentors, the Openscapes team, anyone in this Slack. I know many of you are keen to hear what others have been up to so come hang out! I'll facilitate so I promise it won't be awkward 😉 (This msg is pinned to this channel so you can find the details any time)
+:::
+
 ## Resources
 
 -   [GalaxyKate's 4-Channel participation model](https://twitter.com/GalaxyKate/status/1480330155487014916?s=20) - supporting remote learners
