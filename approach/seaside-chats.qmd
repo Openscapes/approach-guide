@@ -2,7 +2,7 @@
 title: Seaside Chats, etc.
 ---
 
-We work together with varied technology and facilitations to provide structure; this is (some of?) the ways we work: 
+We work together with varied technology and facilitations to provide structure; this is (some of?) the ways we work:
 
 ![Artwork by Allison Horst for the MEDS program, this captures how we work too!](images/horst_MEDS_coworking.jpg){fig-align="center" width="90%"}
 
@@ -20,26 +20,29 @@ We have hackathons to tackle specific tasks together. We use this word to mean w
 
 ## Community Calls
 
-We host ~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming [events](https://openscapes.github.io/events/#category:community_call) that Openscapes has either hosted or joined.
+We host \~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming [events](https://openscapes.github.io/events/#category:community_call) that Openscapes has either hosted or joined.
 
-Community Calls are an hour long and generally follow this structure: 
+Community Calls are an hour long and generally follow this structure:
 
-- begin 5 mins prior: rotating welcome slides and pump-up music selected by the guest
-- 5 mins: welcome, code of conduct, plan for the call, introduce guest
-- 25 mins: prepared conversation with guest
-- 10 mins: moderated questions/discussion from the chat
-- 10 mins: open discussion
-- finish 5 mins before a full hour 
+-   begin 5 mins prior: rotating welcome slides and pump-up music selected by the guest
+-   5 mins: welcome, code of conduct, plan for the call, introduce guest
+-   25 mins: prepared conversation with guest
+-   10 mins: moderated questions/discussion from the chat
+-   10 mins: open discussion
+-   finish 5 mins before a full hour
 
 ## Cohort Calls
 
 Cohort Calls are the core of the Champions Program and the [NASA Openscapes Framework](https://nasa-openscapes.github.io). They are described more in the [Champions Lesson Series](https://openscapes.github.io/series/#cohort-calls). They are a big part of how we work as we work with research and mentors groups.
 
-One note: we avoid having folks "shadow"on Cohort Calls, since we are building trust and so avoid have folks "drop in". Instead, we can plan in advance to have them assist and introduce themselves if they are joining a Cohort Calls and learning by doing. 
+One note: we avoid having folks "shadow"on Cohort Calls, since we are building trust and so avoid have folks "drop in". Instead, we can plan in advance to have them assist and introduce themselves if they are joining a Cohort Calls and learning by doing.
+
+## Social Hours
+
+We host monthly virtual social hours May through August for people to (re)connect informally with other Champions, Mentors, or the Openscapes team (anyone in our Slack). Folks might share their wins, challenges, tips, and generally find commonalities. As we experiment, these may include ice breakers or breakout rooms ([example](https://medium.com/@bduckles/the-watercooler-is-dead-long-live-the-watercooler-f185997e3f0a "The Watercooler is Dead, Long Live the Watercooler!, by Beth Duckles")).
+
+To keep these truly low-barrier, no RVSP or preparation are required. The day and time may vary each month.
 
 ## Resources
 
-- [GalaxyKate's 4-Channel participation model](https://twitter.com/GalaxyKate/status/1480330155487014916?s=20) - supporting remote learners
-
-
-
+-   [GalaxyKate's 4-Channel participation model](https://twitter.com/GalaxyKate/status/1480330155487014916?s=20) - supporting remote learners
