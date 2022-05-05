@@ -49,4 +49,4 @@ Hello CS&S Champions! This is an optional 3-month check-in to reconnect and shar
 
 ## Social Hours
 
-Learn about our Summer monthly Social Hours in Seaside Chats. (add internal link & anchor)
+Learn about our Summer monthly [Social Hours](../approach/seaside-chats.qmd#social-hours) in Seaside Chats.
