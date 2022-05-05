@@ -37,7 +37,7 @@ Cohort Calls are the core of the Champions Program and the [NASA Openscapes Fram
 
 One note: we avoid having folks "shadow"on Cohort Calls, since we are building trust and so avoid have folks "drop in". Instead, we can plan in advance to have them assist and introduce themselves if they are joining a Cohort Calls and learning by doing.
 
-## Social Hours
+## Social Hours {#social-hours}
 
 We host monthly virtual social hours May through August for people to (re)connect informally with other Champions, Mentors, or the Openscapes team (anyone in our Slack). Folks might share their wins, challenges, tips, and generally find commonalities. As we experiment, these may include ice breakers or breakout rooms ([example](https://medium.com/@bduckles/the-watercooler-is-dead-long-live-the-watercooler-f185997e3f0a "The Watercooler is Dead, Long Live the Watercooler!, by Beth Duckles")).
 
