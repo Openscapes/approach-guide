@@ -4,7 +4,7 @@ title: "Setup"
 
 To contribute, please do the following (20 minutes). All software is open source and free.
 
-## Install R and RStudio
+## Install R and RStudio!
 
 To download and install R and RStudio:
 
