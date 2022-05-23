@@ -52,6 +52,7 @@ website:
           - champions/lessons.qmd
           - champions/leading-cohort-calls.qmd
           - champions/post-cohort-followup.qmd
+          - champions/field-notes.qmd
       - section: "Contributing"
         contents:
           - contributing/index.md

@@ -1,0 +1,41 @@
+---
+title: Field Notes
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Outline:
+
+Examples - what was surprising, what would you tell your partner if you
+got up and walked away, what was impactful Share agendas, any tagging
+you do if you do that, and field notes. Coding is beyond; pay someone
+Field notes are good for being responsive to the group and how you write
+up the digests, and useful to Future Us Set of questions - Beth TODO
+
+-   **Approach Guide Structure**
+
+    -   **Early intro & motivation**
+
+        -   **How does Openscapes support teams to transition from
+            closed research practices to open research practices?**
+
+        -   **Budgets: if you have a social scientists on your Mentor
+            institution/team, include them**
+
+    -   **New Chapter detailing how**
+
+        -   **Examples - what was surprising, what would you tell your
+            partner if you got up and walked away, what was impactful**
+
+        -   **Share agendas, any tagging you do if you do that, and
+            field notes.**
+
+            -   **Coding is beyond; pay someone**
+
+        -   **Field notes are good for being responsive to the group and
+            how you write up the digests, and useful to Future Us**
+
+            -   **Set of questions - Beth TODO**
+
+                -   **What are**
