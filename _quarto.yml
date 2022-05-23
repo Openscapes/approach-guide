@@ -51,7 +51,7 @@ website:
           - champions/pre-cohort-tech.md
           - champions/lessons.qmd
           - champions/leading-cohort-calls.qmd
-          - champions/post-cohort-followup.md
+          - champions/post-cohort-followup.qmd
       - section: "Contributing"
         contents:
           - contributing/index.md
