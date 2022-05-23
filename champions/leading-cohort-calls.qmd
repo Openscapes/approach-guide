@@ -87,16 +87,17 @@ Write field notes in the Planning Docs, at the bottom
 
 We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
 
-Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes.
+Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. Call 1 is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughtout the cohort.
 
-We develop these in the Openscapes [cohort-planning](https://github.com/Openscapes/cohort-planning/issues?q=+label%3Adigest+) repo. 
+We develop these in a single "DigestsDrafts" Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.
 
 See examples:
 
--   [01 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/18)
--   [02 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/15)
--   [03 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/17)
--   [04 Call Digest \[ CSS \]](https://github.com/Openscapes/css-cohort/issues/19)
+- [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest)
+- [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest)
+- [2021-fdd](https://github.com/Openscapes/2021-fdd/labels/digest)
+- [2021-noaa-nmfs](https://github.com/Openscapes/2021-noaa-nmfs/labels/digest)
+
 
 ### Co-working
 

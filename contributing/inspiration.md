@@ -31,3 +31,7 @@ Our [**Resources**](https://www.openscapes.org/resources) page has some resource
 Our [Openscapes GitHub Organization](https://github.com/openscapes) has pinned repositories of interest, including the [teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources) repo where we use [Issues](https://www.openscapes.org/champions/[teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources/issues)) to jot down specific tools or learning resources for open, reproducible, inclusive science.
 
 We also have a public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library) linking publications, talks, and curricula. And, a public [Openscapes Spotify Playlist](https://open.spotify.com/playlist/7rAl8ORlMJbqa9IylFhSwd?si=5042f14a9b8c4dcc&nd=1) of favorite pump-up songs from our cohorts. 
+
+## Pieces that resonate
+
+- [Time to Say Goodbye to Our Heroes?](https://issues.org/say-goodbye-hero-model-science-elkins-tanton/) - Lindy Elkins-Tanton
