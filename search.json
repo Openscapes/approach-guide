@@ -59,8 +59,8 @@
     "objectID": "contributing/setup.html#install-r-and-rstudio",
     "href": "contributing/setup.html#install-r-and-rstudio",
     "title": "Setup",
-    "section": "Install R and RStudio",
-    "text": "Install R and RStudio\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
+    "section": "Install R and RStudio!",
+    "text": "Install R and RStudio!\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
   },
   {
     "objectID": "contributing/workflow.html#overview",
