@@ -54,7 +54,7 @@ These TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa
 
 ## Partners Planning Call {#partners-planning-call}
 
-The Partner Planning Call kicks of the collaboration. In this meeting we share lessons learned from recent Cohorts, introduce cohort structure and teams, [Pre-Cohort Engagement](/champions/pre-cohort-engage.md), and onboarding any assistants. Partners share more about the research community, and we discuss the planning timeline and propose dates for the Cohort. 
+The Partner Planning Call kicks of the collaboration. In this meeting we share lessons learned from recent Cohorts, introduce cohort structure and teams, [Pre-Cohort Engagement](/champions/pre-cohort-engage.qmd), and onboarding any assistants. Partners share more about the research community, and we discuss the planning timeline and propose dates for the Cohort. 
 
 ## Schedule Cohort Dates {#schedule-cohort-dates}
 
