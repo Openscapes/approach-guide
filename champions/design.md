@@ -24,7 +24,7 @@ We work with our Partners to plan Champions Cohorts.
 This includes coordinating within the partner community, scheduling dates, and preparing the engagement strategy to share the opportunity and attract research teams interested in better practices for their research.
 
 1. [**Cohort Planning**](/champions/cohort-planning.md) with partners: 2-5 months prior to Cohort start date.
-1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.md) with potential participants: ~2 months prior to Cohort start date. 
+1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.qmd) with potential participants: ~2 months prior to Cohort start date. 
 1. [**Leading Cohort Calls**](/champions/leading-cohort-calls.qmd) for participants: 2 months. 
 
 :::{.callout-tip collapse="true"}
