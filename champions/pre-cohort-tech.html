@@ -237,9 +237,9 @@ ul.task-list{list-style: none;}
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
   <li><a href="#cohort-registry" id="toc-cohort-registry" class="nav-link" data-scroll-target="#cohort-registry">Cohort Registry</a></li>
-  <li><a href="#cohort-google-folder" id="toc-cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
-  <li><a href="#planning-github-issue" id="toc-planning-github-issue" class="nav-link" data-scroll-target="#planning-github-issue">Planning GitHub Issue</a></li>
   <li><a href="#github-repo" id="toc-github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a></li>
+  <li><a href="#cohort-planning-checklist-github-issue" id="toc-cohort-planning-checklist-github-issue" class="nav-link" data-scroll-target="#cohort-planning-checklist-github-issue"><code>Cohort Planning Checklist</code> GitHub Issue</a></li>
+  <li><a href="#cohort-google-folder" id="toc-cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
   <li><a href="#data-entry" id="toc-data-entry" class="nav-link" data-scroll-target="#data-entry">Data entry</a></li>
   <li><a href="#github-clinics" id="toc-github-clinics" class="nav-link" data-scroll-target="#github-clinics">GitHub Clinics</a>
   <ul class="collapse">
@@ -248,7 +248,7 @@ ul.task-list{list-style: none;}
   </ul></li>
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/champions/pre-cohort-tech.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/champions/pre-cohort-tech.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -285,18 +285,15 @@ ul.task-list{list-style: none;}
 <li><strong>google_drive_folder</strong></li>
 </ul>
 </section>
-<section id="cohort-google-folder" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
-<ul>
-<li>Create a Google Folder with the name of the cohort in brackets, e.g.&nbsp;<code>[ 2021-noaa-nmfs ]</code></li>
-<li>Add a Pathways folder and add a shortcut for the <a href="https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0">Pathways Spreadsheet</a></li>
-</ul>
-<p>We’ll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.</p>
+<section id="github-repo" class="level2">
+<h2 class="anchored" data-anchor-id="github-repo">GitHub repo</h2>
+<p>Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the <code>kyber</code> package. For now, follow <a href="https://github.com/openscapes/kyber/tree/dev#kyber">these instructions</a> (in the dev branch).</p>
+<p>Example: <a href="https://github.com/Openscapes/2021-noaa-nmfs" class="uri">https://github.com/Openscapes/2021-noaa-nmfs</a></p>
 </section>
-<section id="planning-github-issue" class="level2">
-<h2 class="anchored" data-anchor-id="planning-github-issue">Planning GitHub Issue</h2>
-<p>We create a “Quicklinks planning” GitHub Issue to help with our planning. The Quicklinks planning Issues tracks collective TODO’s as a checklist and has “quick links” that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).</p>
-<p>We experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository and also in the Cohort repo itself. In the cohort’s repo it’s one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.</p>
+<section id="cohort-planning-checklist-github-issue" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-planning-checklist-github-issue"><code>Cohort Planning Checklist</code> GitHub Issue</h2>
+<p>We create a “Cohort Planning Checklist” GitHub Issue to help with our planning inside the Cohort GitHub repo. The Cohort Planning Checklist Issue tracks collective TODO’s as a checklist and has “quick links” that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).</p>
+<p>(We experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository and also in the Cohort repo itself. In the cohort’s repo it’s one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.)</p>
 <p>Here is an example to paste into an issue, for example: <a href="https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1" class="uri">https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1</a></p>
 <div class="callout-tip callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -304,71 +301,109 @@ ul.task-list{list-style: none;}
 <i class="callout-icon"></i>
 </div>
 <div class="callout-caption-container flex-fill">
-Example Quicklinks planning Issue checklist
+Example Cohort Planning Checklist Issue
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
+<p>This issue is to help track the pre-cohort setup, following the <a href="https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document">approach-guide</a> and focused on the engagement and tech setup after dates are set.</p>
+<p>These TODO’s are for <span class="citation" data-cites="jules32">@jules32</span> and also will include <span class="citation" data-cites="stefaniebutland">@stefaniebutland</span>, as well as Ady</p>
 <section id="quicklinks" class="level2">
 <h2 class="anchored" data-anchor-id="quicklinks">Quicklinks</h2>
 <ul>
-<li>[LessonPlannning Spreadsheet [ 2022-nasa ]]</li>
-<li>[ParticipantsList - [ 2022-nasa ] ]</li>
-<li>[Planning Folder] - to share with Mentors</li>
-<li>[Cohort Folder] - to share with Champions (a subfolder within planning folder)</li>
+<li>Planning Google Folder (<a href="https://drive.google.com/drive/folders/1qZrhgme_tQ0LeXfRutC5YmFaWvO0H6ZJ">SEFSC planning</a>), includes Planning Doc that also serves for Seaside Chats and Debriefs
+<ul>
+<li>[LessonPlannning Spreadsheet]<br>
+</li>
+</ul></li>
+<li>[Cohort Folder] - to share with Champions (a subfolder within planning folder)
+<ul>
+<li>[ParticipantsList]</li>
+</ul></li>
 </ul>
-<hr>
-<p>This issue is to help track the pre-cohort setup, following the <a href="https://openscapes.github.io/approach-guide/champions/">approach-guide</a> and focused on the engagement and tech setup after participants have been selected.</p>
-<p>These TODO’s are for <span class="citation" data-cites="jules32">@jules32</span> unless otherwise noted. cc: <span class="citation" data-cites="erinmr">@erinmr</span></p>
 </section>
-<section id="for-cohort-planning-team" class="level2">
-<h2 class="anchored" data-anchor-id="for-cohort-planning-team">For Cohort Planning Team</h2>
+<section id="prep-announcement" class="level2">
+<h2 class="anchored" data-anchor-id="prep-announcement">Prep Announcement</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="">
+draft events page (https://openscapes.github.io/events)</li>
+<li><input type="checkbox" disabled="">
+create google form - Ady made and internal spreadsheet</li>
+<li><input type="checkbox" disabled="">
+post events page (with linked google form)</li>
+</ul>
+</section>
+<section id="tech-setup-for-cohort" class="level2">
+<h2 class="anchored" data-anchor-id="tech-setup-for-cohort">Tech Setup for Cohort</h2>
+<p>For Cohort Planning Team (Stef, Julie, Ady)</p>
 <ul class="task-list">
 <li><input type="checkbox" disabled="">
 invite co-leads/assists to Google Calendar Cohort Calls</li>
 <li><input type="checkbox" disabled="">
-invite co-leads/assists to Google Calendar Co-workings in alternate weeks</li>
+GitHub:<ul>
 <li><input type="checkbox" disabled="">
-create GitHub Team with co-leads/assists</li>
+create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer</li>
 <li><input type="checkbox" disabled="">
-create Quicklinks issue and pin, tag assists team</li>
+Make it a website: Settings &gt; Pages &gt; Source: main, dir: root</li>
 <li><input type="checkbox" disabled="">
-create planning Google Folder: <code>Engage-2022-NASA</code> (should rename this for consistency)</li>
+Add our Code of Conduct (kyber)</li>
 <li><input type="checkbox" disabled="">
-add co-leads/assists to Google Folder</li>
+Write Cohort info on the README (kyber)</li>
+<li><em>Add Evaluation information upcoming</em></li>
 <li><input type="checkbox" disabled="">
-setup Planning Doc</li>
+Add co-leads/assists to GitHub repo with maintainer permission</li>
 <li><input type="checkbox" disabled="">
-for Seaside Chats doc, add co-leads/assists</li>
+create Cohort Planning Checklist Issues, tag planning team</li>
+</ul></li>
+<li><input type="checkbox" disabled="">
+Google Folder:<ul class="task-list">
+<li><input type="checkbox" disabled="">
+create Google Folder for participants: <code>Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]</code></li>
+<li><input type="checkbox" disabled="">
+add co-leads/assists to Google Folder for participants</li>
+</ul></li>
 </ul>
 </section>
-<section id="for-participants" class="level2">
-<h2 class="anchored" data-anchor-id="for-participants">For Participants</h2>
+<section id="adding-participants-giving-access-at-the-right-time" class="level2">
+<h2 class="anchored" data-anchor-id="adding-participants-giving-access-at-the-right-time">Adding Participants (giving access at the right time)</h2>
 <ul class="task-list">
 <li><input type="checkbox" disabled="">
-create Google Folder: <code>Openscapes_CohortCalls [ 2022-nasa ]</code></li>
-<li><input type="checkbox" disabled="">
-add participants emails to <code>Openscapes_CohortCalls [ 2022-nasa ]</code> - Do this the day before Cohort Call 1</li>
-<li><input type="checkbox" disabled="">
-add participants emails to Google Calendar Invites: Cohort Calls</li>
+Emails<ul class="task-list">
 <li><input type="checkbox" disabled="">
 draft welcome email</li>
 <li><input type="checkbox" disabled="">
 send welcome email</li>
 <li><input type="checkbox" disabled="">
-send “reminder” email 1 day before, after adding participants to <code>Openscapes_CohortCalls [ 2021-noaa-afsc ]</code></li>
-<li><input type="checkbox" disabled="" checked="">
-create GitHub repo: &lt;https://github.com/nasa-openscapes/2022-nasa</li>
-</ul>
-</section>
-<section id="after-call-1" class="level2">
-<h2 class="anchored" data-anchor-id="after-call-1">After Call 1</h2>
-<ul class="task-list">
+send “reminder” email 1 day before, after adding participants to <code>Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]</code></li>
+</ul></li>
 <li><input type="checkbox" disabled="">
-Add participant emails to Slack; create cohort channel</li>
+Google Calendar:<ul class="task-list">
 <li><input type="checkbox" disabled="">
-add participants emails to Google Calendar Invites: Co-working times (optional)</li>
+add participants emails to Google Calendar Invites: Cohort Calls - Do this when you send Welcome Email Email</li>
+</ul></li>
+<li><input type="checkbox" disabled="">
+Google Folder:<ul class="task-list">
+<li><input type="checkbox" disabled="">
+add participants emails to <code>Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]</code> - Do this the day before Cohort Call 1</li>
+</ul></li>
+<li><input type="checkbox" disabled="">
+GitHub:<ul class="task-list">
+<li><input type="checkbox" disabled="">
+add participants to GitHub repo with <code>kyber</code> - Do this before GitHub Clinic</li>
+<li><input type="checkbox" disabled="">
+create GitHub Clinic files with <code>kyber</code> - Do this before GitHub Clinic</li>
+</ul></li>
+<li><input type="checkbox" disabled="">
+Slack<ul class="task-list">
+<li><input type="checkbox" disabled="">
+Add participant emails to Slack; create cohort channel - Do this after Cohort Call 1</li>
+</ul></li>
+<li><input type="checkbox" disabled="">
+Google Calendar<ul class="task-list">
+<li><input type="checkbox" disabled="">
+add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1</li>
+</ul></li>
 </ul>
 </section>
 </div>
@@ -380,11 +415,13 @@ add participants emails to Google Calendar Invites: Co-working times (optional)<
 <li>“Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what’s been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: <a href="https://github.com/Openscapes/cohort-planning/issues/48">2022-nmfs-afsc</a></li>
 </ul>
 </section>
-<section id="github-repo" class="level2">
-<h2 class="anchored" data-anchor-id="github-repo">GitHub repo</h2>
-<p>Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the <code>kyber</code> package. For now, follow <a href="https://github.com/openscapes/kyber/tree/dev#kyber">these instructions</a> (in the dev branch).</p>
-<p>Then, - Make it a website repo: Settings &gt; Pages &gt; Source: main, dir: root - Add our Code of Coduct - Write Cohort info on the README - <em>Add Evaluation information</em></p>
-<p>Example: <a href="https://github.com/Openscapes/2021-noaa-nmfs" class="uri">https://github.com/Openscapes/2021-noaa-nmfs</a></p>
+<section id="cohort-google-folder" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
+<ul>
+<li>Create a Google Folder with the name of the cohort in brackets, e.g.&nbsp;<code>[ 2021-noaa-nmfs ]</code></li>
+<li>Add a Pathways folder and add a shortcut for the <a href="https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0">Pathways Spreadsheet</a></li>
+</ul>
+<p>We’ll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.</p>
 </section>
 <section id="data-entry" class="level2">
 <h2 class="anchored" data-anchor-id="data-entry">Data entry</h2>
