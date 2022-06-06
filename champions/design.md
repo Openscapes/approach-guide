@@ -24,7 +24,7 @@ We work with our Partners to plan Champions Cohorts.
 This includes coordinating within the partner community, scheduling dates, and preparing the engagement strategy to share the opportunity and attract research teams interested in better practices for their research.
 
 1. [**Cohort Planning**](/champions/cohort-planning.md) with partners: 2-5 months prior to Cohort start date.
-1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.md) with potential participants: ~2 months prior to Cohort start date. 
+1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.qmd) with potential participants: ~2 months prior to Cohort start date. 
 1. [**Leading Cohort Calls**](/champions/leading-cohort-calls.qmd) for participants: 2 months. 
 
 :::{.callout-tip collapse="true"}
@@ -95,4 +95,8 @@ This includes coordinating within the partner community, scheduling dates, and p
     -   Post final blogs, co-write with Partners
 
 :::
+
+Here is an example timeline that includes Pre-program engagement, Openscapes Champions Program, and Post-program follow-up, visualized by Anna Holder and Corey Clatterbuck for the California Waterboards Cohort.
+
+![](images/timeline-calwaterboards.png){fig-alt="Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline. \"Pre-program engagement\" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; \"Openscapes Champions Program\" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); \"Post-program follow-up\" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14."}
 
