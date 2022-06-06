@@ -19,65 +19,77 @@ Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SL
 - **github_repo**: github repository (even if not yet created)
 - **google_drive_folder** 
 
+## GitHub repo 
 
-## Cohort Google Folder
+Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the `kyber` package. For now, follow [these instructions](https://github.com/openscapes/kyber/tree/dev#kyber) (in the dev branch). 
 
--   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
--   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
-
-We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
+Example: <https://github.com/Openscapes/2021-noaa-nmfs>
 
 
-## Planning GitHub Issue
+## `Cohort Planning Checklist` GitHub Issue
 
-We create a "Quicklinks planning" GitHub Issue to help with our planning. The Quicklinks planning Issues tracks collective TODO's as a checklist  and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!). 
+We create a "Cohort Planning Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!). 
 
-We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.
+(We experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.)
 
 Here is an example to paste into an issue, for example: <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>
 
 
 ::: {.callout-tip collapse="true"}
-## Example Quicklinks planning Issue checklist
+## Example Cohort Planning Checklist Issue
+This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set. 
+
+These TODO's are for @jules32 and also will include @stefaniebutland, as well as Ady
 
 ## Quicklinks
 
-- [LessonPlannning Spreadsheet [ 2022-nasa ]]
-- [ParticipantsList - [ 2022-nasa ] ]
-- [Planning Folder] - to share with Mentors
+- Planning Google Folder ([SEFSC planning](https://drive.google.com/drive/folders/1qZrhgme_tQ0LeXfRutC5YmFaWvO0H6ZJ)), includes Planning Doc that also serves for Seaside Chats and Debriefs
+  - [LessonPlannning Spreadsheet]  
 - [Cohort Folder] - to share with Champions (a subfolder within planning folder)
+  - [ParticipantsList]
 
-*** 
 
-This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/) and focused on the engagement and tech setup after participants have been selected.
+## Prep Announcement
 
-These TODO's are for @jules32 unless otherwise noted. cc: @erinmr 
+- [ ] draft events page (https://openscapes.github.io/events)
+- [ ] create google form - Ady made and internal spreadsheet
+- [ ] post events page (with linked google form)
 
-## For Cohort Planning Team 
+## Tech Setup for Cohort 
+For Cohort Planning Team  (Stef, Julie, Ady)
 
 - [ ] invite co-leads/assists to Google Calendar Cohort Calls
-- [ ] invite co-leads/assists to Google Calendar Co-workings in alternate weeks
-- [ ] create GitHub Team with co-leads/assists 
-- [ ] create Quicklinks issue and pin, tag assists team
-- [ ] create planning Google Folder: `Engage-2022-NASA` (should rename this for consistency)
-- [ ] add co-leads/assists to Google Folder
-- [ ] setup Planning Doc
-- [ ] for Seaside Chats doc, add co-leads/assists
+- [ ] GitHub:
+  - [ ] create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer
+  - [ ] Make it a website: Settings > Pages > Source: main, dir: root
+  - [ ] Add our Code of Conduct (kyber)
+  - [ ]  Write Cohort info on the README (kyber)
+  -  *Add Evaluation information upcoming*
+  - [ ] Add co-leads/assists to GitHub repo with maintainer permission
+  - [ ] create Cohort Planning Checklist Issues, tag planning team
+- [ ] Google Folder:
+  - [ ] create Google Folder for participants: `Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]` 
+  - [ ] add co-leads/assists to Google Folder for participants
 
-## For Participants
+## Adding Participants (giving access at the right time)
 
-- [ ] create Google Folder: `Openscapes_CohortCalls [ 2022-nasa ]` 
-- [ ] add participants emails to `Openscapes_CohortCalls [ 2022-nasa ]` - Do this the day before Cohort Call 1
-- [ ] add participants emails to Google Calendar Invites: Cohort Calls
-- [ ] draft welcome email
-- [ ] send welcome email
-- [ ] send "reminder" email 1 day before, after adding participants to `Openscapes_CohortCalls [ 2021-noaa-afsc ]`
-- [x] create GitHub repo: <https://github.com/nasa-openscapes/2022-nasa
+- [ ] Emails
+  - [ ] draft welcome email
+  - [ ] send welcome email
+  - [ ] send "reminder" email 1 day before, after adding participants to `Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]`
+- [ ] Google Calendar:
+  - [ ] add participants emails to Google Calendar Invites: Cohort Calls - Do this when you send Welcome Email
+Email
+- [ ] Google Folder: 
+  - [ ] add participants emails to `Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]` - Do this the day before Cohort Call 1
+- [ ] GitHub:
+  - [ ] add participants to GitHub repo with `kyber` - Do this before GitHub Clinic 
+  - [ ] create GitHub Clinic files with `kyber` - Do this before GitHub Clinic
+- [ ] Slack
+  - [ ] Add participant emails to Slack; create cohort channel - Do this after Cohort Call 1
+- [ ] Google Calendar
+  - [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1
 
-
-## After Call 1
-- [ ] Add participant emails to Slack; create cohort channel
-- [ ] add participants emails to Google Calendar Invites: Co-working times (optional)
 :::
 
 If you prefer to make this planning issue in the openscapes/cohort-planning repo, that is great too. Here was our original details: This repo coordinates across cohorts, so it's best to "unwatch" except when you're tagged and then we tag each issue with the folks involved. We're using GitHub teams to group folks involved in each cohort and easily tag them. This way, we can all learn and coordinate across cohorts when we want to poke through the issues but aren't cluttered with emails. Two starting Issues to make: 
@@ -86,17 +98,12 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 - "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48) 
 
 
-## GitHub repo 
+## Cohort Google Folder
 
-Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the `kyber` package. For now, follow [these instructions](https://github.com/openscapes/kyber/tree/dev#kyber) (in the dev branch). 
+-   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
+-   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
 
-Then, 
--   Make it a website repo: Settings > Pages > Source: main, dir: root
--   Add our Code of Coduct
--   Write Cohort info on the README
--   *Add Evaluation information*
-
-Example: <https://github.com/Openscapes/2021-noaa-nmfs>
+We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
 
 ## Data entry
 
