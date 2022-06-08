@@ -3,7 +3,7 @@ title: "Leading Cohort Calls"
 format: html
 ---
 
-Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. This is how we lead each call, with additional steps for the first call.
+Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. We are open, kind, and help each other as we prepare and facilitate. This is how we lead each call, with additional steps for the first call.
 
 ## Roles
 
@@ -19,20 +19,8 @@ Note-taking should focus on capturing questions and conversations and less about
 
 ## Before Cohort Calls
 
-- Prepare the Agenda; see [Agenda Setup](#agenda-setup) next
+- Prepare the Agenda; see [Pre-cohort tech setup: Cohort Call Agendas](/champions/pre-cohort-tech.qmd#agenda-kyber) 
 - Review Roles, with particular focus on facilitator and tech host roles
-
-### Agenda setup {#agenda-setup}
-
-[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
-
--   Make a copy
--   Save it in the Cohort Google Folder
--   Edit dates, times, add Google Folder links and Zoom links
--   Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
-
-We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.
-
 
 ## During Cohort Calls
 

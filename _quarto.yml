@@ -55,7 +55,7 @@ website:
       - section: "Contributing"
         contents:
           - contributing/index.md
-          - contributing/setup.md
+          - contributing/setup.qmd
           - contributing/workflow.md
           - contributing/inspiration.md
 
