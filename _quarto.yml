@@ -33,18 +33,16 @@ website:
     contents:
       - href: "index.qmd"
         text: Welcome
-      - section: "Openscapes Approach"
+      - section: approach/index.qmd
         contents:  
-          - approach/index.md
           - approach/code-of-conduct.md
           - approach/seaside-chats.qmd
           - approach/onboarding.md
           - approach/tooling.md
           - approach/partners.md
           - approach/calendar.md
-      - section: "Champions Program"
+      - section: champions/index.qmd
         contents:
-          - champions/index.qmd
           - champions/design.md
           - champions/cohort-planning.md
           - champions/pre-cohort-engage.qmd
@@ -52,9 +50,8 @@ website:
           - champions/lessons.qmd
           - champions/leading-cohort-calls.qmd
           - champions/post-cohort-followup.qmd
-      - section: "Contributing"
+      - section: contributing/index.qmd
         contents:
-          - contributing/index.md
           - contributing/setup.qmd
           - contributing/workflow.md
           - contributing/inspiration.md
