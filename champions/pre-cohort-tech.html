@@ -237,14 +237,26 @@ ul.task-list{list-style: none;}
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
   <li><a href="#cohort-registry" id="toc-cohort-registry" class="nav-link" data-scroll-target="#cohort-registry">Cohort Registry</a></li>
-  <li><a href="#github-repo" id="toc-github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a></li>
-  <li><a href="#cohort-planning-checklist-github-issue" id="toc-cohort-planning-checklist-github-issue" class="nav-link" data-scroll-target="#cohort-planning-checklist-github-issue"><code>Cohort Planning Checklist</code> GitHub Issue</a></li>
+  <li><a href="#github-repo" id="toc-github-repo" class="nav-link" data-scroll-target="#github-repo">GitHub repo</a>
+  <ul class="collapse">
+  <li><a href="#create-repo-w-kyber" id="toc-create-repo-w-kyber" class="nav-link" data-scroll-target="#create-repo-w-kyber">Create repo w/ <code>kyber</code></a></li>
+  </ul></li>
+  <li><a href="#cohort-planning-checklist-issue" id="toc-cohort-planning-checklist-issue" class="nav-link" data-scroll-target="#cohort-planning-checklist-issue">Cohort Planning Checklist Issue</a>
+  <ul class="collapse">
+  <li><a href="#historical-aside" id="toc-historical-aside" class="nav-link" data-scroll-target="#historical-aside">Historical aside</a></li>
+  </ul></li>
   <li><a href="#cohort-google-folder" id="toc-cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder">Cohort Google Folder</a></li>
   <li><a href="#data-entry" id="toc-data-entry" class="nav-link" data-scroll-target="#data-entry">Data entry</a></li>
   <li><a href="#github-clinics" id="toc-github-clinics" class="nav-link" data-scroll-target="#github-clinics">GitHub Clinics</a>
   <ul class="collapse">
-  <li><a href="#prepare-for-github-clinic" id="toc-prepare-for-github-clinic" class="nav-link" data-scroll-target="#prepare-for-github-clinic">Prepare for GitHub Clinic</a></li>
+  <li><a href="#prep-clinic-w-kyber" id="toc-prep-clinic-w-kyber" class="nav-link" data-scroll-target="#prep-clinic-w-kyber">Prep clinic w/ <code>kyber</code></a></li>
   <li><a href="#github-clinic-overview" id="toc-github-clinic-overview" class="nav-link" data-scroll-target="#github-clinic-overview">GitHub Clinic overview</a></li>
+  <li><a href="#historical-aside-1" id="toc-historical-aside-1" class="nav-link" data-scroll-target="#historical-aside-1">Historical aside</a></li>
+  </ul></li>
+  <li><a href="#cohort-call-agendas" id="toc-cohort-call-agendas" class="nav-link" data-scroll-target="#cohort-call-agendas">Cohort Call Agendas</a>
+  <ul class="collapse">
+  <li><a href="#create-agendas-w-kyber" id="toc-create-agendas-w-kyber" class="nav-link" data-scroll-target="#create-agendas-w-kyber">Create agendas w/ <code id="agenda-kyber">kyber</code></a></li>
+  <li><a href="#historical-aside-2" id="toc-historical-aside-2" class="nav-link" data-scroll-target="#historical-aside-2">Historical aside</a></li>
   </ul></li>
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
   </ul>
@@ -287,13 +299,19 @@ ul.task-list{list-style: none;}
 </section>
 <section id="github-repo" class="level2">
 <h2 class="anchored" data-anchor-id="github-repo">GitHub repo</h2>
-<p>Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). You can do this yourself, or with the <code>kyber</code> package. For now, follow <a href="https://github.com/openscapes/kyber/tree/dev#kyber">these instructions</a> (in the dev branch).</p>
-<p>Example: <a href="https://github.com/Openscapes/2021-noaa-nmfs" class="uri">https://github.com/Openscapes/2021-noaa-nmfs</a></p>
+<p>Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <a href="https://github.com/Openscapes/2021-noaa-nmfs" class="uri">https://github.com/Openscapes/2021-noaa-nmfs</a>. Our convention has been that the repository name is the same as the <strong>cohort_name</strong> from the Cohort Registry above, example: <code>2021-noaa-nmfs</code>. You’ll also make a README and add a Code of Conduct.</p>
+<p>If you’re comfortable following instructions in R, we recommend using our <a href="https://openscapes.github.io/kyber"><code>kyber</code> R package</a> created by <a href="https://seankross.com/">Sean Kross</a>. <code>kyber</code> automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository “by hand” at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).</p>
+<section id="create-repo-w-kyber" class="level3">
+<h3 class="anchored" data-anchor-id="create-repo-w-kyber">Create repo w/ <code>kyber</code></h3>
+<p>To use <code>kyber</code>, you’ll open RStudio on your computer (<a href="../contributing/setup.html">instructions</a>).</p>
+<p>In the RStudio console, install and call the <code>kyber</code> library following <a href="https://openscapes.github.io/kyber"><code>kyber</code> installation instructions</a>.</p>
+<p>Then, to create the GitHub repository, follow the workflow described in [<code>kyber</code> repo workflow instructions] <em>TODO link!</em>.</p>
+<p>Yay, repo created! Review the README for any updates you’d like to make.</p>
 </section>
-<section id="cohort-planning-checklist-github-issue" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-planning-checklist-github-issue"><code>Cohort Planning Checklist</code> GitHub Issue</h2>
-<p>We create a “Cohort Planning Checklist” GitHub Issue to help with our planning inside the Cohort GitHub repo. The Cohort Planning Checklist Issue tracks collective TODO’s as a checklist and has “quick links” that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).</p>
-<p>(We experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository and also in the Cohort repo itself. In the cohort’s repo it’s one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic. But it means that you have to set up the Cohort repo first - see next.)</p>
+</section>
+<section id="cohort-planning-checklist-issue" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-planning-checklist-issue">Cohort Planning Checklist Issue</h2>
+<p>We create a “Cohort Planning Checklist” GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO’s as a checklist and has “quick links” that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).</p>
 <p>Here is an example to paste into an issue, for example: <a href="https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1" class="uri">https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1</a></p>
 <div class="callout-tip callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -363,6 +381,11 @@ create Google Folder for participants: <code>Openscapes_CohortCalls [ 2022-noaa-
 <li><input type="checkbox" disabled="">
 add co-leads/assists to Google Folder for participants</li>
 </ul></li>
+<li><input type="checkbox" disabled="">
+Data entry:<ul class="task-list">
+<li><input type="checkbox" disabled="">
+Add Participants to database</li>
+</ul></li>
 </ul>
 </section>
 <section id="adding-participants-giving-access-at-the-right-time" class="level2">
@@ -390,6 +413,8 @@ add participants emails to <code>Openscapes_CohortCalls [ 2022-noaa-sefsc-summer
 <li><input type="checkbox" disabled="">
 GitHub:<ul class="task-list">
 <li><input type="checkbox" disabled="">
+ask participants to provide their GitHub usernames - Do this after Cohort Call 1</li>
+<li><input type="checkbox" disabled="">
 add participants to GitHub repo with <code>kyber</code> - Do this before GitHub Clinic</li>
 <li><input type="checkbox" disabled="">
 create GitHub Clinic files with <code>kyber</code> - Do this before GitHub Clinic</li>
@@ -409,11 +434,15 @@ add participants emails to Google Calendar Invites: Co-working times (optional) 
 </div>
 </div>
 </div>
+<section id="historical-aside" class="level3">
+<h3 class="anchored" data-anchor-id="historical-aside">Historical aside</h3>
+<p>In 2021 we experimented doing this in the <a href="https://github.com/Openscapes/cohort-planning/issues">openscapes/cohort-planning</a> repository and also in the Cohort repo itself. In the cohort’s repo it’s one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic.</p>
 <p>If you prefer to make this planning issue in the openscapes/cohort-planning repo, that is great too. Here was our original details: This repo coordinates across cohorts, so it’s best to “unwatch” except when you’re tagged and then we tag each issue with the folks involved. We’re using GitHub teams to group folks involved in each cohort and easily tag them. This way, we can all learn and coordinate across cohorts when we want to poke through the issues but aren’t cluttered with emails. Two starting Issues to make:</p>
 <ul>
 <li>“Quicklinks” Issue with links nice to have open during Cohort Calls. Example: <a href="https://github.com/Openscapes/cohort-planning/issues/47">2022-nmfs-afsc</a>. We pin this issue so that it shows up at the top of <a href="https://github.com/Openscapes/cohort-planning/issues" class="uri">https://github.com/Openscapes/cohort-planning/issues</a></li>
 <li>“Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what’s been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: <a href="https://github.com/Openscapes/cohort-planning/issues/48">2022-nmfs-afsc</a></li>
 </ul>
+</section>
 </section>
 <section id="cohort-google-folder" class="level2">
 <h2 class="anchored" data-anchor-id="cohort-google-folder">Cohort Google Folder</h2>
@@ -433,22 +462,23 @@ add participants emails to Google Calendar Invites: Co-working times (optional) 
 </section>
 <section id="github-clinics" class="level2">
 <h2 class="anchored" data-anchor-id="github-clinics">GitHub Clinics</h2>
-<p>GitHub Clinics should be part of the Cohort Calls, if possible. We experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.</p>
-<p>Before the GitHub Clinic, we do the following (with <code>kyber</code>):</p>
+<p>GitHub Clinics should be part of the Cohort Calls. (In 2021 we experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.)</p>
+<p>We recommend using our <a href="https://openscapes.github.io/kyber"><code>kyber</code> R package</a> created by <a href="https://seankross.com/">Sean Kross</a>. <code>kyber</code> automates adding participants’ GitHub usernames to the GitHub repo and creates their own file for them to play around in. You can also do this “by hand” at github.com and copy-paste files from other cohorts if you prefer (we did this for the first few Champions cohorts!).</p>
+<section id="prep-clinic-w-kyber" class="level3">
+<h3 class="anchored" data-anchor-id="prep-clinic-w-kyber">Prep clinic w/ <code>kyber</code></h3>
+<p>Before the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following Cohort Call 1.</p>
+<p>To prepare for the Clinic, we do the following (with <code>kyber</code>):</p>
 <ul>
-<li>Add all usernames with member privileges to a GitHub Team titled <code>2022-noaa-afsc-teams</code></li>
+<li>Add all usernames with member privileges to a GitHub Team titled like <code>2022-noaa-afsc-cohort</code></li>
 <li>Give the Team access to the Cohort repo</li>
 <li>Create each person’s files</li>
 </ul>
-<p>We’ll need to ask people to create a GitHub account and share their username with us - part of Data Entry up next.</p>
-<p>(Review <code>kyber</code>’s README until it is incorporated here in the Approach Guide).</p>
-<section id="prepare-for-github-clinic" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-for-github-clinic">Prepare for GitHub Clinic</h3>
-<p>GitHub Clinics are most often during Cohort Call 2</p>
+<p>You do this from RStudio, within the Cohort repository (example <code>2022-noaa-afsc</code>). Make sure you pull before starting in case there are any updates you don’t have locally.</p>
+<p>From RStudio, follow [<code>kyber</code> github clinic workflow instructions] <em>TODO link!</em></p>
 </section>
 <section id="github-clinic-overview" class="level3">
 <h3 class="anchored" data-anchor-id="github-clinic-overview">GitHub Clinic overview</h3>
-<p><strong>GitHub Clinic</strong> are 1 hour long, and require at least two team members. <em>Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team’s Seaside Chats. In 2022 we’ll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.</em></p>
+<p>GitHub Clinics are part of Cohort Calls, but can additionally be lead as stand-alone 1 hour events. They require at least two team members.</p>
 <p>During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort’s ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team.</p>
 <p>The Facilitator leads the agenda, and Teacher talks through the slides and screenshares.</p>
 <p>Team members can also circulate in the breakout rooms to check in, help, and share.</p>
@@ -457,6 +487,37 @@ add participants emails to Google Calendar Invites: Co-working times (optional) 
 <li>adding participant GitHub usernames to the Cohort’s repo</li>
 <li>reviewing the slides</li>
 </ul>
+</section>
+<section id="historical-aside-1" class="level3">
+<h3 class="anchored" data-anchor-id="historical-aside-1">Historical aside</h3>
+<p>Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team’s Seaside Chats. In 2022 we’ll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.</p>
+</section>
+</section>
+<section id="cohort-call-agendas" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-call-agendas">Cohort Call Agendas</h2>
+<p>We do this in the days before each Cohort Call so that we can draw from a set curriculum but also adapt/refine based on what we hear from participants during Cohort Calls, Co-working, Slack, etc.</p>
+<p>We recommend using our <a href="https://openscapes.github.io/kyber"><code>kyber</code> R package</a> created by <a href="https://seankross.com/">Sean Kross</a>. <code>kyber</code> automates Agenda creation that we can then paste into Google Docs and make any further modifications. You can also do this “by hand” by copy-pasting files from other cohorts if you prefer (we did this for the first few Champions cohorts - see Historical aside below for those instructions).</p>
+<section id="create-agendas-w-kyber" class="level3">
+<h3 class="anchored" data-anchor-id="create-agendas-w-kyber">Create agendas w/ <code id="agenda-kyber">kyber</code></h3>
+<p>You’ll do the following (with <code>kyber</code>):</p>
+<ul>
+<li>Generate a Agenda markdown file with kyber</li>
+<li>Knit and copy-paste into a Google Doc in your Cohort Google Folder</li>
+<li>Change fonts/etc and make any additional modifications</li>
+</ul>
+<p>You do this from RStudio, within the Cohort repository (example <code>2022-noaa-afsc</code>). Make sure you pull before starting in case there are any updates you don’t have locally.</p>
+<p>From RStudio, follow [<code>kyber</code> agenda workflow instructions] <em>TODO link!</em></p>
+</section>
+<section id="historical-aside-2" class="level3">
+<h3 class="anchored" data-anchor-id="historical-aside-2">Historical aside</h3>
+<p><a href="https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing">Blank agendas</a> are in a public Google Folder. Before each Cohort Call, we:</p>
+<ul>
+<li>Make a copy</li>
+<li>Save it in the Cohort Google Folder</li>
+<li>Edit dates, times, add Google Folder links and Zoom links</li>
+<li>Review and tailor for Cohort and Facilitator (including Land Acknowledgement)</li>
+</ul>
+<p>We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.</p>
 </section>
 </section>
 <section id="slack" class="level2">
