@@ -214,8 +214,7 @@ We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. T
 
 Example text in the Calendar Appointment Slots:
 
--   Short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the
-    Cohort, and answer any questions.
+-   Short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
 
 ::: {.callout-tip collapse="true"}
 ## Example agenda for 1:1 intro calls
