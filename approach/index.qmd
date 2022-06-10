@@ -2,7 +2,7 @@
 title: "Openscapes Approach"
 ---
 
-**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.** These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. 
+**We believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science.** These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities.
 
 We work towards [**kinder science**](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/).
 
@@ -28,9 +28,14 @@ Space and place help prioritize time, which is limited for everyone.
 
 We work with a [Growth Mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset), described by Dr. Carol Dweck as "the power of yet": having an understanding that our talents and abilities can be developed through effort, good teaching, and persistence. This is opposed to a fixed mindset, where individuals believe their basic abilities, their intelligence, their talents, are just fixed traits and cannot be improved through hard work.
 
-## Continual learning, practice, and iteration
+## Continual learning, practice, feedback, and iteration
 
-We are continually learning and practicing what we learn. We practice in our Champions Cohorts, Community Calls, our team Seaside Chats, and in conversation. As we practice we iterate with that learning. We are learning more about design thinking, including prototyping and structured feedback.
+We are continually learning and practicing what we learn. We practice in our Champions Cohorts, Community Calls, Seaside Chats, Dry Runs, and in conversation. As we practice we iterate with that learning. We are learning more about design thinking, including prototyping and structured feedback.
+
+A few resources:
+
+-   [What to do when your feedback doesn't land](https://larahogan.me/blog/feedback-doesnt-land/) - Lara Hogan, H/T [Tara Robertson](https://twitter.com/tararobertson/status/1534893441246584832)
+-   [Critical Response Process](https://lizlerman.com/critical-response-process/) - Liz Lerman, H/T Erin Robinson and her user-centered design class
 
 ## Psychological Safety
 
