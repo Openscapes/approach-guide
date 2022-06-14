@@ -39,7 +39,9 @@ Yay, repo created! Review the README for any updates you'd like to make.
 
 We create a "Cohort Planning Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
 
-Here is an example to paste into an issue, for example: <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>
+Here is an example from a past Cohort: <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
+
+We can copy the Example Cohort Planning Checklist Issue below into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
 
 ::: {.callout-tip collapse="true"}
 ## Example Cohort Planning Checklist Issue
@@ -69,6 +71,7 @@ For Cohort Planning Team (Stef, Julie, Ady)
 -   [ ] GitHub:
     -   [ ] create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer
     -   [ ] Make it a website: Settings \> Pages \> Source: main, dir: root
+    -   [ ] Invite co-leads to GitHub repo with Admin permissions
     -   [ ] Add our Code of Conduct (kyber)
     -   [ ] Write Cohort info on the README (kyber)
     -   *Add Evaluation information upcoming*
