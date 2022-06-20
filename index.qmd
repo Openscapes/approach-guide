@@ -7,41 +7,39 @@ citation_url: https://openscapes.github.io/approach-guide/
 slug: index
 ---
 
-![](images/horst-openscapes-mentors.jpg) 
+![](images/horst-openscapes-mentors.jpg)
 
 ## Welcome
 
-**Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to document our process and onboard folks to the Openscapes approach. 
+**Welcome to the Openscapes Approach Guide!** This is an open and iterating guide to document our process and onboard folks to the Openscapes approach.
 
 ## About Openscapes
 
-**[Openscapes](https://openscapes.org) is an approach for doing better science in less time.** We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. 
+[**Openscapes**](https://openscapes.org) **is an approach for doing better science in less time.** We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.
 
-**[Openscapes Champions](https://openscapes.org/champions) is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. 
+[**Openscapes Champions**](https://openscapes.org/champions) **is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science.
 
 ## About This Guide
 
-We've been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and "fork" it to make it your own (particularly as it's a bit more developed!). 
+We've been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and "fork" it to make it your own (particularly as it's a bit more developed!).
 
-We complete a full revolution of our [Flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) each time we lead the Champions Program. 
+We complete a full revolution of our [Flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) each time we lead the Champions Program.
 
-[![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}](https://openscapes.org)
+[![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire. There are three phases incorporated into the Flywheel. Phase 1: Engage = Develop, Invest and Attract; Phase 2: Empower = Deliver and Transform; Phase 3: Amplify = Inspire. The 6 points around the Openscapes flywheel include: Develop Champions Mentors - professional development and leadership skills; Invest in Champions Program curriculum; Attract teams interested in better practices for data-intensive science; Deliver Champions Program for a Cohort of teams; Transform teams workflows towards kinder, inclusive open science; Inspire broader scientific communities through visible examples and leaders - Open science shift."}](https://openscapes.org)
 
+Each turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.
 
-Each turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement. 
-
-This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program. 
-
+This book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.
 
 ### Built with Quarto
 
 We're collaboratively making the Openscapes Approach Guide with [Quarto](https://quarto.org). Quarto builds from what RStudio learned from [RMarkdown](https://rmarkdown.rstudio.com/), which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines. We are gradually converting to build all our materials with Quarto.
 
-## Citation 
+## Citation
 
 All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md).
 
-Please cite this guide as: 
+Please cite this guide as:
 
 The Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). <https://openscapes.org/approach-guide>.
 
