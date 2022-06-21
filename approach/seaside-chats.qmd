@@ -2,13 +2,13 @@
 title: Seaside Chats, etc.
 ---
 
-We work together with varied technology and facilitations to provide structure; this is (some of?) the ways we work:
+We work together with varied technology and facilitations to provide structure. Here are the main ways we work together.
 
 ![Artwork by Allison Horst for the MEDS program, this captures how we work too!](images/horst_MEDS_coworking.jpg){fig-align="center" width="90%"}
 
 ## Seaside Chats
 
-We build shared skillsets in part through Seaside Chats. [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) are regular meetings where we skillshare and learn together. This will likely be the avenue for onboarding. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together. These often have an agenda in advance.
+We build shared skillsets in part through [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/). These are regular meetings where we skillshare and learn together. This will likely be the avenue for onboarding. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together. These often have an agenda in advance.
 
 ## Co-working
 

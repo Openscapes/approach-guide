@@ -43,10 +43,12 @@ We practice and promote [psychological safety](https://rework.withgoogle.com/gui
 
 Part of this practice is to start off team meetings with check-ins to see how everyone is doing that day/week, and explicitly voicing to new partners that psychological safety is foundational to our work and to speak up if something is ever not feeling right.
 
-## Kinder science
+## Kinder Science
 
-We work not only towards open science, but kinder science, and approach this in our work through empathy and listening, and also onboarding folks to the tooling we use to reduce friction as we collaborate. From Lowndes 2019 [Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/): "Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It's about technology enabling social infrastructure that can promote inclusivity to create kinder science."
+We work not only towards open science, but kinder science, and approach this in our work through empathy and listening, and also onboarding folks to the tooling we use to reduce friction as we collaborate.
 
-## We use the same open source tools that we teach
+> Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It's about technology enabling social infrastructure that can promote inclusivity to create kinder science. - Lowndes 2019 [Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)
 
-We use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can't imagine science without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning.
+## We practice what we teach
+
+We use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can't imagine science or our regular workflows without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning.

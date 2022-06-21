@@ -40,7 +40,7 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
     - Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
 1. **Co-working**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
 
-## GitHub Issues
+## Cohort Planning using GitHub Issues
 
 As we get further along with planning the Cohort, we'll be using GitHub Issues to coordinate together. Depending on the Cohort, we'll use the [cohort-planning](https://github.com/openscapes/cohort-planning) repo, or potentially the Cohort repo itself. We often pin "quicklinks" so that we can easily navigate to the docs we need when we need them when leading Cohort Calls!
 
