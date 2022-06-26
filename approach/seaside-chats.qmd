@@ -55,6 +55,17 @@ No RSVP or preparation needed 😅 Bring snacks / mocktails / cocktails!
 We wanted to create a way for people to (re)connect informally with other Champions, Mentors, the Openscapes team, anyone in this Slack. I know many of you are keen to hear what others have been up to so come hang out! I'll facilitate so I promise it won't be awkward 😉 (This msg is pinned to this channel so you can find the details any time)
 :::
 
+## Stickers
+
+We have physical stickers we share with our community. These hex stickers are something from the R (#rstats) community that we put on laptops, waterbottles, etc.
+
+So far we've ordered them from Sticker Mule, using dimensions following RStudio:
+
+-   Die cut stickers
+-   Size: 1.74" x 2"
+
+![](images/khora-laptop-sleep.jpg){fig-align="center"}
+
 ## Resources
 
 -   [GalaxyKate's 4-Channel participation model](https://twitter.com/GalaxyKate/status/1480330155487014916?s=20) - supporting remote learners
