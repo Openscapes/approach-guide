@@ -16,8 +16,9 @@ We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/doc
 The following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.
 
 ::: {.callout-tip collapse="true"}
-## Example GitHub Issue checklist
 
+## Example GitHub Issue checklist
+```
 This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set.
 
 These TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa-afsc-assist ]
@@ -50,6 +51,7 @@ These TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa
 - [ ] send welcome email
 - [ ] send "reminder" email 1 day before, after adding participants to `Openscapes_CohortCalls [ 2021-noaa-afsc ]`
 - [ ] create GitHub repo - upcoming, testing `kyber` package for automation
+```
 :::
 
 ## Partners Planning Call {#partners-planning-call}
