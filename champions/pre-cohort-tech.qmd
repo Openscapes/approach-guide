@@ -12,7 +12,7 @@ We generate and review Agendas prior to each Cohort Call; they are not created a
 
 ## Cohort Registry
 
-Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Oej46BMX_SLIc1cwoyLHzNWwGlT3szez8FDKc3b418w/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
+Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
 
 -   **cohort_name**: our convention is `year-shortname`
 -   **date_start**: in DD/MM/YYYY format
