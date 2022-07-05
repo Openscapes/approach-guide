@@ -4,13 +4,13 @@ title: "Cohort tech setup"
 
 ## Overview
 
-Cohort tech setup involves the technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement - including 1:1 Intro calls and Cohort welcome - ends. 
+Cohort tech setup involves the technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement ends: when dates are set, 1:1 Intro calls are completed and Cohort welcome email is sent. 
 
 Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g. inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
 
 ### Historical aside
 
-In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using kyber to automate as much of the work as possible. Based on that, and with the goal of enabling others to help with tech setup, we have begun  updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
+In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using `kyber` to automate as much of the work as possible. Based on that, and with the goal of enabling others to help with tech setup, we have begunupdating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
 
 ## Managing tech setup in a GitHub Project
 
@@ -18,43 +18,23 @@ We monitor and manage the many tasks of cohort tech setup in a [GitHub Project](
 
 ## Kyber
 
-TODO Outline what the kyber package can do to help with tech setup. Specific kyber functions should be described in more detail in relevant sections below. 
+TODO Outline what the `kyber` package can do to help with tech setup, for those who are comfortable using an R package (or those who want to try!). Specific `kyber` functions should be described in more detail by pointing to `kyber` docs in relevant sections below. 
 
-## Cohort Registry
+## Cohort Setup Checklist
 
-Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
+The process of setting up a Cohort is detailed in a checklist. We share it first here to give a picture of all the elements. These include both technical setup in our Google Workspace and GitHub organization, and engagement with participants before and after Cohort Calls. Below the checklist, we outline how and when to carry out each of the steps.
 
--   **cohort_name**: our convention is `year-shortname`
--   **date_start**: in DD/MM/YYYY format
--   **github_repo**: github repository (even if not yet created)
--   **google_drive_folder**
+We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
 
-## GitHub repo
+Here are examples from past Cohorts:
 
-Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. You'll also make a README and add a Code of Conduct.
+- <https://github.com/Openscapes/2022-noaa-sefsc-summer/issues/1>
+- <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
 
-If you're comfortable following instructions in R, we recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository "by hand" at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).
-
-### Create repo w/ `kyber`
-
-To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)).
-
-In the RStudio console, install and call the `kyber` library following [`kyber` installation instructions](https://openscapes.github.io/kyber).
-
-Then, to create the GitHub repository, follow the workflow described in \[`kyber` repo workflow instructions\] *TODO link!*.
-
-Yay, repo created! Review the README for any updates you'd like to make.
-
-## Cohort Planning Checklist Issue
-
-We create a "Cohort Planning Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
-
-Here is an example from a past Cohort: <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
-
-We can copy the Example Cohort Planning Checklist Issue below into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
+We can copy the Example Cohort Setup Checklist Issue below into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
 
 ::: {.callout-tip collapse="true"}
-## Example Cohort Planning Checklist Issue
+## Example Cohort Setup Checklist Issue
 
 This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set.
 
@@ -121,6 +101,33 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 -   "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of <https://github.com/Openscapes/cohort-planning/issues>
 -   "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48)
+
+
+## Cohort Registry
+
+Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
+
+-   **cohort_name**: our convention is `year-shortname`
+-   **date_start**: in DD/MM/YYYY format
+-   **github_repo**: github repository (even if not yet created)
+-   **google_drive_folder**
+
+## GitHub repo
+
+Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. You'll also make a README and add a Code of Conduct.
+
+If you're comfortable following instructions in R, we recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository "by hand" at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).
+
+### Create repo w/ `kyber`
+
+To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)).
+
+In the RStudio console, install and call the `kyber` library following [`kyber` installation instructions](https://openscapes.github.io/kyber).
+
+Then, to create the GitHub repository, follow the workflow described in \[`kyber` repo workflow instructions\] *TODO link!*.
+
+Yay, repo created! Review the README for any updates you'd like to make.
+
 
 ## Cohort Google Folder
 
