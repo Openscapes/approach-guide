@@ -12,7 +12,13 @@ Most things are set up in advance of the first Cohort Call, with a few things se
 
 In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using kyber to automate as much of the work as possible. Based on that, and with the goal of enabling others to help with tech setup, we have begun  updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
 
+## Managing tech setup in a GitHub Project
 
+We monitor and manage the many tasks of cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1). The issues for this project live in the [Openscapes/cohort-planning repo](https://github.com/Openscapes/cohort-planning/issues). As we experiment, our system will evolve. Currently, issues contain checklists of tasks grouped as: Before Cohort Call 1; After Cohort Call 1; Before Cohort Call 2, etc. 
+
+## Kyber
+
+TODO Outline what the kyber package can do to help with tech setup. Specific kyber functions should be described in more detail in relevant sections below. 
 
 ## Cohort Registry
 
