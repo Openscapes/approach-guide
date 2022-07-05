@@ -1,14 +1,18 @@
 ---
-title: "Pre-cohort tech setup"
+title: "Cohort tech setup"
 ---
 
 ## Overview
 
-Pre-cohort tech setup involves the technical infrastructure for Champions Cohorts.
+Cohort tech setup involves the technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement - including 1:1 Intro calls and Cohort welcome - ends. 
 
-Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (i.e. inviting folks to Slack).
+Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g. inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
 
-We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
+### Historical aside
+
+In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using kyber to automate as much of the work as possible. Based on that, and with the goal of enabling others to help with tech setup, we have begun  updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
+
+
 
 ## Cohort Registry
 
