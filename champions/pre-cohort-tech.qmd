@@ -31,7 +31,9 @@ Clicking on a row (top screenshot) or on a card (bottom screenshot) takes us to 
 
 ## Using `kyber` to automate some setup
 
-TODO Outline what the `kyber` package can do to help with tech setup, for those who are comfortable using an R package (or those who want to try!). Specific `kyber` functions should be described in more detail by pointing to `kyber` docs in relevant sections below. 
+If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below).
+
+Specific `kyber` functions will be described in more detail where relevant to specific tasks below. 
 
 ## Cohort setup checklist ADD CROSSREF
 
@@ -130,7 +132,11 @@ Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_
 
 Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. You'll also make a README and add a Code of Conduct.
 
+<!---
+Keep some of this text here. The general info was placed at top of this file/section
+
 If you're comfortable following instructions in R, we recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository "by hand" at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).
+--->
 
 ### Create repo w/ `kyber`
 
