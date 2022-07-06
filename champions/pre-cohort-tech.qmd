@@ -4,25 +4,38 @@ title: "Cohort tech setup"
 
 ## Overview
 
-Cohort tech setup involves the technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement ends: when dates are set, 1:1 Intro calls are completed and Cohort welcome email is sent. 
+Cohort tech setup involves the iterative setup of technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement ends: after dates are set, 1:1 Intro calls are completed, and Cohort welcome email is sent. Some of this information is echoed in [Leading Cohort Calls](leading-cohort-calls.qmd).
 
 Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g. inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
 
-### Historical aside
+In this section, we give some general information, then describe things in temporal order.
 
-In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using `kyber` to automate as much of the work as possible. Based on that, and with the goal of enabling others to help with tech setup, we have begunupdating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
+#### Documentation update in progress 
 
-## Managing tech setup in a GitHub Project
+In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
+
+## Managing tasks in a GitHub Project
 
 We monitor and manage the many tasks of cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1). The issues for this project live in the [Openscapes/cohort-planning repo](https://github.com/Openscapes/cohort-planning/issues). As we experiment, our system will evolve. Currently, issues contain checklists of tasks grouped as: Before Cohort Call 1; After Cohort Call 1; Before Cohort Call 2, etc. 
 
-## Kyber
+These screenshots show two views of the same GitHub Project, as rows or as cards.
+
+![](images/github-project-rows-view.png){fig-alt="GitHub Project rows view" fig-align="center" width="90%}
+
+
+![](images/github-project-cards-view.png){fig-caption="Cards view" fig-alt="GitHub Project cards view" fig-align="center"width="90%}
+
+Clicking on a row (top screenshot) or on a card (bottom screenshot) takes us to details of that item, and opening in a new tab (circled in red below) would bring us to the familiar GitHub Issue view.
+
+![](images/github-project-issue.png){fig-alt="GitHub Project issue" fig-align="center"width="90%}
+
+## Using `kyber` to automate some setup
 
 TODO Outline what the `kyber` package can do to help with tech setup, for those who are comfortable using an R package (or those who want to try!). Specific `kyber` functions should be described in more detail by pointing to `kyber` docs in relevant sections below. 
 
-## Cohort Setup Checklist
+## Cohort setup checklist ADD CROSSREF
 
-The process of setting up a Cohort is detailed in a checklist. We share it first here to give a picture of all the elements. These include both technical setup in our Google Workspace and GitHub organization, and engagement with participants before and after Cohort Calls. Below the checklist, we outline how and when to carry out each of the steps.
+The process of setting up a Cohort is detailed in a checklist. We're putting it here at the top of this section to give a picture of all the elements. These include both technical setup in our Google Workspace and GitHub organization, and engagement with participants before and after Cohort Calls. Below the checklist, we outline how and when to carry out each of the steps, and we'll refer back here to copy-paste it into a Cohort GitHub repository we'll create. 
 
 We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
 
@@ -93,6 +106,7 @@ For Cohort Planning Team (Stef, Julie, Ady)
     -   [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1
 :::
 
+::: {.callout-note collapse="true"}
 ### Historical aside
 
 In 2021 we experimented doing this in the [openscapes/cohort-planning](https://github.com/Openscapes/cohort-planning/issues) repository and also in the Cohort repo itself. In the cohort's repo it's one less place for Mentors to keep track of and there is the added benefit of an example issue in the repo for the GitHub Clinic.
@@ -101,7 +115,7 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 -   "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of <https://github.com/Openscapes/cohort-planning/issues>
 -   "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48)
-
+:::
 
 ## Cohort Registry
 
@@ -178,9 +192,11 @@ Preparing for the GitHub Clinic involves:
 -   adding participant GitHub usernames to the Cohort's repo
 -   reviewing the slides
 
+::: {.callout-note collapse="true"}
 ### Historical aside
 
 Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.
+:::
 
 ## Cohort Call Agendas 
 
@@ -200,7 +216,7 @@ You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`
 
 From RStudio, follow \[`kyber` agenda workflow instructions\] *TODO link!*
 
-
+::: {.callout-note collapse="true"}
 ### Historical aside
 
 [Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
@@ -211,7 +227,7 @@ From RStudio, follow \[`kyber` agenda workflow instructions\] *TODO link!*
 -   Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
 
 We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.
-
+:::
 
 ## Slack
 
