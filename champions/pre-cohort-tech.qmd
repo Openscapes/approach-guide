@@ -1,5 +1,6 @@
 ---
 title: "Cohort tech setup"
+number-sections: true
 ---
 
 ## Overview
@@ -10,9 +11,9 @@ Most things are set up in advance of the first Cohort Call, with a few things se
 
 In this section, we give some general information, then describe things in temporal order.
 
-#### Documentation update in progress 
+### Documentation update in progress 
 
-In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project called CohortPlanning](https://github.com/orgs/Openscapes/projects/7/views/1), and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
+In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1) called CohortPlanning, and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
 
 ## Managing tasks in a GitHub Project
 
@@ -35,18 +36,9 @@ If you're comfortable following instructions in R (or want to try!), we recommen
 
 Specific `kyber` functions will be described in more detail where relevant to specific tasks below. 
 
-## Cohort setup checklist ADD CROSSREF
+## Cohort setup checklist {#cohort-setup-checklist}
 
 The process of setting up a Cohort is detailed in a checklist. We're putting it here at the top of this section to give a picture of all the elements. These include both technical setup in our Google Workspace and GitHub organization, and engagement with participants before and after Cohort Calls. Below the checklist, we outline how and when to carry out each of the steps, and we'll refer back here to copy-paste it into a Cohort GitHub repository we'll create. 
-
-We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
-
-Here are examples from past Cohorts:
-
-- <https://github.com/Openscapes/2022-noaa-sefsc-summer/issues/1>
-- <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
-
-We can copy the Example Cohort Setup Checklist Issue below into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
 
 ::: {.callout-tip collapse="true"}
 ## Example Cohort Setup Checklist Issue
@@ -107,6 +99,15 @@ For Cohort Planning Team (Stef, Julie, Ady)
 -   [ ] Google Calendar
     -   [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1
 :::
+
+We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
+
+Here are examples from past Cohorts:
+
+- <https://github.com/Openscapes/2022-noaa-sefsc-summer/issues/1>
+- <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
+
+We can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
 
 ::: {.callout-note collapse="true"}
 ### Historical aside
