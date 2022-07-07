@@ -9,7 +9,7 @@ Cohort tech setup involves the iterative setup of technical infrastructure for C
 
 Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g. inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
 
-In this section, we give some general information, then describe things in temporal order.
+In this page, we give some general information, then describe things in temporal order.
 
 ### Documentation update in progress 
 
@@ -107,7 +107,6 @@ For Cohort Planning Team (Stef, Julie, Ady)
 :::
 
 
-
 ## Cohort Registry
 
 Review the [Cohort Registry](https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/edit?usp=sharing) and update information for the new Cohort. This might be iterative as you create the GitHub repo and Google Drive folder. The Cohort Registry Google Sheet is in suggestion mode and will be used to generate the Cohort Call Agendas using `kyber`. Particularly important fields for `kyber`:
@@ -133,7 +132,7 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. You'll also make a README and add a Code of Conduct.
 
 <!---
-Keep some of this text here. The general info was placed at top of this file/section
+Keep some of this text on kyber The general info was placed at top of this file/section
 
 If you're comfortable following instructions in R, we recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository "by hand" at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).
 --->
@@ -148,6 +147,8 @@ Then, to create the GitHub repository, follow the workflow described in \[`kyber
 
 Yay, repo created! Review the README for any updates you'd like to make.
 
+## Add checklist to new repo 
+
 We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
 
 Here are examples from past Cohorts:
@@ -155,7 +156,13 @@ Here are examples from past Cohorts:
 - <https://github.com/Openscapes/2022-noaa-sefsc-summer/issues/1>
 - <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
 
-We can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. To copy-paste and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
+We can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. Click the "copy-to-clipboard" icon and now you can paste it in a new GitHub issue and it will appear as a functional checklist. 
+
+<!---
+This text is from when checklist was not in markdown. Keep here till we've decided how it will remain
+
+...and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
+--->
 
 ## Cohort Google Folder
 
