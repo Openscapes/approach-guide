@@ -164,6 +164,43 @@ As teams form, we:
 -   Update database with who is in which cohort
 -   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn't gmail; add this address as well)
 
+## Cohort Call Agendas 
+
+We do this in the days before each Cohort Call so that we can draw from a set curriculum but also adapt/refine based on what we hear from participants during Cohort Calls, Co-working, Slack, etc. 
+
+We recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates Agenda creation that we can then paste into Google Docs and make any further modifications. You can also do this "by hand" by copy-pasting files from other cohorts if you prefer (we did this for the first few Champions cohorts - see Historical aside below for those instructions).
+
+### Create agendas w/ `kyber`{#agenda-kyber}
+
+You'll do the following (with `kyber`):
+
+-   Generate a Agenda markdown file with kyber
+-   Knit and copy-paste into a Google Doc in your Cohort Google Folder
+-   Change fonts/etc and make any additional modifications
+
+You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
+
+From RStudio, follow \[`kyber` agenda workflow instructions\] *TODO link!*
+
+::: {.callout-note collapse="true"}
+### Historical aside
+
+[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
+
+-   Make a copy
+-   Save it in the Cohort Google Folder
+-   Edit dates, times, add Google Folder links and Zoom links
+-   Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
+
+We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.
+:::
+
+## Slack
+
+After the first Cohort Call, we:
+
+-   Create a private Slack channel for the cohort Invite everyone to Slack
+
 ## GitHub Clinics
 
 GitHub Clinics should be part of the Cohort Calls. (In 2021 we experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.)
@@ -202,42 +239,6 @@ Preparing for the GitHub Clinic involves:
 ::: {.callout-note collapse="true"}
 ### Historical aside
 
-Some history: In 2021 we experimented having these as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.
+Some history: In 2021 we experimented having GitHub Clinics as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.
 :::
 
-## Cohort Call Agendas 
-
-We do this in the days before each Cohort Call so that we can draw from a set curriculum but also adapt/refine based on what we hear from participants during Cohort Calls, Co-working, Slack, etc. 
-
-We recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates Agenda creation that we can then paste into Google Docs and make any further modifications. You can also do this "by hand" by copy-pasting files from other cohorts if you prefer (we did this for the first few Champions cohorts - see Historical aside below for those instructions).
-
-### Create agendas w/ `kyber`{#agenda-kyber}
-
-You'll do the following (with `kyber`):
-
--   Generate a Agenda markdown file with kyber
--   Knit and copy-paste into a Google Doc in your Cohort Google Folder
--   Change fonts/etc and make any additional modifications
-
-You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
-
-From RStudio, follow \[`kyber` agenda workflow instructions\] *TODO link!*
-
-::: {.callout-note collapse="true"}
-### Historical aside
-
-[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
-
--   Make a copy
--   Save it in the Cohort Google Folder
--   Edit dates, times, add Google Folder links and Zoom links
--   Review and tailor for Cohort and Facilitator (including Land Acknowledgement)
-
-We usually do this before each Cohort Call (as opposed to all at once at the beginning) as a way for us to review/prepare for each Cohort Call and so to reduce confusion for participants.
-:::
-
-## Slack
-
-After the first Cohort Call, we:
-
--   Create a private Slack channel for the cohort Invite everyone to Slack
