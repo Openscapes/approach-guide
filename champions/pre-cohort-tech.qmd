@@ -15,6 +15,13 @@ In this page, we give some general information, then describe things in temporal
 
 In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1) called CohortPlanning, and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order. 
 
+## Google Workspace
+
+In June 2022 we began moving our work to an Openscapes Google Workspace, starting with the 2022 NOAA SEFSC summer Cohort. 
+
+- OpenscapesMain > OpenscapesChampionsProgram > contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
+- OpenscapesMain > OpenscapesCohortPlanning > contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
+
 ## Managing tasks in a GitHub Project
 
 We monitor and manage the many tasks of cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1). The issues for this project live in the [Openscapes/cohort-planning repo](https://github.com/Openscapes/cohort-planning/issues). As we experiment, our system will evolve. Currently, issues contain checklists of tasks grouped as: Before Cohort Call 1; After Cohort Call 1; Before Cohort Call 2, etc. 
@@ -129,23 +136,23 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 ## GitHub repo
 
-Create a Cohort GitHub repo within the Openscapes GitHub organization. An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct. This can be done with `kyber` or by hand by copy-pasting READMEs from other cohorts (we did this for the first 8 Champions cohorts!).
+Create a Cohort GitHub repo within the Openscapes GitHub organization. An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct. This can be done with `kyber`, as described below, or by hand by copy-pasting a README from another cohort (we did this for the first 8 Champions cohorts!) and [Code of Conduct](https://raw.githubusercontent.com/Openscapes/website/main/content/code-of-conduct.md) from the Openscapes website repo.
 
 ### Create repo w/ `kyber`
 
 To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)). In the RStudio console, install the `kyber` library ([instructions](https://openscapes.github.io/kyber)) and follow the [configuration instructions](https://openscapes.github.io/kyber/#configuration). Browse the README to see what additional R packages you might need to install. 
 
-There's an example workflow provided to indicate when, before or after Cohort Calls, `kyber` can be helpful.  
+There's an example workflow provided to indicate when `kyber` can be helpful, before or after Cohort Calls.  
 
-To create the GitHub repository, we can copy the "[Create GitHub repo](https://openscapes.github.io/kyber/#create-github-repo)" code block and paste in the RStudio console.
-
-Yay, repo created! Review the README for any updates you'd like to make by hand.
+- To create the GitHub repository, we can copy the "[Create GitHub repo](https://openscapes.github.io/kyber/#create-github-repo)" code block and paste to run in the RStudio console. Yay, repo created! Review the README for any updates you need to make by hand like updating Quicklinks.
+- Now make it a website: Settings > Pages > Source: main, dir: root
+- Add co-leads/assists to GitHub repo with maintainer permission
 
 ## Add checklist to new repo 
 
 We can create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The checklist tracks collective TODO's and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
 
-To accomplish this, we can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. Click the "copy-to-clipboard" icon in that code block, paste it in a new GitHub issue and it will appear as a functional checklist. Manually update any links that are specific to the Cohort. 
+To accomplish this, we can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist). Click the "copy-to-clipboard" icon in that code block, paste it in a new GitHub issue and it will appear as a functional checklist. Manually update any links that are specific to the Cohort. Tag the planning team in the issue.
 
 Here are examples from past Cohorts:
 
@@ -154,17 +161,20 @@ Here are examples from past Cohorts:
 
 ## Cohort Google Folder
 
--   Create a Google Folder with the name of the cohort in brackets, e.g. `[ 2021-noaa-nmfs ]`
--   Add a Pathways folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit#gid=0)
+- Create a Google Folder (inside OpenscapesMain > OpenscapesChampionsProgram) for participants with the name of the cohort in brackets, e.g. `Openscapes_CohortCalls [ 2021-noaa-nmfs ]`. The text inside brackets indicates who will have permission to access the folder. For a recent example - the first to use the Openscapes Google Workspace - see Openscapes_CohortCalls [ 2021-noaa-sefsc-summer]. 
+- Add a PathwayShare folder and add a shortcut for the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1SvBznl_P-nDJObGr6eZO5RauCjbdu0BcFMgRm_myvOU/edit#gid=0). we'll encourage participants to share their team's Pathways there.
+- Add co-leads/assists to Google Folder access
 
-We'll add Agendas here the days before each Cohort Call, and will add participants to this Google Folder prior to Call 1.
+We will add participants to this Google Folder prior to Call 1, and we'll add Agendas here the days before each Cohort Call. The idea is to avoid overloading people with information - give folks access at the right time.
+
+
 
 ## Data entry
 
 As teams form, we:
 
 -   Update database with who is in which cohort
--   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university email isn't gmail; add this address as well)
+-   Google Folder Permission: Add all Cohort emails (note: some participants will provide a gmail address if their university or work email isn't gmail; add this address as well)
 
 ## Cohort Call Agendas 
 
