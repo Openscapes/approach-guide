@@ -129,40 +129,28 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 ## GitHub repo
 
-Create a Cohort GitHub repo within the Openscapes GitHub organization (or elsewhere). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. You'll also make a README and add a Code of Conduct.
-
-<!---
-Keep some of this text on kyber The general info was placed at top of this file/section
-
-If you're comfortable following instructions in R, we recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates the GitHub repo creation and is automatically populated with the files above, using information from Cohort Registry. You can also create a repository "by hand" at github.com and copy-paste READMEs from other cohorts if you prefer (we did this for the first 8 Champions cohorts!).
---->
+Create a Cohort GitHub repo within the Openscapes GitHub organization. An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct. This can be done with `kyber` or by hand by copy-pasting READMEs from other cohorts (we did this for the first 8 Champions cohorts!).
 
 ### Create repo w/ `kyber`
 
-To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)).
+To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)). In the RStudio console, install the `kyber` library ([instructions](https://openscapes.github.io/kyber)) and follow the [configuration instructions](https://openscapes.github.io/kyber/#configuration). Browse the README to see what additional R packages you might need to install. 
 
-In the RStudio console, install and call the `kyber` library following [`kyber` installation instructions](https://openscapes.github.io/kyber).
+There's an example workflow provided to indicate when, before or after Cohort Calls, `kyber` can be helpful.  
 
-Then, to create the GitHub repository, follow the workflow described in \[`kyber` repo workflow instructions\] *TODO link!*.
+To create the GitHub repository, we can copy the "[Create GitHub repo](https://openscapes.github.io/kyber/#create-github-repo)" code block and paste in the RStudio console.
 
-Yay, repo created! Review the README for any updates you'd like to make.
+Yay, repo created! Review the README for any updates you'd like to make by hand.
 
 ## Add checklist to new repo 
 
-We create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The Cohort Planning Checklist Issue tracks collective TODO's as a checklist and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
+We can create a "Cohort Setup Checklist" GitHub Issue to help with our planning inside the Cohort GitHub repo that we just created above. The checklist tracks collective TODO's and has "quick links" that are nice to have handy for planning and when leading Cohort Calls (the ParticipantsList is important for making team breakout rooms!).
+
+To accomplish this, we can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. Click the "copy-to-clipboard" icon in that code block, paste it in a new GitHub issue and it will appear as a functional checklist. Manually update any links that are specific to the Cohort. 
 
 Here are examples from past Cohorts:
 
 - <https://github.com/Openscapes/2022-noaa-sefsc-summer/issues/1>
 - <https://github.com/NASA-Openscapes/2022-nasa-champions/issues/1>.
-
-We can copy the [Example Cohort Setup Checklist Issue](#cohort-setup-checklist) into our new GitHub repo. Click the "copy-to-clipboard" icon and now you can paste it in a new GitHub issue and it will appear as a functional checklist. 
-
-<!---
-This text is from when checklist was not in markdown. Keep here till we've decided how it will remain
-
-...and maintain the formatting as a checklist, on the far right of this page, click "Edit this page" beside the GitHub icon, copy all the checklist text (starts and ends with `:::`), and paste it in a new issue. Now we can edit the checklist text to suit our specific Cohort details.
---->
 
 ## Cohort Google Folder
 
@@ -194,7 +182,7 @@ You'll do the following (with `kyber`):
 
 You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
 
-From RStudio, follow \[`kyber` agenda workflow instructions\] *TODO link!*
+Copy the ["Agendas" code block](https://openscapes.github.io/kyber/#agendas) and paste in the console.
 
 ::: {.callout-note collapse="true"}
 ### Historical aside
