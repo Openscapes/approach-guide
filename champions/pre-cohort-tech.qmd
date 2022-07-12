@@ -22,6 +22,30 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 -   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
 -   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
 
+## Timing and order of tasks
+
+WIP add bullet list with before Call 1, after Call 1 etc
+
+### Before Call 1
+
+- Create Event page
+- Schedule 1:1 Calls
+- Create GitHub repo; make it a website
+- Create Cohort Google Folder
+- Create agenda 
+- Email reminder to participants - day before
+- Add participants to Cohort Folder - day before
+
+### After Call 1
+
+- Draft Field Notes (TODO add link to doc)
+- Send Digest to participants via email, then copy to new GitHub Issue in Cohort repo (after Call 2, all digests are added to GitHub Issues only)
+- Invite particpants to Slack
+- Create Google Calendar invite for 4 coworking sessions (after Calls 1-4) in Openscapes Cohorts calendar. Set Google Meet co-hosts. Add participants as guests. 
+
+### Before Call 2
+
+
 ## Managing tasks in a GitHub Project
 
 We monitor and manage the many tasks of cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1). The issues for this project live in the [Openscapes/cohort-planning repo](https://github.com/Openscapes/cohort-planning/issues). As we experiment, our system will evolve. Currently, issues contain checklists of tasks grouped as: Before Cohort Call 1; After Cohort Call 1; Before Cohort Call 2, etc.
