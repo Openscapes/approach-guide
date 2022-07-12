@@ -164,7 +164,9 @@ Here are examples from past Cohorts:
 -   Add a PathwayShare folder and the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1SvBznl_P-nDJObGr6eZO5RauCjbdu0BcFMgRm_myvOU/edit#gid=0). We'll encourage participants to share their team's Pathways there.
 -   Add co-leads/assists to Google Folder access
 
-We will add participants to this Google Folder prior to Call 1, and we'll add Agendas here the days before each Cohort Call. The idea is to avoid overloading people with information - give folks access at the right time.
+### Before Cohort Call 1
+
+We will add participants' emails to this Google Folder prior to Call 1. We'll add Agendas here the days before each Cohort Call. The idea is to avoid overloading people with information - give folks access at the right time.
 
 ## Data entry
 
@@ -230,7 +232,7 @@ To prepare for the Clinic, we do the following (with `kyber`):
 
 You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
 
-From RStudio, follow \[`kyber` github clinic workflow instructions\] *TODO link!*
+From RStudio, follow [`kyber` Github Clinic instructions](https://openscapes.github.io/kyber/#github-clinic). You might need to install some of other R packages called by `kyber` for this.
 
 ### GitHub Clinic overview
 
