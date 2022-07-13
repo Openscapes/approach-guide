@@ -5,7 +5,7 @@ number-sections: true
 
 ## Overview
 
-Cohort tech setup involves the iterative setup of technical infrastructure for Champions Cohorts. Things described in this section begin after Pre-cohort engagement ends: after dates are set, 1:1 Intro calls are completed, and Cohort welcome email is sent. Some of this information is echoed in [Leading Cohort Calls](leading-cohort-calls.qmd).
+Cohort tech setup involves the iterative setup of technical infrastructure for Champions Cohorts. Things described in this section begin after [Pre-cohort engagement](pre-cohort-engage.qmd) ends: after dates are set, 1:1 Intro calls are completed, and Cohort welcome email is sent. Some of this information is echoed in [Leading Cohort Calls](leading-cohort-calls.qmd).
 
 Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g. inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.
 
@@ -24,26 +24,34 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 
 ## Timing and order of tasks
 
-WIP add bullet list with before Call 1, after Call 1 etc
+[Pre-cohort engagement](pre-cohort-engage.qmd) (the preceding section) ends with a reminder to participants the day before Cohort Call 1. The "Before Call 1" tasks below must be started _before_ that last-minute reminder. 
 
 ### Before Call 1
 
-- Create Event page
-- Schedule 1:1 Calls
 - Create GitHub repo; make it a website
 - Create Cohort Google Folder
-- Create agenda 
-- Email reminder to participants - day before
-- Add participants to Cohort Folder - day before
+- Create Call 1 Agenda (`kyber`)
+- Email reminder to participants - day before (see [Pre-cohort engagement](pre-cohort-engage.qmd#day-prior))
+- Add participants to Cohort Google Folder - day before
 
 ### After Call 1
 
 - Draft Field Notes (TODO add link to doc)
-- Send Digest to participants via email, then copy to new GitHub Issue in Cohort repo (after Call 2, all digests are added to GitHub Issues only)
-- Invite particpants to Slack
-- Create Google Calendar invite for 4 coworking sessions (after Calls 1-4) in Openscapes Cohorts calendar. Set Google Meet co-hosts. Add participants as guests. 
+- Send Digest to participants via email, then copy to new GitHub Issue in Cohort repo (after Call 2, all digests are added as a GitHub Issue only)
+- Invite participants to Slack
+- Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesCohorts calendar. Set Google Meet co-hosts. Add participants as guests. 
 
 ### Before Call 2
+
+- Host Coworking session 
+- Check in with Cohort Mentors
+- Create Agenda for Call 2 (`kyber`)
+- Set up GitHub Clinic (`kyber`)
+
+### After subsequent Calls
+
+- Host Coworking session 
+- Create Agenda (`kyber`)
 
 
 ## Managing tasks in a GitHub Project
