@@ -15,16 +15,30 @@ In this page, we give some general information, then describe things in temporal
 
 In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1) called CohortPlanning, and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order.
 
+## `kyber` helps automate some setup
+
+If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below).
+
+Specific `kyber` functions will be described in more detail where relevant to specific tasks below.
+
 ## Google Workspace
 
 In June 2022 we began moving our work to an Openscapes Google Workspace, starting with the 2022 NOAA SEFSC summer Cohort.
 
+Folder organization
+
 -   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
 -   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
+
+Calendar: The OpenscapesCohorts Google Calendar is used for events, like Cohort Calls and Coworking sessions.
+
+Google Meet: We'll give some tech details below. Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them).
 
 ## Timing and order of tasks
 
 [Pre-cohort engagement](pre-cohort-engage.qmd) (the preceding section) ends with a reminder to participants the day before Cohort Call 1. The "Before Call 1" tasks below must be started _before_ that last-minute reminder. 
+
+You might notice some redundancy among this list, the GitHub Project, and Cohort Setup Checklist below. We're capturing how we do things as our processes evolve.
 
 ### Before Call 1
 
@@ -68,11 +82,7 @@ Clicking on a row (top screenshot) or on a card (bottom screenshot) takes us to 
 
 ![](images/github-project-issue.png){fig-alt="GitHub Project issue" fig-align="center" width="90%"}
 
-## `kyber` helps automate some setup
 
-If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below).
-
-Specific `kyber` functions will be described in more detail where relevant to specific tasks below.
 
 ## Cohort setup checklist {#cohort-setup-checklist}
 
@@ -165,7 +175,7 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 ## GitHub repo
 
-![Checklist excerpt for GitHub repo and Cohort Google Folder](images/checklist-beforeCall1-github.png){fig-alt="screenshot of checklist excerpt" width="90%"}
+![Screenshot of checklist excerpt for GitHub repo and Cohort Google Folder tasks](images/checklist-beforeCall1-github.png){fig-alt="screenshot of checklist excerpt" width="90%"}
 
 Create a Cohort GitHub repo within the Openscapes GitHub organization. An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct. This can be done with `kyber`, as described below, or by hand by copy-pasting a README from another cohort (we did this for the first 8 Champions cohorts!) and [Code of Conduct](https://raw.githubusercontent.com/Openscapes/website/main/content/code-of-conduct.md) from the Openscapes website repo.
 
