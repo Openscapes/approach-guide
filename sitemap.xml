@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/approach-guide/LICENSE.html</loc>
-    <lastmod>2022-07-15T03:22:46.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/code-of-conduct.html</loc>
-    <lastmod>2022-07-15T03:22:48.348Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/partners.html</loc>
-    <lastmod>2022-07-15T03:22:48.800Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/onboarding.html</loc>
-    <lastmod>2022-07-15T03:22:49.260Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/seaside-chats.html</loc>
-    <lastmod>2022-07-15T03:22:49.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/tooling.html</loc>
-    <lastmod>2022-07-15T03:22:50.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/calendar.html</loc>
-    <lastmod>2022-07-15T03:22:50.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/index.html</loc>
-    <lastmod>2022-07-15T03:22:50.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/qual-assessment.html</loc>
-    <lastmod>2022-07-15T03:22:51.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/workflow.html</loc>
-    <lastmod>2022-07-15T03:22:51.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/setup.html</loc>
-    <lastmod>2022-07-15T03:22:52.272Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/inspiration.html</loc>
-    <lastmod>2022-07-15T03:22:52.740Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/index.html</loc>
-    <lastmod>2022-07-15T03:22:53.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html</loc>
-    <lastmod>2022-07-15T03:22:53.704Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/about.html</loc>
-    <lastmod>2022-07-15T03:22:54.108Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/index.html</loc>
-    <lastmod>2022-07-15T03:22:54.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html</loc>
-    <lastmod>2022-07-15T03:22:55.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/cohort-planning.html</loc>
-    <lastmod>2022-07-15T03:22:55.828Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html</loc>
+    <lastmod>2022-08-04T20:07:31.170Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/champions/post-cohort-followup.html</loc>
-    <lastmod>2022-07-15T03:22:56.288Z</lastmod>
+    <lastmod>2022-08-04T20:07:33.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/cohort-planning.html</loc>
+    <lastmod>2022-08-04T20:07:33.822Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/champions/design.html</loc>
-    <lastmod>2022-07-15T03:22:56.772Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html</loc>
-    <lastmod>2022-07-15T03:22:57.692Z</lastmod>
+    <lastmod>2022-08-04T20:07:34.274Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/champions/lessons.html</loc>
-    <lastmod>2022-07-15T03:22:58.124Z</lastmod>
+    <lastmod>2022-08-04T20:07:34.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html</loc>
+    <lastmod>2022-08-04T20:07:35.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/about.html</loc>
+    <lastmod>2022-08-04T20:07:35.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/index.html</loc>
+    <lastmod>2022-08-04T20:07:36.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html</loc>
+    <lastmod>2022-08-04T20:07:36.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/tooling.html</loc>
+    <lastmod>2022-08-04T20:07:36.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/partners.html</loc>
+    <lastmod>2022-08-04T20:07:37.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/seaside-chats.html</loc>
+    <lastmod>2022-08-04T20:07:37.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/index.html</loc>
+    <lastmod>2022-08-04T20:07:38.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/qual-assessment.html</loc>
+    <lastmod>2022-08-04T20:07:38.422Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/onboarding.html</loc>
+    <lastmod>2022-08-04T20:07:38.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/calendar.html</loc>
+    <lastmod>2022-08-04T20:07:39.174Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/code-of-conduct.html</loc>
+    <lastmod>2022-08-04T20:07:39.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/LICENSE.html</loc>
+    <lastmod>2022-08-04T20:07:39.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/inspiration.html</loc>
+    <lastmod>2022-08-04T20:07:40.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/workflow.html</loc>
+    <lastmod>2022-08-04T20:07:40.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/index.html</loc>
+    <lastmod>2022-08-04T20:07:41.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/setup.html</loc>
+    <lastmod>2022-08-04T20:07:41.446Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/index.html</loc>
-    <lastmod>2022-07-15T03:22:58.660Z</lastmod>
+    <lastmod>2022-08-04T20:07:41.938Z</lastmod>
   </url>
 </urlset>
