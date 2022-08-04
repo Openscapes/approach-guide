@@ -183,7 +183,7 @@ Create a Cohort GitHub repo within the Openscapes GitHub organization. An exampl
 
 ### Create repo w/ `kyber`
 
-To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)). In the RStudio console, install the `kyber` library ([instructions](https://openscapes.github.io/kyber)) and follow the [configuration instructions](https://openscapes.github.io/kyber/#configuration). Browse the README to see what additional R packages you might need to install.
+To use `kyber`, you'll open RStudio on your computer ([instructions](/contributing/setup.qmd)). In the RStudio console, install the `kyber` library ([instructions](https://openscapes.github.io/kyber)) and follow the [configuration instructions](https://openscapes.github.io/kyber/#configuration). Because `kyber` is under development, please re-install it each time. Browse the README to see what additional R packages you might need to install.
 
 There's an example workflow provided to indicate when `kyber` can be helpful, before or after Cohort Calls.
 
