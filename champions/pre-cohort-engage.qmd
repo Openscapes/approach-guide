@@ -331,10 +331,6 @@ We are so excited to welcome you to the 2021 SASI Openscapes Champions Cohort! O
 
 [Openscapes](https://openscapes.org) is an approach for doing better science in less time. Through the Champions program we help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Our Cohort is supported by the Gordon and Betty Moore Foundation's [Symbiosis in Aquatic Systems Initiative (SASI)](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative), and we're partnering with [protocols.io](https://protocols.io), a secure platform for developing and sharing reproducible methods.
 
-**Cohort Logistics.**
-
-Details and short intros of participating labs are at <https://openscapes.github.io/2021-sasi>. We pulled intros from your websites; if you have edits please do so through GitHub -- and if you don't yet know how to do this, you'll learn in our GitHub Clinic after Call 1!
-
 **Before Sept 9, please**:
 
 1.  **Check that you've received Google Calendar invites with Zoom links** for our 8 Cohort Calls starting Sept 9. If you have not received these invites, please let us know.
