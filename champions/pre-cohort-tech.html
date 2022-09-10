@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.189">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
@@ -53,7 +58,7 @@ code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
 code span.at { color: #7d9029; } /* Attribute */
 code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
+code span.bu { color: #008000; } /* BuiltIn */
 code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
 code span.ch { color: #4070a0; } /* Char */
 code span.cn { color: #880000; } /* Constant */
@@ -66,7 +71,7 @@ code span.er { color: #ff0000; font-weight: bold; } /* Error */
 code span.ex { } /* Extension */
 code span.fl { color: #40a070; } /* Float */
 code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
+code span.im { color: #008000; font-weight: bold; } /* Import */
 code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
 code span.kw { color: #007020; font-weight: bold; } /* Keyword */
 code span.op { color: #666666; } /* Operator */
@@ -280,45 +285,45 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"> <span class="header-section-number">1</span> Overview</a>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="toc-section-number">1</span>  Overview</a>
   <ul class="collapse">
-  <li><a href="#documentation-update-in-progress" id="toc-documentation-update-in-progress" class="nav-link" data-scroll-target="#documentation-update-in-progress"> <span class="header-section-number">1.1</span> Documentation update in progress</a></li>
+  <li><a href="#documentation-update-in-progress" id="toc-documentation-update-in-progress" class="nav-link" data-scroll-target="#documentation-update-in-progress"><span class="toc-section-number">1.1</span>  Documentation update in progress</a></li>
   </ul></li>
-  <li><a href="#kyber-helps-automate-some-setup" id="toc-kyber-helps-automate-some-setup" class="nav-link" data-scroll-target="#kyber-helps-automate-some-setup"> <span class="header-section-number">2</span> <code>kyber</code> helps automate some setup</a></li>
-  <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link" data-scroll-target="#google-workspace"> <span class="header-section-number">3</span> Google Workspace</a></li>
-  <li><a href="#timing-and-order-of-tasks" id="toc-timing-and-order-of-tasks" class="nav-link" data-scroll-target="#timing-and-order-of-tasks"> <span class="header-section-number">4</span> Timing and order of tasks</a>
+  <li><a href="#kyber-helps-automate-some-setup" id="toc-kyber-helps-automate-some-setup" class="nav-link" data-scroll-target="#kyber-helps-automate-some-setup"><span class="toc-section-number">2</span>  <code>kyber</code> helps automate some setup</a></li>
+  <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link" data-scroll-target="#google-workspace"><span class="toc-section-number">3</span>  Google Workspace</a></li>
+  <li><a href="#timing-and-order-of-tasks" id="toc-timing-and-order-of-tasks" class="nav-link" data-scroll-target="#timing-and-order-of-tasks"><span class="toc-section-number">4</span>  Timing and order of tasks</a>
   <ul class="collapse">
-  <li><a href="#before-call-1" id="toc-before-call-1" class="nav-link" data-scroll-target="#before-call-1"> <span class="header-section-number">4.1</span> Before Call 1</a></li>
-  <li><a href="#after-call-1" id="toc-after-call-1" class="nav-link" data-scroll-target="#after-call-1"> <span class="header-section-number">4.2</span> After Call 1</a></li>
-  <li><a href="#before-call-2" id="toc-before-call-2" class="nav-link" data-scroll-target="#before-call-2"> <span class="header-section-number">4.3</span> Before Call 2</a></li>
-  <li><a href="#after-subsequent-calls" id="toc-after-subsequent-calls" class="nav-link" data-scroll-target="#after-subsequent-calls"> <span class="header-section-number">4.4</span> After subsequent Calls</a></li>
+  <li><a href="#before-call-1" id="toc-before-call-1" class="nav-link" data-scroll-target="#before-call-1"><span class="toc-section-number">4.1</span>  Before Call 1</a></li>
+  <li><a href="#after-call-1" id="toc-after-call-1" class="nav-link" data-scroll-target="#after-call-1"><span class="toc-section-number">4.2</span>  After Call 1</a></li>
+  <li><a href="#before-call-2" id="toc-before-call-2" class="nav-link" data-scroll-target="#before-call-2"><span class="toc-section-number">4.3</span>  Before Call 2</a></li>
+  <li><a href="#after-subsequent-calls" id="toc-after-subsequent-calls" class="nav-link" data-scroll-target="#after-subsequent-calls"><span class="toc-section-number">4.4</span>  After subsequent Calls</a></li>
   </ul></li>
-  <li><a href="#managing-tasks-in-a-github-project" id="toc-managing-tasks-in-a-github-project" class="nav-link" data-scroll-target="#managing-tasks-in-a-github-project"> <span class="header-section-number">5</span> Managing tasks in a GitHub Project</a></li>
-  <li><a href="#cohort-setup-checklist" id="toc-cohort-setup-checklist" class="nav-link" data-scroll-target="#cohort-setup-checklist"> <span class="header-section-number">6</span> Cohort setup checklist</a></li>
-  <li><a href="#cohort-registry" id="toc-cohort-registry" class="nav-link" data-scroll-target="#cohort-registry"> <span class="header-section-number">7</span> Cohort Registry</a></li>
-  <li><a href="#github-repo" id="toc-github-repo" class="nav-link" data-scroll-target="#github-repo"> <span class="header-section-number">8</span> GitHub repo</a>
+  <li><a href="#managing-tasks-in-a-github-project" id="toc-managing-tasks-in-a-github-project" class="nav-link" data-scroll-target="#managing-tasks-in-a-github-project"><span class="toc-section-number">5</span>  Managing tasks in a GitHub Project</a></li>
+  <li><a href="#cohort-setup-checklist" id="toc-cohort-setup-checklist" class="nav-link" data-scroll-target="#cohort-setup-checklist"><span class="toc-section-number">6</span>  Cohort setup checklist</a></li>
+  <li><a href="#cohort-registry" id="toc-cohort-registry" class="nav-link" data-scroll-target="#cohort-registry"><span class="toc-section-number">7</span>  Cohort Registry</a></li>
+  <li><a href="#github-repo" id="toc-github-repo" class="nav-link" data-scroll-target="#github-repo"><span class="toc-section-number">8</span>  GitHub repo</a>
   <ul class="collapse">
-  <li><a href="#create-repo-w-kyber" id="toc-create-repo-w-kyber" class="nav-link" data-scroll-target="#create-repo-w-kyber"> <span class="header-section-number">8.1</span> Create repo w/ <code>kyber</code></a></li>
+  <li><a href="#create-repo-w-kyber" id="toc-create-repo-w-kyber" class="nav-link" data-scroll-target="#create-repo-w-kyber"><span class="toc-section-number">8.1</span>  Create repo w/ <code>kyber</code></a></li>
   </ul></li>
-  <li><a href="#add-checklist-to-new-repo" id="toc-add-checklist-to-new-repo" class="nav-link" data-scroll-target="#add-checklist-to-new-repo"> <span class="header-section-number">9</span> Add checklist to new repo</a></li>
-  <li><a href="#cohort-google-folder" id="toc-cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder"> <span class="header-section-number">10</span> Cohort Google Folder</a>
+  <li><a href="#add-checklist-to-new-repo" id="toc-add-checklist-to-new-repo" class="nav-link" data-scroll-target="#add-checklist-to-new-repo"><span class="toc-section-number">9</span>  Add checklist to new repo</a></li>
+  <li><a href="#cohort-google-folder" id="toc-cohort-google-folder" class="nav-link" data-scroll-target="#cohort-google-folder"><span class="toc-section-number">10</span>  Cohort Google Folder</a>
   <ul class="collapse">
-  <li><a href="#before-cohort-call-1" id="toc-before-cohort-call-1" class="nav-link" data-scroll-target="#before-cohort-call-1"> <span class="header-section-number">10.1</span> Before Cohort Call 1</a></li>
+  <li><a href="#before-cohort-call-1" id="toc-before-cohort-call-1" class="nav-link" data-scroll-target="#before-cohort-call-1"><span class="toc-section-number">10.1</span>  Before Cohort Call 1</a></li>
   </ul></li>
-  <li><a href="#data-entry" id="toc-data-entry" class="nav-link" data-scroll-target="#data-entry"> <span class="header-section-number">11</span> Data entry</a></li>
-  <li><a href="#cohort-call-agendas" id="toc-cohort-call-agendas" class="nav-link" data-scroll-target="#cohort-call-agendas"> <span class="header-section-number">12</span> Cohort Call Agendas</a>
+  <li><a href="#data-entry" id="toc-data-entry" class="nav-link" data-scroll-target="#data-entry"><span class="toc-section-number">11</span>  Data entry</a></li>
+  <li><a href="#cohort-call-agendas" id="toc-cohort-call-agendas" class="nav-link" data-scroll-target="#cohort-call-agendas"><span class="toc-section-number">12</span>  Cohort Call Agendas</a>
   <ul class="collapse">
-  <li><a href="#create-agendas-w-kyber" id="toc-create-agendas-w-kyber" class="nav-link" data-scroll-target="#create-agendas-w-kyber"> <span class="header-section-number">12.1</span> Create agendas w/ <code id="agenda-kyber">kyber</code></a></li>
+  <li><a href="#create-agendas-w-kyber" id="toc-create-agendas-w-kyber" class="nav-link" data-scroll-target="#create-agendas-w-kyber"><span class="toc-section-number">12.1</span>  Create agendas w/ <code id="agenda-kyber">kyber</code></a></li>
   </ul></li>
-  <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack"> <span class="header-section-number">13</span> Slack</a></li>
-  <li><a href="#github-clinics" id="toc-github-clinics" class="nav-link" data-scroll-target="#github-clinics"> <span class="header-section-number">14</span> GitHub Clinics</a>
+  <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack"><span class="toc-section-number">13</span>  Slack</a></li>
+  <li><a href="#github-clinics" id="toc-github-clinics" class="nav-link" data-scroll-target="#github-clinics"><span class="toc-section-number">14</span>  GitHub Clinics</a>
   <ul class="collapse">
-  <li><a href="#prep-clinic-w-kyber" id="toc-prep-clinic-w-kyber" class="nav-link" data-scroll-target="#prep-clinic-w-kyber"> <span class="header-section-number">14.1</span> Prep clinic w/ <code>kyber</code></a></li>
-  <li><a href="#github-clinic-overview" id="toc-github-clinic-overview" class="nav-link" data-scroll-target="#github-clinic-overview"> <span class="header-section-number">14.2</span> GitHub Clinic overview</a></li>
+  <li><a href="#prep-clinic-w-kyber" id="toc-prep-clinic-w-kyber" class="nav-link" data-scroll-target="#prep-clinic-w-kyber"><span class="toc-section-number">14.1</span>  Prep clinic w/ <code>kyber</code></a></li>
+  <li><a href="#github-clinic-overview" id="toc-github-clinic-overview" class="nav-link" data-scroll-target="#github-clinic-overview"><span class="toc-section-number">14.2</span>  GitHub Clinic overview</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/champions/pre-cohort-tech.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -415,18 +420,18 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>These screenshots show two views of the same GitHub Project, as rows or as cards.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/github-project-rows-view.png" class="img-fluid figure-img" alt="GitHub Project rows view" style="width:90.0%"></p>
+<p><img src="images/github-project-rows-view.png" class="img-fluid figure-img" style="width:90.0%" alt="GitHub Project rows view"></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/github-project-cards-view.png" class="img-fluid figure-img" alt="GitHub Project cards view" style="width:90.0%"></p>
+<p><img src="images/github-project-cards-view.png" class="img-fluid figure-img" style="width:90.0%" alt="GitHub Project cards view"></p>
 </figure>
 </div>
 <p>Clicking on a row (top screenshot) or on a card (bottom screenshot) takes us to details of that item, and opening in a new tab (circled in red below) would bring us to the familiar GitHub Issue view.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/github-project-issue.png" class="img-fluid figure-img" alt="GitHub Project issue" style="width:90.0%"></p>
+<p><img src="images/github-project-issue.png" class="img-fluid figure-img" style="width:90.0%" alt="GitHub Project issue"></p>
 </figure>
 </div>
 </section>
@@ -541,7 +546,7 @@ Historical aside
 <h2 data-number="8" class="anchored" data-anchor-id="github-repo"><span class="header-section-number">8</span> GitHub repo</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/checklist-beforeCall1-github.png" class="img-fluid figure-img" alt="screenshot of checklist excerpt" style="width:90.0%"></p>
+<p><img src="images/checklist-beforeCall1-github.png" class="img-fluid figure-img" style="width:90.0%" alt="screenshot of checklist excerpt"></p>
 <p></p><figcaption class="figure-caption">Screenshot of checklist excerpt for GitHub repo and Cohort Google Folder tasks</figcaption><p></p>
 </figure>
 </div>
@@ -754,6 +759,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         }
       }
     }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
   }
   const isFileUrl = () => { 
     return window.location.protocol === 'file:';
@@ -855,7 +870,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);

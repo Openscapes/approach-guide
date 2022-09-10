@@ -1,5 +1,152 @@
 [
   {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Openscapes Approach Guide",
+    "section": "Welcome",
+    "text": "Welcome\nWelcome to the Openscapes Approach Guide! This is an open and iterating guide to document our process and onboard folks to the Openscapes approach."
+  },
+  {
+    "objectID": "index.html#about-openscapes",
+    "href": "index.html#about-openscapes",
+    "title": "Openscapes Approach Guide",
+    "section": "About Openscapes",
+    "text": "About Openscapes\nOpenscapes is an approach for doing better science in less time. We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
+  },
+  {
+    "objectID": "index.html#about-this-guide",
+    "href": "index.html#about-this-guide",
+    "title": "Openscapes Approach Guide",
+    "section": "About This Guide",
+    "text": "About This Guide\nWe’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and “fork” it to make it your own (particularly as it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nOpenscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines. We are gradually converting to build all our materials with Quarto."
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "Openscapes Approach Guide",
+    "section": "Citation",
+    "text": "Citation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.\n\n\n\nOpenscapes artwork by Allison Horst"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Openscapes Approach Guide",
+    "section": "",
+    "text": "Adapted from The Turing Way\nOpenscapes makes all of their materials publicly available under open source licenses.\nThe process documents and data are made available under a CC-BY license. Software are made available under an MIT license.\nThe license text listed below (describing both CC-BY and MIT licenses as well as their usage in Openscapes) is re-used under a CC-BY license from The Carpentries community materials. (Specifically from the Reproducible Science Curriculum).\n\n\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.\n\n\n\n\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "contributing/index.html",
+    "href": "contributing/index.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "This is how we collaborate to create this guide.\nWe build the book with Quarto and collaborate and publish through GitHub. We develop content in the RStudio IDE, which is also how we interface with Git/Hub."
+  },
+  {
+    "objectID": "contributing/index.html#quarto",
+    "href": "contributing/index.html#quarto",
+    "title": "Contributing",
+    "section": "Quarto",
+    "text": "Quarto\nWe’re developing the Openscapes Approach Guide with Quarto: quarto.org. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered using Jupyter and Knitr engines.\nWhat is Quarto? Quarto builds from what RStudio learned from RMarkdown but enables different engines (Jupyter and knitr). It is both a Command Line Tool and R package. .qmd is a new filetype like .Rmd — meaning it’s a text file but coupled with an engine can execute code and be rendered as html, pdf, word, and beyond — but for other languages like Python. Quarto can convert .ipynb files to and from .md and .qmd easily so you can develop and publish with collaborators that have different workflows. Once the book is “served” locally, .md files auto-update as you edit, and files with executable code can be rendered individually, and the behavior of different code chunks can be controlled and cached.\n(Note: with Quarto, e-books and websites are very similarly structured, with e-books being set up for numbered chapters and references and websites set up for higher number of pages and organization. We can talk about our book as a book even as we explore whether book/website better suits our needs. This is assigned in _quarto.yml, as we’ll explore later)."
+  },
+  {
+    "objectID": "contributing/inspiration.html",
+    "href": "contributing/inspiration.html",
+    "title": "Inspiration",
+    "section": "",
+    "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.\nThis Approach Guide document is inspired from:\nMany things inspire us and influence our work for kinder science\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report."
+  },
+  {
+    "objectID": "contributing/inspiration.html#resources",
+    "href": "contributing/inspiration.html#resources",
+    "title": "Inspiration",
+    "section": "Resources",
+    "text": "Resources\nOur Resources page has some resources meant to welcome environmental scientists who are newly onboarding to open data science.\nOur Openscapes GitHub Organization has pinned repositories of interest, including the teaching-learning-resources repo where we use Issues to jot down specific tools or learning resources for open, reproducible, inclusive science.\nWe also have a public Openscapes Zotero library linking publications, talks, and curricula. And, a public Openscapes Spotify Playlist of favorite pump-up songs from our cohorts."
+  },
+  {
+    "objectID": "contributing/inspiration.html#pieces-that-resonate",
+    "href": "contributing/inspiration.html#pieces-that-resonate",
+    "title": "Inspiration",
+    "section": "Pieces that resonate",
+    "text": "Pieces that resonate\n\nTime to Say Goodbye to Our Heroes? - Lindy Elkins-Tanton"
+  },
+  {
+    "objectID": "contributing/setup.html",
+    "href": "contributing/setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "To contribute, please do the following (20 minutes). All software is open source and free."
+  },
+  {
+    "objectID": "contributing/setup.html#install-r-and-rstudio",
+    "href": "contributing/setup.html#install-r-and-rstudio",
+    "title": "Setup",
+    "section": "Install R and RStudio!",
+    "text": "Install R and RStudio!\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
+  },
+  {
+    "objectID": "contributing/workflow.html",
+    "href": "contributing/workflow.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "Here we will be using the RStudio IDE rather than the command line; please also see https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/workflow.html as we develop this further."
+  },
+  {
+    "objectID": "contributing/workflow.html#overview",
+    "href": "contributing/workflow.html#overview",
+    "title": "Workflow",
+    "section": "Overview",
+    "text": "Overview\n\nWe’ll use GitHub branches, consider them temporary and unlimited\nWe’ll interact with Quarto through RStudio"
+  },
+  {
+    "objectID": "contributing/workflow.html#create-a-branch-on-github.com",
+    "href": "contributing/workflow.html#create-a-branch-on-github.com",
+    "title": "Workflow",
+    "section": "Create a branch on GitHub.com",
+    "text": "Create a branch on GitHub.com\n\nGo to https://github.com/Openscapes/approach-guide click the main branch and type your-branch name for your branch\nClone/pull https://github.com/Openscapes/approach-guide locally to RStudio\nClick in the top-right on main and switch to your-branch; this will add it to the “local branches” section."
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html",
+    "href": "champions/leading-cohort-calls.html",
+    "title": "Leading Cohort Calls",
+    "section": "",
+    "text": "Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. We are open, kind, and help each other as we prepare and facilitate. This is how we lead each call, with additional steps for the first call."
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html#roles",
+    "href": "champions/leading-cohort-calls.html#roles",
+    "title": "Leading Cohort Calls",
+    "section": "Roles",
+    "text": "Roles\nThere are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.\n\nTech Host: Zoom co-host, create breakout groups, monitor chat & Slack, help note-taking\nFacilitator: Zoom co-host, leads discussion as noted in the Agenda\nTeacher: Talks through demos and slides\n\nNote-taking should focus on capturing questions and conversations and less about slides. Copying questions from the Chat into the Agenda is also really helpful.\n\nExample Roles: NOAA NMFS"
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html#before-cohort-calls",
+    "href": "champions/leading-cohort-calls.html#before-cohort-calls",
+    "title": "Leading Cohort Calls",
+    "section": "Before Cohort Calls",
+    "text": "Before Cohort Calls\n\nPrepare the Agenda; see Pre-cohort tech setup: Cohort Call Agendas\nReview Roles, with particular focus on facilitator and tech host roles"
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html#during-cohort-calls",
+    "href": "champions/leading-cohort-calls.html#during-cohort-calls",
+    "title": "Leading Cohort Calls",
+    "section": "During Cohort Calls",
+    "text": "During Cohort Calls\nSoftware to have open:\n\nZoom\nSlack for back-channeling if needed, likely not\nAgenda\nQuicklinks Issue, Participants List (example: NOAA NMFS)\nWelcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nMonitor the chat\nHelp with note-taking. Both to capture what folks are saying and to role-model. Help others engage.\n\n\n\n\n\n\n\nExample chat welcome text\n\n\n\n\n\nWelcome! Please write your name in Roll Call as you join: [ doc ]\nIf you need access to the doc please put your email in chat\nAnd please rename yourself with how you’d like to be called and your team name (hover over your name or video > 3 dots > Rename)\n\n\n\n\nMaking breakout rooms\nBreakout rooms are generally random or as teams.\n\nRandom: set up breakout rooms just before we go into them; for example if you set them up during roll call and more folks join before the reflections, you won’t be able to create new rooms for them\nTeams: this takes more time and you’ll need the participant list in front of you\n\n\n\nGuest teachers’ presentations\nScreenshare! This way we can edit out the recording if groups would like to share these presentations publicly, for example with NOAA NMFS’ Em Markowitz’ Data to Product Workflows."
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html#between-cohort-calls",
+    "href": "champions/leading-cohort-calls.html#between-cohort-calls",
+    "title": "Leading Cohort Calls",
+    "section": "Between Cohort Calls",
+    "text": "Between Cohort Calls\nBetween Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).\n\nField Notes\nWe ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal “field notes” that will help us improve between Cohort Calls and across Cohorts.\nPrompts to answer include:\n\nTop-of-mind\nBrief summary of how it went\nRose / Bud / Thorn - something that was good, developing, or tricky\n\nWrite field notes in the Planning Docs, at the bottom\n\n\nDigests\nWe send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.\nDigests include links to the Call’s agenda, the Call’s goals, slides, and some excerpts from the shared notes. Call 1 is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughtout the cohort.\nWe develop these in a single “DigestsDrafts” Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.\nSee examples:\n\n2022-nasa-champions\n2022-noaa-afsc\n2021-fdd\n2021-noaa-nmfs\n\n\n\nCo-working\nWe started co-working with Cohorts in fall 2021. It’s a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it’s nice to offer as a practice to the Champions too. Champions have said it’s a really nice practice to take back to their research groups and it’s also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.\nWe set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working (Butland & Penfold 2020). Here is an example agenda.\n\n\n\n\n\n\nExample Co-working agenda\n\n\n\n\n\nWe share what we’re going to work on, and then work quietly and then check in at the end as well. We also make breakout rooms for Q&A if folks want to screenshare and talk things out.\n\nBrief intros to share what we’re planning to work on\nCreate breakout rooms based on topics, and you can move yourself. Today:\n\nProjectBoards\nChattierRoom - Eli there for Q&A. Pop in and out.\n\nBrief closing to share what you did & any resources!\n\n\n\n\n\n\nSeaside Chats\nChampions teams will hold Seaside Chats, and we share suggested topics each Cohort Call."
+  },
+  {
+    "objectID": "champions/leading-cohort-calls.html#first-cohort-call",
+    "href": "champions/leading-cohort-calls.html#first-cohort-call",
+    "title": "Leading Cohort Calls",
+    "section": "First Cohort Call",
+    "text": "First Cohort Call\nThe first Cohort Call has additional setup and followup, since we introduce and follow up on things that we discuss together (i.e. Slack)\n\nBeforehand\nSet up Slack Channel with all assistants\n\n\n\n\n\n\nExample slack text: team coordination\n\n\n\n\n\nHi All, Excited for today! We’ll share the [ Agenda ] in chat, and expect that some folks will still need to request access. We’ll ask them to share their emails in chat so that we can add them quickly - to the folder if possible. If you add access for someone, would you also add their email to [ OpenscapesParticipants ] and I’ll revisit afterwards. Thanks!\n\n\n\n\n\nAfterwards\nSlack invites\n\nCreate a private Slack channel for the Cohort, invite everyone to the Org and private channel\nWrite a welcome message in the general or welcome channel\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nHi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details."
+  },
+  {
     "objectID": "champions/pre-cohort-engage.html",
     "href": "champions/pre-cohort-engage.html",
     "title": "Pre-cohort engagement",
@@ -56,125 +203,6 @@
     "text": "Guest teachers\nWe invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the data strategies for future us lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.\n\n\n\n\n\n\nExample email to guest teacher\n\n\n\n\n\nHi [ potential guest teacher],\nHow are you? I hope you’ve had a break this summer and are doing ok with everything going on.\nOpenscapes a few Champions cohorts we’re leading this fall, including one with researchers using fisheries dependent data in the US Northeast coordinated by Gavin Fay, Andy Jones, and Rachel Baum (here’s the cohort page).\nWe wanted to see if you’d be interested in being a guest teacher at one of these Cohort Calls for 20-25 minutes, presenting ~12 mins of slides and leading the following discussion (likely breakout groups and then group discussion). We’re thinking of you joining the second call and presenting about data strategies for future us, or the third and presenting about coding strategies for future us. You could either present from our existing slide decks, or present something on-theme from your work, and we can help you with the format and timing. Cohort Calls 2 & 3 are on October 1 & 15 from 12-1:30pm ET (exact time TBD but you’re welcome to just attend for your part). We are able to offer an honorarium as well.\nWe’re excited to hear your ideas, and if this isn’t the right thing now to think about if there’s another way we can involve you in the future if you’d like. We’d love to chat with you about it in any case, would you be able to suggest a few times for a 30-minute call?\nCheers,\nJulie and Erin\n\n\n\nFollowup email the week before:\n\n\n\n\n\n\nExample email to guest teacher: week prior\n\n\n\n\n\nHi Emily and Chanté,\nWe’re excited about your guest teaching and wanted to check in about it. We’ve had a good first week and two GitHub Clinics and people are excited to learn from how you both work!\nI’ve just shared our [draft Agenda] for this second Cohort Call on October 1, with Emily planned for 11:45-12:20. Would you be able to share your plan by Sept 30 and we can iterate? We can work with you and iterate the discussion prompts following your slides if you’d like, and whether it would make most sense to have more of a group discussion rather than breakouts.\nHow does all this sound? Happy to meet to chat about it/review together if you have questions, or continue discussions by email.\nThank you!\nCheers,\nJulie"
   },
   {
-    "objectID": "champions/post-cohort-followup.html",
-    "href": "champions/post-cohort-followup.html",
-    "title": "Post-Cohort followup",
-    "section": "",
-    "text": "This issue is to help track the post-cohort setup, following the approach-guide and focused on the engagement and tech setup after dates are set.\nThese TODO’s are for @jules32 and also will include @erinmr\n\n\nPrep Survey - @jules32\n\nCall 5 Digest, with survey - @jules32\n\nBlog summary - @erinmr\n\nAdd songs to spotify - @jules32\n\nWrite cards & stickers - @erinmr starts"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#thank-you-email-digest-5",
-    "href": "champions/post-cohort-followup.html#thank-you-email-digest-5",
-    "title": "Post-Cohort followup",
-    "section": "Thank you email (Digest 5)",
-    "text": "Thank you email (Digest 5)\nWe send a thank you email via GitHub Issues as a Call 5 Digest"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#survey",
-    "href": "champions/post-cohort-followup.html#survey",
-    "title": "Post-Cohort followup",
-    "section": "Survey",
-    "text": "Survey\nHere is the survey template we sent out to Champions following the cohort.\nIn some cases we’ve sent out a reminder email:\n\n\n\n\n\n\nExample reminder email\n\n\n\n\n\nHi All!\nWe wanted to thank you all again for being a part of our SASI Openscapes Cohort this fall and appreciate all you were able to give with everything else going on. Yesterday’s screenshare-and-tells and discussions were super and it’s exciting to see the momentum you have going forward. We’re excited to stay in touch (Slack, Twitter, etc) and will be sending out a last digest soon!\nWe’d appreciate your feedback in this [5-min survey] so we can improve based on feedback of what did and didn’t work. Additionally, please email/slack us a snail-mail address for your team so that we can send a thank you card and stickers!\nThanks again, and we hope you all have a safe and healthy break.\nCheers,\nJulie, Erin, Emma, and Lenny"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#honoraria-for-guest-teachers",
-    "href": "champions/post-cohort-followup.html#honoraria-for-guest-teachers",
-    "title": "Post-Cohort followup",
-    "section": "Honoraria for Guest Teachers",
-    "text": "Honoraria for Guest Teachers\n\n\n\n\n\n\nExample email text: Openscapes Honorarium\n\n\n\n\n\nHi [Name],\nThank you for presenting at the Openscapes Champions Cohort Series on [June 25, 2021].\nIn appreciation of your time spent preparing and presenting at our event, we are able to provide a $150 stipend. I’ve attached two forms here that UCSB needs in order to process this for you. Please send them back to me and let me know if you have further questions.\nThank you very much, Cheers, Julie"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#follow-up-with-partners",
-    "href": "champions/post-cohort-followup.html#follow-up-with-partners",
-    "title": "Post-Cohort followup",
-    "section": "Follow up with Partners",
-    "text": "Follow up with Partners\nSend thank you / report out email"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#blog",
-    "href": "champions/post-cohort-followup.html#blog",
-    "title": "Post-Cohort followup",
-    "section": "Blog",
-    "text": "Blog"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#thank-you-letters-stickers",
-    "href": "champions/post-cohort-followup.html#thank-you-letters-stickers",
-    "title": "Post-Cohort followup",
-    "section": "Thank you letters & stickers",
-    "text": "Thank you letters & stickers\nWe love snail mail. This is a chance to send a written thank you to teams and also share physical Openscapes stickers."
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#month-check-ins",
-    "href": "champions/post-cohort-followup.html#month-check-ins",
-    "title": "Post-Cohort followup",
-    "section": "3-Month Check-Ins",
-    "text": "3-Month Check-Ins\nModeled after SGCI\n\nvery limited structure on the call\nrevisit repo\nshare summaries from pathways\n\n\n\n\n\n\n\nExample Google Calendar text: CSS Openscapes 3-month check-in (optional)\n\n\n\n\n\nHello CS&S Champions! This is an optional 3-month check-in to reconnect and share updates since our Cohort. You can also always connect with the community more on Slack, and through upcoming community calls and other events: https://openscapes.org/events"
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#social-hours",
-    "href": "champions/post-cohort-followup.html#social-hours",
-    "title": "Post-Cohort followup",
-    "section": "Social Hours",
-    "text": "Social Hours\nLearn about our Summer monthly Social Hours in Seaside Chats."
-  },
-  {
-    "objectID": "champions/post-cohort-followup.html#qualitative-data-analysis",
-    "href": "champions/post-cohort-followup.html#qualitative-data-analysis",
-    "title": "Post-Cohort followup",
-    "section": "Qualitative Data Analysis",
-    "text": "Qualitative Data Analysis"
-  },
-  {
-    "objectID": "champions/cohort-planning.html",
-    "href": "champions/cohort-planning.html",
-    "title": "Cohort Planning",
-    "section": "",
-    "text": "Since 2018 we have iterated on a strategy that works well for planning and coordinating with partners, and engaging and attracting research teams to participate in the Champions Cohort.\nPlanning with partners can take several months, depending on the needs of their community and how well they already know about the opportunities in the Openscapes Champions Program."
-  },
-  {
-    "objectID": "champions/cohort-planning.html#planning-document",
-    "href": "champions/cohort-planning.html#planning-document",
-    "title": "Cohort Planning",
-    "section": "Planning document",
-    "text": "Planning document\nWe make a copy of our Openscapes-CohortPlanningDoc to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.\nThe following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.\n\n\n\n\n\n\nExample GitHub Issue checklist\n\n\n\n\n\nThis issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set.\n\nThese TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa-afsc-assist ]\n\n## Quicklinks\n\n- [Planning Folder] - includes Planning Doc that also serves for Seaside Chats and Debriefs, also [LessonPlannning Spreadsheet]  \n- [Cohort Folder] - to share with Champions (a subfolder within planning folder)\n  - [ParticipantsList]\n\n\n## Prep Announcement\n\n- [ ] draft events page (https://openscapes.github.io/events)\n- [ ] create google form - Ady made and internal spreadsheet\n- [ ] post events page (with linked google form)\n\n## Tech Setup for Cohort \nFor Cohort Planning Team  (Stef, Julie, Ady)\n\n- [ ] invite co-leads/assists to Google Calendar Cohort Calls\n- [ ] GitHub:\n  - [ ] create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer\n  - [ ] Make it a website: Settings > Pages > Source: main, dir: root\n  - [ ] Add our Code of Conduct (kyber)\n  - [ ]  Write Cohort info on the README (kyber)\n  -  *Add Evaluation information upcoming*\n  - [ ] Add co-leads/assists to GitHub repo with maintainer permission\n  - [ ] create Cohort Planning Checklist Issues, tag planning team\n- [ ] Google Folder:\n  - [ ] create Google Folder for participants: `Openscapes_CohortCalls [ cohort_name ]` \n  - [ ] add co-leads/assists to Google Folder for participants\n\n## Adding Participants: Before Call 1\n(giving access at the right time)\n\n- [ ] Emails\n  - [ ] draft welcome email\n  - [ ] send welcome email\n  - [ ] send \"reminder\" email 1 day before, after adding participants to `Openscapes_CohortCalls [ cohort_name ]`\n- [ ] Google Calendar:\n  - [ ] add participants emails to Google Calendar Invites: Cohort Calls - Do this when you send Welcome Email\n  - [ ] add Google Folder link to the Google Calendar description: \n\n  > We'll meet with the above Google Meet link. \n  > [Openscapes_CohortCalls] is our Cohort Folder that will have Agendas prior to each call\n\n- [ ] Google Folder: \n  - [ ] add participants emails to `Openscapes_CohortCalls [ cohort_name ]` - Do this the day before Cohort Call 1\n  \n## Adding Participants: After Call 1\n  \n- [ ] Slack\n  - [ ] Add participant emails to Slack; create cohort channel - Do this after Cohort Call 1\n- [ ] Google Calendar\n  - [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1\n\n## Adding Participants: Before Call 2\n\n- [ ] GitHub:\n  - [ ] add participants to GitHub repo with `kyber` - Do this before GitHub Clinic \n  - [ ] create GitHub Clinic files with `kyber` - Do this before GitHub Clinic"
-  },
-  {
-    "objectID": "champions/cohort-planning.html#partners-planning-call",
-    "href": "champions/cohort-planning.html#partners-planning-call",
-    "title": "Cohort Planning",
-    "section": "Partners Planning Call",
-    "text": "Partners Planning Call\nThe Partner Planning Call kicks of the collaboration. In this meeting we share lessons learned from recent Cohorts, introduce cohort structure and teams, Pre-Cohort Engagement, and onboarding any assistants. Partners share more about the research community, and we discuss the planning timeline and propose dates for the Cohort."
-  },
-  {
-    "objectID": "champions/cohort-planning.html#schedule-cohort-dates",
-    "href": "champions/cohort-planning.html#schedule-cohort-dates",
-    "title": "Cohort Planning",
-    "section": "Schedule Cohort Dates",
-    "text": "Schedule Cohort Dates\nSchedule the Cohort dates early as possible!!\nWe have found this procedure to work best:\n\nWe schedule date-times for all Cohort Calls that work for anyone involved with leading the Cohort Calls. This includes asking/exploring for any big conflicts like conferences that this community attends.\nWe announce the opportunity ~2 months ahead with the scheduled date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official”. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in.\n\n\n\n\n\n\n\nExample: Scheduling date times\n\n\n\n\n\n\nThe [NAME] Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom five times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us:\n\n\nOption 1) Thursdays at 12-1:30 pm ET. Dates: September 16 & 30, October 14 & 28, November 11\n\n\nOption 2) Thursdays at 2-3:30 pm ET. Dates: September 16 & 30, October 14 & 28, November 11\n\n\nOption 3) Fridays at 12-1:30 pm ET. Dates: September 17, October 1, 15 & 29, November 12"
-  },
-  {
-    "objectID": "champions/cohort-planning.html#example-noaa-fisheries",
-    "href": "champions/cohort-planning.html#example-noaa-fisheries",
-    "title": "Cohort Planning",
-    "section": "Example: NOAA Fisheries",
-    "text": "Example: NOAA Fisheries\nOpenscapes has led 5 Champions Cohorts with NOAA Fisheries (NMFS, the National Marine Fisheries Service) since 2020. We’re planning 2-3 more Cohorts for 2022. Planning each Cohort has involved proposals to center supervisors, presentations to center leadership, coordination with center staff, and presentations to recruit participants and “ask me anything” sessions to answer questions, building from Openscapes’ pubs, slides, etc and operations overview.\nComing soon: link to the NMFS Openscapes README with planning resources reused/remixed across NMFS science centers.\n(We additionally have a 3-year proposal for NMFS-wide Openscapes 2023-2025 modeled after NASA Openscapes that we’re presenting to leadership)."
-  },
-  {
-    "objectID": "champions/design.html",
-    "href": "champions/design.html",
-    "title": "Program Design & Timeline",
-    "section": "",
-    "text": "The Champions Program is described at https://openscapes.org and is taught with the Champions Lesson Series, which are open educational resources.\n\n\n\n\n\nHere are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants:\n\nOpenscapes_ChampionsIntro2022\nNMFS_Openscapes_2022_04_18\nNWFSC_Openscapes_2022_02_14\nOpenscapes_Intro_AFSC_2021_12_02"
-  },
-  {
-    "objectID": "champions/design.html#high-level-timeline",
-    "href": "champions/design.html#high-level-timeline",
-    "title": "Program Design & Timeline",
-    "section": "High-level timeline",
-    "text": "High-level timeline\nWe work with our Partners to plan Champions Cohorts.\nThis includes coordinating within the partner community, scheduling dates, and preparing the engagement strategy to share the opportunity and attract research teams interested in better practices for their research.\n\nCohort Planning with partners: 2-5 months prior to Cohort start date.\nPre-Cohort Engagement with potential participants: ~2 months prior to Cohort start date.\nLeading Cohort Calls for participants: 2 months.\n\n\n\n\n\n\n\nExample detailed timeline\n\n\n\n\n\n\nApril-June\n\nsocialize within the partner organization, gain interest and visibility, secure funding\n\nJuly 8: Partners Planning Call\n\nIntroduce Cohort Structure\n\n4 Cohort Calls + GitHub Clinic\nTeams (research groups, projects, etc)\n~7 teams is ideal (5 max per team) (~35 max is ideal)\n\nReview lessons learned from recent Cohorts\n\nrecent blogs: NOAA NWFSC 2021, NOAA NEFSC 2020, CSS 2021\n\nPre-Cohort Engagement\n\nPlanning Doc - Openscapes drafts\n\nOnboarding assistants\nResearch community structure\n\nHow to form teams: https://www.openscapes.org/faq/\n\nPropose Cohort Dates\n\nJuly 8-30: Pre-Cohort Engagement\n\nFinalize Cohort Dates!\n\nJuly 30: Partners email their colleagues\n\nInclude details about the opportunity, link to nomination google form and webpage (Openscapes team posts these), and dates!\nTargeted at PIs/leads\nDistributed to Partners, if not enough interest open it up to other affiliates/partners\n\nJuly 30 - Aug 20 Nomination period via Google Form\n\nPIs sign up and nominate their lab/group (1 sign-up per lab/group)\nForm will briefly ask about their interest in the program, participation requirements, and confirm their availability for the Cohort dates\nForm provides recommendations on how to choose 3 lab members to join\n\nAugust 24: Contact selected participants\n\nConfirm participation \nSchedule 30 mins one-on-ones with each PI\n\nAugust 30: 30-min one-on-ones with each PI\n\nIntroduce Openscapes, build trust, learn more about PI needs, help them choose who in their lab to participate\nConfirm full cohort email list of everyone participating from each lab/group\n\nAugust 9: email full cohort (all PIs and group members)\n\nemail full cohort welcoming and expectations (and suggested pre-work reading/videos)\n\nSept 17-Oct 29: our awesome cohort\n\nOpen data science, leadership, community building.\nGitHub Clinic\nOpenscapes Social\n\nNovember\n\nPost final blogs, co-write with Partners\n\n\n\n\n\nHere is an example timeline that includes Pre-program engagement, Openscapes Champions Program, and Post-program follow-up, visualized by Anna Holder and Corey Clatterbuck for the California Waterboards Cohort."
-  },
-  {
     "objectID": "champions/lessons.html",
     "href": "champions/lessons.html",
     "title": "Lesson Planning",
@@ -201,6 +229,20 @@
     "title": "Lesson Planning",
     "section": "Agenda structure",
     "text": "Agenda structure\nCohort Calls are 1 hour 30 minutes. Each Call is different, but they have this core structure:\n\nRoll call with ice breaker\nWelcome with Code of Conduct reminder\nLesson with activity 1\nLesson with activity 2\nEfficiency tip\n\nActivities include prompted silent journaling or breakout groups followed by group discussion. Breakout groups are 3-4 people each; some are random, some group by team, and some group leads together and members together."
+  },
+  {
+    "objectID": "champions/about.html",
+    "href": "champions/about.html",
+    "title": "Openscapes Approach Guide",
+    "section": "",
+    "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill sets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
+  },
+  {
+    "objectID": "champions/index.html",
+    "href": "champions/index.html",
+    "title": "Champions Program",
+    "section": "",
+    "text": "The following can be built into a statement of work with our Partners.\n\n\nOpenscapes offers mentorship, training, coaching and community organizing centered around open data science to help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report. Our approach for doing better, more reproducible and inclusive team science in less time, is to first support scientists to create workflows that allow sharing with themselves (Future You) as well as with their teams and collaborators (Future Us). Future Us considers our teams, communities, and those who will be joining and continuing our work, whether that is next hours, weeks or decades (Lowndes & Robinson, 2021).\nOften we find that research teams are not sharing openly, internally among themselves. By considering and creating practices that support Future Us, the Openscapes approach helps research groups reimagine data analysis, develop modern data management and sharing skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches promote kinder science through technical tooling and diversity, equity, inclusion, and belonging, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a mentorship and professional development opportunity for scientific research teams to explore open data science, including data management and sharing practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend a Champions cohort series as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g., R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research and work, while contributing to a more inclusive scientific culture.\nThrough the Champions cohort series, a cohort of 6-8 teams will meet 5 times over 2 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nChampions Cohort Goals\nThe goals of the Champions cohort series is to help teams normalize open data science discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others on new (and existing) projects. We will:\n\nHelp participants adopt open science tooling and practices, including teamwork, reproducibility, openness, collaboration, inclusion, share methods sooner\nExplore practices that build trust and community within and across teams (across career stages)\nImprove ease and confidence in sharing imperfect work within their teams and cohort\nEmpower participants to become champions for more collaborative, open science within their teams and transform their own workflows.\nCreate leaders within a research community to champion open science best practices\n\n\n\n\nOpenscapes will provide the curriculum, agendas, and lead the remote cohort series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nGitHub Clinic, Team culture\nTechnical strategies for future us\nCoding communities, Research examples\nSharing Pathways forward\n\nAdditionally, we lead:\n\nCommunity engagement leading up to, throughout, and after the Cohort\nCo-working sessions to strengthen skills and teamwork\n\nOpenscapes will co-create recruiting materials (e.g., Champions Cohort listings at openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote lesson series along with helpers. We are beginning to evaluate the Champions program as well.\nNote: Participants attend as teams. Teams include team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are:\n\nEveryone sees the value in open project management and data sharing practices\nLeads enable their team members to invest time in learning skills and developing open and reproducible lab workflows\nTeam members have guidance, agency, and support to incorporate open science, data management and sharing concepts into their research\nEveryone contributes to growing the community of practice within the research group, institution, and online, in whatever capacity their role and circumstances allow.\n\nSee also the Champions Program FAQ."
   },
   {
     "objectID": "champions/pre-cohort-tech.html",
@@ -301,67 +343,123 @@
     "text": "14 GitHub Clinics\nGitHub Clinics should be part of the Cohort Calls. (In 2021 we experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.)\nWe recommend using our kyber R package created by Sean Kross. kyber automates adding participants’ GitHub usernames to the GitHub repo and creates their own file for them to play around in. You can also do this “by hand” at github.com and copy-paste files from other cohorts if you prefer (we did this for the first few Champions cohorts!).\n\n14.1 Prep clinic w/ kyber\nBefore the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following Cohort Call 1.\nTo prepare for the Clinic, we do the following (with kyber):\n\nAdd all usernames with member privileges to a GitHub Team titled like 2022-noaa-afsc-cohort\nGive the Team access to the Cohort repo\nCreate each person’s files\n\nYou do this from RStudio, within the Cohort repository (example 2022-noaa-afsc). Make sure you pull before starting in case there are any updates you don’t have locally.\nFrom RStudio, follow kyber Github Clinic instructions. You might need to install some of other R packages called by kyber for this.\n\n\n14.2 GitHub Clinic overview\nGitHub Clinics are part of Cohort Calls, but can additionally be lead as stand-alone 1 hour events. They require at least two team members.\nDuring the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort’s ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team.\nThe Facilitator leads the agenda, and Teacher talks through the slides and screenshares.\nTeam members can also circulate in the breakout rooms to check in, help, and share.\nPreparing for the GitHub Clinic involves:\n\nadding participant GitHub usernames to the Cohort’s repo\nreviewing the slides\n\n\n\n\n\n\n\nHistorical aside\n\n\n\n\n\nSome history: In 2021 we experimented having GitHub Clinics as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team’s Seaside Chats. In 2022 we’ll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5."
   },
   {
-    "objectID": "champions/about.html",
-    "href": "champions/about.html",
-    "title": "Openscapes Approach Guide",
+    "objectID": "champions/cohort-planning.html",
+    "href": "champions/cohort-planning.html",
+    "title": "Cohort Planning",
     "section": "",
-    "text": "Openscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skill sets and mindsets for modern data-intensive science. Learn these Champions’ stories through our blog, media, as well as steps for you to supercharge your research."
+    "text": "Since 2018 we have iterated on a strategy that works well for planning and coordinating with partners, and engaging and attracting research teams to participate in the Champions Cohort.\nPlanning with partners can take several months, depending on the needs of their community and how well they already know about the opportunities in the Openscapes Champions Program."
   },
   {
-    "objectID": "champions/index.html",
-    "href": "champions/index.html",
-    "title": "Champions Program",
+    "objectID": "champions/cohort-planning.html#planning-document",
+    "href": "champions/cohort-planning.html#planning-document",
+    "title": "Cohort Planning",
+    "section": "Planning document",
+    "text": "Planning document\nWe make a copy of our Openscapes-CohortPlanningDoc to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.\nThe following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.\n\n\n\n\n\n\nExample GitHub Issue checklist\n\n\n\n\n\nThis issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set.\n\nThese TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa-afsc-assist ]\n\n## Quicklinks\n\n- [Planning Folder] - includes Planning Doc that also serves for Seaside Chats and Debriefs, also [LessonPlannning Spreadsheet]  \n- [Cohort Folder] - to share with Champions (a subfolder within planning folder)\n  - [ParticipantsList]\n\n\n## Prep Announcement\n\n- [ ] draft events page (https://openscapes.github.io/events)\n- [ ] create google form - Ady made and internal spreadsheet\n- [ ] post events page (with linked google form)\n\n## Tech Setup for Cohort \nFor Cohort Planning Team  (Stef, Julie, Ady)\n\n- [ ] invite co-leads/assists to Google Calendar Cohort Calls\n- [ ] GitHub:\n  - [ ] create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer\n  - [ ] Make it a website: Settings > Pages > Source: main, dir: root\n  - [ ] Add our Code of Conduct (kyber)\n  - [ ]  Write Cohort info on the README (kyber)\n  -  *Add Evaluation information upcoming*\n  - [ ] Add co-leads/assists to GitHub repo with maintainer permission\n  - [ ] create Cohort Planning Checklist Issues, tag planning team\n- [ ] Google Folder:\n  - [ ] create Google Folder for participants: `Openscapes_CohortCalls [ cohort_name ]` \n  - [ ] add co-leads/assists to Google Folder for participants\n\n## Adding Participants: Before Call 1\n(giving access at the right time)\n\n- [ ] Emails\n  - [ ] draft welcome email\n  - [ ] send welcome email\n  - [ ] send \"reminder\" email 1 day before, after adding participants to `Openscapes_CohortCalls [ cohort_name ]`\n- [ ] Google Calendar:\n  - [ ] add participants emails to Google Calendar Invites: Cohort Calls - Do this when you send Welcome Email\n  - [ ] add Google Folder link to the Google Calendar description: \n\n  > We'll meet with the above Google Meet link. \n  > [Openscapes_CohortCalls] is our Cohort Folder that will have Agendas prior to each call\n\n- [ ] Google Folder: \n  - [ ] add participants emails to `Openscapes_CohortCalls [ cohort_name ]` - Do this the day before Cohort Call 1\n  \n## Adding Participants: After Call 1\n  \n- [ ] Slack\n  - [ ] Add participant emails to Slack; create cohort channel - Do this after Cohort Call 1\n- [ ] Google Calendar\n  - [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1\n\n## Adding Participants: Before Call 2\n\n- [ ] GitHub:\n  - [ ] add participants to GitHub repo with `kyber` - Do this before GitHub Clinic \n  - [ ] create GitHub Clinic files with `kyber` - Do this before GitHub Clinic"
+  },
+  {
+    "objectID": "champions/cohort-planning.html#partners-planning-call",
+    "href": "champions/cohort-planning.html#partners-planning-call",
+    "title": "Cohort Planning",
+    "section": "Partners Planning Call",
+    "text": "Partners Planning Call\nThe Partner Planning Call kicks of the collaboration. In this meeting we share lessons learned from recent Cohorts, introduce cohort structure and teams, Pre-Cohort Engagement, and onboarding any assistants. Partners share more about the research community, and we discuss the planning timeline and propose dates for the Cohort."
+  },
+  {
+    "objectID": "champions/cohort-planning.html#schedule-cohort-dates",
+    "href": "champions/cohort-planning.html#schedule-cohort-dates",
+    "title": "Cohort Planning",
+    "section": "Schedule Cohort Dates",
+    "text": "Schedule Cohort Dates\nSchedule the Cohort dates early as possible!!\nWe have found this procedure to work best:\n\nWe schedule date-times for all Cohort Calls that work for anyone involved with leading the Cohort Calls. This includes asking/exploring for any big conflicts like conferences that this community attends.\nWe announce the opportunity ~2 months ahead with the scheduled date-times and ask for team leads to nominate their teams. We’ve found setting the date-times in advance (no doodle) streamlines scheduling and it makes this event seem more “official”. Plus, having team leads commit to the times on behalf of their whole teams creates more buy-in.\n\n\n\n\n\n\n\nExample: Scheduling date times\n\n\n\n\n\n\nThe [NAME] Openscapes Champions Cohort will run from September - October 2021. We will meet as a Cohort via Zoom five times over two months for 1.5 hours, on alternating Thursdays or Fridays. We propose the following three options (we’ll send Google Calendar Invites when confirmed). Would these times work for us:\n\n\nOption 1) Thursdays at 12-1:30 pm ET. Dates: September 16 & 30, October 14 & 28, November 11\n\n\nOption 2) Thursdays at 2-3:30 pm ET. Dates: September 16 & 30, October 14 & 28, November 11\n\n\nOption 3) Fridays at 12-1:30 pm ET. Dates: September 17, October 1, 15 & 29, November 12"
+  },
+  {
+    "objectID": "champions/cohort-planning.html#example-noaa-fisheries",
+    "href": "champions/cohort-planning.html#example-noaa-fisheries",
+    "title": "Cohort Planning",
+    "section": "Example: NOAA Fisheries",
+    "text": "Example: NOAA Fisheries\nOpenscapes has led 5 Champions Cohorts with NOAA Fisheries (NMFS, the National Marine Fisheries Service) since 2020. We’re planning 2-3 more Cohorts for 2022. Planning each Cohort has involved proposals to center supervisors, presentations to center leadership, coordination with center staff, and presentations to recruit participants and “ask me anything” sessions to answer questions, building from Openscapes’ pubs, slides, etc and operations overview.\nComing soon: link to the NMFS Openscapes README with planning resources reused/remixed across NMFS science centers.\n(We additionally have a 3-year proposal for NMFS-wide Openscapes 2023-2025 modeled after NASA Openscapes that we’re presenting to leadership)."
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html",
+    "href": "champions/post-cohort-followup.html",
+    "title": "Post-Cohort followup",
     "section": "",
-    "text": "The following can be built into a statement of work with our Partners.\n\n\nOpenscapes offers mentorship, training, coaching and community organizing centered around open data science to help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report. Our approach for doing better, more reproducible and inclusive team science in less time, is to first support scientists to create workflows that allow sharing with themselves (Future You) as well as with their teams and collaborators (Future Us). Future Us considers our teams, communities, and those who will be joining and continuing our work, whether that is next hours, weeks or decades (Lowndes & Robinson, 2021).\nOften we find that research teams are not sharing openly, internally among themselves. By considering and creating practices that support Future Us, the Openscapes approach helps research groups reimagine data analysis, develop modern data management and sharing skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches promote kinder science through technical tooling and diversity, equity, inclusion, and belonging, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nOpenscapes Champions is a mentorship and professional development opportunity for scientific research teams to explore open data science, including data management and sharing practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend a Champions cohort series as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g., R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research and work, while contributing to a more inclusive scientific culture.\nThrough the Champions cohort series, a cohort of 6-8 teams will meet 5 times over 2 months for 1.5-hour video calls. These small-time requirements over longer time frames enable incremental change, accountability, and community building within the realities of scientists’ busy schedules and varying expertise and needs.\nChampions Cohort Goals\nThe goals of the Champions cohort series is to help teams normalize open data science discussions, identify shared needs and how to address them, and how to think ahead so they can more effectively onboard themselves and others on new (and existing) projects. We will:\n\nHelp participants adopt open science tooling and practices, including teamwork, reproducibility, openness, collaboration, inclusion, share methods sooner\nExplore practices that build trust and community within and across teams (across career stages)\nImprove ease and confidence in sharing imperfect work within their teams and cohort\nEmpower participants to become champions for more collaborative, open science within their teams and transform their own workflows.\nCreate leaders within a research community to champion open science best practices\n\n\n\n\nOpenscapes will provide the curriculum, agendas, and lead the remote cohort series. The curriculum will be based on the lesson series available at: https://openscapes.org/series.\n\nOpenscapes mindset, Better science in less time\nGitHub Clinic, Team culture\nTechnical strategies for future us\nCoding communities, Research examples\nSharing Pathways forward\n\nAdditionally, we lead:\n\nCommunity engagement leading up to, throughout, and after the Cohort\nCo-working sessions to strengthen skills and teamwork\n\nOpenscapes will co-create recruiting materials (e.g., Champions Cohort listings at openscapes.org/events), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote lesson series along with helpers. We are beginning to evaluate the Champions program as well.\nNote: Participants attend as teams. Teams include team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are:\n\nEveryone sees the value in open project management and data sharing practices\nLeads enable their team members to invest time in learning skills and developing open and reproducible lab workflows\nTeam members have guidance, agency, and support to incorporate open science, data management and sharing concepts into their research\nEveryone contributes to growing the community of practice within the research group, institution, and online, in whatever capacity their role and circumstances allow.\n\nSee also the Champions Program FAQ."
+    "text": "This issue is to help track the post-cohort setup, following the approach-guide and focused on the engagement and tech setup after dates are set.\nThese TODO’s are for @jules32 and also will include @erinmr\n\nPrep Survey - @jules32\nCall 5 Digest, with survey - @jules32\nBlog summary - @erinmr\nAdd songs to spotify - @jules32\nWrite cards & stickers - @erinmr starts"
   },
   {
-    "objectID": "champions/leading-cohort-calls.html",
-    "href": "champions/leading-cohort-calls.html",
-    "title": "Leading Cohort Calls",
+    "objectID": "champions/post-cohort-followup.html#thank-you-email-digest-5",
+    "href": "champions/post-cohort-followup.html#thank-you-email-digest-5",
+    "title": "Post-Cohort followup",
+    "section": "Thank you email (Digest 5)",
+    "text": "Thank you email (Digest 5)\nWe send a thank you email via GitHub Issues as a Call 5 Digest"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#survey",
+    "href": "champions/post-cohort-followup.html#survey",
+    "title": "Post-Cohort followup",
+    "section": "Survey",
+    "text": "Survey\nHere is the survey template we sent out to Champions following the cohort.\nIn some cases we’ve sent out a reminder email:\n\n\n\n\n\n\nExample reminder email\n\n\n\n\n\nHi All!\nWe wanted to thank you all again for being a part of our SASI Openscapes Cohort this fall and appreciate all you were able to give with everything else going on. Yesterday’s screenshare-and-tells and discussions were super and it’s exciting to see the momentum you have going forward. We’re excited to stay in touch (Slack, Twitter, etc) and will be sending out a last digest soon!\nWe’d appreciate your feedback in this [5-min survey] so we can improve based on feedback of what did and didn’t work. Additionally, please email/slack us a snail-mail address for your team so that we can send a thank you card and stickers!\nThanks again, and we hope you all have a safe and healthy break.\nCheers,\nJulie, Erin, Emma, and Lenny"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#honoraria-for-guest-teachers",
+    "href": "champions/post-cohort-followup.html#honoraria-for-guest-teachers",
+    "title": "Post-Cohort followup",
+    "section": "Honoraria for Guest Teachers",
+    "text": "Honoraria for Guest Teachers\n\n\n\n\n\n\nExample email text: Openscapes Honorarium\n\n\n\n\n\nHi [Name],\nThank you for presenting at the Openscapes Champions Cohort Series on [June 25, 2021].\nIn appreciation of your time spent preparing and presenting at our event, we are able to provide a $150 stipend. I’ve attached two forms here that UCSB needs in order to process this for you. Please send them back to me and let me know if you have further questions.\nThank you very much, Cheers, Julie"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#follow-up-with-partners",
+    "href": "champions/post-cohort-followup.html#follow-up-with-partners",
+    "title": "Post-Cohort followup",
+    "section": "Follow up with Partners",
+    "text": "Follow up with Partners\nSend thank you / report out email"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#blog",
+    "href": "champions/post-cohort-followup.html#blog",
+    "title": "Post-Cohort followup",
+    "section": "Blog",
+    "text": "Blog"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#thank-you-letters-stickers",
+    "href": "champions/post-cohort-followup.html#thank-you-letters-stickers",
+    "title": "Post-Cohort followup",
+    "section": "Thank you letters & stickers",
+    "text": "Thank you letters & stickers\nWe love snail mail. This is a chance to send a written thank you to teams and also share physical Openscapes stickers."
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#month-check-ins",
+    "href": "champions/post-cohort-followup.html#month-check-ins",
+    "title": "Post-Cohort followup",
+    "section": "3-Month Check-Ins",
+    "text": "3-Month Check-Ins\nModeled after SGCI\n\nvery limited structure on the call\nrevisit repo\nshare summaries from pathways\n\n\n\n\n\n\n\nExample Google Calendar text: CSS Openscapes 3-month check-in (optional)\n\n\n\n\n\nHello CS&S Champions! This is an optional 3-month check-in to reconnect and share updates since our Cohort. You can also always connect with the community more on Slack, and through upcoming community calls and other events: https://openscapes.org/events"
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#social-hours",
+    "href": "champions/post-cohort-followup.html#social-hours",
+    "title": "Post-Cohort followup",
+    "section": "Social Hours",
+    "text": "Social Hours\nLearn about our Summer monthly Social Hours in Seaside Chats."
+  },
+  {
+    "objectID": "champions/post-cohort-followup.html#qualitative-data-analysis",
+    "href": "champions/post-cohort-followup.html#qualitative-data-analysis",
+    "title": "Post-Cohort followup",
+    "section": "Qualitative Data Analysis",
+    "text": "Qualitative Data Analysis"
+  },
+  {
+    "objectID": "champions/design.html",
+    "href": "champions/design.html",
+    "title": "Program Design & Timeline",
     "section": "",
-    "text": "Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. We are open, kind, and help each other as we prepare and facilitate. This is how we lead each call, with additional steps for the first call."
+    "text": "The Champions Program is described at https://openscapes.org and is taught with the Champions Lesson Series, which are open educational resources.\n\n\n\n\n\nHere are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants:\n\nOpenscapes_ChampionsIntro2022\nNMFS_Openscapes_2022_04_18\nNWFSC_Openscapes_2022_02_14\nOpenscapes_Intro_AFSC_2021_12_02"
   },
   {
-    "objectID": "champions/leading-cohort-calls.html#roles",
-    "href": "champions/leading-cohort-calls.html#roles",
-    "title": "Leading Cohort Calls",
-    "section": "Roles",
-    "text": "Roles\nThere are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.\n\nTech Host: Zoom co-host, create breakout groups, monitor chat & Slack, help note-taking\nFacilitator: Zoom co-host, leads discussion as noted in the Agenda\nTeacher: Talks through demos and slides\n\nNote-taking should focus on capturing questions and conversations and less about slides. Copying questions from the Chat into the Agenda is also really helpful.\n\nExample Roles: NOAA NMFS"
-  },
-  {
-    "objectID": "champions/leading-cohort-calls.html#before-cohort-calls",
-    "href": "champions/leading-cohort-calls.html#before-cohort-calls",
-    "title": "Leading Cohort Calls",
-    "section": "Before Cohort Calls",
-    "text": "Before Cohort Calls\n\nPrepare the Agenda; see Pre-cohort tech setup: Cohort Call Agendas\nReview Roles, with particular focus on facilitator and tech host roles"
-  },
-  {
-    "objectID": "champions/leading-cohort-calls.html#during-cohort-calls",
-    "href": "champions/leading-cohort-calls.html#during-cohort-calls",
-    "title": "Leading Cohort Calls",
-    "section": "During Cohort Calls",
-    "text": "During Cohort Calls\nSoftware to have open:\n\nZoom\nSlack for back-channeling if needed, likely not\nAgenda\nQuicklinks Issue, Participants List (example: NOAA NMFS)\nWelcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)\nMonitor the chat\nHelp with note-taking. Both to capture what folks are saying and to role-model. Help others engage.\n\n\n\n\n\n\n\nExample chat welcome text\n\n\n\n\n\nWelcome! Please write your name in Roll Call as you join: [ doc ]\nIf you need access to the doc please put your email in chat\nAnd please rename yourself with how you’d like to be called and your team name (hover over your name or video > 3 dots > Rename)\n\n\n\n\nMaking breakout rooms\nBreakout rooms are generally random or as teams.\n\nRandom: set up breakout rooms just before we go into them; for example if you set them up during roll call and more folks join before the reflections, you won’t be able to create new rooms for them\nTeams: this takes more time and you’ll need the participant list in front of you\n\n\n\nGuest teachers’ presentations\nScreenshare! This way we can edit out the recording if groups would like to share these presentations publicly, for example with NOAA NMFS’ Em Markowitz’ Data to Product Workflows."
-  },
-  {
-    "objectID": "champions/leading-cohort-calls.html#between-cohort-calls",
-    "href": "champions/leading-cohort-calls.html#between-cohort-calls",
-    "title": "Leading Cohort Calls",
-    "section": "Between Cohort Calls",
-    "text": "Between Cohort Calls\nBetween Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).\n\nField Notes\nWe ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal “field notes” that will help us improve between Cohort Calls and across Cohorts.\nPrompts to answer include:\n\nTop-of-mind\nBrief summary of how it went\nRose / Bud / Thorn - something that was good, developing, or tricky\n\nWrite field notes in the Planning Docs, at the bottom\n\n\nDigests\nWe send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.\nDigests include links to the Call’s agenda, the Call’s goals, slides, and some excerpts from the shared notes. Call 1 is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughtout the cohort.\nWe develop these in a single “DigestsDrafts” Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.\nSee examples:\n\n2022-nasa-champions\n2022-noaa-afsc\n2021-fdd\n2021-noaa-nmfs\n\n\n\nCo-working\nWe started co-working with Cohorts in fall 2021. It’s a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it’s nice to offer as a practice to the Champions too. Champions have said it’s a really nice practice to take back to their research groups and it’s also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.\nWe set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working (Butland & Penfold 2020). Here is an example agenda.\n\n\n\n\n\n\nExample Co-working agenda\n\n\n\n\n\nWe share what we’re going to work on, and then work quietly and then check in at the end as well. We also make breakout rooms for Q&A if folks want to screenshare and talk things out.\n\nBrief intros to share what we’re planning to work on\nCreate breakout rooms based on topics, and you can move yourself. Today:\n\nProjectBoards\nChattierRoom - Eli there for Q&A. Pop in and out.\n\nBrief closing to share what you did & any resources!\n\n\n\n\n\n\nSeaside Chats\nChampions teams will hold Seaside Chats, and we share suggested topics each Cohort Call."
-  },
-  {
-    "objectID": "champions/leading-cohort-calls.html#first-cohort-call",
-    "href": "champions/leading-cohort-calls.html#first-cohort-call",
-    "title": "Leading Cohort Calls",
-    "section": "First Cohort Call",
-    "text": "First Cohort Call\nThe first Cohort Call has additional setup and followup, since we introduce and follow up on things that we discuss together (i.e. Slack)\n\nBeforehand\nSet up Slack Channel with all assistants\n\n\n\n\n\n\nExample slack text: team coordination\n\n\n\n\n\nHi All, Excited for today! We’ll share the [ Agenda ] in chat, and expect that some folks will still need to request access. We’ll ask them to share their emails in chat so that we can add them quickly - to the folder if possible. If you add access for someone, would you also add their email to [ OpenscapesParticipants ] and I’ll revisit afterwards. Thanks!\n\n\n\n\n\nAfterwards\nSlack invites\n\nCreate a private Slack channel for the Cohort, invite everyone to the Org and private channel\nWrite a welcome message in the general or welcome channel\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nHi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details."
-  },
-  {
-    "objectID": "approach/tooling.html",
-    "href": "approach/tooling.html",
-    "title": "Tooling",
-    "section": "",
-    "text": "We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.\nBelow are the tools that we use, why we use them, and set up instructions. (Herre are some Macbook setup notes).\n\nGoogle Drive\n\nDocs\nSheets\n\n\n\nGitHub\n\nversion control for everything that’s not Google Drive\ncoordination with Issues\npublishing all our R-based web communications (see next)\ncomms through website\n\n\n\nR/RStudio\n\nall websites and books\ndata analysis (R: tidyverse, RMarkdown)\ncommunications and technical writing (RMarkdown, bookdown, blogdown, Quarto)\nRStudio and GitHub setup instructions\n\n\n\nGoogle Calendar\n\n\nSlack\n\nhttps://slack.com/downloads\n\n\n\nZoom\n\nhttps://zoom.com/downloads\n\n\n\nZotero\n\nhttps://www.zotero.org/\nLogin from browser\nDownload desktop app and Zotero Connector to Firefox\n\nIn our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.\n\n\nORCID/Rescognito\nupcoming"
+    "objectID": "champions/design.html#high-level-timeline",
+    "href": "champions/design.html#high-level-timeline",
+    "title": "Program Design & Timeline",
+    "section": "High-level timeline",
+    "text": "High-level timeline\nWe work with our Partners to plan Champions Cohorts.\nThis includes coordinating within the partner community, scheduling dates, and preparing the engagement strategy to share the opportunity and attract research teams interested in better practices for their research.\n\nCohort Planning with partners: 2-5 months prior to Cohort start date.\nPre-Cohort Engagement with potential participants: ~2 months prior to Cohort start date.\nLeading Cohort Calls for participants: 2 months.\n\n\n\n\n\n\n\nExample detailed timeline\n\n\n\n\n\n\nApril-June\n\nsocialize within the partner organization, gain interest and visibility, secure funding\n\nJuly 8: Partners Planning Call\n\nIntroduce Cohort Structure\n\n4 Cohort Calls + GitHub Clinic\nTeams (research groups, projects, etc)\n~7 teams is ideal (5 max per team) (~35 max is ideal)\n\nReview lessons learned from recent Cohorts\n\nrecent blogs: NOAA NWFSC 2021, NOAA NEFSC 2020, CSS 2021\n\nPre-Cohort Engagement\n\nPlanning Doc - Openscapes drafts\n\nOnboarding assistants\nResearch community structure\n\nHow to form teams: https://www.openscapes.org/faq/\n\nPropose Cohort Dates\n\nJuly 8-30: Pre-Cohort Engagement\n\nFinalize Cohort Dates!\n\nJuly 30: Partners email their colleagues\n\nInclude details about the opportunity, link to nomination google form and webpage (Openscapes team posts these), and dates!\nTargeted at PIs/leads\nDistributed to Partners, if not enough interest open it up to other affiliates/partners\n\nJuly 30 - Aug 20 Nomination period via Google Form\n\nPIs sign up and nominate their lab/group (1 sign-up per lab/group)\nForm will briefly ask about their interest in the program, participation requirements, and confirm their availability for the Cohort dates\nForm provides recommendations on how to choose 3 lab members to join\n\nAugust 24: Contact selected participants\n\nConfirm participation \nSchedule 30 mins one-on-ones with each PI\n\nAugust 30: 30-min one-on-ones with each PI\n\nIntroduce Openscapes, build trust, learn more about PI needs, help them choose who in their lab to participate\nConfirm full cohort email list of everyone participating from each lab/group\n\nAugust 9: email full cohort (all PIs and group members)\n\nemail full cohort welcoming and expectations (and suggested pre-work reading/videos)\n\nSept 17-Oct 29: our awesome cohort\n\nOpen data science, leadership, community building.\nGitHub Clinic\nOpenscapes Social\n\nNovember\n\nPost final blogs, co-write with Partners\n\n\n\n\n\nHere is an example timeline that includes Pre-program engagement, Openscapes Champions Program, and Post-program follow-up, visualized by Anna Holder and Corey Clatterbuck for the California Waterboards Cohort."
   },
   {
     "objectID": "approach/partners.html",
@@ -390,69 +488,6 @@
     "title": "Partners",
     "section": "Our partners",
     "text": "Our partners\nPlease see openscapes.org/partners."
-  },
-  {
-    "objectID": "approach/seaside-chats.html",
-    "href": "approach/seaside-chats.html",
-    "title": "Seaside Chats, etc.",
-    "section": "",
-    "text": "We work together with varied technology and facilitations to provide structure. Here are the main ways we work together."
-  },
-  {
-    "objectID": "approach/seaside-chats.html#seaside-chats",
-    "href": "approach/seaside-chats.html#seaside-chats",
-    "title": "Seaside Chats, etc.",
-    "section": "Seaside Chats",
-    "text": "Seaside Chats\nWe build shared skillsets in part through Seaside Chats. These are regular meetings where we skillshare and learn together. This will likely be the avenue for onboarding. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together. These often have an agenda in advance."
-  },
-  {
-    "objectID": "approach/seaside-chats.html#co-working",
-    "href": "approach/seaside-chats.html#co-working",
-    "title": "Seaside Chats, etc.",
-    "section": "Co-working",
-    "text": "Co-working\nWe also have co-working sessions where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. These most often have no agenda."
-  },
-  {
-    "objectID": "approach/seaside-chats.html#hackathons",
-    "href": "approach/seaside-chats.html#hackathons",
-    "title": "Seaside Chats, etc.",
-    "section": "Hackathons",
-    "text": "Hackathons\nWe have hackathons to tackle specific tasks together. We use this word to mean working on something together in real time that benefits the project or team. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a 2-person hackathon! We made the github repo, quarto site architecture (section folders, chapter pages, and markdown headers) to outline the guide and built and iterated as we went."
-  },
-  {
-    "objectID": "approach/seaside-chats.html#community-calls",
-    "href": "approach/seaside-chats.html#community-calls",
-    "title": "Seaside Chats, etc.",
-    "section": "Community Calls",
-    "text": "Community Calls\nWe host ~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming events that Openscapes has either hosted or joined.\nCommunity Calls are an hour long and generally follow this structure:\n\nbegin 5 mins prior: rotating welcome slides and pump-up music selected by the guest\n5 mins: welcome, code of conduct, plan for the call, introduce guest\n25 mins: prepared conversation with guest\n10 mins: moderated questions/discussion from the chat\n10 mins: open discussion\nfinish 5 mins before a full hour"
-  },
-  {
-    "objectID": "approach/seaside-chats.html#cohort-calls",
-    "href": "approach/seaside-chats.html#cohort-calls",
-    "title": "Seaside Chats, etc.",
-    "section": "Cohort Calls",
-    "text": "Cohort Calls\nCohort Calls are the core of the Champions Program and the NASA Openscapes Framework. They are described more in the Champions Lesson Series. They are a big part of how we work as we work with research and mentors groups.\nOne note: we avoid having folks “shadow”on Cohort Calls, since we are building trust and so avoid have folks “drop in”. Instead, we can plan in advance to have them assist and introduce themselves if they are joining a Cohort Calls and learning by doing."
-  },
-  {
-    "objectID": "approach/seaside-chats.html#social-hours",
-    "href": "approach/seaside-chats.html#social-hours",
-    "title": "Seaside Chats, etc.",
-    "section": "Social Hours",
-    "text": "Social Hours\nWe host monthly virtual social hours May through August for people to (re)connect informally with other Champions, Mentors, or the Openscapes team (anyone in our Slack). Folks might share their wins, challenges, tips, and generally find commonalities. As we experiment, these may include ice breakers or breakout rooms (example).\nTo keep these truly low-barrier, no RVSP or preparation are required. The day and time may vary each month.\n\n\n\n\n\n\nExample Slack text to announce next Social Hour\n\n\n\n\n\n@channel Y’all are invited to our first Openscapes Social Hour!\nTime: Monday, May 16th, 1:00 - 1:50pm PT (UTC -7)\nWhere: Zoom link\nNo RSVP or preparation needed 😅 Bring snacks / mocktails / cocktails!\nWe wanted to create a way for people to (re)connect informally with other Champions, Mentors, the Openscapes team, anyone in this Slack. I know many of you are keen to hear what others have been up to so come hang out! I’ll facilitate so I promise it won’t be awkward 😉 (This msg is pinned to this channel so you can find the details any time)"
-  },
-  {
-    "objectID": "approach/seaside-chats.html#stickers",
-    "href": "approach/seaside-chats.html#stickers",
-    "title": "Seaside Chats, etc.",
-    "section": "Stickers",
-    "text": "Stickers\nWe have physical stickers we share with our community. These hex stickers are something from the R (#rstats) community that we put on laptops, waterbottles, etc.\nSo far we’ve ordered them from Sticker Mule, using dimensions following RStudio:\n\nDie cut stickers\nSize: 1.74” x 2”"
-  },
-  {
-    "objectID": "approach/seaside-chats.html#resources",
-    "href": "approach/seaside-chats.html#resources",
-    "title": "Seaside Chats, etc.",
-    "section": "Resources",
-    "text": "Resources\n\nGalaxyKate’s 4-Channel participation model - supporting remote learners"
   },
   {
     "objectID": "approach/index.html",
@@ -518,13 +553,6 @@
     "text": "We practice what we teach\nWe use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can’t imagine science or our regular workflows without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning."
   },
   {
-    "objectID": "approach/qual-assessment.html",
-    "href": "approach/qual-assessment.html",
-    "title": "Openscapes Approach Guide",
-    "section": "",
-    "text": "Field notes - Quick reflections after each cohort for each mentors - then we code this private reflections doc in addition to our"
-  },
-  {
     "objectID": "approach/onboarding.html",
     "href": "approach/onboarding.html",
     "title": "Onboarding",
@@ -567,6 +595,76 @@
     "text": "Our annual calendar shows that we lead Champions Cohorts in two periods per year, including an open call in the spring. This gives us time to annually review lessons and programming and take some time off in the summer."
   },
   {
+    "objectID": "approach/seaside-chats.html",
+    "href": "approach/seaside-chats.html",
+    "title": "Seaside Chats, etc.",
+    "section": "",
+    "text": "We work together with varied technology and facilitations to provide structure. Here are the main ways we work together."
+  },
+  {
+    "objectID": "approach/seaside-chats.html#seaside-chats",
+    "href": "approach/seaside-chats.html#seaside-chats",
+    "title": "Seaside Chats, etc.",
+    "section": "Seaside Chats",
+    "text": "Seaside Chats\nWe build shared skillsets in part through Seaside Chats. These are regular meetings where we skillshare and learn together. This will likely be the avenue for onboarding. That will be a place where you can get familiar with any of the tooling and practices that we use. And, you can teach the rest of the team what you know so that we can all work better together. These often have an agenda in advance."
+  },
+  {
+    "objectID": "approach/seaside-chats.html#co-working",
+    "href": "approach/seaside-chats.html#co-working",
+    "title": "Seaside Chats, etc.",
+    "section": "Co-working",
+    "text": "Co-working\nWe also have co-working sessions where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. These most often have no agenda."
+  },
+  {
+    "objectID": "approach/seaside-chats.html#hackathons",
+    "href": "approach/seaside-chats.html#hackathons",
+    "title": "Seaside Chats, etc.",
+    "section": "Hackathons",
+    "text": "Hackathons\nWe have hackathons to tackle specific tasks together. We use this word to mean working on something together in real time that benefits the project or team. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a 2-person hackathon! We made the github repo, quarto site architecture (section folders, chapter pages, and markdown headers) to outline the guide and built and iterated as we went."
+  },
+  {
+    "objectID": "approach/seaside-chats.html#community-calls",
+    "href": "approach/seaside-chats.html#community-calls",
+    "title": "Seaside Chats, etc.",
+    "section": "Community Calls",
+    "text": "Community Calls\nWe host ~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming events that Openscapes has either hosted or joined.\nCommunity Calls are an hour long and generally follow this structure:\n\nbegin 5 mins prior: rotating welcome slides and pump-up music selected by the guest\n5 mins: welcome, code of conduct, plan for the call, introduce guest\n25 mins: prepared conversation with guest\n10 mins: moderated questions/discussion from the chat\n10 mins: open discussion\nfinish 5 mins before a full hour"
+  },
+  {
+    "objectID": "approach/seaside-chats.html#cohort-calls",
+    "href": "approach/seaside-chats.html#cohort-calls",
+    "title": "Seaside Chats, etc.",
+    "section": "Cohort Calls",
+    "text": "Cohort Calls\nCohort Calls are the core of the Champions Program and the NASA Openscapes Framework. They are described more in the Champions Lesson Series. They are a big part of how we work as we work with research and mentors groups.\nOne note: we avoid having folks “shadow”on Cohort Calls, since we are building trust and so avoid have folks “drop in”. Instead, we can plan in advance to have them assist and introduce themselves if they are joining a Cohort Calls and learning by doing."
+  },
+  {
+    "objectID": "approach/seaside-chats.html#social-hours",
+    "href": "approach/seaside-chats.html#social-hours",
+    "title": "Seaside Chats, etc.",
+    "section": "Social Hours",
+    "text": "Social Hours\nWe host monthly virtual social hours May through August for people to (re)connect informally with other Champions, Mentors, or the Openscapes team (anyone in our Slack). Folks might share their wins, challenges, tips, and generally find commonalities. As we experiment, these may include ice breakers or breakout rooms (example).\nTo keep these truly low-barrier, no RVSP or preparation are required. The day and time may vary each month.\n\n\n\n\n\n\nExample Slack text to announce next Social Hour\n\n\n\n\n\n@channel Y’all are invited to our first Openscapes Social Hour!\nTime: Monday, May 16th, 1:00 - 1:50pm PT (UTC -7)\nWhere: Zoom link\nNo RSVP or preparation needed 😅 Bring snacks / mocktails / cocktails!\nWe wanted to create a way for people to (re)connect informally with other Champions, Mentors, the Openscapes team, anyone in this Slack. I know many of you are keen to hear what others have been up to so come hang out! I’ll facilitate so I promise it won’t be awkward 😉 (This msg is pinned to this channel so you can find the details any time)"
+  },
+  {
+    "objectID": "approach/seaside-chats.html#stickers",
+    "href": "approach/seaside-chats.html#stickers",
+    "title": "Seaside Chats, etc.",
+    "section": "Stickers",
+    "text": "Stickers\nWe have physical stickers we share with our community. These hex stickers are something from the R (#rstats) community that we put on laptops, waterbottles, etc.\nSo far we’ve ordered them from Sticker Mule, using dimensions following RStudio:\n\nDie cut stickers\nSize: 1.74” x 2”"
+  },
+  {
+    "objectID": "approach/seaside-chats.html#resources",
+    "href": "approach/seaside-chats.html#resources",
+    "title": "Seaside Chats, etc.",
+    "section": "Resources",
+    "text": "Resources\n\nGalaxyKate’s 4-Channel participation model - supporting remote learners"
+  },
+  {
+    "objectID": "approach/qual-assessment.html",
+    "href": "approach/qual-assessment.html",
+    "title": "Openscapes Approach Guide",
+    "section": "",
+    "text": "Field notes - Quick reflections after each cohort for each mentors - then we code this private reflections doc in addition to our"
+  },
+  {
     "objectID": "approach/code-of-conduct.html",
     "href": "approach/code-of-conduct.html",
     "title": "Code of Conduct",
@@ -574,108 +672,10 @@
     "text": "Our community is the most valuable thing about Openscapes.\nSupporting a safe, inclusive, welcoming, and harassment-free experience for everyone in our community is paramount, as is strengthening connections with other communities that have influenced our work. Our Code of Conduct is heavily drawn from rOpenSci and Mozilla, who we greatly appreciate for their leadership in this area.\nOpenscapes is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone.\nDiversity is our strength, we try to cultivate a tone where everyone in the community, no matter their backgrounds and accomplishments, comes with a mind open to learning from, with, and for each other. In this mindset, questions are always welcome and appropriate because they don’t expose the lack of knowledge of the asker. Rather, questions expose opportunities for clarification for the original communicator, and for further opening up the conversation to include different perspectives and learning styles.\nIn our community we encourage listening and empathy in all of our interactions. This means:\nBe Respectful\nValue each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.\nBe Direct but Professional\nWe are likely to have some discussions about if and when criticism is respectful and when it’s not. We must be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don’t seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.\nBe Inclusive\nSeek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.\nBe inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:\n\nRemote (on video or phone)\nNot native language speakers\nComing from a different culture, perspective, or background\nUsing pronouns other than “he” or “she”\nLiving in a different time zone\nFacing other challenges to participate\n\nIf you find yourself dominating a discussion, it is especially important to step back, encourage other voices to join in, and listen actively to them.\nUnderstand Different Perspectives\nOur goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger.\nAppreciate and Accommodate Our Similarities and Differences\nWe come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ perspectives, contributions, and needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect everyone to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions.\nLead by Example\nBy matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for our community.\n\n\nSummary\nBe respectful, honest, inclusive, accommodating, appreciative, and open to learning from everyone else.\nDo not attack, demean, disrupt, harass, or threaten others or encourage such behavior.\nThis Code of Conduct applies to all people participating in the Openscapes community, including Openscapes staff and leadership. It applies to all modes of interaction online including GitHub project repositories, remote calls, and in person at Openscapes -hosted events.\n\n\nReporting Guidelines\nIf you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organiser Julia Lowndes at openscapes @ nceas.ucsb.edu or independent community member Allison Horst at ahorst @ ucsb.edu with a description of what has occurred and any supporting information that would be helpful. After receiving a concise description of your situation, Julia or Allison will review the report and determine next steps. We will respect confidentiality requests for the purpose of protecting victims of abuse.\n\nThe Openscapes Code of Conduct is heavily drawn from rOpenSci and Mozilla, who we greatly appreciate for their leadership in this area (see Mozilla’s inclusion repo. Additional resources influencing this document include RStudio, Open Post Academics, and the groups described in open software means kinder science. Please also see the value and ethics statements from Ben Marwick’s lab as well as other inspiring examples from EpiEllie’s twitter thread and the coop at Fred Hutch."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Openscapes Approach Guide",
+    "objectID": "approach/tooling.html",
+    "href": "approach/tooling.html",
+    "title": "Tooling",
     "section": "",
-    "text": "Adapted from The Turing Way\nOpenscapes makes all of their materials publicly available under open source licenses.\nThe process documents and data are made available under a CC-BY license. Software are made available under an MIT license.\nThe license text listed below (describing both CC-BY and MIT licenses as well as their usage in Openscapes) is re-used under a CC-BY license from The Carpentries community materials. (Specifically from the Reproducible Science Curriculum).\n\n\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.\n\n\n\n\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "contributing/inspiration.html",
-    "href": "contributing/inspiration.html",
-    "title": "Inspiration",
-    "section": "",
-    "text": "Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.\nThis Approach Guide document is inspired from:\nMany things inspire us and influence our work for kinder science\nThe Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s Open Science by Design report."
-  },
-  {
-    "objectID": "contributing/inspiration.html#resources",
-    "href": "contributing/inspiration.html#resources",
-    "title": "Inspiration",
-    "section": "Resources",
-    "text": "Resources\nOur Resources page has some resources meant to welcome environmental scientists who are newly onboarding to open data science.\nOur Openscapes GitHub Organization has pinned repositories of interest, including the teaching-learning-resources repo where we use Issues to jot down specific tools or learning resources for open, reproducible, inclusive science.\nWe also have a public Openscapes Zotero library linking publications, talks, and curricula. And, a public Openscapes Spotify Playlist of favorite pump-up songs from our cohorts."
-  },
-  {
-    "objectID": "contributing/inspiration.html#pieces-that-resonate",
-    "href": "contributing/inspiration.html#pieces-that-resonate",
-    "title": "Inspiration",
-    "section": "Pieces that resonate",
-    "text": "Pieces that resonate\n\nTime to Say Goodbye to Our Heroes? - Lindy Elkins-Tanton"
-  },
-  {
-    "objectID": "contributing/workflow.html",
-    "href": "contributing/workflow.html",
-    "title": "Workflow",
-    "section": "",
-    "text": "Here we will be using the RStudio IDE rather than the command line; please also see https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/workflow.html as we develop this further."
-  },
-  {
-    "objectID": "contributing/workflow.html#overview",
-    "href": "contributing/workflow.html#overview",
-    "title": "Workflow",
-    "section": "Overview",
-    "text": "Overview\n\nWe’ll use GitHub branches, consider them temporary and unlimited\nWe’ll interact with Quarto through RStudio"
-  },
-  {
-    "objectID": "contributing/workflow.html#create-a-branch-on-github.com",
-    "href": "contributing/workflow.html#create-a-branch-on-github.com",
-    "title": "Workflow",
-    "section": "Create a branch on GitHub.com",
-    "text": "Create a branch on GitHub.com\n\nGo to https://github.com/Openscapes/approach-guide click the main branch and type your-branch name for your branch\nClone/pull https://github.com/Openscapes/approach-guide locally to RStudio\nClick in the top-right on main and switch to your-branch; this will add it to the “local branches” section."
-  },
-  {
-    "objectID": "contributing/index.html",
-    "href": "contributing/index.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "This is how we collaborate to create this guide.\nWe build the book with Quarto and collaborate and publish through GitHub. We develop content in the RStudio IDE, which is also how we interface with Git/Hub."
-  },
-  {
-    "objectID": "contributing/index.html#quarto",
-    "href": "contributing/index.html#quarto",
-    "title": "Contributing",
-    "section": "Quarto",
-    "text": "Quarto\nWe’re developing the Openscapes Approach Guide with Quarto: quarto.org. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered using Jupyter and Knitr engines.\nWhat is Quarto? Quarto builds from what RStudio learned from RMarkdown but enables different engines (Jupyter and knitr). It is both a Command Line Tool and R package. .qmd is a new filetype like .Rmd — meaning it’s a text file but coupled with an engine can execute code and be rendered as html, pdf, word, and beyond — but for other languages like Python. Quarto can convert .ipynb files to and from .md and .qmd easily so you can develop and publish with collaborators that have different workflows. Once the book is “served” locally, .md files auto-update as you edit, and files with executable code can be rendered individually, and the behavior of different code chunks can be controlled and cached.\n(Note: with Quarto, e-books and websites are very similarly structured, with e-books being set up for numbered chapters and references and websites set up for higher number of pages and organization. We can talk about our book as a book even as we explore whether book/website better suits our needs. This is assigned in _quarto.yml, as we’ll explore later)."
-  },
-  {
-    "objectID": "contributing/setup.html",
-    "href": "contributing/setup.html",
-    "title": "Setup",
-    "section": "",
-    "text": "To contribute, please do the following (20 minutes). All software is open source and free."
-  },
-  {
-    "objectID": "contributing/setup.html#install-r-and-rstudio",
-    "href": "contributing/setup.html#install-r-and-rstudio",
-    "title": "Setup",
-    "section": "Install R and RStudio!",
-    "text": "Install R and RStudio!\nTo download and install R and RStudio:\n\nR: https://cloud.r-project.org/\nRStudio: http://www.rstudio.com/download\n\n\nInstall Quarto\nTo download and Install Quarto:\n\nQuarto: https://quarto.org/docs/getting-started/installation.html\n\nThis will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.\n\n\nCreate a GitHub account\n\nGitHub: https://github.com\nFollow optional advice on choosing your username\nRemember your username, email and password!\n\n\n\nDownload and install Git\n\nGit: https://git-scm.com/downloads\nFollow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Openscapes Approach Guide",
-    "section": "Welcome",
-    "text": "Welcome\nWelcome to the Openscapes Approach Guide! This is an open and iterating guide to document our process and onboard folks to the Openscapes approach."
-  },
-  {
-    "objectID": "index.html#about-openscapes",
-    "href": "index.html#about-openscapes",
-    "title": "Openscapes Approach Guide",
-    "section": "About Openscapes",
-    "text": "About Openscapes\nOpenscapes is an approach for doing better science in less time. We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science."
-  },
-  {
-    "objectID": "index.html#about-this-guide",
-    "href": "index.html#about-this-guide",
-    "title": "Openscapes Approach Guide",
-    "section": "About This Guide",
-    "text": "About This Guide\nWe’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and “fork” it to make it your own (particularly as it’s a bit more developed!).\nWe complete a full revolution of our Flywheel each time we lead the Champions Program.\n\n\n\nOpenscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus with developing mentors and delivering the Champions Program.\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines. We are gradually converting to build all our materials with Quarto."
-  },
-  {
-    "objectID": "index.html#citation",
-    "href": "index.html#citation",
-    "title": "Openscapes Approach Guide",
-    "section": "Citation",
-    "text": "Citation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.\n\n\n\nOpenscapes artwork by Allison Horst"
+    "text": "We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.\nBelow are the tools that we use, why we use them, and set up instructions. (Herre are some Macbook setup notes).\n\nGoogle Drive\n\nDocs\nSheets\n\n\n\nGitHub\n\nversion control for everything that’s not Google Drive\ncoordination with Issues\npublishing all our R-based web communications (see next)\ncomms through website\n\n\n\nR/RStudio\n\nall websites and books\ndata analysis (R: tidyverse, RMarkdown)\ncommunications and technical writing (RMarkdown, bookdown, blogdown, Quarto)\nRStudio and GitHub setup instructions\n\n\n\nGoogle Calendar\n\n\nSlack\n\nhttps://slack.com/downloads\n\n\n\nZoom\n\nhttps://zoom.com/downloads\n\n\n\nZotero\n\nhttps://www.zotero.org/\nLogin from browser\nDownload desktop app and Zotero Connector to Firefox\n\nIn our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.\n\n\nORCID/Rescognito\nupcoming"
   }
 ]
