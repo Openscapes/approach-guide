@@ -41,6 +41,7 @@ website:
           - approach/tooling.md
           - approach/partners.md
           - approach/calendar.md
+          - approach/qual-assessment.qmd
       - section: champions/index.qmd
         contents:
           - champions/design.md
