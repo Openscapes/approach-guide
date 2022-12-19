@@ -1,8 +1,117 @@
+---
+title: "Qualitative Assessment"
+---
 
-- Download agendas as .odt to import into Taguette
-Field notes
+Contributed by Beth M. Duckles, PhD. for Openscapes, September 2022.
+
+## About Qualitative Research
+
+### What is Qualitative Data Analysis (QDA)?
+
+Qualitative Data Analysis (QDA) or qualitative coding is a method of analyzing textual data. Textual data can be drawn from interview or focus group transcripts, observational notes, newspapers, blog posts, social media posts, books, texts and really anything related to the topic. These methods are commonly used in social science fields such as sociology, anthropology, political science, business, education, user experience design and more.
+
+While methods of doing qualitative analysis can vary depending on field and methodological background, the common denominator is that this form of research does what is called "qualitative coding" or qualitative data analysis. Sometimes folks use a computer to do QDA using software such as Taguette, NVivo, Dedoose, Atlas.TI or MaxQDA to name a few.
+
+For those who have less experience in social science fields, the terminology of "coding" can be misleading because one might assume we are using the word coding in terms of writing code for analysis. However, this is not how qualitative researchers use the term coding.
+
+For scientists, it can help to replace the word "coding" with a word like "annotating" or "tagging" because these terms are more descriptive about what it is that the researcher does in qualitative coding. While there are variations, the typical QDA process is for the researcher or research team to read through the qualitative materials and to develop codes to answer the research questions based on both 1) the patterns seen in the data itself and 2) theoretical and substantive knowledge of the field.
+
+To do this, qualitative researchers often start with either existing research, metrics or previous qualitative codebooks to build their understanding of what the data might say and what they should look for.
+
+Researchers will then go through the data and code (or tag/annotate) selections of the text to summarize a theme or an idea found in the data. This can be as simple as taking short responses to a survey and annotating them with descriptive codes or as complex as using codes to tag quotes from hours long interviews or focus groups.
+
+### A Note about Qualitative Research
+
+There are a few differences in qualitative research that may not be apparent to those who are learning about how to do this work for the first time.
+
+First, In qualitative social science research, we are often using inductive rather than deductive research. In typical scientific research, there is an existing hypothesis and the research design is to test that hypothesis. By contrast, qualitative research may have a general research question that will evolve over the course of the research and inductively be explored. Meaning that we know that there is something here to study, but we aren't always certain what it is that we're looking at.
+
+A good analogy would be if we were a biologist going to a fictional planet to study the life that exists on that planet. We might already have categories of "tree" or "grass" or "bush" from our understanding of plant life on earth and we could use those to begin our work of categorizing what we see on a different planet. That said, we would be aware that these terms might be limited as we are looking at plant life we've never seen before. As we learn more about the environment, our categories to understand what we are looking at would evolve. Our research question would also likely evolve as we begin to find patterns and understand the ecosystem. In the same way, as we do qualitative research we are often creating systems to help us understand what we're seeing/hearing and we're adapting our research to integrate what we're learning as we do it. This is how our research can be inductive.
+
+Second, the motive and output of qualitative research can be quite distinct from quantitative studies. While it is possible to confirm or refute a hypothesis in qualitative research, it's not as common as other forms of research output. For instance, qualitative research outputs could be: narratives, explanations of a process or an activity, a list of reasons why people did something, relevant language usage and terms that are unfamiliar. Our analysis might also give us a better understanding of the topic in order to do more research (of any kind), or to write a better research question. It might also be useful for developing relevant hypotheses to do more work on this topic area.
+
+This work with Openscapes I would consider to be applied or practical research designed to support the aims of the organization. However when that is not true, such as when a qualitative study is being developed in the academy, the end result can also be to add to theory about a particular topic.
 
 
-Field notes
- - Quick reflections after each cohort for each mentors
- - then we code this private reflections doc in addition to our 
+## QDA for Openscapes
+
+### How we used QDA for Openscapes
+
+Our research question was "How does Openscapes support teams to transition from closed research practices to open research practices?" We then picked a cohort and decided to use the open agendas from that cohort to develop a codebook. We wanted to get a better sense of how they talked about open research in the agenda that we were looking at. Our hope was that the agendas would be a sort of "living document" that gave us insights into what the discussion was and how participants made meaning of the learning they were gaining in open research.
+
+### How we created the Qualitative Codebook for Openscapes Agendas
+
+Initially we began with the Theory of Change as a way to develop our system of codes/tags (or codebook). But we quickly realized that the categories from the Theory of Change didn't map well onto the agendas. We changed to work from the Moore Foundation grant goals as a starting place, then when we began to see patterns in the data, we expanded from those goals and added more codes/tags to respond to what we saw in the data.
+
+The final research paper reviewed the Moore Foundation goals, the way they showed up in the agendas as well as exploring the inductive topics that came up through the agendas. You can read the final report here: [Link]
+
+The Openscapes leadership started by coding together and began to notice what worked and what didn't in coding the agendas. As we went on, we began to add in some codes that we saw as we went through the data.
+
+### Qualitative Codebook
+
+Here is the codebook that we developed.
+
+| Code                | Explanation                                                                                                                 |
+|---------------------|----------------------------------------------------|
+| AdoptProtocol.io    | Discussion of adopting protocols.io (Moore Goal)                                                                            |
+| BuildCommunity      | Discussion of building community across teams - broader sense of community beyond this group. (Moore Goal)                  |
+| BuildTrustTeam      | Discussion of building trust within the team (Moore Goal)                                                                   |
+| Challenges          | Discussion of challenges/issues that someone faces                                                                          |
+| ChampionOpen        | Discussion of being or becoming a champion - meaning being someone who talks about and encourages open science (Moore Goal) |
+| DataIssues          | Discussion of issues with regard to data storage, data use or data size                                                     |
+| Imperfect           | Discussion of sharing imperfect work or the challenges with doing work that is imperfect (Moore Goal)                       |
+| NewSkills           | Discussion about acquiring new skills (Moore Goal)                                                                          |
+| Onboarding/Turnover | Discussion about lab turnover and the need to onboard people to the team                                                    |
+| OpenTools           | A discussion of adopting open tools (Moore Goal)                                                                            |
+| Protocols           | General discussion of protocols - not just protocol.io                                                                      |
+| ShareMethods        | A discussion of sharing methods sooner, or being willing to share methods across teams/groups (Moore Goal)                  |
+| ShareWorkflow       | Discussion of sharing a workflow with another team or within team.                                                          |
+| TeamDiscussion      | Discussion of a lab team meeting/conversation                                                                               |
+| Time                | Discussion of how much time something takes, having enough time or the challenges around time.                              |
+| WorkflowChanges     | Discussion of workflow changes                                                                                              |
+| WritingDown         | Discussion of writing things down.                                                                                          |
+
+
+## Working with this QDA in Openscapes Going Forward
+
+### Debriefs Following Calls as Data
+
+One helpful way to do qualitative research in a collaborative setting is to use debrief calls after the main call is over to write down some of the key important aspects of the call. This allows it to be much easier to do the coding.
+
+The team might ask themselves:
+
+-   What were the biggest topics of conversation in the call? What did people want to talk about?
+
+-   What kinds of questions were participants asking about?
+
+-   What challenge were they having?
+
+-   What were some of the wins that they talked about?
+
+These notes should be added to the text that the team would use for analysis as a kind of "field note" of what the facilitators knew from the room.
+
+Additionally, the debrief calls could also be a place where items in the document can be coded with multiple people looking at the document. Each person might take 3-4 codes and go through the document tagging them when they see them in the document. This would enable the coding process to be much less laborious. When there are issues or challenges, the team can talk about them, and consider adding or using certain codes when there are questions.
+
+### How to use Taguette
+
+I recommend that the Openscapes team use Taguette for doing qualitative coding as it is a FLOSS tool that is openly available and capable of collaboration among a group of people. There is documentation at this link for how to get started with Taguette: <https://www.taguette.org/getting-started.html>
+
+Over time, the research team may wish to do more complex QDA analyses with the data, however, I encourage the team to focus on the basics of the research instead of getting bogged down with the software. Taguette is a simple program but it does the basics well.
+
+### Using the Research
+
+After the cohort is finished and the agendas have been coded, the process of analysis of the research can begin. I encourage the team to consider conducting a synthesis meeting after the coding/tagging has been completed to go through each of the codes and to see what can be learned from each.
+
+For instance, to consider over time how the challenges that the agendas shared, or the questions that participants asked can offer some insight into the way that teaching these topics could be done in the future.
+
+### How to update the Codebook
+
+We can make changes to the codebook and should do so as the research continues. There are a few ways to consider making updates:
+
+First is to consider adding new codes to the codebook: When someone on the research team sees a topic of conversation in the agendas that seems to be a pattern (e.g. they see it in more than three places) and it is helpful to understand something about the research question, it's a great idea to add a new code to the codebook.
+
+**The key question to ask before adding a new code/tag is to ask: "Does this code help us answer our research question?"** If it does, it should be added. If it's interesting but not a part of the research question, consider not including it. When adding a code, try to ensure that the one word code/tag makes sense on its own and that there is a written explanation of the definition of that code/tag.
+
+Second, the research team may find themselves refining the codes and the explanations. As time goes on, the research team will develop a sense for the differences between codes, when to apply them and when not to. Part of the work is to make sure that the descriptions are clear for the team that is doing the coding and that it can be communicated to researchers in the future.
+
+That said, I encourage the team to be careful of not complexifying the coding/tagging system too much. It's a common mistake among beginner qualitative researchers to code EVERYTHING and to make a monstrous codebook with every small bit of data. Not everything needs to be coded. Be sure to refer back to "Is this going to help us understand the research question more effectively? When doing any editing.
