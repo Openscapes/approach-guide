@@ -43,7 +43,7 @@ Our research question was "How does Openscapes support teams to transition from 
 
 Initially we began with the Theory of Change as a way to develop our system of codes/tags (or codebook). But we quickly realized that the categories from the Theory of Change didn't map well onto the agendas. We changed to work from the Moore Foundation grant goals as a starting place, then when we began to see patterns in the data, we expanded from those goals and added more codes/tags to respond to what we saw in the data.
 
-The final research paper reviewed the Moore Foundation goals, the way they showed up in the agendas as well as exploring the inductive topics that came up through the agendas. You can read the final report here: [Link]
+The final research paper reviewed the Moore Foundation goals, the way they showed up in the agendas as well as exploring the inductive topics that came up through the agendas. You can read the [final report](https://docs.google.com/document/d/1fcuAH7NIlrXabsRZM0PWJol8ShDvflRNV5uHgt4qbec/) to see concrete examples.
 
 The Openscapes leadership started by coding together and began to notice what worked and what didn't in coding the agendas. As we went on, we began to add in some codes that we saw as we went through the data.
 
