@@ -85,4 +85,4 @@ Learn about our Summer monthly [Social Hours](../approach/seaside-chats.qmd#soci
 
 ## Qualitative Data Analysis
 
-
+We take debrief notes at the end of each Cohort Call that can inform future [Qualitative Data Analyses and assessments](../approach/qual-assessment.qmd). 
