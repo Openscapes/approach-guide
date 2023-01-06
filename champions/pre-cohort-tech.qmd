@@ -11,30 +11,34 @@ Most things are set up in advance of the first Cohort Call, with a few things se
 
 In this page, we give some general information, then describe things in temporal order.
 
-### Documentation update in progress
+### Project management
 
-In June 2022, for the 2022-noaa-sefsc-summer cohort, we started experimenting with organizing Cohort tech setup in a [GitHub Project](https://github.com/orgs/Openscapes/projects/7/views/1) called CohortPlanning, and we began using `kyber` to automate as much of the work as possible. With the goal of enabling others to help with tech setup, we have begun updating documentation of the processes below. In the meantime, some items may be duplicated or appear out of order.
+We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) to manage the tasks involved in running Openscapes Champions Cohorts (since June 2022) and have created some Issue Templates with checklists. These can be used to quickly set up Issues for new Cohorts. 
 
-## `kyber` helps automate some setup
+### `kyber` helps automate some setup
 
-If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below).
+If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below). We began using `kyber` in June 2022, starting with the 2022-sefsc-summer Cohort.
 
 We'll need to do some configuration to use `kyber`, so follow the [configuration instructions](https://openscapes.github.io/kyber/) before you need to use it.
 
 Specific `kyber` functions will be described in more detail where relevant to specific tasks below.
 
-## Google Workspace
+### Google Workspace
 
 In June 2022 we began moving our work to an Openscapes Google Workspace, starting with the 2022 NOAA SEFSC summer Cohort.
 
 Folder organization
 
--   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
--   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
+-   OpenscapesMain > OpenscapesChampionsProgram > contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
+-   OpenscapesMain > OpenscapesCohortPlanning > contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
 
-Calendar: The OpenscapesCohorts Google Calendar is used for events, like Cohort Calls and Coworking sessions.
+**Calendar**: The OpenscapesCohorts Google Calendar is used for events, like Cohort Calls and Coworking sessions. 
 
-Google Meet: We'll give some tech details below. Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them).
+There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add ~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022.
+
+**Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
+
+**Google Spaces**: We have used Google Spaces for within-Cohort communications like Q&A and resource sharing when that is already the strongly-preferred tool for participants e.g. NOAA NMFS Fall 2022 Cohorts. After Cohort completion, the Openscapes team's support moves entirely to Slack.
 
 ## Timing and order of tasks
 
@@ -66,8 +70,9 @@ You might notice some redundancy among this list, the GitHub Project, and Cohort
 
 ### After subsequent Calls
 
+- Send Call Digest
 - Host Coworking session 
-- Create Agenda (`kyber`)
+- Create next Agenda (`kyber`)
 
 
 ## Managing tasks in a GitHub Project
