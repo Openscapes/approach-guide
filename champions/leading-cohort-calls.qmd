@@ -108,10 +108,9 @@ We share what we're going to work on, and then work quietly and then check in at
 
 Our practice of coworking has evolved, particularly through running 4 simultaneous NOAA NMFS Cohorts in Fall 2022. We use a few flavors now. The take home message is that people can experiment with this practice and see what works for them!
 
-- Cohort coworking is outlined above and is the standard format we use in Openscapes Champions Cohorts between Calls. In some sessions, we would invite a participant in advance to "screenshare-and-tell" something they did or learned relating to the previous lesson (in the first 5 minutes to get things going). Some teams used these for their Seaside Chats. 
-- Themed coworking was an experiment in Fall 2022 as a way to bring participants together across Cohorts. These were 1.5-hr sessions with Eli Holmes giving a lesson, followed by coworking in breakout rooms. Typically people stayed in the main room for Q & A.  
-- Small group or 1:1 coworking is described in ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)).
-
+-   Cohort coworking is outlined above and is the standard format we use in Openscapes Champions Cohorts between Calls. In some sessions, we would invite a participant in advance to "screenshare-and-tell" something they did or learned relating to the previous lesson (in the first 5 minutes to get things going). Some teams used these for their Seaside Chats.
+-   Themed coworking was an experiment in Fall 2022 as a way to bring participants together across Cohorts. These were 1.5-hr sessions with Eli Holmes giving a lesson, followed by coworking in breakout rooms. Typically people stayed in the main room for Q & A.\
+-   Small group or 1:1 coworking is described in ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)).
 
 ### Seaside Chats
 
@@ -121,7 +120,15 @@ Champions teams will hold Seaside Chats, and we share suggested topics each Coho
 
 After the GitHub Clinic lesson it might be helpful to offer optional drop-in help sessions for folks to get set up with Git and GitHub on their local machines.
 
-Eli Holmes recorded 4 short videos that people should watch before attending.
+Eli Holmes recorded 4 short videos that people should watch before attending:
+
+1.  [Setting GitHub Desktop Preferences](https://youtu.be/0PVOPL6i3MQ) (2.5 mins)
+
+2.  [Cloning a repository](https://youtu.be/acIwQO1eOtw) (2 mins)
+
+3.  [Pulling and pushing changes to GitHub](https://youtu.be/cQgn3_w27_8) (3.5 mins)
+
+4.  [Turning an existing directory into a Git repository and pushing to GitHub](https://youtu.be/9BTpiTQPyu8) (2 min)
 
 In the Fall 2022 NMFS Cohorts we learned that many people needed help finding where Git was installed on their Windows machines, for example. Collaborative notes with screenshots were added in Google doc: OpenscapesCoworkingCross-Cohort \[ 2022-nmfs-fall \]
 
