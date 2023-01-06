@@ -311,6 +311,8 @@ Preparing for the GitHub Clinic involves:
 -   adding participant GitHub usernames to the Cohort's repo
 -   reviewing the slides
 
+Julie recorded videos of her teaching the GitHub Clinic to enable others to teach it. These are linked in the [Openscapes Lesson Series book](https://openscapes.github.io/series/core-lessons/github/#github-clinic).
+
 ::: {.callout-note collapse="true"}
 ### Historical aside
 
