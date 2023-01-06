@@ -7,29 +7,29 @@ Everyone on the Openscapes team should be a confident leader and active contribu
 
 ## Roles
 
-There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms. 
+There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.
 
 -   **Tech Host**: Zoom co-host, create breakout groups, monitor chat & Slack, help note-taking
 -   **Facilitator**: Zoom co-host, leads discussion as noted in the Agenda
 -   **Teacher**: Talks through demos and slides
 
-Note-taking should focus on capturing questions and conversations and less about slides. Copying questions from the Chat into the Agenda is also really helpful. 
+Note-taking should focus on capturing questions and conversations and less about slides. Copying questions from the Chat into the Agenda is also really helpful.
 
-- Example Roles: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1)
+-   Example Roles: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1)
 
 ## Before Cohort Calls
 
-- Prepare the Agenda; see [Pre-cohort tech setup: Cohort Call Agendas](/champions/pre-cohort-tech.qmd#agenda-kyber) 
-- Review Roles, with particular focus on facilitator and tech host roles
+-   Prepare the Agenda; see [Pre-cohort tech setup: Cohort Call Agendas](/champions/pre-cohort-tech.qmd#agenda-kyber)
+-   Review Roles, with particular focus on facilitator and tech host roles
 
 ## During Cohort Calls
 
-Software to have open: 
+Software to have open:
 
-- Zoom
-- Slack for back-channeling if needed, likely not 
-- Agenda
-- Quicklinks Issue, Participants List (example: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1))
+-   Zoom, with Chat and Participants open
+-   Slack for back-channeling if needed, likely not
+-   Agenda
+-   Quicklinks Issue, Participants List (example: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1))
 -   Welcome folks as they join, ask them to rename themselves in Zoom to identify their team (helps us for breakout groups)
 -   Monitor the chat
 -   Help with note-taking. Both to capture what folks are saying and to role-model. Help others engage.
@@ -46,10 +46,10 @@ And please rename yourself with how you'd like to be called and your team name (
 
 ### Making breakout rooms
 
-Breakout rooms are generally random or as teams. 
+Breakout rooms are generally random or as teams.
 
-- Random: set up breakout rooms just before we go into them; for example if you set them up during roll call and more folks join before the reflections, you won't be able to create new rooms for them
-- Teams: this takes more time and you'll need the participant list in front of you
+-   Random: set up breakout rooms just before we go into them; for example if you set them up during roll call and more folks join before the reflections, you won't be able to create new rooms for them
+-   Teams: this takes more time and you'll need the participant list in front of you
 
 ### Guest teachers' presentations
 
@@ -61,15 +61,15 @@ Between Calls there are tasks for the Openscapes team and for the Champions team
 
 ### Field Notes
 
-We ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal "field notes" that will help us improve between Cohort Calls and across Cohorts. 
+We ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal "field notes" that will help us improve between Cohort Calls and across Cohorts.
 
-Prompts to answer include: 
+Prompts to answer include:
 
-- Top-of-mind
-- Brief summary of how it went
-- Rose / Bud / Thorn - something that was good, developing, or tricky
+-   Top-of-mind i.e. what would you tell your roommate?
+-   Brief summary of how it went
+-   Rose / Bud / Thorn - something that was good, developing, or tricky
 
-Write field notes in the Planning Docs, at the bottom
+Write field notes in the DebriefsDigests Google doc (as of Fall 2022), with one doc for all Cohort Calls. We draft Digests in this same doc.
 
 ### Digests
 
@@ -81,32 +81,72 @@ We develop these in a single "DigestsDrafts" Google Doc - with the AFSC Mentors 
 
 See examples:
 
-- [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest)
-- [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest)
-- [2021-fdd](https://github.com/Openscapes/2021-fdd/labels/digest)
-- [2021-noaa-nmfs](https://github.com/Openscapes/2021-noaa-nmfs/labels/digest)
+-   [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest)
+-   [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest)
+-   [2021-fdd](https://github.com/Openscapes/2021-fdd/labels/digest)
+-   [2021-noaa-nmfs](https://github.com/Openscapes/2021-noaa-nmfs/labels/digest)
 
+### Coworking
 
-### Co-working
+We started coworking with Cohorts in fall 2021. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too. Champions have said they appreciate this as a practice to take back to their research groups and it's also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.
 
-We started co-working with Cohorts in fall 2021. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too. Champions have said it's a really nice practice to take back to their research groups and it's also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.  
-
-We set up an hour of Co-Working in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Read more about co-working ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)). Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#). 
+We set up an hour of Coworking in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#).
 
 ::: {.callout-tip collapse="true"}
-## Example Co-working agenda
+## Example Coworking agenda
+
 We share what we're going to work on, and then work quietly and then check in at the end as well. We also make breakout rooms for Q&A if folks want to screenshare and talk things out.
 
-- Brief intros to share what we’re planning to work on
-- Create breakout rooms based on topics, and you can move yourself. Today: 
-    - ProjectBoards
-    - ChattierRoom - Eli there for Q&A. Pop in and out. 
-- Brief closing to share what you did & any resources!
+-   Brief intros to share what we're planning to work on
+-   Create breakout rooms based on topics, and you can move yourself. Today:
+    -   ProjectBoards
+    -   ChattierRoom - Eli there for Q&A. Pop in and out.
+-   Brief closing to share what you did & any resources!
 :::
+
+#### Different flavors of coworking
+
+Our practice of coworking has evolved, particularly through running 4 simultaneous NOAA NMFS Cohorts in Fall 2022. We use a few flavors now. The take home message is that people can experiment with this practice and see what works for them!
+
+- Cohort coworking is outlined above and is the standard format we use in Openscapes Champions Cohorts between Calls. In some sessions, we would invite a participant in advance to "screenshare-and-tell" something they did or learned relating to the previous lesson (in the first 5 minutes to get things going). Some teams used these for their Seaside Chats. 
+- Themed coworking was an experiment in Fall 2022 as a way to bring participants together across Cohorts. These were 1.5-hr sessions with Eli Holmes giving a lesson, followed by coworking in breakout rooms. Typically people stayed in the main room for Q & A.  
+- Small group or 1:1 coworking is described in ([Butland & Penfold 2020](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)).
+
 
 ### Seaside Chats
 
 Champions teams will hold Seaside Chats, and we share suggested topics each Cohort Call.
+
+### Git / GitHub drop-in help
+
+After the GitHub Clinic lesson it might be helpful to offer optional drop-in help sessions for folks to get set up with Git and GitHub on their local machines.
+
+Eli Holmes recorded 4 short videos that people should watch before attending.
+
+In the Fall 2022 NMFS Cohorts we learned that many people needed help finding where Git was installed on their Windows machines, for example. Collaborative notes with screenshots were added in Google doc: OpenscapesCoworkingCross-Cohort \[ 2022-nmfs-fall \]
+
+::: {.callout-tip collapse="true"}
+## Example invitation to Git / GitHub drop-in sessions
+
+We've scheduled 30-minute drop-in sessions for those who want to get their computer connected to Git and GitHub. Drop in and we'll get you set up!
+
+What should I install beforehand? [GitHub Desktop](https://desktop.github.com/). This is a great option and is especially good if your GitHub repos have files from multiple programs (R, Python, Excel, Word, images, data files). If you install GitHub Desktop, you will have Git installed with that. If you don't get GitHub Desktop, then you will need to have Git installed.
+
+Once you have GitHub Desktop installed, watch the short videos from Eli Holmes to see how to get things set up.
+
+[Video 1](https://youtu.be/0PVOPL6i3MQ). Setting GitHub Desktop Preferences (2.5 mins)
+
+[Video 2](https://youtu.be/acIwQO1eOtw). Cloning a repository (2 mins)
+
+[Video 3](https://youtu.be/cQgn3_w27_8). Pulling and pushing changes to GitHub (3.5 mins)
+
+[Video 4](https://youtu.be/9BTpiTQPyu8). Turning an existing directory into a Git repository and pushing to GitHub (2 min)
+
+Give it a try and if you have any trouble getting connected, come to the drop-in sessions and we'll help!
+
+-   Date / time (click to add to your Google Cal)
+-   Date / time (click to add to your Google Cal)
+:::
 
 ## First Cohort Call
 
@@ -130,7 +170,5 @@ Hi All, Excited for today! We'll share the \[ Agenda \] in chat, and expect that
 -   Write a welcome message in the general or welcome channel
 
 ::: {.callout-tip collapse="true"}
-Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details. 
+Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
 :::
-
-
