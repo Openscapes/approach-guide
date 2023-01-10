@@ -141,13 +141,13 @@ What should I install beforehand? [GitHub Desktop](https://desktop.github.com/).
 
 Once you have GitHub Desktop installed, watch the short videos from Eli Holmes to see how to get things set up.
 
-[Video 1](https://youtu.be/0PVOPL6i3MQ). Setting GitHub Desktop Preferences (2.5 mins)
+1.  [Setting GitHub Desktop Preferences](https://youtu.be/0PVOPL6i3MQ) (2.5 mins)
 
-[Video 2](https://youtu.be/acIwQO1eOtw). Cloning a repository (2 mins)
+2.  [Cloning a repository](https://youtu.be/acIwQO1eOtw) (2 mins)
 
-[Video 3](https://youtu.be/cQgn3_w27_8). Pulling and pushing changes to GitHub (3.5 mins)
+3.  [Pulling and pushing changes to GitHub](https://youtu.be/cQgn3_w27_8) (3.5 mins)
 
-[Video 4](https://youtu.be/9BTpiTQPyu8). Turning an existing directory into a Git repository and pushing to GitHub (2 min)
+4.  [Turning an existing directory into a Git repository and pushing to GitHub](https://youtu.be/9BTpiTQPyu8) (2 min)
 
 Give it a try and if you have any trouble getting connected, come to the drop-in sessions and we'll help!
 
