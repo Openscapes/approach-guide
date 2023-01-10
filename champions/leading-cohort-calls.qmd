@@ -153,6 +153,8 @@ Give it a try and if you have any trouble getting connected, come to the drop-in
 
 -   Date / time (click to add to your Google Cal)
 -   Date / time (click to add to your Google Cal)
+
+See [Tip: Click URL to add to your Google Calendar](pre-cohort-tech.qmd#google-workspace) for instructions on how to implment this. 
 :::
 
 ## First Cohort Call
