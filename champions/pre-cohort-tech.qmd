@@ -37,7 +37,7 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022.
 
 ::: {.callout-tip collapse="true"}
-## Tip 
+## Tip: Click URL to add to your Google Calendar 
 
 Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event > click the 3 dots > Publish event > choose Copy Link to event and share link in Slack or email saying "Add this to your Google Calendar". We used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
 :::
