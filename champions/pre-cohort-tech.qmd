@@ -17,7 +17,7 @@ We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/pr
 
 ### `kyber` helps automate some setup
 
-If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below). We began using `kyber` in June 2022, starting with the 2022-sefsc-summer Cohort.
+If you're comfortable following instructions in R (or want to try!), we recommend using our [`kyber` R package](https://github.com/openscapes/kyber) created by [Sean Kross](https://seankross.com/). `kyber` contains tools for setting up learning cohorts on GitHub, purpose-built for the Openscapes Champions Program. It automates creation of new GitHub repos and agendas in Google Docs for example, using information from the Cohort Registry (described below). We began using `kyber` in January 2022, starting with the 2022-afsc winter Cohort.
 
 We'll need to do some configuration to use `kyber`, so follow the [configuration instructions](https://openscapes.github.io/kyber/) before you need to use it.
 
