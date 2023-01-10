@@ -39,7 +39,7 @@ There are limits to the number of Guests that can be added to a calendar invite.
 ::: {.callout-tip collapse="true"}
 ## Tip: Click URL to add to your Google Calendar 
 
-Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event > click the 3 dots > Publish event > choose Copy Link to event and share link in Slack or email saying "Add this to your Google Calendar". We used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
+Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event > click the 3 dots > Publish event > choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
 :::
 
 **Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
