@@ -35,7 +35,7 @@ We prefer to use Zoom over Google Meet, which we found has some limits to functi
 
 ### Slack
 
-We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. Members include people who have participated in a Champions Program, Pathways to Open Science, or other Openscapes program.
+We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. Members include people who have participated and mentored in a Champions Program, Pathways to Open Science, or other Openscapes programs.
 
 #### Channel definitions
 
