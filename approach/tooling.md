@@ -59,22 +59,6 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#random**: Non-work banter and water cooler conversation
 
-::: {.callout-tip collapse="true"} 
-## Example email Slack invitation
-
-*revise to include invitation link in body of email, not as followup email coming from inside Slack, but hide link when this is copied to public GitHub Issue*
-
-Subject: Openscapes invitation to Slack
-
-You'll soon receive an email-invitation to join Openscapes Slack as a way to connect with other Openscapes Champions. You will automatically land in several channels plus a private nmfs-champions channel that includes people from all 4 NMFS Fall 2022 Cohorts. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by "listening" to the discussions.
-
-When you join, you'll automatically land in #welcome #cool-finds #events #general #random #seaside-chats #shared-joy. You can browse other channels and choose to join them (click 3 dots beside Channels \> Browse channels).
-
-The #welcome channel is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying "I work on sea turtles too!". Short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
-
-New to Slack? There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
-:::
-
 -   <https://slack.com/downloads>
 
 ### Zoom
