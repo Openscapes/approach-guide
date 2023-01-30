@@ -175,9 +175,5 @@ Hi All, Excited for today! We'll share the \[ Agenda \] in chat, and expect that
 
 **Slack invites**
 
--   Create a private Slack channel for the Cohort, invite everyone to the Org and private channel
--   Write a welcome message in the general or welcome channel
+-   See [how-to instructions](pre-cohort-tech.qmd#slack) in Cohort Tech Setup 
 
-::: {.callout-tip collapse="true"}
-Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
-:::
