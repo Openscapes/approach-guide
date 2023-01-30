@@ -37,9 +37,9 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022.
 
 ::: {.callout-tip collapse="true"}
-## Tip: Click URL to add to your Google Calendar 
+## Tip: Click URL to add to your Google Calendar
 
-Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event > click the 3 dots > Publish event > choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
+Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event \> click the 3 dots \> Publish event \> choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
 :::
 
 **Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
@@ -272,9 +272,15 @@ We usually do this before each Cohort Call (as opposed to all at once at the beg
 
 ## Slack
 
+Our use of Slack is outlined in [Tooling](../approach/tooling.md#slack)
+
 After the first Cohort Call, we:
 
--   Create a private Slack channel for the cohort Invite everyone to Slack
+-   Create a private Slack channel for the cohort
+-   Invite everyone to Slack
+-   Use [example email](../approach/tooling.md#slack), with Invite link created inside Slack and copied to that email
+
+Slack can be a daunting new tool. That's why we send that welcoming invitation email that provides some background and links to guidance, rather than simply adding people's emails from inside Slack.
 
 ## GitHub Clinics
 
