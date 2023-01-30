@@ -45,7 +45,7 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#welcome**: A place for people new to our community to introduce themselves and for the rest of us to make them feel welcome; the default channel that members cannot leave if they leave all other channels
 
-**#general**: Openscapes team posts Openscapes announcements
+**#general**: General announcements from the Openscapes team and others
 
 **#seaside-chats**: A place to discuss ongoing progress. Friendly Q & A about good enough practices, team culture, tools ...
 
