@@ -280,7 +280,16 @@ After the first Cohort Call, we:
 -   Invite everyone to Slack
 -   Use [example email](../approach/tooling.md#slack), with Invite link created inside Slack and copied to that email
 
-Slack can be a daunting new tool. That's why we send that welcoming invitation email that provides some background and links to guidance, rather than simply adding people's emails from inside Slack.
+Slack can be a daunting new tool at a time when we're introducing lots of tools. That's why we send that welcoming invitation email providing some background and links to guidance, rather than simply adding people's emails from inside Slack.
+
+-   Write a welcome message in the general channel
+
+::: {.callout-tip collapse="true"}
+## Example Slack #general post
+
+Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
+:::
+
 
 ## GitHub Clinics
 
