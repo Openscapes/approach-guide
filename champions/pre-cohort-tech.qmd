@@ -277,12 +277,13 @@ Our use of Slack is outlined in [Tooling](../approach/tooling.md#slack)
 After the first Cohort Call, we:
 
 -   Create a private Slack channel for the cohort
--   Invite everyone to Slack. Adapt example email below, with Invite link created inside Slack and copied to that email
+-   Invite everyone to Slack. 
+  -   Use example email below; follow up immediately from inside the new private channel by adding list of emails to add people
 
 ::: {.callout-tip collapse="true"} 
 ## Example email Slack invitation
 
-*revise to include invitation link in body of email, not as followup email coming from inside Slack, but hide link when this is copied to public GitHub Issue*
+*It seems the only way to add new people to our Slack AND have them join a private channel is to send the invite from inside that channel. This email is key for giving background though.*
 
 Subject: Openscapes invitation to Slack
 
