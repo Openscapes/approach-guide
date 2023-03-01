@@ -39,6 +39,7 @@ website:
           - approach/seaside-chats.qmd
           - approach/onboarding.md
           - approach/tooling.md
+          - approach/documentation.qmd
           - approach/partners.md
           - approach/calendar.md
           - approach/qual-assessment.qmd
