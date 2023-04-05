@@ -86,3 +86,9 @@ We use Eventbrite to manage registrations for events like the Pathways to Open S
 We chose not to send Eventbrite's default reminders 2 days and 2 hours in advance of event. Several community call participants said it was hard to find the zoom link even with the reminder emails (Stef agrees); that's why we put "Zoom" in subject line of custom reminder. For reminder emails in an event series, we must update for every event in the series.
 
 **Event series**: For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/), we created a "series" of 6 events instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.
+
+### Zenodo {#sec-zenodo}
+
+We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose.
+
+[Zenodo](https://zenodo.org/) is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier") (DOI) is minted, which makes the stored items easily citable (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Zenodo)). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is *not* a repository.
