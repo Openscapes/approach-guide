@@ -30,7 +30,7 @@ This section describes how to get a DOI for a "research related digital artefact
 
 1.  **Select an open license** that makes it clear how people can use the material. The [Openscapes Approach Guide license](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md) is adapted from [The Turing Way license](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md) that accommodates works that include both code and documentation.
 
-2.  **Store the material in a repository that allows us to publish it**, like GitHub.
+2.  **Store the material in a repository that allows us to publish it**, like GitHub. One thing to watch for when making a Release on GitHub is go to `/releases` e.g. <https://github.com/Openscapes/pathways-to-open-science/releases> to create a release because it doesn't appear on the right of repository page automatically.
 
 3.  **Add a digital object identifier (DOI) so that it is citable.**
 
