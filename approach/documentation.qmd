@@ -38,6 +38,5 @@ This section describes how to get a DOI for a "research related digital artefact
 4.  **Add a "how to cite"** section to guide users. We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
 
 
-One thing to watch for when making a Release on GitHub is go to `/releases` e.g. <https://github.com/Openscapes/pathways-to-open-science/releases> to create a release because it doesn't appear on the right of repository page automatically.
 
 TODO: add How to cite section to Lesson Series and NASA Earthdata Cookbook and any other products for which we get a DOI.
