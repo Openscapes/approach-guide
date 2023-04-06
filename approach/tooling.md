@@ -65,6 +65,22 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 -   <https://zoom.com/downloads>
 
+### Quicktime video editing
+
+Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g. Main room chat during breakouts.
+
+This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using Quicktime](https://youtu.be/82CiWXI4rlQ) (2min 40sec). Briefly:
+
+-   make copy of your video to edit
+-   go to start point of section you want to remove
+-   use arrow keys for finer navigation
+-   Edit \> Split clip \> Done
+-   go to end point of section you want to remove
+-   Edit \> Split clip \> I think you hit delete on the section to exclude at this point \> Done
+-   Save
+
+Once you delete a section \> Done, the clips are automatically spliced together.
+
 ### Zotero
 
 -   <https://www.zotero.org/>
@@ -79,13 +95,27 @@ upcoming
 
 ### Eventbrite
 
-We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls.
+We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it's a good alternative for our needs.
 
-**Reminder emails**: We create a custom reminder email with *Subject*: Zoom link for Openscapes event-name. *Body*: We're excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom: LINK. Optional, include event logo or Openscapes logo.
+For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/), we created a **"series" of 6 events** instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.
 
-We chose not to send Eventbrite's default reminders 2 days and 2 hours in advance of event. Several community call participants said it was hard to find the zoom link even with the reminder emails (Stef agrees); that's why we put "Zoom" in subject line of custom reminder. For reminder emails in an event series, we must update for every event in the series.
+#### Eventbrite - Zoom - Google Cal how-to set up an event
 
-**Event series**: For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/), we created a "series" of 6 events instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.
+Recommended workflow for now:
+
+1.  Create Google Cal invite \> make it a Zoom meeting from inside that invite (if your Google Cal is integrated with Zoom )\> save. That meeting will appear in your Zoom account. Confirm it has waiting room and no password.
+
+2.  In Eventbrite, create Event \> copy Zoom link into Eventbrite \> Event \> Online Event Page \> Live video or audio, instead of \"Add Zoom\"
+
+    -   *What didn't work well*: \"Add Zoom\" button, which used \"Stefanie Butland\'s personal meeting room\", created a mtg in Zoom that has a Zoom registration link, not a clear meeting link. Stumped for now as to how to make that Eventbrite-Zoom integration work.
+
+    ![](images/Screenshot%202023-04-05%20at%209.20.22%20PM.png){width="500"}
+
+3.  Create and schedule reminder emails.Eventbrite \> Manage attendees \> Emails to attendees \> create one custom reminder email. Set reply-to as `hello@openscapes.org`. Delete other default reminders (Eventbrite makes 3 reminders by default and that\'s annoying). For reminder emails in an event series, we must update for every event in the series.
+
+    -   We create a custom reminder email with *Subject*: Zoom link for Openscapes event-name. *Body*: We're excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom: LINK. Optional, include event logo or Openscapes logo.
+
+    -   *Why a custom email reminer?* Several community call participants said it was hard to find the zoom link with Eventbrite's default reminder email (Stef agrees); that's why we put "Zoom" in subject line of custom reminder.
 
 ### Zenodo {#sec-zenodo}
 
