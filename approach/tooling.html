@@ -241,6 +241,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#rrstudio" id="toc-rrstudio" class="nav-link" data-scroll-target="#rrstudio">R/RStudio</a></li>
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
   <li><a href="#zoom" id="toc-zoom" class="nav-link" data-scroll-target="#zoom">Zoom</a></li>
+  <li><a href="#quicktime-video-editing" id="toc-quicktime-video-editing" class="nav-link" data-scroll-target="#quicktime-video-editing">Quicktime video editing</a></li>
   <li><a href="#zotero" id="toc-zotero" class="nav-link" data-scroll-target="#zotero">Zotero</a></li>
   <li><a href="#orcidrescognito" id="toc-orcidrescognito" class="nav-link" data-scroll-target="#orcidrescognito">ORCID/Rescognito</a></li>
   <li><a href="#eventbrite" id="toc-eventbrite" class="nav-link" data-scroll-target="#eventbrite">Eventbrite</a></li>
@@ -326,6 +327,21 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://zoom.com/downloads" class="uri">https://zoom.com/downloads</a></li>
 </ul>
 </section>
+<section id="quicktime-video-editing" class="level3">
+<h3 class="anchored" data-anchor-id="quicktime-video-editing">Quicktime video editing</h3>
+<p>Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g.&nbsp;Main room chat during breakouts.</p>
+<p>This video says it all: <a href="https://youtu.be/82CiWXI4rlQ">Trimming Clips or Cutting Parts Out of the Middle Using Quicktime</a> (2min 40sec). Briefly:</p>
+<ul>
+<li>make copy of your video to edit</li>
+<li>go to start point of section you want to remove</li>
+<li>use arrow keys for finer navigation</li>
+<li>Edit &gt; Split clip &gt; Done</li>
+<li>go to end point of section you want to remove</li>
+<li>Edit &gt; Split clip &gt; I think you hit delete on the section to exclude at this point &gt; Done</li>
+<li>Save</li>
+</ul>
+<p>Once you delete a section &gt; Done, the clips are automatically spliced together.</p>
+</section>
 <section id="zotero" class="level3">
 <h3 class="anchored" data-anchor-id="zotero">Zotero</h3>
 <ul>
@@ -341,17 +357,38 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="eventbrite" class="level3">
 <h3 class="anchored" data-anchor-id="eventbrite">Eventbrite</h3>
-<p>We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls.</p>
-<p><strong>Reminder emails</strong>: We create a custom reminder email with <em>Subject</em>: Zoom link for Openscapes event-name. <em>Body</em>: We’re excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom:&nbsp;LINK. Optional, include event logo or Openscapes logo.</p>
-<p>We chose not to send Eventbrite’s default reminders 2 days and 2 hours in advance of event. Several community call participants said it was hard to find the zoom link even with the reminder emails (Stef agrees); that’s why we put “Zoom” in subject line of custom reminder. For reminder emails in an event series, we must update for every event in the series.</p>
-<p><strong>Event series</strong>: For <a href="https://openscapes.github.io/pathways-to-open-science/">Pathways to Open Science</a>, we created a “series” of 6 events instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.</p>
+<p>We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it’s a good alternative for our needs.</p>
+<p>For <a href="https://openscapes.github.io/pathways-to-open-science/">Pathways to Open Science</a>, we created a <strong>“series” of 6 events</strong> instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.</p>
+<section id="eventbrite---zoom---google-cal-how-to-set-up-an-event" class="level4">
+<h4 class="anchored" data-anchor-id="eventbrite---zoom---google-cal-how-to-set-up-an-event">Eventbrite - Zoom - Google Cal how-to set up an event</h4>
+<p>Recommended workflow for now:</p>
+<ol type="1">
+<li><p>Create Google Cal invite &gt; make it a Zoom meeting from inside that invite (if your Google Cal is integrated with Zoom )&gt; save. That meeting will appear in your Zoom account. Confirm it has waiting room and no password.</p></li>
+<li><p>In Eventbrite, create Event &gt; copy Zoom link into Eventbrite &gt; Event &gt; Online Event Page &gt; Live video or audio, instead of “Add Zoom”</p>
+<ul>
+<li><em>What didn’t work well</em>: “Add Zoom” button, which used “Stefanie Butland’s personal meeting room”, created a mtg in Zoom that has a Zoom registration link, not a clear meeting link. Stumped for now as to how to make that Eventbrite-Zoom integration work.</li>
+</ul>
+<p><img src="images/Screenshot 2023-04-05 at 9.20.22 PM.png" class="img-fluid" width="500"></p></li>
+<li><p>Create and schedule reminder emails.Eventbrite &gt; Manage attendees &gt; Emails to attendees &gt; create one custom reminder email. Set reply-to as <code>hello@openscapes.org</code>. Delete other default reminders (Eventbrite makes 3 reminders by default and that’s annoying). For reminder emails in an event series, we must update for every event in the series.</p>
+<ul>
+<li><p>We create a custom reminder email with <em>Subject</em>: Zoom link for Openscapes event-name. <em>Body</em>: We’re excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom:&nbsp;LINK. Optional, include event logo or Openscapes logo.</p></li>
+<li><p><em>Why a custom email reminer?</em> Several community call participants said it was hard to find the zoom link with Eventbrite’s default reminder email (Stef agrees); that’s why we put “Zoom” in subject line of custom reminder.</p></li>
+</ul></li>
+</ol>
+</section>
 </section>
 <section id="sec-zenodo" class="level3">
 <h3 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h3>
 <p>We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose.</p>
 <p><a href="https://zenodo.org/">Zenodo</a> is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">digital object identifier</a> (DOI) is minted, which makes the stored items easily citable (adapted from <a href="https://en.wikipedia.org/wiki/Zenodo">Wikipedia</a>). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is <em>not</em> a repository.</p>
+<p>For the full picture, this 1-hr webinar is great: <a href="https://youtu.be/yj2r8RayIX8">Zenodo: open digital repository | 2022.12.07</a>.</p>
+<section id="creating-a-zenodo-openscapes-community" class="level4">
+<h4 class="anchored" data-anchor-id="creating-a-zenodo-openscapes-community">Creating a Zenodo Openscapes Community</h4>
+<p>We’re creating and populating a Zenodo Openscapes Community as a “semantically meaningful group” of research products in order to make them easily citable and more visible. Examples: NASA’s <a href="https://zenodo.org/communities/tops/">Transform to Open Science</a>; <a href="https://zenodo.org/communities/cscce/">Center for Scientific Collaboration and Community Engagement (CSCCE)</a>.</p>
+<p>Zenodo has a Sandbox in which we can create and refine a draft Community before creating the real thing. This webinar section “<a href="https://youtu.be/yj2r8RayIX8?t=734">How to create a community</a>” screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like “curator”, rather than a personal email username; or deciding what types of research products to include.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
