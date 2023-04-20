@@ -3,17 +3,9 @@ title: Inspiration
 format: html
 ---
 
-Openscapes is part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder research culture.
+Openscapes is inspired by many groups working for change in many places. Some of these groups are part of the open science movement and supported and inspired by the many diverse communities and efforts working for more inclusive and kinder science culture, and some are working in completely different arenas. 
 
-This Approach Guide document is inspired from: 
-
-- <https://thefaylab.github.io/lab-manual/index.html>
-- <https://the-turing-way.netlify.app/community-handbook> 
-- <https://2i2c.org/team-compass/>
-- <https://highmountainasia.github.io/team-collaboration/>
-- and others
-
-Many things inspire us and influence our work for kinder science
+So many people and groups influence us, a few: 
 
 -   RStudio, rOpenSci, Element84, 2i2c, Mozilla, RLadies, NSSD
 -   Tara Robertson, Dawn Wright and others
@@ -24,14 +16,205 @@ Many things inspire us and influence our work for kinder science
 
 The Openscapes Approach supports the vision laid out by the National Academy of Science, Engineering and Medicine (NASEM)’s [Open Science by Design](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century) report. 
 
-## Resources
 
-Our [**Resources**](https://www.openscapes.org/resources) page has some resources meant to welcome environmental scientists who are newly onboarding to open data science.
+## Resources that influence us {#resources-influence} 
+*Pieces that resonate: some resources that influence our thinking.*
 
-Our [Openscapes GitHub Organization](https://github.com/openscapes) has pinned repositories of interest, including the [teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources) repo where we use [Issues](https://www.openscapes.org/champions/[teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources/issues)) to jot down specific tools or learning resources for open, reproducible, inclusive science.
+This is an incomplete list and we especially try to list things here that don't show up as explicitly in our lessons and talks. We'll add new resources to this top of this list. 
 
-We also have a public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library) linking publications, talks, and curricula. And, a public [Openscapes Spotify Playlist](https://open.spotify.com/playlist/7rAl8ORlMJbqa9IylFhSwd?si=5042f14a9b8c4dcc&nd=1) of favorite pump-up songs from our cohorts. 
+### Federal Data Science Management
 
-## Pieces that resonate
+[Federal Data Science Management](https://waterdata.usgs.gov/blog/fed-data-science-management/) - Jordan Read, December 2022. In this blog post, Read reflects on 10 years building the data science program at USGS, focused o team building and hiring, turning constraints into strengths and support, and walks through several points with a format of "justifications, considerations, example". Throughout, he uses a great water-gardener metaphor and beautiful illustrations. Jordan’s now director at [CUAHSI](https://www.cuahsi.org/).
 
-- [Time to Say Goodbye to Our Heroes?](https://issues.org/say-goodbye-hero-model-science-elkins-tanton/) - Lindy Elkins-Tanton
+### Direct Education
+
+[Facilitating Group Learning](https://www.pmpress.org/index.php?l=product_detail&p=1165): Strategies for success with diverse learners - George Lakey. 
+
+> Direct education is highly experiental, using a variety of methods to move participants out of their comfort zones and into encounters with new possibilities...Direct education is multicultural and integrates perspectives developed by movements against sexism, racism, and other forms of oppression
+
+
+
+
+### Time to Say Goodbye to Our Heroes?
+
+[Time to Say Goodbye to Our Heroes?](https://issues.org/say-goodbye-hero-model-science-elkins-tanton/) - Lindy Elkins-Tanton
+
+<!---
+### Coaching
+
+[Radical Candor](https://www.radicalcandor.com/) - Kim Scott
+
+[How coaching could help tackle toxic research cultures](https://www.nature.com/articles/d41586-023-00063-8) - Kay 2023, Nature
+
+> "The aim of coaching...is to support behavioural change in others by increasing their self-knowledge and capacity for learning, through reflection."
+
+--->
+
+<!---
+# Innovation through openness, architecture, leadership, teamwork, and disruption
+
+\*Openness and design is always on my mind, through Openscapes and beyond. But as a scientist, my entryway to it all has been through open science - more specifically/narrowly through data and code - so I am constantly learning of established ideas and stories from leaders of all kinds that inform and inspire me. I think differently now - more actively, optimistically, and boldly - than I did before, and am always trying to connect and reinforce ideas, tools, people, communities that I come across. Kindness is a big part of this too - I tried articulating some of these thoughts in my essay "Open software means kinder science" in [[Scientific American](%5Bhttps://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)](<https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>)) at the end of my Mozilla Fellowship, but I have a lot more to learn. The plan here is to summarize things I've read and been thinking about along these lines. I highly recommend everything I list here and hope it will be inspiring for you too.\*
+
+Welcoming entryways
+
+I've always talked about Openscapes centered on the "what" : getting jazzed about open data science. But during COVID i've been focusing on the "how": 
+and welcoming entryways
+
+- new coders to R and collaborative, reproducible and open practices
+- seasoned coders to GitHub
+- scientists to open science through data science and publishing
+- meeting design
+
+Openscapes not just environmental science. Our roots are here with the community that we grew up with but it is much more. Mozilla. 
+
+
+**Leaderful organizations**
+
+We should be nurturing and empowering leaderful teams in science - this means horizontal leadership no matter your career stage
+
+
+Jai: Electricity the cultural adaptation took a long time
+
+Self-Organising System - Extinction Rebellion
+
+--->
+
+### Talking about data science: Hilary Parker & Roger Peng
+
+[RStudio::conf(2020) keynote](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/) & [NSSD podcast episode 100]( http://nssdeviations.com/100-live-from-rstudio-conf-2020)
+
+> If you want to write, you read a lot, music, you listen a lot. I'ts hard to do this with data analysis.
+
+### Opinionated analysis development
+
+[Parker 2017, PeerJ](https://peerj.com/preprints/3210/)
+
+### Principles for data analysis workflows
+Stoudt, Vásquez & Martinez, 2021, PLOS Computational Biology
+
+<https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770>
+
+> workflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results.
+> Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.
+
+> Importantly, the difficulties we encounter in this [Explore] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges.
+
+### Brené Brown
+
+[Power of Vulnerability: TED Talk](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en)
+
+[Dare To Lead Podcast](https://brenebrown.com/dtl-podcast/) - many episodes here. One in particular: with [Lisa Lahey on Immunity to Change](https://brenebrown.com/podcast/immunity-to-change-part-1-of-2/). They expect to talk about this academically but then workshop one of Brené's needs. Notes from Julie: 
+
+> It's specifically about setting more deliberate meetings with your team so you're not overwhelmed by so many one-off communications, and really getting to the root of why that feels so out of control for you, and about how to make true change in yourself outside of that New Year's resolution model that feels so crushing and shameful when you can't meet those this. This provides a different model that is much more profound and provides incremental change. This is about identifying the true cause of things and setting up small experiments for yourself that are actionable so you can test them and get feedback on what's working and not so you can feel more agency and control in your day-to-day life. And in that help others too. I see so much benefit of this in my work and in my family. I want others to hear this too and think about how it can empower them as well. 
+
+
+
+### Hedgehog concept: Jim Collins
+
+[Hedgehog concept](https://www.jimcollins.com/concepts/the-hedgehog-concept.html)
+
+
+### All We Can Save: Ayana Johnson & Katharine Wilkinson
+
+[All We Can Save Project](https://www.allwecansave.earth/)
+
+> There is a renaissance blooming in the climate movement: leaderhip that is more characteristically feminine and more faithfully feminist, rooted in ompassion, connection, creativity, and collaboration. ...To change everything, we need everyone — All We Can Save
+
+> Johnson’s frustration with the climate movement isn’t about the current leaders doing a bad job—it’s just that we need more leaders. Her vision of the world includes people from every community in climate leadership roles. — [The Marine Biologist Building an Inclusive Climate Movement](https://www.vice.com/en/article/5dpyn3/the-marine-biologist-building-an-inclusive-climate-movement), Vice
+
+>All We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - [Eric Roston, Bloomberg](https://www.bloomberg.com/news/articles/2020-12-22/this-book-about-climate-change-will-give-you-hope)
+
+
+### The Power of Welcome 
+
+[The Value of Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/) — Stef Butland, rOpenSci
+
+### The moment of lift: Melinda Gates
+
+### Architecture of Participation: Tim O'Reilly
+
+[It's Not About You: The Truth About Social Media Marketing](https://www.linkedin.com/pulse/20121002122119-16553-it-s-not-about-you-the-truth-about-social-media-marketing) (2012). Strategy on community building through modern channels
+
+> "We tell big stories that matter to a community of users, and together we use those stories to amplify a message that we all care about...And once they start telling their story as part of the bigger story, it suddenly looks like a parade."
+
+[Open source paradigm shift](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
+
+> I've come to use the term "the architecture of participation" to describe the nature of systems that are designed for user contribution.
+
+### Systems Change: Donella Meadows 
+
+[Leverage points: places to intervene in a system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/): (in increasing order of effectiveness)
+
+12. Constants, parameters, numbers (such as subsidies, taxes, standards).
+11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+10. The structure of material stocks and flows (such as transport networks, population age structures).
+9. The lengths of delays, relative to the rate of system change.
+8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+7. The gain around driving positive feedback loops.
+6. The structure of information flows (who does and does not have access to information).
+5. The rules of the system (such as incentives, punishments, constraints).
+4. The power to add, change, evolve, or self-organize system structure.
+3. The goals of the system.
+2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+1. The power to transcend paradigms.
+
+
+> So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science,7 has a lot to say about that. In a nutshell, you keep pointing at the anomalies and failures in the old paradigm, you keep coming yourself, and loudly and with assurance from the new one, you insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather you work with active change agents and with the vast middle ground of people who are open-minded.
+
+
+### Organizational architecture 
+
+[Cautionary Tales Podcast Ep 6 -- How Britain Invented, Then Ignored, Blitzkrieg](http://timharford.com/2019/12/cautionary-tales-ep-6-how-britain-invented-then-ignored-blitzkrieg/). 
+
+This tale is about how the organizational architecture of existing entities - whether the British army, Sony, Kodak, or Xerox - cannot always support their own innovation because of the social structures they were built upon. Fascinating to think about in terms of how open science has not been embraced by scientific communities within the existing academic structure.
+
+
+### Disruption can feed creativity 
+
+[Cautionary Tales Podcast Ep 7 -- Bowie, jazz, and the unplayable piano](http://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/). 
+
+This tale is about music: how Keith Jarrett reluctantly played on a broken piano and how David Bowie and Brian Eno's take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with.
+
+### Kaitlyn Thaney
+
+[Funding research infrastructure](https://www.force11.org/blog/infrastructure-series-funding-research-infrastructure)
+
+> there’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. 
+> An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.
+
+
+<!---
+**Science as behaviour: Using a behaviour change approach to increase uptake of open science**
+Emma Norris & Daryl B. O’Connor
+To cite this article: Emma Norris & Daryl B. O’Connor (2019) Science as behaviour: Using a behaviour change approach to increase uptake of open science, Psychology & Health, 34:12, 1397-1406, DOI: 10.1080/08870446.2019.1679373
+To link to this article: https://doi.org/10.1080/08870446.2019.1679373
+
+Focused on the behavior changes and interactions needed at the level of J, journals/publishers, F, funders, I, institutions, R, researchers.
+
+Behavior Change Wheel (specifiaclly COM-B) posits three essential conditions as required to result in a behaviour (Michie et al., 2011): 
+
+1. ‘capability’ in the individual’s psychological and physical capacity to enact a behaviour
+1. ‘opportunity’ in the physical and social environment beyond the individual that allow a behaviour
+1. ‘motivation’ in the reflective and automatic mechanisms that activate or inhibit a behaviour 
+
+Another possibility might be to develop a Volitional Help Sheet for Open Science (VHS-OS; Armitage, 2008). The VHS technique is a simple technique that has been developed to help facilitate the forma- tion of if-then plans (or implementation intentions). This technique has been shown to be effective by encouraging respondents to actively form plans that help overcome salient barriers to engaging in a range of behaviours (Armitage, 2008; Armitage & Arden, 2012; O’Connor, Armitage, & Ferguson, 2015). Therefore, this might represent another fruitful way forward.
+
+https://www.cos.io/blog/open-science-is-a-behavior
+--->
+
+## Mentorship vs Sponsorship
+
+<https://larahogan.me/sponsors/>
+
+
+## Openscapes Onboarding Documentation
+
+The existence and structure of the Approach Guide is inspired from: 
+
+- <https://thefaylab.github.io/lab-manual/index.html>
+- <https://the-turing-way.netlify.app/community-handbook> 
+- <https://2i2c.org/team-compass/>
+- <https://highmountainasia.github.io/team-collaboration/>
+- and others
+
+

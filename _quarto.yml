@@ -57,6 +57,7 @@ website:
           - contributing/setup.qmd
           - contributing/workflow.md
           - contributing/inspiration.md
+          - contributing/resources.qmd
 
 format:
   html:
