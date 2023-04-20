@@ -46,6 +46,8 @@ We prefer to use Zoom over Google Meet, which we found has some limits to functi
 
 **When you join**, you'll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #seaside-chats, #shared-joy 🌈. You can browse other channels and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by "listening" to the discussions, then jump right in!
 
+If you're part of a cohort for an Openscapes program you'll also be invited to a private cohort channel. Open isn't all or nothing; being open with this cohort you're getting to know is a good way to start getting comfortable with the Slack community more broadly.
+
 The **#welcome channel** is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying "I work on sea turtles too!". Here's a short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
 
 #### Channel definitions
