@@ -1,5 +1,6 @@
 ---
 title: "Tooling"
+bibliography: references.bib
 ---
 
 We try to use a few tools that interoperate well and are open source and collaborative.
@@ -35,11 +36,21 @@ We prefer to use Zoom over Google Meet, which we found has some limits to functi
 
 ### Slack
 
-We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. Members include people who have participated in a Champions Program, Pathways to Open Science, or other Openscapes program.
+*Are you inviting someone to join Openscapes Slack? Send them the [link to this section](https://openscapes.github.io/approach-guide/approach/tooling.html#slack).*
+
+*Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
+
+**How do I use it?** Slack can feel like a daunting new tool, especially when we're introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) @woodley2020 from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
+
+**About Openscapes Slack:** We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. We want it to be a supportive, trust-based community of folks doing data intensive science. Members include, but are not limited to, people who have participated in a Champions Program, Pathways to Open Science, Reflections, NASA Cloud Cookbook Hackday, or other Openscapes program. Current Slack members can invite others to join - an informal sponsorship approach.
+
+When you join, you\'ll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #seaside-chats, #shared-joy 🌈. You can browse other channels and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by \"listening\" to the discussions, then jump right in!
+
+The **#welcome channel** is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying \"I work on sea turtles too!\". Here's a short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
 
 #### Channel definitions
 
-These are meant to help people know where to post or ask questions. These definitions are listed in the Slack channel Topic and Description (because the Topic preview is visible in the channel, while the Description is not).
+These definitions are meant to help people know where to post or ask questions. They are listed in the Slack channel Topic and Description (because the Topic preview is easily visible in the channel, while the Description, not so much).
 
 When people join, they automatically land in #welcome #general #seaside-chats #events #cool-finds #shared-joy #random.
 
@@ -58,8 +69,6 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 **#shared-joy**: Sharing joy of any shape or size
 
 **#random**: Non-work banter and water cooler conversation
-
--   <https://slack.com/downloads>
 
 ### Zoom
 
