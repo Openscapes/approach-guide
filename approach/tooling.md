@@ -36,7 +36,7 @@ We prefer to use Zoom over Google Meet, which we found has some limits to functi
 
 ### Slack
 
-*Are you inviting someone to join Openscapes Slack? Send them the [link to this section](https://openscapes.github.io/approach-guide/approach/tooling.html#slack).*
+*Are you inviting someone to join Openscapes Slack? Send them the link to this section.*
 
 *Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
 

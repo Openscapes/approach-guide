@@ -276,36 +276,13 @@ Our use of Slack is outlined in [Tooling](../approach/tooling.md#slack)
 
 After the first Cohort Call, we:
 
--   Create a private Slack channel for the cohort
--   Invite everyone to Slack. Adapt example email below, with Invite link created inside Slack and copied to that email
-
-::: {.callout-tip collapse="true"} 
-## Example email Slack invitation
-
-*revise to include invitation link in body of email, not as followup email coming from inside Slack, but hide link when this is copied to public GitHub Issue*
-
-Subject: Openscapes invitation to Slack
-
-You'll soon receive an email-invitation to join Openscapes Slack as a way to connect with other Openscapes Champions. You will automatically land in several channels plus a private nmfs-champions channel that includes people from all 4 NMFS Fall 2022 Cohorts. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by "listening" to the discussions.
-
-When you join, you'll automatically land in #welcome #cool-finds #events #general #random #seaside-chats #shared-joy. You can browse other channels and choose to join them (click 3 dots beside Channels \> Browse channels).
-
-The #welcome channel is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying "I work on sea turtles too!". Short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
-
-New to Slack? There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
-:::
-
-
-Slack can be a daunting new tool at a time when we're introducing lots of tools. That's why we send that welcoming invitation email providing some background and links to guidance, rather than simply adding people's emails from inside Slack.
-
--   Write a welcome message in the general channel
-
-::: {.callout-tip collapse="true"}
-## Example Slack #general post
-
-Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
-:::
-
+-   Create a private Slack channel for the cohort, called \[ year-cohort-name \]
+-   Invite Cohort to join Slack
+    -   In Digest of Cohort Call 01 say, You'll soon receive an invitation to join Openscapes Slack. Here\'s some [information](https://openscapes.github.io/approach-guide/approach/tooling.html#slack) in our Approach Guide to help you get comfortable.
+    -   Inside Slack \> Openscapes \> Invite people to Openscapes \> add list of email addresses. Invite as Member. Custom message (Copy this text exactly because URLs are not permitted in custom invitation message): "Please join us in Openscapes Slack. Here\'s some information in our Approach Guide to help you get comfortable (copy the url then remove the space after //): https:// openscapes.github.io/approach-guide/approach/tooling.html#slack."
+        -   Custom invitation messages are limited to 560 characters and do not allow urls
+        -   Sending the invite from inside Slack is preferable to creating an invitation link that gets sent in a separate email.
+-   Write a welcome message in the #general channel: Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
 
 ## GitHub Clinics
 
