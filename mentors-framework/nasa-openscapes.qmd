@@ -1,0 +1,55 @@
+---
+title: "NASA Openscapes"
+format: html
+---
+
+**NASA Openscapes answers a NASA Earthdata call to support scientific researchers using data from NASA Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud.**
+
+"Enabling a new era of science on the cloud" is a 3-year collaboration with NASA Earthdata (NASA ROSES 80NSSC21K0564 Award # 20-TWSC20-2-0003)
+
+We share all work openly through our website: [nasa-openscapes.github.io](https://nasa-openscapes.github.io/).
+
+Here we will be building out detailed elements from our approach so that we and others can repeat this example with the Mentors Framework. Currently, here are places for lessons learned & guidance:
+
+## The Openscapes Flywheel
+
+[The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices (Robinson & Lowndes 2021)](https://eartharxiv.org/repository/view/4560/)
+
+### Abstract
+
+Solutions to large-scale environmental and social challenges require radical collaboration that blends technology and people --- and the Open science movement is answering that call by transforming how we work together. While often the focus is on data, publications, code, software developers, and researchers, the transition to Open involves investment across agencies and organizations of all kinds. One critical and often-overlooked part of transitioning to Open is that it requires support from managers and leadership, who do not need to be Open science experts but who can imagine the return on investment and support their teams through time and resources to learn new skills and technologies, take risks, and even fail through the process. In this paper we describe our work developing the Openscapes Flywheel with NASA Earth science data centers, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time. We offer three practical ways managers can support their teams and grow morale and technical capacity across their organizations: (1) Engage bright spots, through welcoming them and creating space and place; (2) Empower a learning culture through, investing in learning and trust and working openly (3) Amplify Open science leaders, through leveraging the common and inspiring the bigger movement. Together these lessons create kinder and more inclusive organizations that are more resilient as data volumes increase and software evolve, and dispel the hero myth of science. Engaging, empowering and amplifying efforts to support people while modernizing our workforce is the way that we will meet the world's greatest challenges, from climate change to social justice to democracy. We can already see how working this way increases inclusion, reproducibility, and resilience within and across government, academic, and non-profit organizations, and are hopeful for what we can do together in growing this movement.
+
+## Annual Reports
+
+These are available as PDFs from one of our GitHub repositories:
+
+[github.com/NASA-Openscapes/how_we_work](https://github.com/NASA-Openscapes/how_we_work)
+
+### Year 1 Summary, 2021
+
+The overarching vision of our project is to support scientific researcher teams using NASA EOSDIS data as they migrate their workflows to the cloud. We are doing this working with NASA Distributed Active Archive Centers (DAACs) over three years by: Developing a cross-DAAC Mentor community Empowering science teams through the Champions program Scaling the Champions program with DAAC Mentors
+
+In Year 1 we focused on item (1) Developing a cross-DAAC Mentor community through developing the DAAC Mentors program, leading the DAAC Mentors program, and community engagement within NASA and beyond. These activities and products are detailed below.
+
+In Year 1 we adapted our plans for items (2,3) the Champions program to better align with timelines for NASA Earthdata in the cloud, as well as for further development in the Mentors community and investment in Cloud curriculum (e.g. Earthdata Cloud Cookbook and 2021 Cloud Hackathon). We advertised for a Champions Cohort for summer 2021 but shifted to March 2022 instead. We describe preparations for this in more detail below and the Cohort itself will be detailed in Year 2.
+
+Appendix 2 are slides from a 10-min presentation at the ESIP Winter meeting (January 2022) summarizing and visualizing some of these efforts.
+
+### Year 2 Summary, 2022
+
+NASA Openscapes is a 3-year effort to grow a cross-DAAC Mentor community supporting Open NASA Earth Science in the Cloud. We approach this work as movement building, and developed the Openscapes Flywheel with NASA Earth science data centers, using the concept where transformations occur from relentlessly pushing a giant, heavy flywheel that builds momentum over time. The Flywheel supports teams across NASA DAACs to to grow morale and technical capacity across their organizations by (1) Engage bright spots, through welcoming them and creating space and place; (2) Empower a learning culture through investing in learning and trust and working openly (3) Amplify Open science leaders, through leveraging the common and inspiring the bigger movement ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). Through this work, some highlights of impact to date: (1 Engage): 7 DAACs participating (NSIDC, PO.DAAC, LP DAAC, GES DISC, ASDC, ASF, ORNL); have a JupyterHub and Notebook-Quarto-GitHub workflow for documentation and publishing; have co-created a consistent set of tutorials, teaching style, and mindset; co-led the 2021 Cloud Hackathon and 2022 Champions program; have documented our work through the Flywheel pub and Approach Guide; and given many invited talks & keynotes. (2 Empower): Mentors have led 10 Workshops: internal with DAAC staff and external with researchers; developed the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/); Reused tutorials, slides, graphics and facilitation and open practices; were more aware cross-DAAC, less recreating; from user feedback developed [Cheatsheets](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheet.html) and the [earthaccess](https://nsidc.github.io/earthaccess/) python library; wrote the [Value of Hosted JupyterHubs (White paper RFI)](https://zenodo.org/record/7667299#.Y_Zxt3bMJPY); Collaborating on Hackweeks, 2i2c cont\'d access after workshops. (3 Amplify): Mentors are amplifying across-DAACs and beyond: Career advancement & bringing mindset to new places; Speaking up in other meetings (User Needs TIM, TRAIN, Cloud Playground); Connecting & consulting based on experiences - Pathfinder for 2i2c, comparing w/ SMCE; AWS; Engaging beyond (Pangeo Forge, Ladies of Landsat, pyOpenSci).
+
+From one Mentor, Cassandra Nickles (PO.DAAC):
+
+> Openscapes has created a collaborative environment for DAAC staff to collectively support open science initiatives for NASA Earthdata users. It enables us to work more openly with other DAACs toward our common goal of making the Earthdata ecosystem more accessible and inclusive. We\'ve developed awesome material to help Earthdata users such as[ workflow cheatsheets](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheets.html), a python package ([earthaccess](https://nsidc.github.io/earthaccess/tutorials/demo/)), and data recipes hosted in the cross-DAAC[ NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). Perhaps just as important as what we\'ve done however, are mindsets we\'ve grown into along the way. It\'s okay to share imperfect works in progress. The virtual environment can be conducive to laughter and connection. Ideas are not too big or too small to share. We are better at dreaming and implementing the future together.
+
+##  The Value of Hosted JupyterHubs 
+
+[The Value of Hosted JupyterHubs in enabling Open NASA Earth Science in the Cloud](https://zenodo.org/record/7667299#.Y_Zxt3bMJPY) - by Cassandra Nickles; Aaron Friesz; Alexis Hunzinger; Andrew P. Barrett; Brianna Lind; Jessica Welch; Luis Lopez; Mahsa Jami; Michele Thornton; Erin Robinson; Julia Stewart Lowndes; The NASA Openscapes Mentor Community
+
+
+### Abstract
+
+This document is a response from NASA Openscapes to NASA RFI NNH23ZDA005L: Scientific Data and Computing Architecture to Support Open Science. The submission provides a recommendation for NASA to recognize easy, accessible, and inclusive cloud access as a Core Service to support the agency's Open Source Science Initiative.
+
+The following Request for Information (RFI) presents collective thoughts of the NASA Openscapes mentor community. NASA Openscapes, co-facilitated by Erin Robinson and Julia Stewart Lowndes, is a space where members from seven NASA Distributed Active Archive Centers (DAACs) come together to collaborate. This cross-DAAC mentor community develops resources, teaches, and listens to feedback from NASA Earthdata end users on a regular basis. NASA has provided data freely through the DAACs for decades, enabling researchers to make significant contributions to understanding our planet that would not have been possible otherwise. As Earthdata migrates to the cloud, we at the DAACs have been positioned to help facilitate data ease of access for end users within this cloud infrastructure. We are uniquely familiar with the broader challenges our data end users face as they transition their workflows to the cloud and hope to share our experiences and recommendations as NASA moves to inclusively support open science practices in the cloud framework.

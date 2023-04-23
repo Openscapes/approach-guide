@@ -1,0 +1,18 @@
+---
+title: "Mentors Framework"
+format: html
+---
+
+The Mentors Framework is something that we've developed first through our work with NASA Openscapes, co-led with Erin Robinson of Metadata Game Changers. 
+
+This is a multi-year engine for culture change within organizations. This means a framework for sustainably scaling technical and social skill-building through the Openscapes Champions Program and other learning formats such as multi-day hands-on workshops and hackathons.
+
+An overview of how we build the Mentors Framework with NASA Earthdata staff across different data centers (Distributed Active Archive Centers (DAACs)) is detailed in our recent preprint: 
+
+[The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices (Robinson & Lowndes 2021)](https://eartharxiv.org/repository/view/4560/)
+
+<br>
+
+[![Figure 1 from Robinson & Lowndes 2021. The Openscapes Flywheel builds momentum as a culture change engine as We engage a Future Us mindset through welcoming and creating space and place, we Empower a learning culture by investing in learning and trust, and working openly, and we amplify open leaders by leveraging common open data science workflows, skills and tools and inspire broader scientific culture change. And the Flywheel turns again.](images/openscapes-flywheel-vpub.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Welcome; Create space and place; Invest in learning and trust; Work openly; Leverage common workflows, skills, and tools; and Inspire. There are three phases that categorize these Flywheel points. Phase 1: Engage = Welcome; Create space and place; Phase 2: Empower = Invest in learning and trust; Work openly; Phase 3: Amplify = Leverage common workflows, skills, and tools; and Inspire."}](https://openscapes.org)
+
+[The Flywheel is a concept developed by Jim Collins](https://www.jimcollins.com/concepts/the-flywheel.html) in the book Good to Great; it’s the idea that when building something to last, there is no single defining action. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. We’ve found these are the synergistic and overlapping elements for open data science movement building which we’ve tested, iterated, and refined in working with over 150 research teams since 2019. We are really focused on building habits that last, and institutional change that lasts. 

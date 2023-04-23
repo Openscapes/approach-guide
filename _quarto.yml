@@ -52,6 +52,9 @@ website:
           - champions/lessons.qmd
           - champions/leading-cohort-calls.qmd
           - champions/post-cohort-followup.qmd
+      - section: mentors-framework/index.qmd
+        contents:
+          - mentors-framework/design.md 
       - section: contributing/index.qmd
         contents:
           - contributing/setup.qmd
