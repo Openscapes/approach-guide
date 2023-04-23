@@ -53,3 +53,9 @@ From one Mentor, Cassandra Nickles (PO.DAAC):
 This document is a response from NASA Openscapes to NASA RFI NNH23ZDA005L: Scientific Data and Computing Architecture to Support Open Science. The submission provides a recommendation for NASA to recognize easy, accessible, and inclusive cloud access as a Core Service to support the agency's Open Source Science Initiative.
 
 The following Request for Information (RFI) presents collective thoughts of the NASA Openscapes mentor community. NASA Openscapes, co-facilitated by Erin Robinson and Julia Stewart Lowndes, is a space where members from seven NASA Distributed Active Archive Centers (DAACs) come together to collaborate. This cross-DAAC mentor community develops resources, teaches, and listens to feedback from NASA Earthdata end users on a regular basis. NASA has provided data freely through the DAACs for decades, enabling researchers to make significant contributions to understanding our planet that would not have been possible otherwise. As Earthdata migrates to the cloud, we at the DAACs have been positioned to help facilitate data ease of access for end users within this cloud infrastructure. We are uniquely familiar with the broader challenges our data end users face as they transition their workflows to the cloud and hope to share our experiences and recommendations as NASA moves to inclusively support open science practices in the cloud framework.
+
+## Impact Summary 
+
+[Communicating impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit#slide=id.g1b5922f14f8_0_83)
+
+This is a 15-minute slide deck presented at an internal NASA meeting in Balitmore (called "ESDSWG") in March 2023. Justin Rice (NASA) co-presented, opening by saying "the impact Openscapes has had in the last 2 years is almost unprecidented at NASA." He emphasized that we've established technical infrastructure and also social infrastructure and that has been key.
