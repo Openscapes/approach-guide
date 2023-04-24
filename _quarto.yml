@@ -54,7 +54,7 @@ website:
           - champions/post-cohort-followup.qmd
       - section: mentors-framework/index.qmd
         contents:
-          - mentors-framework/nasa-openscapes.md 
+          - mentors-framework/nasa-openscapes.qmd 
       - section: contributing/index.qmd
         contents:
           - contributing/setup.qmd
