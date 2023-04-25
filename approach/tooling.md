@@ -120,7 +120,7 @@ Recommended workflow for now:
 
     -   *What didn't work well*: "Add Zoom" button, which used "Stefanie Butland's personal meeting room", created a mtg in Zoom that has a Zoom registration link, not a clear meeting link. Stumped for now as to how to make that Eventbrite-Zoom integration work.
 
-    ![](images/Screenshot%202023-04-05%20at%209.20.22%20PM.png){width="500"}
+    ![](images/eventbrite-screenshot.png){width="500"}
 
 3.  Create and schedule reminder emails.Eventbrite \> Manage attendees \> Emails to attendees \> create one custom reminder email. Set reply-to as `hello@openscapes.org`. Delete other default reminders (Eventbrite makes 3 reminders by default and that's annoying). For reminder emails in an event series, we must update for every event in the series.
 
@@ -130,14 +130,41 @@ Recommended workflow for now:
 
 ### Zenodo {#sec-zenodo}
 
-We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose.
+We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository and a [**Zenodo Openscapes Community**](https://zenodo.org/communities/openscapes/) for this purpose.
 
-[Zenodo](https://zenodo.org/) is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier") (DOI) is minted, which makes the stored items easily citable (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Zenodo)). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is *not* a repository.
+[Zenodo](https://zenodo.org/) is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier") (DOI) is minted, which makes the stored items easily citable (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Zenodo)). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is *not* a repository. For the full picture, this 1-hr webinar is helpful: [Zenodo: open digital repository \| 2022.12.07](https://youtu.be/yj2r8RayIX8).
 
-For the full picture, this 1-hr webinar is great: [Zenodo: open digital repository \| 2022.12.07](https://youtu.be/yj2r8RayIX8).
+We created a [Zenodo Openscapes Community](https://zenodo.org/communities/openscapes/) as a "semantically meaningful group" of research products in order to make them easily citable and more visible. Examples: NASA's [Transform to Open Science](https://zenodo.org/communities/tops/); [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://zenodo.org/communities/cscce/).
 
-#### Creating a Zenodo Openscapes Community
+Zenodo has a Sandbox in which one can create and refine a draft Community before creating the real thing. This webinar section "[How to create a community](https://youtu.be/yj2r8RayIX8?t=734)" screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like "curator", rather than a personal email username; or deciding what types of research products to include.
 
-We're creating and populating a Zenodo Openscapes Community as a "semantically meaningful group" of research products in order to make them easily citable and more visible. Examples: NASA's [Transform to Open Science](https://zenodo.org/communities/tops/); [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://zenodo.org/communities/cscce/).
+#### What do we curate in our Zenodo Openscapes Community?
 
-Zenodo has a Sandbox in which we can create and refine a draft Community before creating the real thing. This webinar section "[How to create a community](https://youtu.be/yj2r8RayIX8?t=734)" screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like "curator", rather than a personal email username; or deciding what types of research products to include.
+Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do want:
+
+-   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
+    -   make a "release" on GitHub and submit that to Zenodo
+-   key blog posts like ESIP 2022, 2023 panels
+    -   create and upload pdf of post from the website
+-   slide decks from key presentations
+    -   upload pdf of slides
+
+#### How to add your existing Zenodo record to the Zenodo Openscapes Community
+
+If you own an **existing** Zenodo record you'd like to have listed, log into Zenodo, go to that record's page, click yellow Edit button (top right) ...
+
+![](images/zenodo-edit-record.png){fig-alt="screenshot of zenodo record page where owner is logged in, showing yellow Edit button" width="460"}
+
+In the Edit page that appears, scroll to Communities section \> type "openscapes" and select it ...
+
+![](images/zenodo-edit-community.png){width="460"}
+
+Click Save \> click Publish (these appear at top and bottom of the edit page)
+
+![](images/zenodo-edit-save.png){width="460"}
+
+curator\@openscapes.org will get email notification of your request and accept, or may ask for further information.
+
+#### How to include a new Zenodo record in the Zenodo Openscapes Community
+
+Are you creating a **new** Zenodo record? Use this link and it will automatically be added to our community collection: <https://zenodo.org/deposit/new?c=openscapes>
