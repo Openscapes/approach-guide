@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.340">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +39,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -90,11 +90,16 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Tooling</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../approach/index.html">Openscapes Approach</a></li><li class="breadcrumb-item"><a href="../approach/tooling.html">Tooling</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -102,161 +107,185 @@ div.csl-indent {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../images/openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://openscapes.org" title="Openscapes.org" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/openscapes/approach-guide" title="Openscapes Approach Guide GitHub" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+    <a href="https://openscapes.org" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/openscapes/approach-guide" title="Openscapes Approach Guide GitHub" class="quarto-navigation-tool px-1" aria-label="Openscapes Approach Guide GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="quarto-navigation-tool px-1" aria-label="Openscapes Twitter"><i class="bi bi-twitter"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link">Welcome</a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../approach/index.html" class="sidebar-item-text sidebar-link">Openscapes Approach</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a href="../approach/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Openscapes Approach</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/code-of-conduct.html" class="sidebar-item-text sidebar-link">Code of Conduct</a>
+  <a href="../approach/code-of-conduct.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Code of Conduct</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/seaside-chats.html" class="sidebar-item-text sidebar-link">Seaside Chats, etc.</a>
+  <a href="../approach/seaside-chats.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Seaside Chats, etc.</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/onboarding.html" class="sidebar-item-text sidebar-link">Onboarding</a>
+  <a href="../approach/onboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Onboarding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/tooling.html" class="sidebar-item-text sidebar-link active">Tooling</a>
+  <a href="../approach/tooling.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Tooling</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/documentation.html" class="sidebar-item-text sidebar-link">Documentation</a>
+  <a href="../approach/documentation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Documentation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/partners.html" class="sidebar-item-text sidebar-link">Partners</a>
+  <a href="../approach/partners.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Partners</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/calendar.html" class="sidebar-item-text sidebar-link">Calendar</a>
+  <a href="../approach/calendar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calendar</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../approach/qual-assessment.html" class="sidebar-item-text sidebar-link">Qualitative Assessment</a>
+  <a href="../approach/qual-assessment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Qualitative Assessment</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../champions/index.html" class="sidebar-item-text sidebar-link">Champions Program</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a href="../champions/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Champions Program</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/design.html" class="sidebar-item-text sidebar-link">Program Design &amp; Timeline</a>
+  <a href="../champions/design.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Program Design &amp; Timeline</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/cohort-planning.html" class="sidebar-item-text sidebar-link">Cohort Planning</a>
+  <a href="../champions/cohort-planning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cohort Planning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/pre-cohort-engage.html" class="sidebar-item-text sidebar-link">Pre-cohort engagement</a>
+  <a href="../champions/pre-cohort-engage.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pre-cohort engagement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/pre-cohort-tech.html" class="sidebar-item-text sidebar-link">Cohort tech setup</a>
+  <a href="../champions/pre-cohort-tech.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cohort tech setup</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/lessons.html" class="sidebar-item-text sidebar-link">Lesson Planning</a>
+  <a href="../champions/lessons.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lesson Planning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/leading-cohort-calls.html" class="sidebar-item-text sidebar-link">Leading Cohort Calls</a>
+  <a href="../champions/leading-cohort-calls.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Leading Cohort Calls</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../champions/post-cohort-followup.html" class="sidebar-item-text sidebar-link">Post-Cohort followup</a>
+  <a href="../champions/post-cohort-followup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Post-Cohort followup</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../mentors-framework/index.html" class="sidebar-item-text sidebar-link">Mentors Framework</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
+            <a href="../mentors-framework/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors Framework</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../mentors-framework/nasa-openscapes.html" class="sidebar-item-text sidebar-link">NASA Openscapes</a>
+  <a href="../mentors-framework/nasa-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">NASA Openscapes</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../contributing/index.html" class="sidebar-item-text sidebar-link">Contributing</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
+            <a href="../contributing/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contributing</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../contributing/setup.html" class="sidebar-item-text sidebar-link">Setup</a>
+  <a href="../contributing/setup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Setup</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../contributing/workflow.html" class="sidebar-item-text sidebar-link">Workflow</a>
+  <a href="../contributing/workflow.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Workflow</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../contributing/inspiration.html" class="sidebar-item-text sidebar-link">Inspiration</a>
+  <a href="../contributing/inspiration.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inspiration</span></a>
   </div>
 </li>
       </ul>
@@ -264,6 +293,7 @@ div.csl-indent {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -288,7 +318,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Tooling</h1>
+<h1 class="title">Tooling</h1>
 </div>
 
 
@@ -405,7 +435,7 @@ div.csl-indent {
 <ul>
 <li><em>What didn’t work well</em>: “Add Zoom” button, which used “Stefanie Butland’s personal meeting room”, created a mtg in Zoom that has a Zoom registration link, not a clear meeting link. Stumped for now as to how to make that Eventbrite-Zoom integration work.</li>
 </ul>
-<p><img src="images/Screenshot 2023-04-05 at 9.20.22 PM.png" class="img-fluid" width="500"></p></li>
+<p><img src="images/eventbrite-screenshot.png" class="img-fluid" width="500"></p></li>
 <li><p>Create and schedule reminder emails.Eventbrite &gt; Manage attendees &gt; Emails to attendees &gt; create one custom reminder email. Set reply-to as <code>hello@openscapes.org</code>. Delete other default reminders (Eventbrite makes 3 reminders by default and that’s annoying). For reminder emails in an event series, we must update for every event in the series.</p>
 <ul>
 <li><p>We create a custom reminder email with <em>Subject</em>: Zoom link for Openscapes event-name. <em>Body</em>: We’re excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom:&nbsp;LINK. Optional, include event logo or Openscapes logo.</p></li>
@@ -416,21 +446,49 @@ div.csl-indent {
 </section>
 <section id="sec-zenodo" class="level3">
 <h3 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h3>
-<p>We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose.</p>
-<p><a href="https://zenodo.org/">Zenodo</a> is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">digital object identifier</a> (DOI) is minted, which makes the stored items easily citable (adapted from <a href="https://en.wikipedia.org/wiki/Zenodo">Wikipedia</a>). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is <em>not</em> a repository.</p>
-<p>For the full picture, this 1-hr webinar is great: <a href="https://youtu.be/yj2r8RayIX8">Zenodo: open digital repository | 2022.12.07</a>.</p>
-<section id="creating-a-zenodo-openscapes-community" class="level4">
-<h4 class="anchored" data-anchor-id="creating-a-zenodo-openscapes-community">Creating a Zenodo Openscapes Community</h4>
-<p>We’re creating and populating a Zenodo Openscapes Community as a “semantically meaningful group” of research products in order to make them easily citable and more visible. Examples: NASA’s <a href="https://zenodo.org/communities/tops/">Transform to Open Science</a>; <a href="https://zenodo.org/communities/cscce/">Center for Scientific Collaboration and Community Engagement (CSCCE)</a>.</p>
-<p>Zenodo has a Sandbox in which we can create and refine a draft Community before creating the real thing. This webinar section “<a href="https://youtu.be/yj2r8RayIX8?t=734">How to create a community</a>” screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like “curator”, rather than a personal email username; or deciding what types of research products to include.</p>
+<p>We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository and a <a href="https://zenodo.org/communities/openscapes/"><strong>Zenodo Openscapes Community</strong></a> for this purpose.</p>
+<p><a href="https://zenodo.org/">Zenodo</a> is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">digital object identifier</a> (DOI) is minted, which makes the stored items easily citable (adapted from <a href="https://en.wikipedia.org/wiki/Zenodo">Wikipedia</a>). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is <em>not</em> a repository. For the full picture, this 1-hr webinar is helpful: <a href="https://youtu.be/yj2r8RayIX8">Zenodo: open digital repository | 2022.12.07</a>.</p>
+<p>We created a <a href="https://zenodo.org/communities/openscapes/">Zenodo Openscapes Community</a> as a “semantically meaningful group” of research products in order to make them easily citable and more visible. Examples: NASA’s <a href="https://zenodo.org/communities/tops/">Transform to Open Science</a>; <a href="https://zenodo.org/communities/cscce/">Center for Scientific Collaboration and Community Engagement (CSCCE)</a>.</p>
+<p>Zenodo has a Sandbox in which one can create and refine a draft Community before creating the real thing. This webinar section “<a href="https://youtu.be/yj2r8RayIX8?t=734">How to create a community</a>” screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like “curator”, rather than a personal email username; or deciding what types of research products to include.</p>
+<section id="what-do-we-curate-in-our-zenodo-openscapes-community" class="level4">
+<h4 class="anchored" data-anchor-id="what-do-we-curate-in-our-zenodo-openscapes-community">What do we curate in our Zenodo Openscapes Community?</h4>
+<p>Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator@openscapes.org. We don’t want to include <em>everything</em>. We do want:</p>
+<ul>
+<li>Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
+<ul>
+<li>make a “release” on GitHub and submit that to Zenodo</li>
+</ul></li>
+<li>key blog posts like ESIP 2022, 2023 panels
+<ul>
+<li>create and upload pdf of post from the website</li>
+</ul></li>
+<li>slide decks from key presentations
+<ul>
+<li>upload pdf of slides</li>
+</ul></li>
+</ul>
+</section>
+<section id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" class="level4">
+<h4 class="anchored" data-anchor-id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community">How to add your existing Zenodo record to the Zenodo Openscapes Community</h4>
+<p>If you own an <strong>existing</strong> Zenodo record you’d like to have listed, log into Zenodo, go to that record’s page, click yellow Edit button (top right) …</p>
+<p><img src="images/zenodo-edit-record.png" class="img-fluid" alt="screenshot of zenodo record page where owner is logged in, showing yellow Edit button" width="460"></p>
+<p>In the Edit page that appears, scroll to Communities section &gt; type “openscapes” and select it …</p>
+<p><img src="images/zenodo-edit-community.png" class="img-fluid" width="460"></p>
+<p>Click Save &gt; click Publish (these appear at top and bottom of the edit page)</p>
+<p><img src="images/zenodo-edit-save.png" class="img-fluid" width="460"></p>
+<p>curator@openscapes.org will get email notification of your request and accept, or may ask for further information.</p>
+</section>
+<section id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community" class="level4">
+<h4 class="anchored" data-anchor-id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community">How to include a new Zenodo record in the Zenodo Openscapes Community</h4>
+<p>Are you creating a <strong>new</strong> Zenodo record? Use this link and it will automatically be added to our community collection: <a href="https://zenodo.org/deposit/new?c=openscapes" class="uri">https://zenodo.org/deposit/new?c=openscapes</a></p>
 
 
 
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-woodley2020" class="csl-entry" role="doc-biblioentry">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-woodley2020" class="csl-entry" role="listitem">
 Woodley, Lou, and Katie Pratt. 2020. <span>“Slack Quick Start Guide,”</span> April. <a href="https://doi.org/10.5281/ZENODO.3763729">https://doi.org/10.5281/ZENODO.3763729</a>.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -576,9 +634,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -643,6 +715,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -698,6 +856,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© CC-By Openscapes Core Team, Julia Stewart Lowndes &amp; Erin Robinson (2022). Openscapes Approach Guide (Version v0.0.1).</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
