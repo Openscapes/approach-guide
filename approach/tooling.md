@@ -20,6 +20,10 @@ We use an Openscapes Google Workspace. This is our default system for Champions 
 
 We prefer to use Zoom over Google Meet, which we found has some limits to functionality e.g. breakout rooms
 
+We send newsletters via Google Group following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs): 
+
+> Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
+
 ### GitHub
 
 -   version control for everything that's not Google Drive
