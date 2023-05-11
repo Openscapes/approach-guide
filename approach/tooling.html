@@ -303,13 +303,27 @@ div.csl-indent {
   <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link active" data-scroll-target="#google-workspace">Google Workspace</a></li>
   <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github">GitHub</a></li>
   <li><a href="#rrstudio" id="toc-rrstudio" class="nav-link" data-scroll-target="#rrstudio">R/RStudio</a></li>
-  <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
-  <li><a href="#zoom" id="toc-zoom" class="nav-link" data-scroll-target="#zoom">Zoom</a></li>
+  <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a>
+  <ul class="collapse">
+  <li><a href="#channel-definitions" id="toc-channel-definitions" class="nav-link" data-scroll-target="#channel-definitions">Channel definitions</a></li>
+  </ul></li>
+  <li><a href="#zoom" id="toc-zoom" class="nav-link" data-scroll-target="#zoom">Zoom</a>
+  <ul class="collapse">
+  <li><a href="#two-scenarios-for-sharing-audio-in-zoom" id="toc-two-scenarios-for-sharing-audio-in-zoom" class="nav-link" data-scroll-target="#two-scenarios-for-sharing-audio-in-zoom">Two scenarios for sharing audio in Zoom</a></li>
+  </ul></li>
   <li><a href="#quicktime-video-editing" id="toc-quicktime-video-editing" class="nav-link" data-scroll-target="#quicktime-video-editing">Quicktime video editing</a></li>
   <li><a href="#zotero" id="toc-zotero" class="nav-link" data-scroll-target="#zotero">Zotero</a></li>
   <li><a href="#orcidrescognito" id="toc-orcidrescognito" class="nav-link" data-scroll-target="#orcidrescognito">ORCID/Rescognito</a></li>
-  <li><a href="#eventbrite" id="toc-eventbrite" class="nav-link" data-scroll-target="#eventbrite">Eventbrite</a></li>
-  <li><a href="#sec-zenodo" id="toc-sec-zenodo" class="nav-link" data-scroll-target="#sec-zenodo">Zenodo</a></li>
+  <li><a href="#eventbrite" id="toc-eventbrite" class="nav-link" data-scroll-target="#eventbrite">Eventbrite</a>
+  <ul class="collapse">
+  <li><a href="#eventbrite---zoom---google-cal-how-to-set-up-an-event" id="toc-eventbrite---zoom---google-cal-how-to-set-up-an-event" class="nav-link" data-scroll-target="#eventbrite---zoom---google-cal-how-to-set-up-an-event">Eventbrite - Zoom - Google Cal how-to set up an event</a></li>
+  </ul></li>
+  <li><a href="#sec-zenodo" id="toc-sec-zenodo" class="nav-link" data-scroll-target="#sec-zenodo">Zenodo</a>
+  <ul class="collapse">
+  <li><a href="#what-do-we-curate-in-our-zenodo-openscapes-community" id="toc-what-do-we-curate-in-our-zenodo-openscapes-community" class="nav-link" data-scroll-target="#what-do-we-curate-in-our-zenodo-openscapes-community">What do we curate in our Zenodo Openscapes Community?</a></li>
+  <li><a href="#how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" id="toc-how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" class="nav-link" data-scroll-target="#how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community">How to add your existing Zenodo record to the Zenodo Openscapes Community</a></li>
+  <li><a href="#how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community" id="toc-how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community" class="nav-link" data-scroll-target="#how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community">How to include a new Zenodo record in the Zenodo Openscapes Community</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/approach/tooling.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -336,8 +350,8 @@ div.csl-indent {
 <p>We try to use a few tools that interoperate well and are open source and collaborative.</p>
 <p>We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.</p>
 <p>Below are the tools that we use, why we use them, and set up instructions. (Here are some <a href="https://github.com/Openscapes/teaching-learning-resources/issues/12">Macbook setup notes</a>).</p>
-<section id="google-workspace" class="level3">
-<h3 class="anchored" data-anchor-id="google-workspace">Google Workspace</h3>
+<section id="google-workspace" class="level2">
+<h2 class="anchored" data-anchor-id="google-workspace">Google Workspace</h2>
 <p>We use an Openscapes Google Workspace. This is our default system for Champions Cohorts, however, we have adapted when required to use MS Teams / Sharepoint.</p>
 <ul>
 <li>Calendar</li>
@@ -351,8 +365,8 @@ div.csl-indent {
 <p>Compose your email message. In the “To” field of an email message, instead of adding each team member’s email address to your email, just enter the group’s address as a recipient.</p>
 </blockquote>
 </section>
-<section id="github" class="level3">
-<h3 class="anchored" data-anchor-id="github">GitHub</h3>
+<section id="github" class="level2">
+<h2 class="anchored" data-anchor-id="github">GitHub</h2>
 <ul>
 <li>version control for everything that’s not Google Drive</li>
 <li>coordination with Issues and GitHub Projects</li>
@@ -360,8 +374,8 @@ div.csl-indent {
 <li>comms through website</li>
 </ul>
 </section>
-<section id="rrstudio" class="level3">
-<h3 class="anchored" data-anchor-id="rrstudio">R/RStudio</h3>
+<section id="rrstudio" class="level2">
+<h2 class="anchored" data-anchor-id="rrstudio">R/RStudio</h2>
 <ul>
 <li>all websites and books</li>
 <li>data analysis (R: tidyverse, RMarkdown)</li>
@@ -369,8 +383,8 @@ div.csl-indent {
 <li><a href="https://openscapes.github.io/series/how-to/setup-rstudio-github.html">RStudio and GitHub setup instructions</a></li>
 </ul>
 </section>
-<section id="slack" class="level3">
-<h3 class="anchored" data-anchor-id="slack">Slack</h3>
+<section id="slack" class="level2">
+<h2 class="anchored" data-anchor-id="slack">Slack</h2>
 <p><em>Are you inviting someone to join Openscapes Slack? Send them the link to this section.</em></p>
 <p><em>Have you received an invitation to join Openscapes Slack? Here’s some information to help you get comfortable.</em></p>
 <p><strong>How do I use it?</strong> Slack can feel like a daunting new tool, especially when we’re introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see <a href="https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members">Getting started for new members</a> and <a href="https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide">How to use Slack</a>. This Slack <a href="https://doi.org/10.5281/zenodo.3763729">quick start guide</a> <span class="citation" data-cites="woodley2020">Woodley and Pratt (<a href="#ref-woodley2020" role="doc-biblioref">2020</a>)</span> from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.</p>
@@ -378,8 +392,8 @@ div.csl-indent {
 <p><strong>When you join</strong>, you’ll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #seaside-chats, #shared-joy 🌈. You can browse other channels and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by “listening” to the discussions, then jump right in!</p>
 <p>If you’re part of a cohort for an Openscapes program you’ll also be invited to a private cohort channel. Open isn’t all or nothing; being open with this cohort you’re getting to know is a good way to start getting comfortable with the Slack community more broadly.</p>
 <p>The <strong>#welcome channel</strong> is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying “I work on sea turtles too!”. Here’s a short read on <a href="https://ropensci.org/blog/2017/07/18/value-of-welcome/">The Value of #Welcome</a>.</p>
-<section id="channel-definitions" class="level4">
-<h4 class="anchored" data-anchor-id="channel-definitions">Channel definitions</h4>
+<section id="channel-definitions" class="level3">
+<h3 class="anchored" data-anchor-id="channel-definitions">Channel definitions</h3>
 <p>These definitions are meant to help people know where to post or ask questions. They are listed in the Slack channel Topic and Description (because the Topic preview is easily visible in the channel, while the Description, not so much).</p>
 <p>When people join, they automatically land in #welcome #general #seaside-chats #events #cool-finds #shared-joy #random.</p>
 <p><strong>#welcome</strong>: A place for people new to our community to introduce themselves and for the rest of us to make them feel welcome; the default channel that members cannot leave if they leave all other channels</p>
@@ -392,14 +406,21 @@ div.csl-indent {
 <p><strong>#random</strong>: Non-work banter and water cooler conversation</p>
 </section>
 </section>
-<section id="zoom" class="level3">
-<h3 class="anchored" data-anchor-id="zoom">Zoom</h3>
-<ul>
-<li><a href="https://zoom.com/downloads" class="uri">https://zoom.com/downloads</a></li>
-</ul>
+<section id="zoom" class="level2">
+<h2 class="anchored" data-anchor-id="zoom">Zoom</h2>
+<section id="two-scenarios-for-sharing-audio-in-zoom" class="level3">
+<h3 class="anchored" data-anchor-id="two-scenarios-for-sharing-audio-in-zoom">Two scenarios for sharing audio in Zoom</h3>
+<p>This Zoom resource covers two scenarios we use: <a href="https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share">Sharing computer sound in a screen share</a>. Screenshots below. Practice both beforehand, testing by recording yourself, because they’re not obvious and chances of working smoothly on the fly in a meeting are …low.</p>
+<p>Scenario 1. During start of meeting, sharing welcome slides in a loop, with music from spotify playing so audience can hear, and people speaking does not disrupt music. See <a href="https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFBZ8GBD3Z3YV70YRETA7Y"><strong>How to share audio with shared visuals</strong></a>.</p>
+<p>SCREENSHOT</p>
+<p>Scenario 2. During interludes where people are silent journaling, to share audio only, not screen. See <a href="https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFC4HB7B83C4T81Y5RRR38"><strong>How to play audio or music without sharing your screen</strong></a>.</p>
+<p>SCREENSHOT</p>
+<p>IMPT: volume of shared sound is controlled in the source application. If spotify music is too loud, control volume in spotify (not your computer). See <a href="https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GYDPMCB8E21X9YW0DQHKN0DV"><strong>How to control the volume of a shared sound while in a meeting</strong></a></p>
+<p><a href="https://zoom.com/downloads" class="uri">https://zoom.com/downloads</a></p>
 </section>
-<section id="quicktime-video-editing" class="level3">
-<h3 class="anchored" data-anchor-id="quicktime-video-editing">Quicktime video editing</h3>
+</section>
+<section id="quicktime-video-editing" class="level2">
+<h2 class="anchored" data-anchor-id="quicktime-video-editing">Quicktime video editing</h2>
 <p>Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g.&nbsp;Main room chat during breakouts.</p>
 <p>This video says it all: <a href="https://youtu.be/82CiWXI4rlQ">Trimming Clips or Cutting Parts Out of the Middle Using Quicktime</a> (2min 40sec). Briefly:</p>
 <ul>
@@ -413,8 +434,8 @@ div.csl-indent {
 </ul>
 <p>Once you delete a section &gt; Done, the clips are automatically spliced together.</p>
 </section>
-<section id="zotero" class="level3">
-<h3 class="anchored" data-anchor-id="zotero">Zotero</h3>
+<section id="zotero" class="level2">
+<h2 class="anchored" data-anchor-id="zotero">Zotero</h2>
 <ul>
 <li><a href="https://www.zotero.org/" class="uri">https://www.zotero.org/</a></li>
 <li>Login from browser</li>
@@ -422,16 +443,16 @@ div.csl-indent {
 </ul>
 <p>In our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.</p>
 </section>
-<section id="orcidrescognito" class="level3">
-<h3 class="anchored" data-anchor-id="orcidrescognito">ORCID/Rescognito</h3>
+<section id="orcidrescognito" class="level2">
+<h2 class="anchored" data-anchor-id="orcidrescognito">ORCID/Rescognito</h2>
 <p>upcoming</p>
 </section>
-<section id="eventbrite" class="level3">
-<h3 class="anchored" data-anchor-id="eventbrite">Eventbrite</h3>
+<section id="eventbrite" class="level2">
+<h2 class="anchored" data-anchor-id="eventbrite">Eventbrite</h2>
 <p>We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it’s a good alternative for our needs.</p>
 <p>For <a href="https://openscapes.github.io/pathways-to-open-science/">Pathways to Open Science</a>, we created a <strong>“series” of 6 events</strong> instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.</p>
-<section id="eventbrite---zoom---google-cal-how-to-set-up-an-event" class="level4">
-<h4 class="anchored" data-anchor-id="eventbrite---zoom---google-cal-how-to-set-up-an-event">Eventbrite - Zoom - Google Cal how-to set up an event</h4>
+<section id="eventbrite---zoom---google-cal-how-to-set-up-an-event" class="level3">
+<h3 class="anchored" data-anchor-id="eventbrite---zoom---google-cal-how-to-set-up-an-event">Eventbrite - Zoom - Google Cal how-to set up an event</h3>
 <p>Recommended workflow for now:</p>
 <ol type="1">
 <li><p>Create Google Cal invite &gt; make it a Zoom meeting from inside that invite (if your Google Cal is integrated with Zoom )&gt; save. That meeting will appear in your Zoom account. Confirm it has waiting room and no password.</p></li>
@@ -448,14 +469,14 @@ div.csl-indent {
 </ol>
 </section>
 </section>
-<section id="sec-zenodo" class="level3">
-<h3 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h3>
+<section id="sec-zenodo" class="level2">
+<h2 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h2>
 <p>We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository and a <a href="https://zenodo.org/communities/openscapes/"><strong>Zenodo Openscapes Community</strong></a> for this purpose.</p>
 <p><a href="https://zenodo.org/">Zenodo</a> is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">digital object identifier</a> (DOI) is minted, which makes the stored items easily citable (adapted from <a href="https://en.wikipedia.org/wiki/Zenodo">Wikipedia</a>). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is <em>not</em> a repository. For the full picture, this 1-hr webinar is helpful: <a href="https://youtu.be/yj2r8RayIX8">Zenodo: open digital repository | 2022.12.07</a>.</p>
 <p>We created a <a href="https://zenodo.org/communities/openscapes/">Zenodo Openscapes Community</a> as a “semantically meaningful group” of research products in order to make them easily citable and more visible. Examples: NASA’s <a href="https://zenodo.org/communities/tops/">Transform to Open Science</a>; <a href="https://zenodo.org/communities/cscce/">Center for Scientific Collaboration and Community Engagement (CSCCE)</a>.</p>
 <p>Zenodo has a Sandbox in which one can create and refine a draft Community before creating the real thing. This webinar section “<a href="https://youtu.be/yj2r8RayIX8?t=734">How to create a community</a>” screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like “curator”, rather than a personal email username; or deciding what types of research products to include.</p>
-<section id="what-do-we-curate-in-our-zenodo-openscapes-community" class="level4">
-<h4 class="anchored" data-anchor-id="what-do-we-curate-in-our-zenodo-openscapes-community">What do we curate in our Zenodo Openscapes Community?</h4>
+<section id="what-do-we-curate-in-our-zenodo-openscapes-community" class="level3">
+<h3 class="anchored" data-anchor-id="what-do-we-curate-in-our-zenodo-openscapes-community">What do we curate in our Zenodo Openscapes Community?</h3>
 <p>Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator@openscapes.org. We don’t want to include <em>everything</em>. We do want:</p>
 <ul>
 <li>Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
@@ -472,8 +493,8 @@ div.csl-indent {
 </ul></li>
 </ul>
 </section>
-<section id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" class="level4">
-<h4 class="anchored" data-anchor-id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community">How to add your existing Zenodo record to the Zenodo Openscapes Community</h4>
+<section id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community">How to add your existing Zenodo record to the Zenodo Openscapes Community</h3>
 <p>If you own an <strong>existing</strong> Zenodo record you’d like to have listed, log into Zenodo, go to that record’s page, click yellow Edit button (top right) …</p>
 <p><img src="images/zenodo-edit-record.png" class="img-fluid" alt="screenshot of zenodo record page where owner is logged in, showing yellow Edit button" width="460"></p>
 <p>In the Edit page that appears, scroll to Communities section &gt; type “openscapes” and select it …</p>
@@ -482,8 +503,8 @@ div.csl-indent {
 <p><img src="images/zenodo-edit-save.png" class="img-fluid" width="460"></p>
 <p>curator@openscapes.org will get email notification of your request and accept, or may ask for further information.</p>
 </section>
-<section id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community" class="level4">
-<h4 class="anchored" data-anchor-id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community">How to include a new Zenodo record in the Zenodo Openscapes Community</h4>
+<section id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-include-a-new-zenodo-record-in-the-zenodo-openscapes-community">How to include a new Zenodo record in the Zenodo Openscapes Community</h3>
 <p>Are you creating a <strong>new</strong> Zenodo record? Use this link and it will automatically be added to our community collection: <a href="https://zenodo.org/deposit/new?c=openscapes" class="uri">https://zenodo.org/deposit/new?c=openscapes</a></p>
 
 
