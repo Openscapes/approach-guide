@@ -20,7 +20,7 @@ We use an Openscapes Google Workspace. This is our default system for Champions 
 
 We prefer to use Zoom over Google Meet, which we found has some limits to functionality e.g. breakout rooms
 
-We send newsletters via Google Group following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs): 
+We send newsletters via Google Group following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs):
 
 > Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
 
@@ -78,22 +78,21 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 ## Zoom
 
+<https://zoom.com/downloads>
+
 ### Two scenarios for sharing audio in Zoom
 
-This Zoom resource covers two scenarios we use: [Sharing computer sound in a screen share](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share). Screenshots below. Practice both beforehand, testing by recording yourself, because they're not obvious and chances of working smoothly on the fly in a meeting are ...low. 
+This Zoom resource covers two scenarios we use: [Sharing computer sound in a screen share](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share). Screenshots below. Practice both beforehand, testing by recording yourself, because they're not obvious and chances of working smoothly on the fly in a meeting are ...low.
 
 Scenario 1. During start of meeting, sharing welcome slides in a loop, with music from spotify playing so audience can hear, and people speaking does not disrupt music. See [**How to share audio with shared visuals**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFBZ8GBD3Z3YV70YRETA7Y).
 
-SCREENSHOT
+![](images/Screenshot%202023-05-10%20at%209.25.19%20PM.png){width="340"}
 
 Scenario 2. During interludes where people are silent journaling, to share audio only, not screen. See [**How to play audio or music without sharing your screen**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFC4HB7B83C4T81Y5RRR38).
 
-SCREENSHOT
+![](images/Screenshot%202023-05-10%20at%209.24.08%20PM.png){width="340"}
 
 IMPT: volume of shared sound is controlled in the source application. If spotify music is too loud, control volume in spotify (not your computer). See [**How to control the volume of a shared sound while in a meeting**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GYDPMCB8E21X9YW0DQHKN0DV)
-
-
-<https://zoom.com/downloads>
 
 ## Quicktime video editing
 
