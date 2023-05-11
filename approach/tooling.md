@@ -9,7 +9,7 @@ We also explore and learn new tools but always always with an eye towards intero
 
 Below are the tools that we use, why we use them, and set up instructions. (Here are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
 
-### Google Workspace
+## Google Workspace
 
 We use an Openscapes Google Workspace. This is our default system for Champions Cohorts, however, we have adapted when required to use MS Teams / Sharepoint.
 
@@ -24,21 +24,21 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 > Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
 
-### GitHub
+## GitHub
 
 -   version control for everything that's not Google Drive
 -   coordination with Issues and GitHub Projects
 -   publishing all our R-based web communications (see next)
 -   comms through website
 
-### R/RStudio
+## R/RStudio
 
 -   all websites and books
 -   data analysis (R: tidyverse, RMarkdown)
 -   communications and technical writing (RMarkdown, bookdown, blogdown, Quarto)
 -   [RStudio and GitHub setup instructions](https://openscapes.github.io/series/how-to/setup-rstudio-github.html)
 
-### Slack
+## Slack
 
 *Are you inviting someone to join Openscapes Slack? Send them the link to this section.*
 
@@ -54,7 +54,7 @@ If you're part of a cohort for an Openscapes program you'll also be invited to a
 
 The **#welcome channel** is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying "I work on sea turtles too!". Here's a short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
 
-#### Channel definitions
+### Channel definitions
 
 These definitions are meant to help people know where to post or ask questions. They are listed in the Slack channel Topic and Description (because the Topic preview is easily visible in the channel, while the Description, not so much).
 
@@ -76,11 +76,26 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#random**: Non-work banter and water cooler conversation
 
-### Zoom
+## Zoom
 
--   <https://zoom.com/downloads>
+### Two scenarios for sharing audio in Zoom
 
-### Quicktime video editing
+This Zoom resource covers two scenarios we use: [Sharing computer sound in a screen share](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share). Screenshots below. Practice both beforehand, testing by recording yourself, because they're not obvious and chances of working smoothly on the fly in a meeting are ...low. 
+
+Scenario 1. During start of meeting, sharing welcome slides in a loop, with music from spotify playing so audience can hear, and people speaking does not disrupt music. See [**How to share audio with shared visuals**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFBZ8GBD3Z3YV70YRETA7Y).
+
+SCREENSHOT
+
+Scenario 2. During interludes where people are silent journaling, to share audio only, not screen. See [**How to play audio or music without sharing your screen**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFC4HB7B83C4T81Y5RRR38).
+
+SCREENSHOT
+
+IMPT: volume of shared sound is controlled in the source application. If spotify music is too loud, control volume in spotify (not your computer). See [**How to control the volume of a shared sound while in a meeting**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GYDPMCB8E21X9YW0DQHKN0DV)
+
+
+<https://zoom.com/downloads>
+
+## Quicktime video editing
 
 Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g. Main room chat during breakouts.
 
@@ -96,7 +111,7 @@ This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using
 
 Once you delete a section \> Done, the clips are automatically spliced together.
 
-### Zotero
+## Zotero
 
 -   <https://www.zotero.org/>
 -   Login from browser
@@ -104,17 +119,17 @@ Once you delete a section \> Done, the clips are automatically spliced together.
 
 In our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.
 
-### ORCID/Rescognito
+## ORCID/Rescognito
 
 upcoming
 
-### Eventbrite
+## Eventbrite
 
 We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it's a good alternative for our needs.
 
 For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/), we created a **"series" of 6 events** instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.
 
-#### Eventbrite - Zoom - Google Cal how-to set up an event
+### Eventbrite - Zoom - Google Cal how-to set up an event
 
 Recommended workflow for now:
 
@@ -132,7 +147,7 @@ Recommended workflow for now:
 
     -   *Why a custom email reminer?* Several community call participants said it was hard to find the zoom link with Eventbrite's default reminder email (Stef agrees); that's why we put "Zoom" in subject line of custom reminder.
 
-### Zenodo {#sec-zenodo}
+## Zenodo {#sec-zenodo}
 
 We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository and a [**Zenodo Openscapes Community**](https://zenodo.org/communities/openscapes/) for this purpose.
 
@@ -142,7 +157,7 @@ We created a [Zenodo Openscapes Community](https://zenodo.org/communities/opensc
 
 Zenodo has a Sandbox in which one can create and refine a draft Community before creating the real thing. This webinar section "[How to create a community](https://youtu.be/yj2r8RayIX8?t=734)" screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like "curator", rather than a personal email username; or deciding what types of research products to include.
 
-#### What do we curate in our Zenodo Openscapes Community?
+### What do we curate in our Zenodo Openscapes Community?
 
 Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do want:
 
@@ -153,7 +168,7 @@ Anyone can request to have their Zenodo record listed in the Zenodo Openscapes C
 -   slide decks from key presentations
     -   upload pdf of slides
 
-#### How to add your existing Zenodo record to the Zenodo Openscapes Community
+### How to add your existing Zenodo record to the Zenodo Openscapes Community
 
 If you own an **existing** Zenodo record you'd like to have listed, log into Zenodo, go to that record's page, click yellow Edit button (top right) ...
 
@@ -169,6 +184,6 @@ Click Save \> click Publish (these appear at top and bottom of the edit page)
 
 curator\@openscapes.org will get email notification of your request and accept, or may ask for further information.
 
-#### How to include a new Zenodo record in the Zenodo Openscapes Community
+### How to include a new Zenodo record in the Zenodo Openscapes Community
 
 Are you creating a **new** Zenodo record? Use this link and it will automatically be added to our community collection: <https://zenodo.org/deposit/new?c=openscapes>
