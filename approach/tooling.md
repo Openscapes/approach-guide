@@ -201,6 +201,10 @@ curator\@openscapes.org will get email notification of your request and accept, 
     -   The Zenodo Openscapes Community curator will be notified via email to approve inclusion of your record in the community.
     -   You can edit things like keywords and the Cite as text without affecting the DOI. To make a change to the file(s) itself, you must upload a new version which will give a new DOI.
 
+### How to get a DOI for materials on GitHub
+
+See [**Make our documentation citable**](documentation.qmd#make-our-documentation-citable)
+
 ## Zoom
 
 <https://zoom.com/downloads>
