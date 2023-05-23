@@ -180,7 +180,7 @@ curator\@openscapes.org will get email notification of your request and accept, 
         -   We keep a list of Openscapes authors ORCID IDs in `OpenscapesParticipantsMainList` Google sheet, Mentors tab
     -   Description: for an Openscapes blog post, use the italicized preface; for a presentation, use the abstract. End with "**Link to source blog post:** URL"
     -   Version (optional): We've settled on using [CalVer](https://calver.org/): YYYY.0M (zero-padded month) since Luis López said "I like CalVer for books and environments" when we asked for advice. It's a bit redundant with publication date. For blog posts, "v1" might be sufficient
-    -   Keywords: To promote findability and consistency, we suggest using some of these keywords, based on those used by related records. Wow, keywords appear to be case sensitive. Search keywords:"Open Science" gives 1770 records; keywords:"open science" gives 1395 records; keywords:"open science" OR "Open Science" gives 11112 results (not sure why those don't add up) (May 23, 2023)
+    -   **Keywords**: To promote findability and consistency, we suggest using some of these keywords, based on those used by related records. Wow, keywords appear to be case sensitive. Search keywords:"Open Science" gives 1770 records; keywords:"open science" gives 1395 records; keywords:"open science" OR "Open Science" gives 11112 results (not sure why those don't add up) (May 23, 2023)
         -   Openscapes
         -   Open Science
         -   NASA
