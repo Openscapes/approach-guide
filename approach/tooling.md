@@ -135,11 +135,11 @@ Zenodo has a Sandbox in which one can create and refine a draft Community before
 Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do want:
 
 -   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
-    -   make a "release" on GitHub and submit that to Zenodo
+    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson
 -   key blog posts like ESIP 2022, 2023 panels
-    -   create and upload pdf of post from the website
+    -   create and upload pdf of post from the website, choose type = other
 -   slide decks from key presentations
-    -   upload pdf of slides
+    -   upload pdf of slides, choose type = presentation
 
 ### How to add your existing Zenodo record to the Zenodo Openscapes Community
 
@@ -157,9 +157,53 @@ Click Save \> click Publish (these appear at top and bottom of the edit page)
 
 curator\@openscapes.org will get email notification of your request and accept, or may ask for further information.
 
-### How to include a new Zenodo record in the Zenodo Openscapes Community
+### How to publish a new record in Zenodo to get a DOI
 
-Are you creating a **new** Zenodo record? Use this link and it will automatically be added to our community collection: <https://zenodo.org/deposit/new?c=openscapes>
+[Video tutorial](https://youtu.be/BPVSErzNtME) from OpenAIRE_eu (4.5 min)
+
+1.  For a blog post or presentation, save as pdf, filename: post_name_year.pdf or slides_name_year.pdf, example: openscapes_post_noaa_afsc_2022.pdf
+
+2.  Login to Zenodo (login via GitHub is convenient), go to <https://zenodo.org/deposit/new?c=openscapes> and upload your pdf (choose files \> start upload). Using that link automatically includes your record in our community collection.
+
+3.  Upload type
+
+    -   blog post: Other
+    -   slide deck: Presentation
+
+4.  Basic information
+
+    -   Digital Object Identifier: leave blank
+    -   Publication date: date of blog post publication, or presentation
+    -   Title: title of post or presentation without adding version number
+    -   Authors: use author name consistent with other Zenodo records in their name; add their [ORCID](https://orcid.org/) ID.
+        -   If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.
+        -   We keep a list of Openscapes authors ORCID IDs in `OpenscapesParticipantsMainList` Google sheet, Mentors tab
+    -   Description: for an Openscapes blog post, use the italicized preface; for a presentation, use the abstract. End with "**Link to source blog post:** URL"
+    -   Version (optional): We've settled on using [CalVer](https://calver.org/): YYYY.0M (zero-padded month) since Luis López said "I like CalVer for books and environments" when we asked for advice. It's a bit redundant with publication date. For blog posts, "v1" might be sufficient
+    -   Keywords: To promote findability and consistency, we suggest using some of these keywords, based on those used by related records. Wow, keywords appear to be case sensitive. Search keywords:"Open Science" gives 1770 records; keywords:"open science" gives 1395 records; keywords:"open science" OR "Open Science" gives 11112 results (not sure why those don't add up) (May 23, 2023)
+        -   Openscapes
+        -   Open Science
+        -   NASA
+        -   NOAA
+        -   JupyterHub
+        -   cloud computing
+        -   conference name e.g. ESIP, AGU, SORTEE, FORCE11
+        -   Open Educational Resources (for lesson series)
+
+5.  License: Open Access, Creative Commons Attribution 4.0 International
+
+    -   For GitHub releases that include code and documentation, we include a LICENSE.md file on GitHub, then on Zenodo we select Licence: Other (Attribution).
+
+6.  Funding: Would be great to add this, but we've not established guidelines yet
+
+7.  **Publish!** At very top or very bottom, right side of the page, click Save \> Publish \> I understand. Voila! Your Zenodo record is live.
+
+    -   The Zenodo Openscapes Community curator will be notified via email to approve inclusion of your record in the community.
+    -   You can edit things like keywords and the Cite as text without affecting the DOI. To make a change to the file(s) itself, you must upload a new version which will give a new DOI.
+
+### How to get a DOI for materials on GitHub
+
+See [**Make our documentation citable**](documentation.qmd#make-our-documentation-citable)
 
 ## Zoom
 
