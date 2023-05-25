@@ -208,13 +208,15 @@ As we are introduced to team leads and members, we follow them on Twitter from t
 
 ### 1:1 Intro calls
 
-These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+These are short intro calls with Openscapes and team leads or teams, to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions. This is a way for us to get to know each other and to learn more about their team's needs.
 
-We use Google Calendar Appointment Slots to schedule 1:1s with each team lead. This is a way for us to get to know each other and to learn more about their team's needs. We schedule these 1:1's for \~1 month before the start of the cohort.
+We use Google Calendar Appointment Slots or the new Appointment Schedule to schedule these 1:1's \~1 month before the start of the cohort. ([Learn about appointment slots vs (new) schedules](https://support.google.com/calendar/answer/11608416). Note in early access preview of schedules, you can\'t add additional team members to your appointment schedule so that they\'re automatically added to booked appointments - must do that manually.) Create \~2 half-day blocks and invite team leads to book and invite their team members.
 
 Example text in the Calendar Appointment Slots:
 
 -   Short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+
+Before the 1:1's, create an agenda for each call by copying Google doc: Template_Openscapes_IntroCall
 
 ::: {.callout-tip collapse="true"}
 ## Example agenda for 1:1 intro calls
