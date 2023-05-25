@@ -5,6 +5,8 @@ format: html
 
 Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. We are open, kind, and help each other as we prepare and facilitate. This is how we lead each call, with additional steps for the first call.
 
+We also experiment with ideas and incorporate them into subsequent calls within a Cohort as needed. For example, we experimented with Google Jamboards in Summer 2022, and then in Fall added an "am I doing Openscapes right" to agenda, and we will be providing more Pathways support in the future.
+
 ## Roles
 
 There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.
