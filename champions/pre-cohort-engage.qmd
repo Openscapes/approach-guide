@@ -150,7 +150,7 @@ Dear \[PI\],
 
 Thank you for nominating your team to participate in the FDD Openscapes Champions Cohort! We are excited for you to be a part of the cohort; this email is your official acceptance. To confirm you're still able to participate, please:
 
-1.  [Book a 30-minute intro call on August 27 or 30]() -- or suggest other times if that is not possible, preferably September 10. These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+1.  Book a 30-minute intro call on August 27 or 30 \[link to Google Cal booking page\] -- or suggest other times if that is not possible, preferably September 10. These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
 2.  Respond to this email, cc'ing your team members (up to 4 others). We will then add you and your team to Google Calendar invites for all 4 Cohort Calls.
 
 Our [cohort page](https://openscapes.github.io/2021-fdd/) details the dates and times, as well as some background about Openscapes and FDD. We will also email the full cohort closer to the September 17 start date.
