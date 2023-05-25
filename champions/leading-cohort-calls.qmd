@@ -75,9 +75,9 @@ Write field notes in the DebriefsDigests Google doc (as of Fall 2022), with one 
 
 ### Digests
 
-We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
+We send digests the week following each Cohort Call (early, on Monday or Tuesday). This gives people a touch point in the week between Calls. Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. 
 
-Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. Call 1 is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughtout the cohort.
+Call 1 Digest is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughout the cohort. When posting as an issue, tag the cohort GitHub team like `@Openscapes/2022-noaa-sefsc-summer-cohort` so they get email notification.
 
 We develop these in a single "DigestsDrafts" Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.
 
