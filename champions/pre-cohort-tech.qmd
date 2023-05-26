@@ -13,7 +13,7 @@ In this page, we give some general information, then describe things in temporal
 
 ### Project management
 
-We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) to manage the tasks involved in running Openscapes Champions Cohorts (since June 2022) and have created some [Issue Templates](https://github.com/Openscapes/cohort-planning/tree/main/.github/ISSUE_TEMPLATE) with checklists. These can be used to quickly set up Issues for new Cohorts.
+We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) to manage the tasks involved in running Openscapes Champions Cohorts (since June 2022) and have created GitHub Issue Templates a checklist in each template. Have a look at the list of [templates to choose from](https://github.com/Openscapes/cohort-planning/issues/new/choose) to open a new issue, or the [template markdown files](https://github.com/Openscapes/cohort-planning/tree/main/.github/ISSUE_TEMPLATE) that can be edited. These can be used to quickly set up Issues for new Cohorts.
 
 ### `kyber` helps automate some setup
 
@@ -29,12 +29,12 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 
 **Folder organization**
 
--   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
+-   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1:1's and specific Cohort Folders.
 -   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
 
-**Calendar**: The OpenscapesCohorts Google Calendar is used for events, like Cohort Calls and Coworking sessions. Add CohortFolder to calendar invites; we learned that folks go to Calendars to find the docs for meetings.
+**Calendar**: The OpenscapesEvents Google Calendar is used for events, like Cohort Calls and Coworking sessions. This may differ for Cohorts that cannot use Google Tools and use MS Teams for example. Add the CohortFolder link to calendar invites; we learned that folks go to Calendars to find the docs for meetings.
 
-There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022.
+There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
 
 ::: {.callout-tip collapse="true"}
 ## Tip: Click URL to add to your Google Calendar
