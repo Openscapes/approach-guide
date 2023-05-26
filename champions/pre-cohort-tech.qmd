@@ -50,7 +50,7 @@ Sometimes we ask people add an event to their own Google Calendar without being 
 
 [Pre-cohort engagement](pre-cohort-engage.qmd) (the preceding section) ends with a reminder to participants the day before Cohort Call 1. The "Before Call 1" tasks below must be started *before* that last-minute reminder.
 
-You might notice some redundancy among this list, the GitHub Project, and Cohort Setup Checklist below. We're capturing how we do things as our processes evolve.
+You might notice some complementarity among this list, the [GitHub Project](https://github.com/orgs/Openscapes/projects/7/), the [Leading Cohort Calls](leading-cohort-calls.qmd) section and Cohort Setup Checklist below. We're capturing how we do things as our processes evolve.
 
 ### Before Call 1
 
@@ -62,10 +62,10 @@ You might notice some redundancy among this list, the GitHub Project, and Cohort
 
 ### After Call 1
 
--   Draft Field Notes
--   Send Digest to participants via email in the week following the Cohort Call. Copy Digest to new GitHub Issue in Cohort repo (after Call 2, all digests are added as a GitHub Issue only)
+-   Draft Debrief/Field Notes after every call
+-   Send Digest to participants via email in the week following the Cohort Call. Copy Digest to new GitHub Issue in Cohort repo (after GitHub Clinic, all digests are added as a GitHub Issue only)
 -   Invite participants to Slack
--   Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesCohorts calendar. Set Google Meet co-hosts. Add participants as guests.
+-   Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesEvents calendar. Add participants as guests.
 
 ### Before Call 2
 
@@ -87,8 +87,8 @@ You might notice some redundancy among this list, the GitHub Project, and Cohort
 -   Add songs to Spotify
 -   Write thank you cards; send stickers
 -   Blog post
--   Update Approach Guide
--   Review Digests and incorporate feedback
+-   Review Approach Guide for updates
+-   Review debrief/field notes and incorporate feedback
 
 ## Managing tasks in a GitHub Project
 
