@@ -38,8 +38,8 @@ website:
           - approach/code-of-conduct.md
           - approach/seaside-chats.qmd
           - approach/onboarding.md
-          - approach/tooling.md
           - approach/documentation.qmd
+          - approach/tooling.md
           - approach/partners.md
           - approach/calendar.md
           - approach/qual-assessment.qmd
