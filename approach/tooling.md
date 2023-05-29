@@ -122,24 +122,33 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 ## Zenodo {#sec-zenodo}
 
-We want to share our material in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository and a [**Zenodo Openscapes Community**](https://zenodo.org/communities/openscapes/) for this purpose.
+We cover a lot here. See the subheadings in the navigation bar to the right to jump to a section:
+
+-   Zenodo Openscapes Community creation and curation
+-   How to add your existing Zenodo record to the Zenodo Openscapes Community
+-   How to publish a new record in Zenodo to get a DOI
+-   How to get a DOI for materials on GitHub
+
+We want to share our material in a way that other people can find it, use it, improve it, and cite it. For our lesson materials, like Champions Cohorts, this provides a robust way for people to add their participation to their CV as professional development. We use the Zenodo repository and a [Zenodo Openscapes Community](https://zenodo.org/communities/openscapes/) for this purpose.
 
 [Zenodo](https://zenodo.org/) is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent [digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier") (DOI) is minted, which makes the stored items easily citable (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Zenodo)). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is *not* a repository. For the full picture, this 1-hr webinar is helpful: [Zenodo: open digital repository \| 2022.12.07](https://youtu.be/yj2r8RayIX8).
 
-We created a [Zenodo Openscapes Community](https://zenodo.org/communities/openscapes/) as a "semantically meaningful group" of research products in order to make them easily citable and more visible. Examples: NASA's [Transform to Open Science](https://zenodo.org/communities/tops/); [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://zenodo.org/communities/cscce/).
+We created a [Zenodo Openscapes Community](https://zenodo.org/communities/openscapes/) as a "semantically meaningful group" of research products using these example Zenodo Communities as inspiration: NASA's [Transform to Open Science](https://zenodo.org/communities/tops/); [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://zenodo.org/communities/cscce/).
 
 Zenodo has a Sandbox in which one can create and refine a draft Community before creating the real thing. This webinar section "[How to create a community](https://youtu.be/yj2r8RayIX8?t=734)" screenshares a walk-through that makes things crystal clear. Creating a Sandbox first forces you to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like "curator", rather than a personal email username; or deciding what types of research products to include.
 
 ### What do we curate in our Zenodo Openscapes Community?
 
-Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do want:
+Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do curate:
 
 -   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
-    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson
+    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](https://openscapes.github.idocumentation.qmd#make-our-documentation-citable).
 -   key blog posts like ESIP 2022, 2023 panels
     -   create and upload pdf of post from the website, choose type = other
 -   slide decks from key presentations
     -   upload pdf of slides, choose type = presentation
+
+We do not curate datasets.
 
 ### How to add your existing Zenodo record to the Zenodo Openscapes Community
 
@@ -161,9 +170,9 @@ curator\@openscapes.org will get email notification of your request and accept, 
 
 [Video tutorial](https://youtu.be/BPVSErzNtME) from OpenAIRE_eu (4.5 min)
 
-1.  For a blog post or presentation, save as pdf, filename: post_name_year.pdf or slides_name_year.pdf, example: openscapes_post_noaa_afsc_2022.pdf
+1.  For a blog post or presentation, save as pdf, filename: openscapes_post_name_year.pdf or slides_name_year.pdf, example: openscapes_post_noaa_afsc_2022.pdf
 
-2.  Login to Zenodo (login via GitHub is convenient), go to <https://zenodo.org/deposit/new?c=openscapes> and upload your pdf (choose files \> start upload). Using that link automatically includes your record in our community collection.
+2.  Login to Zenodo (login via GitHub is convenient), go to <https://zenodo.org/deposit/new?c=openscapes> and upload your pdf (files \> start upload). Using that link automatically includes your record in our community collection.
 
 3.  Upload type
 
@@ -179,7 +188,7 @@ curator\@openscapes.org will get email notification of your request and accept, 
         -   If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.
         -   We keep a list of Openscapes authors ORCID IDs in `OpenscapesParticipantsMainList` Google sheet, Mentors tab
     -   Description: for an Openscapes blog post, use the italicized preface; for a presentation, use the abstract. End with "**Link to source blog post:** URL"
-    -   Version (optional): We've settled on using [CalVer](https://calver.org/): YYYY.0M (zero-padded month) since Luis López said "I like CalVer for books and environments" when we asked for advice. It's a bit redundant with publication date. For blog posts, "v1" might be sufficient
+    -   Version (optional): We've settled on using [CalVer](https://calver.org/): YYYY.0M (zero-padded month) since Luis López said "I like CalVer for books and environments" when we asked for advice. It's a bit redundant with publication date.
     -   **Keywords**: To promote findability and consistency, we suggest using some of these keywords, based on those used by related records. Wow, keywords appear to be case sensitive. Search keywords:"Open Science" gives 1770 records; keywords:"open science" gives 1395 records; keywords:"open science" OR "Open Science" gives 11112 results (not sure why those don't add up) (May 23, 2023)
         -   Openscapes
         -   Open Science
