@@ -139,7 +139,7 @@ Zenodo has a Sandbox in which one can create and refine a draft Community before
 
 ### What do we curate in our Zenodo Openscapes Community?
 
-Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*. We do curate:
+Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*; too big and its value diminishes. We do curate:
 
 -   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
     -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](https://openscapes.github.idocumentation.qmd#make-our-documentation-citable).
