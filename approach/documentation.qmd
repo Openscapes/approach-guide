@@ -34,6 +34,6 @@ This section describes how to get a DOI for a "research related digital artefact
 
 3.  **Add a digital object identifier (DOI) so that it is citable.**
 
-4.  **Add a "how to cite"** section to guide users; here's [how to cite](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/#citation) the NASA Earthdata Cloud Cookbook. We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
+4.  **Add a "how to cite"** section to guide users; here's how to [cite the NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/#citation). We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
 
 TODO: add How to cite section to Lesson Series and Pathways.
