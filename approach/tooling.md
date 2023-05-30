@@ -214,6 +214,10 @@ curator\@openscapes.org will get email notification of your request and accept, 
 
 See [**Make our documentation citable**](documentation.qmd#make-our-documentation-citable)
 
+### How to cite Openscapes publications
+
+See "Cite as" in the publication's Zenodo record, in the right-side navigation bar.
+
 ## Zoom
 
 <https://zoom.com/downloads>
