@@ -26,8 +26,7 @@ Blog posts take time. A lot of time. And they often feel extra, especially in a 
 
 We want to share our documentation in a way that other people can find it, use it, improve it, and cite it. We use the [Zenodo](tooling.md#sec-zenodo) repository for this purpose. Every upload to Zenodo is assigned a Digital Object Identifier (DOI), to make it citable and trackable.
 
-This section describes how to get a DOI for a "research related digital artefact" like our online Quarto books. 
-**We follow [Metadocencia's How-to Guidance](https://www.metadocencia.org/en/post/compartirmaterialdoi/)** by Yanina Bellini Saibene. It's clear, has great annotated screenshots, and is also available in Spanish. Here are specifics for us:
+This section describes how to get a DOI for a "research related digital artefact" like our online Quarto books. **We follow [Metadocencia's How-to Guidance](https://www.metadocencia.org/en/post/compartirmaterialdoi/)** by Yanina Bellini Saibene. It's clear, has great annotated screenshots, and is also available in Spanish. Here are specifics for us:
 
 1.  **Select an open license** that makes it clear how people can use the material. The [Openscapes Approach Guide license](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md) is adapted from [The Turing Way license](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md) that accommodates works that include both code and documentation.
 
@@ -35,8 +34,6 @@ This section describes how to get a DOI for a "research related digital artefact
 
 3.  **Add a digital object identifier (DOI) so that it is citable.**
 
-4.  **Add a "how to cite"** section to guide users. We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
+4.  **Add a "how to cite"** section to guide users; here's how to [cite the NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/#citation). We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
 
-
-
-TODO: add How to cite section to Lesson Series and NASA Earthdata Cookbook and any other products for which we get a DOI.
+TODO: add How to cite section to Lesson Series and Pathways.
