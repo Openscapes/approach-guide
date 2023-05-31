@@ -75,6 +75,14 @@ This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using
 
 Once you delete a section \> Done, the clips are automatically spliced together.
 
+Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets move. Let's say we want to trim (delete) everything after time 59 mins. 
+
+- Go to the 59 min point in the video first
+- click Edit > Trim ... Yellow brackets appear around the whole video, with a red vertical line - the 'playhead' - at 59 mins. The yellow-bracket segment is the part that will be kept
+- Type “i” to move the starting point to the playhead’s position (keep the end of the video), or type “o” to make the ending point at the playhead’s position (keep the beginning of the video).
+- Click Trim
+- Save
+
 ## R/RStudio
 
 -   all websites and books
