@@ -240,7 +240,7 @@ We will add participants' emails to this Google Folder prior to Call 1. We'll ad
 
 ## Data entry
 
-We keep participants lists in two Google Sheets. One is a master list of everyone who has ever participated as a Champion or Mentor (OpenscapesMain \> OpenscapesParticipantsMainList) and one is for each Cohort and is visible to all members of the Cohort (these example path/names don't actually exist; just providing an example to follow: OpenscapesMain \> OpenscapesChampionsProgram \> Openscapes_CohortCalls \[ 2021-noaa-nmfs \] \> OpenscapesParticipants \[ 2021-noaa-nmfs \] ). During Cohorts we use the cohort sheet to have people add their GitHub username asynchronously so we can set up the GitHub Clinics.
+We keep participants lists in two Google Sheets. One is an overarching list of everyone who has ever participated as a Champion or Mentor (OpenscapesMain \> OpenscapesParticipantsMainList) and one is for each Cohort and is visible to all members of the Cohort (these example path/names don't actually exist; just providing an example to follow: OpenscapesMain \> OpenscapesChampionsProgram \> Openscapes_CohortCalls \[ 2021-noaa-nmfs \] \> OpenscapesParticipants \[ 2021-noaa-nmfs \] ). During Cohorts we use the cohort sheet to have people add their GitHub username asynchronously so we can set up the GitHub Clinics.
 
 As teams form, we:
 
