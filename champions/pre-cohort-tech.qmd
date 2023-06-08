@@ -13,7 +13,7 @@ In this page, we give some general information, then describe things in temporal
 
 ### Project management
 
-We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) to manage the tasks involved in running Openscapes Champions Cohorts (since June 2022) and have created some [Issue Templates](https://github.com/Openscapes/cohort-planning/tree/main/.github/ISSUE_TEMPLATE) with checklists. These can be used to quickly set up Issues for new Cohorts.
+We use the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) to manage the tasks involved in running Openscapes Champions Cohorts (since June 2022) and have created GitHub Issue Templates a checklist in each template. Have a look at the list of [templates to choose from](https://github.com/Openscapes/cohort-planning/issues/new/choose) to open a new issue, or the [template markdown files](https://github.com/Openscapes/cohort-planning/tree/main/.github/ISSUE_TEMPLATE) that can be edited. These can be used to quickly set up Issues for new Cohorts.
 
 ### `kyber` helps automate some setup
 
@@ -29,12 +29,12 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 
 **Folder organization**
 
--   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1-on-1's and specific Cohort Folders.
+-   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1:1's and specific Cohort Folders.
 -   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
 
-**Calendar**: The OpenscapesCohorts Google Calendar is used for events, like Cohort Calls and Coworking sessions. Add CohortFolder to calendar invites; we learned that folks go to Calendars to find the docs for meetings.
+**Calendar**: The OpenscapesEvents Google Calendar is used for events, like Cohort Calls and Coworking sessions. This may differ for Cohorts that cannot use Google Tools and use MS Teams for example. Add the CohortFolder link to calendar invites; we learned that folks go to Calendars to find the docs for meetings.
 
-There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022.
+There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
 
 ::: {.callout-tip collapse="true"}
 ## Tip: Click URL to add to your Google Calendar
@@ -50,7 +50,7 @@ Sometimes we ask people add an event to their own Google Calendar without being 
 
 [Pre-cohort engagement](pre-cohort-engage.qmd) (the preceding section) ends with a reminder to participants the day before Cohort Call 1. The "Before Call 1" tasks below must be started *before* that last-minute reminder.
 
-You might notice some redundancy among this list, the GitHub Project, and Cohort Setup Checklist below. We're capturing how we do things as our processes evolve.
+You might notice some complementarity among this list, the [GitHub Project](https://github.com/orgs/Openscapes/projects/7/), the [Leading Cohort Calls](leading-cohort-calls.qmd) section and Cohort Setup Checklist below. We're capturing how we do things as our processes evolve.
 
 ### Before Call 1
 
@@ -62,10 +62,10 @@ You might notice some redundancy among this list, the GitHub Project, and Cohort
 
 ### After Call 1
 
--   Draft Field Notes
--   Send Digest to participants via email in the week following the Cohort Call. Copy Digest to new GitHub Issue in Cohort repo (after Call 2, all digests are added as a GitHub Issue only)
+-   Draft Debrief/Field Notes after every call
+-   Send Digest to participants via email in the week following the Cohort Call. Copy Digest to new GitHub Issue in Cohort repo (after GitHub Clinic, all digests are added as a GitHub Issue only)
 -   Invite participants to Slack
--   Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesCohorts calendar. Set Google Meet co-hosts. Add participants as guests.
+-   Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesEvents calendar. Add participants as guests.
 
 ### Before Call 2
 
@@ -87,8 +87,8 @@ You might notice some redundancy among this list, the GitHub Project, and Cohort
 -   Add songs to Spotify
 -   Write thank you cards; send stickers
 -   Blog post
--   Update Approach Guide
--   Review Digests and incorporate feedback
+-   Review Approach Guide for updates
+-   Review debrief/field notes and incorporate feedback
 
 ## Managing tasks in a GitHub Project
 
@@ -195,9 +195,17 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 ## GitHub repo
 
-![Screenshot of checklist excerpt for GitHub repo and Cohort Google Folder tasks](images/checklist-beforeCall1-github.png){fig-alt="screenshot of checklist excerpt" width="90%"}
+Create a Cohort GitHub repo within the Openscapes GitHub organization or in the NMFS Openscapes for NOAA NMFS Cohorts (starting Fall 2022) or NASA Openscapes. This can be done with `kyber` as described below, or if necessary, by hand by copy-pasting a README from another cohort (we did this for the first 8 Champions cohorts!) and [Code of Conduct](https://raw.githubusercontent.com/Openscapes/website/main/content/code-of-conduct.md) from the Openscapes website repo.
 
-Create a Cohort GitHub repo within the Openscapes GitHub organization or in the NMFS Openscapes GitHub organization for NOAA NMFS Cohorts (starting Fall 2022). An example repository looks like this: <https://github.com/Openscapes/2021-noaa-nmfs> or this <https://github.com/nmfs-openscapes/2022-noaa-nwfsc-fall>. Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct. This can be done with `kyber`, as described below, or by hand by copy-pasting a README from another cohort (we did this for the first 8 Champions cohorts!) and [Code of Conduct](https://raw.githubusercontent.com/Openscapes/website/main/content/code-of-conduct.md) from the Openscapes website repo.
+[![Screenshot of Tech setup GitHub issue that includes creating a Cohort repo](images/Screenshot%202023-05-26%20at%209.36.39%20AM.png){fig-alt="screenshot of a completed checklist" width="90%"}](https://github.com/orgs/Openscapes/projects/7?pane=issue&itemId=10204306)
+
+Example repositories
+
+-   <https://github.com/Openscapes/2021-noaa-nmfs>
+-   <https://github.com/nmfs-openscapes/2022-noaa-nwfsc-fall>
+-   <https://github.com/NASA-Openscapes/2023-nasa-champions>
+
+Our convention has been that the repository name is the same as the **cohort_name** from the Cohort Registry above, example: `2021-noaa-nmfs`. To start, a Cohort repo should include a README and a Code of Conduct.
 
 ### Create repo w/ `kyber`
 
@@ -232,6 +240,8 @@ We will add participants' emails to this Google Folder prior to Call 1. We'll ad
 
 ## Data entry
 
+We keep participants lists in two Google Sheets. One is an overarching list of everyone who has ever participated as a Champion or Mentor (OpenscapesMain \> OpenscapesParticipantsMainList) and one is for each Cohort and is visible to all members of the Cohort (these example path/names don't actually exist; just providing an example to follow: OpenscapesMain \> OpenscapesChampionsProgram \> Openscapes_CohortCalls \[ 2021-noaa-nmfs \] \> OpenscapesParticipants \[ 2021-noaa-nmfs \] ). During Cohorts we use the cohort sheet to have people add their GitHub username asynchronously so we can set up the GitHub Clinics.
+
 As teams form, we:
 
 -   Update database with who is in which cohort
@@ -253,7 +263,7 @@ You'll do the following:
 
 You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
 
-Copy the ["Agendas" code block](https://openscapes.github.io/kyber/#agendas), edit Call details and paste in the console. After knitting and pasting the html in a new Google Doc, edit the formatting listed in [Julie's notes](https://github.com/Openscapes/kyber/issues/9).
+Copy the ["Agendas" code block](https://openscapes.github.io/kyber/#agendas), edit Call details and paste in the console. After knitting and pasting the html in a new Google Doc, edit the formatting as listed in [kyber README](https://openscapes.github.io/kyber/#agendas).
 
 Getting errors? See [troubleshooting documentation](https://github.com/Openscapes/kyber/issues/27).
 
@@ -286,43 +296,39 @@ After the first Cohort Call, we:
 
 ## GitHub Clinics
 
-GitHub Clinics should be part of the Cohort Calls. (In 2021 we experimented with having them as stand-alone events but found that in some Cohorts it was difficult for participants to make extra time outside of the Cohort Call, and it was extra scheduling for everyone.)
+GitHub Clinics are part of the Cohort Calls. They require at least two team members.
 
-We recommend using our [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates adding participants' GitHub usernames to the GitHub repo and creates their own file for them to play around in. You can also do this "by hand" at github.com and copy-paste files from other cohorts if you prefer (we did this for the first few Champions cohorts!).
+::: {.callout-note collapse="true"}
+### Historical aside
 
-### Prep clinic w/ `kyber`
+In 2021 we experimented having GitHub Clinics as stand-alone events between Cohort Calls 1 and 2, offering them twice, as well as the recording as part of team's Seaside Chats. In some Cohorts it was difficult for participants to make extra time outside of the Cohort Calls, and it was extra scheduling for everyone. In 2022 we reinstated the GitHub Clinic into Cohort Call 2, and increased the number of Cohort Calls to 5.
+:::
 
-Before the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following Cohort Call 1.
+### Overview
 
-To prepare for the Clinic, we do the following (with `kyber`):
+Julie recorded videos of her teaching the GitHub Clinic to enable others to teach it. These are linked in the [Openscapes Lesson Series book](https://openscapes.github.io/series/core-lessons/github/#github-clinic).
 
--   Add all usernames with member privileges to a GitHub Team titled like `2022-noaa-afsc-cohort`
--   Give the Team access to the Cohort repo
--   Create each person's files
+During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we may ask people to rename themselves in Zoom to identify their team.
 
-You do this from RStudio, within the Cohort repository (example `2022-noaa-afsc`). Make sure you pull before starting in case there are any updates you don't have locally.
-
-From RStudio, follow [`kyber` Github Clinic instructions](https://openscapes.github.io/kyber/#github-clinic). You might need to install some of other R packages called by `kyber` for this.
-
-### GitHub Clinic overview
-
-GitHub Clinics are part of Cohort Calls, but can additionally be lead as stand-alone 1 hour events. They require at least two team members.
-
-During the Clinic, the Tech Host will make breakout groups, either based on their actual research team or as a random breakout group, depending on whether they attend with their team. We use the Cohort's ParticipantsList spreadsheet to assist with identifying teams, and we also ask people to rename themselves in Zoom to identify their team.
-
-The Facilitator leads the agenda, and Teacher talks through the slides and screenshares.
+The Facilitator leads the agenda, and Teacher talks through the slides and screenshares (more recently we do not screenshare slides after Cohort Call 1; we do screenshare the live demos in the GitHub Clinic).
 
 Team members can also circulate in the breakout rooms to check in, help, and share.
 
 Preparing for the GitHub Clinic involves:
 
--   adding participant GitHub usernames to the Cohort's repo
--   reviewing the slides
+-   technical setup with `kyber`
+-   reviewing the slides and live demos
 
-Julie recorded videos of her teaching the GitHub Clinic to enable others to teach it. These are linked in the [Openscapes Lesson Series book](https://openscapes.github.io/series/core-lessons/github/#github-clinic).
+### Technical setup with `kyber`
 
-::: {.callout-note collapse="true"}
-### Historical aside
+To set up GitHub Clinics, we recommend using the [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates adding participants' GitHub usernames to a Team that can write to the GitHub repo, and creates a set of markdown files such that each person has their own `name.md` to play around in. You can also do this "by hand" at github.com and copy-paste files from other cohorts if you prefer (we did this for the first few Champions cohorts!). Also, setting up with GitHub Clinic is not Openscapes-specific so you don't need to be leading an Openscapes event to use `kyber`!
 
-Some history: In 2021 we experimented having GitHub Clinics as stand-alone events between Cohort Calls 1 and 2, offering them twice as well as the recording as part of team's Seaside Chats. In 2022 we'll re-instate the GitHub Clinic into Cohort Call 2, and increase the number of Cohort Calls to 5.
-:::
+Before the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following the previous Cohort Call.
+
+From RStudio, within the Cohort repository (example `2022-noaa-afsc`), follow [`kyber` Github Clinic instructions](https://openscapes.github.io/kyber/). Make sure you pull before starting in case there are any updates you don't have locally. You might be prompted to install some other R packages called by `kyber`.
+
+To prepare for the Clinic, we do the following:
+
+-   Add all usernames with member privileges to a GitHub Team titled like `2022-noaa-afsc-cohort`
+-   Give the Team access to the Cohort repo
+-   Create each person's `name.md` files

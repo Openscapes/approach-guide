@@ -5,6 +5,8 @@ format: html
 
 Everyone on the Openscapes team should be a confident leader and active contributor during Cohort Calls. We are open, kind, and help each other as we prepare and facilitate. This is how we lead each call, with additional steps for the first call.
 
+We also experiment with ideas and incorporate them into subsequent calls within a Cohort as needed. For example, we experimented with Google Jamboards in Summer 2022, and then in Fall added an "am I doing Openscapes right" to agenda, and we will be providing more Pathways support in the future.
+
 ## Roles
 
 There are three main roles when we lead Cohort Calls. When folks are assisting a Cohort Call, they often help take notes, and monitor chat, and create breakout rooms.
@@ -73,9 +75,9 @@ Write field notes in the DebriefsDigests Google doc (as of Fall 2022), with one 
 
 ### Digests
 
-We send digests the week following each Cohort Call (early, on Monday or Tuesday) via GitHub Issues.
+We send digests the week following each Cohort Call (early, on Monday or Tuesday). This gives people a touch point in the week between Calls. Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. 
 
-Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. Call 1 is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughtout the cohort.
+Call 1 Digest is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughout the cohort. When posting as an issue, tag the cohort GitHub team like `@Openscapes/2022-noaa-sefsc-summer-cohort` so they get email notification.
 
 We develop these in a single "DigestsDrafts" Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.
 
