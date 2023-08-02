@@ -59,7 +59,8 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 upcoming
 
-## Quicktime video editing
+## Quicktime 
+### Video editing
 
 Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g. Main room chat during breakouts.
 
@@ -82,6 +83,15 @@ Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets m
 - Type “i” to move the starting point to the playhead’s position (keep the end of the video), or type “o” to make the ending point at the playhead’s position (keep the beginning of the video).
 - Click Trim
 - Save
+
+### Screen recording
+
+Thanks to Sam Csik for this tip. 
+
+To make a screen recording without audio, on a Mac, use Quicktime. File > New screen recording > select options for what to share > to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions above to trim any rough start.
+
+Want to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds.
+
 
 ## R/RStudio
 
