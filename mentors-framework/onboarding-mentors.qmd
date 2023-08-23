@@ -1,0 +1,14 @@
+---
+title: "Onboarding Mentors"
+---
+
+## Create a Partipants List Spreadsheet
+
+We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
+
+Headers: 
+cohort	first	last	email	email-2	institution	GitHub - green means added to GitHub nasa-openscapes Org and 2i2c	Twitter
+
+## Create a Google Group with Mentors
+
+Add it easily to Calendar invite and emails
