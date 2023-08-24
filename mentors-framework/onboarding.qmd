@@ -1,0 +1,139 @@
+---
+title: "Onboarding Mentors"
+---
+
+## Create a Participants List Spreadsheet
+
+We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
+
+Headers: cohort first last email email-2 institution GitHub - green means added to GitHub nasa-openscapes Org and 2i2c Twitter
+
+## Create a Google Group with Mentors
+
+Add it easily to Calendar invite and emails
+
+## 1:1 calls
+
+Example doc
+
+::: {.callout-note collapse="true" icon="false"}
+## 1:1 agenda example
+
+**SEDAC -- Openscapes 1:1 meetings**
+
+Zoom:
+
+\
+
+**Aug 24, 2023**
+
+Name, Julie Lowndes
+
+30 minutes
+
+**Purpose:** Openscapes overview and getting to know each other
+
+\
+**Agenda**
+
+**Introductions - what brings you to NASA Openscapes?**
+
+-   
+
+-   Julie marine ecologist turned open science person, NASA Openscapes with Erin Robinson
+
+**NASA-Openscapes Overview**
+
+-   <https://nasa-openscapes.github.io> **(**[recent presentations](https://nasa-openscapes.github.io/about.html)) 
+
+```{=html}
+<!-- -->
+```
+-   [ESIP Session at Winter 2023](https://2023januaryesipmeeting.sched.com/event/1EwXx) - 3 Approaches for the Year of Open Science
+
+-   [NASA OSS Working Group Talk](https://docs.google.com/presentation/d/1BK678MADRg6QkejRQI_5KREGn6DzzQqAS4StsjXmi-k/edit#slide=id.g1b5922f14f8_0_83) 
+
+-   Our goal: to support the work you are already doing. Using Openscapes model, iterating and growing and evolving with Mentors
+
+-   \"Not in addition to our jobs\" - and connects to other DAACs
+
+-   Professional dev, relationships with other DAAC mentors, and ability to work with \"early adopter\" scientists
+
+Broader background about Openscapes: <https://openscapes.org> 
+
+**DAAC activities, skills & software** (help us plan clinics/co-working/what do you all collectively want to do?)
+
+-   
+
+-   
+
+-    
+
+**NASA activities**
+
+-   Are you working with ARSET, DEVELOP, TOPS, SERVIR?
+
+    -   
+
+\
+
+-   Are you doing anything cross-DAAC?
+
+    -   
+
+Are there hurdles that we should be aware of?
+
+-   
+
+-   
+
+\
+\
+
+**Next steps**
+
+-    
+
+-    \
+
+**Draft Calendar (in progress)**
+
+-   New mentors onboarded in late Summer 2023 
+
+-   
+
+**Discussion / Questions**
+
+-    
+
+-    
+
+-   
+:::
+
+## Post 1:1 Followup Checklist
+
+Ask for: GitHub Username, email-2
+
+-   add to calendar invites
+-   add to google group
+-   Add to Slack
+-   invite to Carpentries Instructor Training
+
+::: {.callout-note collapse="true" icon="false"}
+## Followup email example
+
+Hi Kytt and Juan,
+
+It was great to meet you and we're really excited you'll be joining the [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor community!
+
+**Please look out for invitations** to our calendar, Slack, GitHub Organization and our 2i2c JupyterHub --- could you please share your GitHub username and an email address for Google Drive (if not this one)?. We'll have our first Fall kickoff meeting September 20, but you're welcome to join sessions anytime before then. You can also familiarize yourself with [how we onboard](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) --- this is part of the Earthdata Cloud Cookbook that I shared earlier.
+
+**Carpentries Instructor Training** -- that is super you're interested! As part of our NASA grant, we partner with [The Carpentries](https://carpentries.org/), a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics. If you would like to sign up, please follow the 2-step process below. Our membership renews Sept 14; if you have trouble signing up using our code please let me know and I can help get it sorted.
+
+1)  Register for the event of your choice on our [Instructor Training event calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) with the code: **OUR-CODE-HERE**. New events are added to this calendar in December, March, June, and September.
+
+2)  Complete Carpentries [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same code. **Please note**: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.
+
+We're really looking forward to working with you! Cheers, Julie
+:::
