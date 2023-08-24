@@ -25,7 +25,7 @@ Our partners will distribute the announcement via their channels through email, 
 We create a post on the Openscapes Events page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondance, fliers, tweets, etc. Here is an example: <https://openscapes.github.io/events/posts/2021-05-07-css-champions>
 
 ::: {.callout-tip collapse="true"}
-## Example events page text
+## Events page text example
 
 ## Program overview
 
@@ -54,15 +54,11 @@ Nominate your team by filling out this [Google Form](https://forms.gle/ukhkoMzLX
 
 Learn more about the [Openscapes Champions Program](https://openscapes.org/champions), [stories from previous cohorts](https://openscapes.org/cohorts)\], and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: hello at openscapes
 
-\[\^1\]:
- \[Lowndes et al. 2019: Supercharge your research\](https://openscapes.github.io/supercharge-research/)
+\[\^1\]: \[Lowndes et al. 2019: Supercharge your research\](https://openscapes.github.io/supercharge-research/)
 
+\[\^2\]: \[Robinson & Lowndes 2022: The Openscapes Flywheel\](https://eartharxiv.org/repository/view/4560/)
 
-\[\^2\]:
- \[Robinson & Lowndes 2022: The Openscapes Flywheel\](https://eartharxiv.org/repository/view/4560/)
-
-\[\^3\]:
- \[Lowndes 2019: Open software means kinder science\](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
+\[\^3\]: \[Lowndes 2019: Open software means kinder science\](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
 :::
 
 [^1]: [Lowndes et al. 2019: Supercharge your research](https://openscapes.github.io/supercharge-research/)
@@ -78,7 +74,7 @@ Potential participants can sign up via Google Form (or Google Sheet - see below)
 **Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
 
 ::: {.callout-tip collapse="true"}
-## Example Google Form
+## Google Form Example 
 
 Title: NASA Openscapes Champions Cohort
 
@@ -166,16 +162,15 @@ Dear \[PI\],
 
 Thank you for nominating your team to participate in the FDD Openscapes Champions Cohort! We are excited for you to be a part of the cohort; this email is your official acceptance. To confirm you're still able to participate, please:
 
-1.  Book a 30-minute intro call on August 27 or 30 \[link to Google Cal booking page\] -- or suggest other times if that is not possible, preferably September 10. These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
-2.  Respond to this email, cc'ing your team members (up to 4 others). We will then add you and your team to Google Calendar invites for all 4 Cohort Calls.
+1.  **Book a 30-minute intro call on August 27 or 30** \[link to Google Cal booking page\] -- or suggest other times if that is not possible, preferably September 10. These are short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+2.  **Respond to this email, cc'ing your team members** (up to 4 others). We will then add you and your team to Google Calendar invites for all 4 Cohort Calls.
 
-Our [cohort page](https://openscapes.github.io/2021-fdd/) details the dates and times, as well as some background about Openscapes and FDD. We will also email the full cohort closer to the September 17 start date.
+Our [cohort page](https://openscapes.github.io/2021-fdd/) details the dates and times, as well as some background about what to expect, Openscapes, and FDD. We will also email the full cohort prior to the Aug 29 start date.
 
 Please let us know if you have any questions! We're looking forward to working and learning with you.
 
 Cheers,\
-Julie Lowndes and Erin Robinson\
-Co-Directors, Openscapes
+Julie Lowndes, Openscapes
 :::
 
 #### Email to decline
@@ -339,21 +334,23 @@ Julie, Em, Josh, and Megsie
 ::: {.callout-tip collapse="true"}
 ## Example email to welcome (academic) cohort: week prior
 
-**Welcome to Openscapes -- SASI Champions Cohort**
+**Welcome to Openscapes -- Fred Hutch Champions Cohort**
 
 Hello All,
 
-We are so excited to welcome you to the 2021 SASI Openscapes Champions Cohort! Our first Cohort Call is in one week on September 9 and we wanted to share some information with you.
+We are so excited to welcome you to the 2023 Fred Hutch Openscapes Champions Cohort! Our first Cohort Call is next week on August 29 and we wanted to share some information with you.
 
 **Plan.**
 
-[Openscapes](https://openscapes.org) is an approach for doing better science in less time. Through the Champions program we help research groups reimagine data-intensive science, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Our Cohort is supported by the Gordon and Betty Moore Foundation's [Symbiosis in Aquatic Systems Initiative (SASI)](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative), and we're partnering with [protocols.io](https://protocols.io), a secure platform for developing and sharing reproducible methods.
+[Openscapes](https://openscapes.org/) is an approach for better science for future us. Through the Champions Program we help researchers and those supporting research find each other and feel empowered to conduct collaborative data-intensive science. Openscapes Champions is not a typical workshop --- its cohort-based remote sessions for teams introduces concepts and workflows, facilitates teams to talk about problems, then go and solve them with accountability and support. It is a remote-by-design program, launched in 2019, and this is our 20th Cohort! Our Cohort is sponsored by [Fred Hutch Data Science Lab](https://hutchdatascience.org/), with Sean Kross and Monica Gerber supporting us and being a direct link between your needs and solutions at Fred Hutch.
 
-**Before Sept 9, please**:
+**Before August 29, please**:
 
-1.  **Check that you've received Google Calendar invites with Zoom links** for our 8 Cohort Calls starting Sept 9. If you have not received these invites, please let us know.
-2.  **Complete your information in OpenscapesParticipants \[ 2021-sasi \]** to make sure you can access the software we'll use (Google Drive and GitHub).
-3.  **Read [Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools. Optionally, you can also review the slides/video of a [recent plenary](https://www.openscapes.org/blog/2021/08/01/sortee-plenary/).
+1.  **Check that you've received Google Calendar invites with Zoom links** for our 5 Cohort Calls starting August 29. If you have not received these invites, please let us know.
+
+2.  **Complete your information in OpenscapesParticipants \[ 2023-fred-hutch \]** to make sure you can access the software we'll use (Google Drive and GitHub).
+
+3.  **Read the [Openscapes Lesson Series](https://openscapes.github.io/series/) homepage** to learn more about what to expect (the purpose, outcomes, and process of our Cohort), and [**Lowndes et al 2017**](https://www.nature.com/articles/s41559-017-0160) "Our path to better science in less time using open data science tools" to see how a team transitioned shared workflows.
 
 **Additional Information.**
 
@@ -369,16 +366,19 @@ The Champions Program is designed for you to all participate actively with your 
 
 We're the team you'll see most often on the calls, along with a few guest speakers:
 
--   [Julie Lowndes](http://jules32.github.cio), Openscapes founder and co-director, NCEAS, UCSB
--   [Erin Robinson](http://erinrobinson.net/), Openscapes co-director, Metadata Game Changers
--   [Lenny Teytelman](https://www.protocols.io/researchers/lenny-teytelman8), protocols.io founder and CEO
--   [Emma Ganley](https://www.linkedin.com/in/eganley/), protocols.io Director of Strategic Initiatives
+-   [Julie Lowndes](http://jules32.github.cio/), Openscapes 
+
+-   [Stefanie Butland](https://stefaniebutland.netlify.app/), Openscapes
+
+-   [Sean Kross](https://seankross.com/), Fred Hutch Data Science Lab
+
+-   [Monica Gerber](https://www.monicagerber.com/), Fred Hutch Data Science Lab
 
 Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we're looking forward to getting to know all of you and strengthening relationships within the Cohort.
 
 Cheers,
 
-Julie, Erin, Lenny, and Emma
+Julie, Stefanie, Sean, Monica
 :::
 
 ### Day prior
