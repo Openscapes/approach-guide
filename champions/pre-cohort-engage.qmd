@@ -25,7 +25,7 @@ Our partners will distribute the announcement via their channels through email, 
 We create a post on the Openscapes Events page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondance, fliers, tweets, etc. Here is an example: <https://openscapes.github.io/events/posts/2021-05-07-css-champions>
 
 ::: {.callout-tip collapse="true"}
-## Example events page text
+## Events page text example
 
 ## Program overview
 
@@ -74,7 +74,7 @@ Potential participants can sign up via Google Form (or Google Sheet - see below)
 **Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
 
 ::: {.callout-tip collapse="true"}
-## Example Google Form
+## Google Form Example 
 
 Title: NASA Openscapes Champions Cohort
 
@@ -346,25 +346,25 @@ We are so excited to welcome you to the 2023 Fred Hutch Openscapes Champions Coh
 
 **Before August 29, please**:
 
-1.  **Check that you\'ve received Google Calendar invites with Zoom links** for our 5 Cohort Calls starting August 29. If you have not received these invites, please let us know.
+1.  **Check that you've received Google Calendar invites with Zoom links** for our 5 Cohort Calls starting August 29. If you have not received these invites, please let us know.
 
-2.  ~~**Complete your information in OpenscapesParticipants \[ 2023-fred-hutch \]** to make sure you can access the software we\'ll use (Google Drive and GitHub).~~
+2.  **Complete your information in OpenscapesParticipants \[ 2023-fred-hutch \]** to make sure you can access the software we'll use (Google Drive and GitHub).
 
-3.  **Read the [Openscapes Lesson Series](https://openscapes.github.io/series/) homepage** to learn more about what to expect (the purpose, outcomes, and process of our Cohort), and [**Lowndes et al 2017**](https://www.nature.com/articles/s41559-017-0160) \"Our path to better science in less time using open data science tools\" to see how a team transitioned shared workflows.
+3.  **Read the [Openscapes Lesson Series](https://openscapes.github.io/series/) homepage** to learn more about what to expect (the purpose, outcomes, and process of our Cohort), and [**Lowndes et al 2017**](https://www.nature.com/articles/s41559-017-0160) "Our path to better science in less time using open data science tools" to see how a team transitioned shared workflows.
 
 **Additional Information.**
 
-All Openscapes events abide by our[ Code of Conduct](https://openscapes.org/code-of-conduct).
+All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code-of-conduct).
 
 Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know.
 
-Schedule \"Seaside Chats\": In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings \"[Seaside Chats](https://github.com/Openscapes/seaside-chats)\" and suggest you schedule them with your team now (PIs do not need to attend).
+Schedule "Seaside Chats": In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings "[Seaside Chats](https://github.com/Openscapes/seaside-chats)" and suggest you schedule them with your team now (PIs do not need to attend).
 
 The Champions Program is designed for you to all participate actively with your team and across teams in the cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more -- this is intentional. You are all welcome here and provide value to our cohort; there are no technical prerequisites to participate.
 
 **Meet the Openscapes team.**
 
-We\'re the team you\'ll see most often on the calls, along with a few guest speakers:
+We're the team you'll see most often on the calls, along with a few guest speakers:
 
 -   [Julie Lowndes](http://jules32.github.cio/), Openscapes 
 
@@ -374,7 +374,7 @@ We\'re the team you\'ll see most often on the calls, along with a few guest spea
 
 -   [Monica Gerber](https://www.monicagerber.com/), Fred Hutch Data Science Lab
 
-Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we\'re looking forward to getting to know all of you and strengthening relationships within the Cohort.
+Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we're looking forward to getting to know all of you and strengthening relationships within the Cohort.
 
 Cheers,
 
