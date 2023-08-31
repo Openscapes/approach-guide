@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Openscapes Approach Guide - Setup</title>
+<title>Openscapes Approach Guide - Onboarding Mentors</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../contributing/workflow.html" rel="next">
-<link href="../contributing/index.html" rel="prev">
+<link href="../mentors-framework/nasa-openscapes.html" rel="next">
+<link href="../mentors-framework/engage.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../contributing/index.html">Contributing</a></li><li class="breadcrumb-item"><a href="../contributing/setup.html">Setup</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../mentors-framework/index.html">Mentors Framework</a></li><li class="breadcrumb-item"><a href="../mentors-framework/onboarding.html">Onboarding Mentors</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -230,11 +230,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../mentors-framework/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Mentors Framework</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../mentors-framework/engage.html" class="sidebar-item-text sidebar-link">
@@ -243,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../mentors-framework/onboarding.html" class="sidebar-item-text sidebar-link">
+  <a href="../mentors-framework/onboarding.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Onboarding Mentors</span></a>
   </div>
 </li>
@@ -259,14 +259,14 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../contributing/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Contributing</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../contributing/setup.html" class="sidebar-item-text sidebar-link active">
+  <a href="../contributing/setup.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Setup</span></a>
   </div>
 </li>
@@ -294,21 +294,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#install-r-and-rstudio" id="toc-install-r-and-rstudio" class="nav-link active" data-scroll-target="#install-r-and-rstudio">Install R and RStudio!</a>
-  <ul class="collapse">
-  <li><a href="#install-quarto" id="toc-install-quarto" class="nav-link" data-scroll-target="#install-quarto">Install Quarto</a></li>
-  <li><a href="#create-a-github-account" id="toc-create-a-github-account" class="nav-link" data-scroll-target="#create-a-github-account">Create a GitHub account</a></li>
-  <li><a href="#download-and-install-git" id="toc-download-and-install-git" class="nav-link" data-scroll-target="#download-and-install-git">Download and install Git</a></li>
-  </ul></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#create-a-participants-list-spreadsheet" id="toc-create-a-participants-list-spreadsheet" class="nav-link" data-scroll-target="#create-a-participants-list-spreadsheet">Create a Participants List Spreadsheet</a></li>
+  <li><a href="#create-a-google-group-with-mentors" id="toc-create-a-google-group-with-mentors" class="nav-link" data-scroll-target="#create-a-google-group-with-mentors">Create a Google Group with Mentors</a></li>
+  <li><a href="#calls" id="toc-calls" class="nav-link" data-scroll-target="#calls">1:1 calls</a></li>
+  <li><a href="#post-11-followup-checklist" id="toc-post-11-followup-checklist" class="nav-link" data-scroll-target="#post-11-followup-checklist">Post 1:1 Followup Checklist</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/contributing/setup.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/mentors-framework/onboarding.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Setup</h1>
+<h1 class="title">Onboarding Mentors</h1>
 </div>
 
 
@@ -323,39 +322,186 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>To contribute, please do the following (20 minutes). All software is open source and free.</p>
-<section id="install-r-and-rstudio" class="level2">
-<h2 class="anchored" data-anchor-id="install-r-and-rstudio">Install R and RStudio!</h2>
-<p>To download and install R and RStudio:</p>
-<ul>
-<li><p>R: <a href="https://cloud.r-project.org/" class="uri">https://cloud.r-project.org/</a></p></li>
-<li><p>RStudio: <a href="http://www.rstudio.com/download" class="uri">http://www.rstudio.com/download</a></p></li>
-</ul>
-<section id="install-quarto" class="level3">
-<h3 class="anchored" data-anchor-id="install-quarto">Install Quarto</h3>
-<p>To download and Install Quarto:</p>
-<ul>
-<li>Quarto: <a href="https://quarto.org/docs/getting-started/installation.html" class="uri">https://quarto.org/docs/getting-started/installation.html</a></li>
-</ul>
-<p>This will install the Quarto command-line interface (CLI), which can be used even if you don’t have R or Python installed.</p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<p>TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/blob/main/mentors.qmd#L90</p>
 </section>
-<section id="create-a-github-account" class="level3">
-<h3 class="anchored" data-anchor-id="create-a-github-account">Create a GitHub account</h3>
-<ul>
-<li>GitHub: <a href="https://github.com" class="uri">https://github.com</a></li>
-<li>Follow optional <a href="https://happygitwithr.com/github-acct.html">advice on choosing your username</a></li>
-<li>Remember your username, email and password!</li>
-</ul>
+<section id="create-a-participants-list-spreadsheet" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-participants-list-spreadsheet">Create a Participants List Spreadsheet</h2>
+<p>We create a spreadsheet called <code>OpenscapesParticipantsList [ nasa-mentors ]</code></p>
+<p>Headers: cohort first last email email-2 institution GitHub - green means added to GitHub nasa-openscapes Org and 2i2c Twitter</p>
 </section>
-<section id="download-and-install-git" class="level3">
-<h3 class="anchored" data-anchor-id="download-and-install-git">Download and install Git</h3>
+<section id="create-a-google-group-with-mentors" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-google-group-with-mentors">Create a Google Group with Mentors</h2>
+<p>Add it easily to Calendar invite and emails</p>
+</section>
+<section id="calls" class="level2">
+<h2 class="anchored" data-anchor-id="calls">1:1 calls</h2>
+<p>Example doc</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+1:1 agenda example
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>SEDAC – Openscapes 1:1 meetings</strong></p>
+<p>Zoom:</p>
+<p><br>
+</p>
+<p><strong>Aug 24, 2023</strong></p>
+<p>Name, Julie Lowndes</p>
+<p>30 minutes</p>
+<p><strong>Purpose:</strong> Openscapes overview and getting to know each other</p>
+<p><br>
+<strong>Agenda</strong></p>
+<p><strong>Introductions - what brings you to NASA Openscapes?</strong></p>
 <ul>
-<li>Git: <a href="https://git-scm.com/downloads" class="uri">https://git-scm.com/downloads</a></li>
-<li>Follow your operating system’s normal installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together</li>
+<li></li>
+<li>Julie marine ecologist turned open science person, NASA Openscapes with Erin Robinson</li>
 </ul>
+<p><strong>NASA-Openscapes Overview</strong></p>
+<ul>
+<li><p><a href="https://nasa-openscapes.github.io" class="uri">https://nasa-openscapes.github.io</a> <strong>(</strong><a href="https://nasa-openscapes.github.io/about.html">recent presentations</a>)&nbsp;</p></li>
+<li><p><a href="https://2023januaryesipmeeting.sched.com/event/1EwXx">ESIP Session at Winter 2023</a> - 3 Approaches for the Year of Open Science</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1BK678MADRg6QkejRQI_5KREGn6DzzQqAS4StsjXmi-k/edit#slide=id.g1b5922f14f8_0_83">NASA OSS Working Group Talk</a>&nbsp;</p></li>
+<li><p>Our goal: to support the work you are already doing. Using Openscapes model, iterating and growing and evolving with Mentors</p></li>
+<li><p>“Not in addition to our jobs” - and connects to other DAACs</p></li>
+<li><p>Professional dev, relationships with other DAAC mentors, and ability to work with “early adopter” scientists</p></li>
+</ul>
+<p>Broader background about Openscapes: <a href="https://openscapes.org" class="uri">https://openscapes.org</a>&nbsp;</p>
+<p><strong>DAAC activities, skills &amp; software</strong> (help us plan clinics/co-working/what do you all collectively want to do?)</p>
+<ul>
+<li><p>GitHub Usernames:</p></li>
+<li></li>
+<li><p>&nbsp;</p></li>
+</ul>
+<p><strong>NASA activities</strong></p>
+<ul>
+<li><p>Are you working with ARSET, DEVELOP, TOPS, SERVIR?</p>
+<ul>
+<li></li>
+</ul></li>
+<li><p>Are you doing anything cross-DAAC?</p>
+<ul>
+<li></li>
+</ul></li>
+</ul>
+<p>Are there hurdles that we should be aware of?</p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p><strong>Next steps</strong></p>
+<ul>
+<li><p>&nbsp;</p></li>
+<li><p>&nbsp;</p></li>
+</ul>
+<p><strong>Draft Calendar (in progress)</strong></p>
+<ul>
+<li><p>New mentors onboarded in late Summer 2023&nbsp;</p></li>
+<li></li>
+</ul>
+<p><strong>Discussion / Questions</strong></p>
+<ul>
+<li><p>&nbsp;</p></li>
+<li><p>&nbsp;</p></li>
+<li></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="post-11-followup-checklist" class="level2">
+<h2 class="anchored" data-anchor-id="post-11-followup-checklist">Post 1:1 Followup Checklist</h2>
+<ul>
+<li><p>Send Welcome email (examples below)</p>
+<ul>
+<li>Ask for: GitHub Username, email-2</li>
+</ul></li>
+</ul>
+<!-- -->
+<ul>
+<li>Add to calendar invites</li>
+<li>Add to google group</li>
+<li>Add to Slack</li>
+<li>Invite to Carpentries Instructor Training</li>
+<li>Add to 2i2c</li>
+<li>Add to GitHub Org</li>
+</ul>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Intro email example
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi V,</p>
+<p>It was great to meet you; your colleagues said you’re able to join the NASA Openscapes Mentors from PO.DAAC – we’re super excited, welcome! We’re preparing for a Sept 20 kickoff to onboard new mentors, and have a light outline of plans here: https://nasa-openscapes.github.io/mentors.html#current-activities.</p>
+<p>This cross-DAAC mentor community is creating &amp; teaching resources to help researchers migrate workflows to the cloud. The expected time commitment is 3 days/month per year (and this ebbs and flows with your deadlines). This accounts for ~6 hours/month of synchronous calls with the rest of the time being self-directed towards improving support approaches for specific DAACs. You’ll be collaborating with others at your DAAC as well as across DAACs and the broader open science community. Please talk with your supervisor to make sure you are supported in alignment with your job; we will share with EOSDIS and HQ as well.</p>
+<p>We’ll soon add you to calendar invites. If you’d have time for a 1:1 intro in the next few weeks, that would be super – we can share more and answer any questions you have ahead of our Sept 20 kickoff. The week of Sept 5 I’m available most days between 11-2pm PT if you’d have 30 minutes to chat.</p>
+<p>Cheers, Julie</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Followup email example
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Subject: Welcome to the NASA Openscapes Mentor Community!</p>
+<p>Hi Sean, Alicia, Guoqing,</p>
+<p>It was great to meet you and we’re really excited Guoqing will be joining the NASA Openscapes Mentor community from OBDAAC! I’ve cc’d co-lead Erin Robinson and our colleague Stefanie Butland here as well.</p>
+<p><strong>Please look out for invitations to our Calendar and Slack</strong>. Guoqing, could you please share your GitHub username and an email address for Google Drive (if not this one)?. We’ll then give you access to our 2i2c JupyterHub and other things listed in our <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html">how we onboard</a> documentation – this is part of the Earthdata Cloud Cookbook that is the main place for all cloud resources the Mentors are developing. As one professional development opportunity, we partner with The Carpentries, a nonprofit that teaches introductory coding skills around the world. They will announce new dates for Instructor Training next month and we will share information for how to sign up.</p>
+<p><strong>We’ll have our first Fall kickoff meeting September 20</strong>, but you’re welcome to join sessions anytime before then. Please also let us know if there are additional colleagues who are able to join.</p>
+<p>We’re really looking forward to working with you!</p>
+<p>Cheers,</p>
+<p>Julie</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Followup email example with Carpentries
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Subject: Welcome to the NASA Openscapes Mentor Community!</p>
+<p>Hi Kytt and Juan,</p>
+<p>It was great to meet you and we’re really excited you’ll be joining the <a href="https://nasa-openscapes.github.io/">NASA Openscapes</a> Mentor community from SEDAC!</p>
+<p><strong>Please look out for invitations</strong> to our Calendar and Slack. Could you please share your GitHub username and an email address for Google Drive (if not this one)?. We’ll have our first Fall kickoff meeting September 20, but you’re welcome to join sessions anytime before then. You can also familiarize yourself with <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html">how we onboard</a> — this is part of the Mentors’ Earthdata Cloud Cookbook.</p>
+<p><strong>Carpentries Instructor Training</strong> - As part of our NASA grant, we partner with <a href="https://carpentries.org/">The Carpentries</a>, a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics. If you would like to sign up, please follow the 2-step process below. Our membership renews Sept 14; if you have trouble signing up using our code please let me know and I can help get it sorted.</p>
+<ol type="1">
+<li><p>Register for the event of your choice on our <a href="https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training">Instructor Training event calendar</a> with the code: <strong>OUR-CODE-HERE</strong>. New events are added to this calendar in December, March, June, and September.</p></li>
+<li><p>Complete Carpentries <a href="https://amy.carpentries.org/forms/request_training/">profile-creation form</a> using the same code. <strong>Please note</strong>: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.</p></li>
+</ol>
+<p>We’re really looking forward to working with you! Cheers, Julie</p>
+</div>
+</div>
+</div>
+<p>Update https://nasa-openscapes.github.io/mentors.html#mentor-cohort</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -709,13 +855,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../contributing/index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Contributing</span>
+      <a href="../mentors-framework/engage.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Engagement</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../contributing/workflow.html" class="pagination-link">
-        <span class="nav-page-text">Workflow</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../mentors-framework/nasa-openscapes.html" class="pagination-link">
+        <span class="nav-page-text">NASA Openscapes</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
