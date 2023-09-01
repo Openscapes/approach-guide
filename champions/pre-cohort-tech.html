@@ -394,7 +394,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="overview" class="level2" data-number="1">
 <h2 data-number="1" class="anchored" data-anchor-id="overview"><span class="header-section-number">1</span> Overview</h2>
 <p>Cohort tech setup involves the iterative setup of technical infrastructure for Champions Cohorts. Things described in this section begin after <a href="../champions/pre-cohort-engage.html">Pre-cohort engagement</a> ends: after dates are set, 1:1 Intro calls are completed, and Cohort welcome email is sent. Some of this information is echoed in <a href="../champions/leading-cohort-calls.html">Leading Cohort Calls</a>.</p>
-<p>Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g.&nbsp;inviting folks to Slack and coworking sessions). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.</p>
+<p>Most things are set up in advance of the first Cohort Call, with a few things set up following the first Call (e.g.&nbsp;inviting folks to Slack). We generate and review Agendas prior to each Cohort Call; they are not created all in advance.</p>
 <p>In this page, we give some general information, then describe things in temporal order.</p>
 <section id="project-management-in-github" class="level3" data-number="1.1">
 <h3 data-number="1.1" class="anchored" data-anchor-id="project-management-in-github"><span class="header-section-number">1.1</span> Project management in GitHub</h3>
@@ -548,6 +548,7 @@ Tip: Click URL to add to your Google Calendar
 <li>Create <code>CohortCalendaring [ year-cohort-name ]</code> Google sheet (copy from recent sheet) and populate with dates, session topics, guests etc</li>
 <li>Create GitHub repo; make it a website</li>
 <li>Create Cohort Google Folder</li>
+<li>Create Google Calendar invite for Cohort Calls and optional Coworking sessions in OpenscapesEvents calendar. Add participants as guests.</li>
 <li>Create Call 1 Agenda (<code>kyber</code>)</li>
 <li>Email reminder to participants - day before (see <a href="../champions/pre-cohort-engage.html#day-prior">Pre-cohort engagement</a>)</li>
 <li>Add participants to Cohort Google Folder - day before</li>
@@ -559,7 +560,6 @@ Tip: Click URL to add to your Google Calendar
 <li>Draft Debrief/Field Notes after every call</li>
 <li>Send Digest to participants via email in the week following the Cohort Call. Copy Digest to new GitHub Issue in Cohort repo (after GitHub Clinic, all digests are added as a GitHub Issue only)</li>
 <li>Invite participants to Slack</li>
-<li>Create Google Calendar invite for 4 Coworking sessions (after Calls 1-4) in OpenscapesEvents calendar. Add participants as guests.</li>
 </ul>
 </section>
 <section id="before-call-2" class="level3" data-number="2.3">
@@ -720,20 +720,36 @@ Historical aside
 <li>Invite Cohort to join Slack
 <ul>
 <li>In Digest of Cohort Call 01 say, You’ll soon receive an invitation to join Openscapes Slack. Here’s some <a href="https://openscapes.github.io/approach-guide/approach/tooling.html#slack">information</a> in our Approach Guide to help you get comfortable.</li>
-<li>Inside Slack &gt; Openscapes &gt; Invite people to Openscapes &gt; add list of email addresses. Invite as Member. Custom message (Copy this text exactly because URLs are not permitted in custom invitation message): “Please join us in Openscapes Slack. Here’s some information in our Approach Guide to help you get comfortable (copy the url then remove the space after //): https:// openscapes.github.io/approach-guide/approach/tooling.html#slack.”
+<li>Inside Slack &gt; Openscapes &gt; Invite people to Openscapes &gt; Customize your invitation &gt; in Channels, add private channel &gt; add list of email addresses. Invite as Member.
 <ul>
-<li>Custom invitation messages are limited to 560 characters and do not allow urls</li>
-<li>Sending the invite from inside Slack is preferable to creating an invitation link that gets sent in a separate email.</li>
+<li>note: Custom invitation messages are limited to 560 characters and do not allow urls</li>
+<li>So far, we find that sending the invite from inside Slack is preferable to creating an invitation link that gets sent in a separate email.</li>
 </ul></li>
 </ul></li>
-<li>Write a welcome message in the #general channel: Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details.</li>
+<li>Write a welcome message in the #general channel:</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example Slack #general welcome message
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their [ cohort repo ] with a few more details.</p>
+</div>
+</div>
+</div>
 </section>
 <section id="github-clinics" class="level2" data-number="9">
 <h2 data-number="9" class="anchored" data-anchor-id="github-clinics"><span class="header-section-number">9</span> GitHub Clinics</h2>
 <p>GitHub Clinics are part of the Cohort Calls. They require at least two team members.</p>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
@@ -742,7 +758,7 @@ Historical aside
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>In 2021 we experimented having GitHub Clinics as stand-alone events between Cohort Calls 1 and 2, offering them twice, as well as the recording as part of team’s Seaside Chats. In some Cohorts it was difficult for participants to make extra time outside of the Cohort Calls, and it was extra scheduling for everyone. In 2022 we reinstated the GitHub Clinic into Cohort Call 2, and increased the number of Cohort Calls to 5.</p>
 </div>
