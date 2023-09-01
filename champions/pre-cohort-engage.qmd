@@ -16,9 +16,9 @@ Depending on the Cohort, recruitment may happen by the partners internally rathe
 
 Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity as ask team leads to nominate their teams.
 
-### Email, Twitter, Fliers
+### Email, Mastodon, Fliers
 
-Our partners will distribute the announcement via their channels through email, listserves, fliers, etc. We can also tweet the announcement from our account (<https://twitter.com/openscapes>). All announcements will link to the opportunity's post on the Openscapes events page (see next).
+Our partners will distribute the announcement via their channels through email, listserves, fliers, etc. We can also tweet the announcement from our account (https://fosstodon.org/\@openscapes). All announcements will link to the opportunity's post on the Openscapes events page (see next).
 
 ### Openscapes events page
 
@@ -74,7 +74,7 @@ Potential participants can sign up via Google Form (or Google Sheet - see below)
 **Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
 
 ::: {.callout-tip collapse="true"}
-## Google Form Example 
+## Google Form Example
 
 Title: NASA Openscapes Champions Cohort
 
@@ -184,7 +184,7 @@ Dear NAME,
 
 Thank you for nominating your team to participate in the Openscapes Champions CS&S Cohort; we appreciate your interest in learning with us. This was our first open call and we had more interest than we expected, and have not been able to accept all of the great teams that applied. Unfortunately, this means that we are not able to include you in our CS&S cohort.
 
-We will be looking to offer more opportunities like this one as we grow Openscapes as a program, and invite you to stay tuned through our (infrequent) newsletter and via Twitter @openscapes. There are also upcoming virtual opportunities at NCEAS, including through the Reproducible Research Techniques for Synthesis course in July.
+We will be looking to offer more opportunities like this one as we grow Openscapes as a program, and invite you to stay tuned through our (infrequent) newsletter and via Mastodon [\@openscapes\@fosstodon.org](https://fosstodon.org/@openscapes). There are also upcoming virtual opportunities at NCEAS, including through the Reproducible Research Techniques for Synthesis course in July.
 
 Cheers,
 
@@ -195,27 +195,41 @@ Co-Directors, Openscapes
 
 ### Team setup and calendaring
 
-Here's the process as they PIs confirm with their teams:
+Here's the process as the PIs confirm with their teams:
 
 -   Add to OpenscapesParticipants \[ 2021-fdd \]
--   Add team leads and members to the Cohort Calls on the OpenscapesEvents Google Calendar
--   Reply all welcome email to team members with confirmation
+-   Add team leads and members to the Cohort Calls and optional Coworking sessions on the OpenscapesEvents Google Calendar. Use same Zoom link for both invites.
+-   Reply all welcome email to team members with confirmation (example text below)
+
+::: {.callout-tip collapse="true"}
+## Example text for Google Calendar invites
+It's helpful to add "Openscapes" as the first word in title of Calendar invite to distinguish it from many other invites in people's calendars.
+
+### Openscapes Coworking - Fred Hutch Champions Cohort
+description text: We set up an hour for Coworking in between Cohort Calls; these are optional times where folks can work on their own things but also share and ask questions. Julie and Stef will be there to answer questions. Want to have your Team Seaside Chat at this time? We'll make a breakout room for you.
+
+Our Cohort folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link) has a Coworking Agenda doc where we take collaborative notes.
+
+### Openscapes Fred Hutch Cohort Calls
+description text: Cohort Calls for the [2023 Fred Hutch Openscapes Champions Cohort](https://openscapes.github.io/2023-fred-hutch/)
+Quicklinks: Shared Cohort Google Folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link)
+:::
 
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
 
 Thanks \[PI\],
 
-And hi \[folks\], great to meet you all! OpenscapesParticipants \[ 2021-fdd \] is our growing participant list, would you all please update information for your row? I've also just sent Google Calendar invites and will be in touch more before our first Cohort Call on \[date\].
+And hi \[folks\], great to meet you all! OpenscapesParticipants \[ 2021-fdd \] is our growing participant list, would you all please update information for your row? We've also just sent Google Calendar invites and will be in touch more before our first Cohort Call on \[date\].
 
 Looking forward to it,
 
 Julie and Erin
 :::
 
-### Follow teams on Twitter
+### Follow teams on Mastodon
 
-As we are introduced to team leads and members, we follow them on Twitter from the Openscapes account.
+As we are introduced to team leads and members, we follow them on Mastodon from the Openscapes account.
 
 ### 1:1 Intro calls
 
@@ -223,9 +237,11 @@ These are short intro calls with Openscapes and team leads or teams, to start ge
 
 We use Google Calendar Appointment Slots or the new Appointment Schedule to schedule these 1:1's \~1 month before the start of the cohort. ([Learn about appointment slots vs (new) schedules](https://support.google.com/calendar/answer/11608416). Note in early access preview of schedules, you can't add additional team members to your appointment schedule so that they're automatically added to booked appointments - must do that manually.) Create \~2 half-day blocks and invite team leads to book and invite their team members.
 
-Example text in the Calendar Appointment Slots:
+::: {.callout-tip collapse="true"}
+## Example text in the Calendar Appointment Slots:
 
 -   Short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+:::
 
 Before the 1:1's, create an agenda for each call by copying Google doc: Template_Openscapes_IntroCall
 
@@ -304,7 +320,7 @@ You can learn more about past cohorts at [openscapes.org/blog](https://openscape
 
 **Preparing for our Cohort. This week, please**:
 
-1.  **Check that you've received Google Calendar invites with Zoom links** **for our 5 Cohort Calls starting Jan 28**. You've also received invites for optional Co-working times in \~alternating weeks (described more below). If you have not received these invites, please let us know.
+1.  **Check that you've received Google Calendar invites with Zoom links** **for our 5 Cohort Calls starting Jan 28**. You've also received invites for optional Coworking times in \~alternating weeks (described more below). If you have not received these invites, please let us know.
 
 2.  **\[Book a 30-minute intro call on Jan 20 or 21\]** -- or suggest other times if that is not possible. These "1:1's" are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
 
@@ -318,7 +334,7 @@ Will be recording all Cohort Calls. They will be available for you if you miss a
 
 Schedule "Seaside Chats": In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings "[Seaside Chats](https://github.com/Openscapes/seaside-chats)" and suggest you schedule them with your team now. People usually schedule these as 60-min meetings but you can make them whatever length you want. Megsie, Em, and Josh are able to join some of your Seaside Chats as well to help.
 
-Optional "Co-working" sessions: times to implement what we've learned during Cohort Calls, where we work on our own projects at the same time together. Sometimes, this means quiet work with check-ins to break up, be accountable for, and get feedback on focused work, and sometimes this involves breakout rooms and screensharing to plan and problem solve.
+Optional "Coworking" sessions: times to implement what we've learned during Cohort Calls, where we work on our own projects at the same time together. Sometimes, this means quiet work with check-ins to break up, be accountable for, and get feedback on focused work, and sometimes this involves breakout rooms and screensharing to plan and problem solve.
 
 Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we're looking forward to getting to know all of you and strengthening relationships within the Cohort.
 
@@ -346,7 +362,7 @@ We are so excited to welcome you to the 2023 Fred Hutch Openscapes Champions Coh
 
 **Before August 29, please**:
 
-1.  **Check that you've received Google Calendar invites with Zoom links** for our 5 Cohort Calls starting August 29. If you have not received these invites, please let us know.
+1.  **Check that you've received Google Calendar invites with Zoom links** for our 5 Cohort Calls starting August 29 as well as optional Coworking sessions in the weeks between Cohort Calls. If you have not received these invites, please let us know.
 
 2.  **Complete your information in OpenscapesParticipants \[ 2023-fred-hutch \]** to make sure you can access the software we'll use (Google Drive and GitHub).
 
