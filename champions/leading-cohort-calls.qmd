@@ -201,6 +201,7 @@ https://openscapes.github.io/year-cohort-name/ (TODO: add link) - cohort webpage
 
 See Digest examples:
 
+-   [2023-noaa-nwfsc-fall](https://github.com/nmfs-openscapes/2022-noaa-nwfsc-fall/labels/digest)
 -   [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest)
 -   [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest)
 -   [2021-fdd](https://github.com/Openscapes/2021-fdd/labels/digest)
