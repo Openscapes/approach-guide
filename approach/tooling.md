@@ -61,10 +61,9 @@ We encourage people to create and populate their [ORCID](https://orcid.org/) (Op
 
 > ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions.
 
-## Quicktime 
-### Video editing
+## Quicktime video editing
 
-Sometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g. Main room chat during breakouts.
+Sometimes we want to edit a Cohort Call recording to **remove a section from the middle** and keep the start and end segments, e.g. Main room chat during breakouts.
 
 This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using Quicktime](https://youtu.be/82CiWXI4rlQ) (2min 40sec). Briefly:
 
@@ -78,6 +77,8 @@ This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using
 
 Once you delete a section \> Done, the clips are automatically spliced together.
 
+Sometimes we want to edit a recording to **remove the start and/or the end**.
+
 Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets move. Let's say we want to trim (delete) everything after time 59 mins. 
 
 - Go to the 59 min point in the video first
@@ -86,21 +87,24 @@ Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets m
 - Click Trim
 - Save
 
-### Screen recording
-
-Thanks to Sam Csik for this tip. 
-
-To make a screen recording without audio, on a Mac, use Quicktime. File > New screen recording > select options for what to share > to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions above to trim any rough start.
-
-Want to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds.
-
-
 ## R/RStudio
 
 -   all websites and books
 -   data analysis (R: tidyverse, RMarkdown)
 -   communications and technical writing (RMarkdown, bookdown, blogdown, Quarto)
 -   [RStudio and GitHub setup instructions](https://openscapes.github.io/series/how-to/setup-rstudio-github.html)
+
+## Screen recording
+
+Thanks to Emma Ganley and Sam Csik for versions of this tip. 
+
+To make a screen recording without audio, on a Mac, Ctrl-Shift brings up screen recording controls. We need to figure out how to set which screen to record during dual screen use.
+
+To make a screen recording without audio, on a Mac, using Quicktime. File > New screen recording > select options for what to share > to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions (under Quicktime above) to trim any rough start.
+
+Want to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds.
+
+
 
 ## Slack
 
