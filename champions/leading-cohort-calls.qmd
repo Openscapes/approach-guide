@@ -61,7 +61,7 @@ Screenshare! This way we can edit out the recording if groups would like to shar
 
 Between Calls there are tasks for the Openscapes team and for the Champions teams (that the Openscapes team helps support).
 
-### Field Notes
+### Field Notes / Debriefs
 
 We ask all co-leads and assistants to write down thoughts about how the cohort went - these are internal "field notes" that will help us improve between Cohort Calls and across Cohorts.
 
@@ -71,17 +71,135 @@ Prompts to answer include:
 -   Brief summary of how it went
 -   Rose / Bud / Thorn - something that was good, developing, or tricky
 
-Write field notes in the DebriefsDigests Google doc (as of Fall 2022), with one doc for all Cohort Calls. We draft Digests in this same doc.
+We write field notes in the OpenscapesCohortPlanning folder: DebriefsDigests Google doc (as of Fall 2022), with one doc for all Cohort Calls. We draft Digests in this same doc.
 
 ### Digests
 
-We send digests the week following each Cohort Call (early, on Monday or Tuesday). This gives people a touch point in the week between Calls. Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes. 
+We send digests the week following each Cohort Call (early, on Monday or Tuesday). This gives people a touch point in the week between Calls. Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes.
 
 Call 1 Digest is sent via email, and following the GitHub Clinic, the rest are sent via GitHub Issues as a way to continue practicing throughout the cohort. When posting as an issue, tag the cohort GitHub team like `@Openscapes/2022-noaa-sefsc-summer-cohort` so they get email notification.
 
-We develop these in a single "DigestsDrafts" Google Doc - with the AFSC Mentors we would co-work on this during a debrief Seaside Chat.
+We develop these in a single "DebriefsDigests" Google Doc along with our field notes (above). With the AFSC Mentors we would cowork on this during a debrief Seaside Chat immediately after each Cohort Call.
 
-See examples:
+::: {.callout-tip collapse="true"}
+## Example DebriefsDigests doc template
+
+### Pre-Call prep 15 mins before start
+
+Julie last minute checks: good internet?
+
+Stef during call
+
+-   turn on live transcript
+-   Share this Debriefs doc link with team to add async notes
+-   Set co-hosts
+-   Paste in Zoom chat: Welcome! Here's our shared Agenda where we can all take notes, please say hello in Roll Call as you join: LINK
+-   Add slides link to chat when relevant
+-   Hit record (local); stop during breakouts & restart. Add red RECORD text in doc
+    -   PAUSE in between, not STOP (pause makes it one recording, stop makes separate recordings)
+-   Breakout rooms - - create them 5-10 mins before opening so you can manually move ppl before opening rooms, if desired e.g. distribute Mentors to different rooms
+    -   don't make them too early
+
+Stef or Julie post-call
+
+-   Upload video to CohortFolder
+
+Tips when presenting
+
+-   At start of call, open all your slide decks at 1st slide, especially when you're presenting twice in one day
+-   As you start to present a deck, put slide link into chat
+-   Ask guest teachers to screenshare so we can post video
+ 
+
+### Debriefs
+
+*These are internal "field notes" that will help us improve between Cohort Calls and across Cohorts. Described in [Approach Guide](https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html#field-notes)*
+
+***Prompts to answer include:***
+
+-   *Top-of-mind (what would you tell your roommate?)*
+-   *Brief summary of how it went*
+-   *Rose / Bud / Thorn - something that was good, developing, or tricky*
+
+#### Call 1
+
+Julie
+
+-    
+-    
+
+Stef
+
+-    
+-    
+
+Co-lead
+
+-    
+-    
+
+Co-lead
+
+-    
+-    
+
+### Digests
+
+*Call 01 Digest is sent by email. Subsequent digests are posted as GitHub Issues, following the GitHub Clinic in Call 02. Stef recommends pasting the Digest content in RStudio Visual, then look at the Source, edit, copy-paste into GitHub issue. This has required fewer edits than using a Google doc to Markdown plugin.*
+
+*Structure is*
+
+-   *"yay this thing from the call"*
+-   *below is a short digest*
+-   *(Digest 1) we've invited you to private Cohort channel in Openscapes Slack. Link to [orientation](https://openscapes.github.io/approach-guide/approach/tooling.html#slack)*
+-   *(Digest 1) we've sent calendar invite to Coworking in weeks between Cohort Calls. These are optional. Can use the time for team Seaside Chats*
+-   *(Digest 1) add your GitHub username*
+-   *Sign off*
+-   *Structured Digest content*
+
+#### Call 1
+
+Hi All!
+
+It's exciting to start our NAME Openscapes Champions Cohort and meet you all in Zoom! We introduced a lot of concepts; we will explore them more together in the next sessions. Below is a light digest of Call 01, including a reminder about your Seaside Chat to think through your Pathway trailhead.
+
+As a reminder of tasks for next time: have your first 'seaside chat' with your team and discuss where are you now? 
+
+We'll send each of you an invitation to Openscapes Slack. Here's a short [Slack orientation](https://openscapes.github.io/approach-guide/approach/tooling.html#slack) to help you get comfortable. The 2023-cohort-name channel is a private space to connect with each other, and other community channels are to engage with folks from previous cohorts and the broader Openscapes Community. Joining Slack is optional, another tool for you to experiment with.
+
+Have a good week,
+
+Stef, Julie, Co-lead, Co-lead
+
+
+**Digest: Cohort Call 01 \[ year-cohort-name \]**
+
+Openscapes_CohortCalls \[ year-cohort-name \] (TODO: add link) Google folder - contains agendas, recordings, pathways 
+
+https://openscapes.github.io/year-cohort-name/ (TODO: add link) - cohort webpage
+
+**Goals**: We started working towards a common understanding of the Openscapes mindset and what your pathway forward looks like for your team.
+
+**Task**: please see the Agenda doc (under Closing) (TODO: add link) for more details
+
+1.  Have a Seaside Chat (meet with your team) & reflect together on what you've learned so far 
+2.  (optional) Attend Coworking. We've  sent a calendar invite for DATE, TIME. Come prepared to get your own work done, ask questions, or listen in to other conversations and screensharing.
+
+**Slide Decks:**
+
+-   Openscapes mindset ([slides](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/))
+-   Better science for future us ([slides](https://docs.google.com/presentation/d/1tE3pQ2ObNU68iG4uTIlMuSN4dguvn-cOvwtoM-c9L-w/))
+
+**A few lines from shared notes in the Agenda doc**
+
+*Note: no need to add agenda subheadings or group notes under them*
+
+-   
+-   
+-   
+:::
+
+See Digest examples:
 
 -   [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest)
 -   [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest)
@@ -92,7 +210,7 @@ See examples:
 
 We started coworking with Cohorts in fall 2021. It's a nice practice that our team does together (to work on your own but have a buddy available over Zoom) and it's nice to offer as a practice to the Champions too. Champions have said they appreciate this as a practice to take back to their research groups and it's also a nice way to continue to build community and a learning culture and practice talking about data needs and screensharing.
 
-We set up an hour of Coworking in between weeks; these are optional times where folks can work on their own things but also share and ask questions. Here is an [example agenda](https://docs.google.com/document/d/1kaMqhEIpF5flepHLS2TD3z2gSvSY5rzGOgC7IXCi-Dg/edit#).
+We set up an hour of Coworking in the weeks between Cohort Calls. These are optional times where folks can work on their own things but also share and ask questions. Here is an agenda template [OpenscapesCoworking \[ year-cohort-name \]](https://docs.google.com/document/d/1dT4KHvlS18rGxXVLhtvsCOWT_5kmxKgBkVwnhMf3WN0/edit?usp=drive_link).
 
 ::: {.callout-tip collapse="true"}
 ## Example Coworking agenda
@@ -156,7 +274,7 @@ Give it a try and if you have any trouble getting connected, come to the drop-in
 -   Date / time (click to add to your Google Cal)
 -   Date / time (click to add to your Google Cal)
 
-See [Tip: Click URL to add to your Google Calendar](pre-cohort-tech.qmd#google-workspace) for instructions on how to implment this. 
+See [Tip: Click URL to add to your Google Calendar](pre-cohort-tech.qmd#google-workspace) for instructions on how to implment this.
 :::
 
 ## First Cohort Call
@@ -177,5 +295,4 @@ Hi All, Excited for today! We'll share the \[ Agenda \] in chat, and expect that
 
 **Slack invites**
 
--   See [how-to instructions](pre-cohort-tech.qmd#slack) in Cohort Tech Setup 
-
+-   See [how-to instructions](pre-cohort-tech.qmd#slack) in Cohort Tech Setup
