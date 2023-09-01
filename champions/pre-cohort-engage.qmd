@@ -74,7 +74,7 @@ Potential participants can sign up via Google Form (or Google Sheet - see below)
 **Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
 
 ::: {.callout-tip collapse="true"}
-## Google Form Example 
+## Google Form Example
 
 Title: NASA Openscapes Champions Cohort
 
@@ -138,6 +138,12 @@ This opportunity is open only to research groups that use data from NASA DAACs. 
 :::
 
 **Google Sheet:** For some cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
+
+### Is this for me and AMA
+
+Create slides/video to share, potentially schedule Ask Me/Us Anything.
+
+-   Example: [Fred Hutch Is this For Me? slides](https://docs.google.com/presentation/d/1BigUaObMACvX8io-50acuTfIApgESMQ9CRsfdOvuLF0/edit#slide=id.g23e6fa91d46_0_348)
 
 ## Selection and coordination
 
