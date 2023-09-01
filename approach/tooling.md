@@ -57,7 +57,9 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 ## ORCID/Rescognito
 
-upcoming
+We encourage people to create and populate their [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) profile. 
+
+> ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions.
 
 ## Quicktime 
 ### Video editing
