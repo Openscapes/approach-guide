@@ -406,11 +406,11 @@
     "text": "ORCID/Rescognito\nWe encourage people to create and populate their ORCID (Open Researcher and Contributor ID) profile.\n\nORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions."
   },
   {
-    "objectID": "approach/tooling.html#quicktime",
-    "href": "approach/tooling.html#quicktime",
+    "objectID": "approach/tooling.html#quicktime-video-editing",
+    "href": "approach/tooling.html#quicktime-video-editing",
     "title": "Tooling",
-    "section": "Quicktime",
-    "text": "Quicktime\n\nVideo editing\nSometimes we want to edit a Cohort Call recording to remove a section from the middle, e.g. Main room chat during breakouts.\nThis video says it all: Trimming Clips or Cutting Parts Out of the Middle Using Quicktime (2min 40sec). Briefly:\n\nmake copy of your video to edit\ngo to start point of section you want to remove\nuse arrow keys for finer navigation\nEdit &gt; Split clip &gt; Done\ngo to end point of section you want to remove\nEdit &gt; Split clip &gt; I think you hit delete on the section to exclude at this point &gt; Done\nSave\n\nOnce you delete a section &gt; Done, the clips are automatically spliced together.\nUsing Edit &gt; Trim, it can be hard to control how fast the yellow Trim brackets move. Let’s say we want to trim (delete) everything after time 59 mins.\n\nGo to the 59 min point in the video first\nclick Edit &gt; Trim … Yellow brackets appear around the whole video, with a red vertical line - the ‘playhead’ - at 59 mins. The yellow-bracket segment is the part that will be kept\nType “i” to move the starting point to the playhead’s position (keep the end of the video), or type “o” to make the ending point at the playhead’s position (keep the beginning of the video).\nClick Trim\nSave\n\n\n\nScreen recording\nThanks to Sam Csik for this tip.\nTo make a screen recording without audio, on a Mac, use Quicktime. File &gt; New screen recording &gt; select options for what to share &gt; to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions above to trim any rough start.\nWant to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds."
+    "section": "Quicktime video editing",
+    "text": "Quicktime video editing\nSometimes we want to edit a Cohort Call recording to remove a section from the middle and keep the start and end segments, e.g. Main room chat during breakouts.\nThis video says it all: Trimming Clips or Cutting Parts Out of the Middle Using Quicktime (2min 40sec). Briefly:\n\nmake copy of your video to edit\ngo to start point of section you want to remove\nuse arrow keys for finer navigation\nEdit &gt; Split clip &gt; Done\ngo to end point of section you want to remove\nEdit &gt; Split clip &gt; I think you hit delete on the section to exclude at this point &gt; Done\nSave\n\nOnce you delete a section &gt; Done, the clips are automatically spliced together.\nSometimes we want to edit a recording to remove the start and/or the end.\nUsing Edit &gt; Trim, it can be hard to control how fast the yellow Trim brackets move. Let’s say we want to trim (delete) everything after time 59 mins.\n\nGo to the 59 min point in the video first\nclick Edit &gt; Trim … Yellow brackets appear around the whole video, with a red vertical line - the ‘playhead’ - at 59 mins. The yellow-bracket segment is the part that will be kept\nType “i” to move the starting point to the playhead’s position (keep the end of the video), or type “o” to make the ending point at the playhead’s position (keep the beginning of the video).\nClick Trim\nSave"
   },
   {
     "objectID": "approach/tooling.html#rrstudio",
@@ -418,6 +418,13 @@
     "title": "Tooling",
     "section": "R/RStudio",
     "text": "R/RStudio\n\nall websites and books\ndata analysis (R: tidyverse, RMarkdown)\ncommunications and technical writing (RMarkdown, bookdown, blogdown, Quarto)\nRStudio and GitHub setup instructions"
+  },
+  {
+    "objectID": "approach/tooling.html#screen-recording",
+    "href": "approach/tooling.html#screen-recording",
+    "title": "Tooling",
+    "section": "Screen recording",
+    "text": "Screen recording\nThanks to Emma Ganley and Sam Csik for versions of this tip.\nTo make a screen recording without audio, on a Mac, Ctrl-Shift brings up screen recording controls. We need to figure out how to set which screen to record during dual screen use.\nTo make a screen recording without audio, on a Mac, using Quicktime. File &gt; New screen recording &gt; select options for what to share &gt; to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions (under Quicktime above) to trim any rough start.\nWant to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds."
   },
   {
     "objectID": "approach/tooling.html#slack",
