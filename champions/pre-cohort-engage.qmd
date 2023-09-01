@@ -198,8 +198,22 @@ Co-Directors, Openscapes
 Here's the process as the PIs confirm with their teams:
 
 -   Add to OpenscapesParticipants \[ 2021-fdd \]
--   Add team leads and members to the Cohort Calls and optional Coworking sessions on the OpenscapesEvents Google Calendar
--   Reply all welcome email to team members with confirmation
+-   Add team leads and members to the Cohort Calls and optional Coworking sessions on the OpenscapesEvents Google Calendar. Use same Zoom link for both invites.
+-   Reply all welcome email to team members with confirmation (example text below)
+
+::: {.callout-tip collapse="true"}
+## Example text for Google Calendar invites
+It's helpful to add "Openscapes" as the first word in title of Calendar invite to distinguish it from many other invites in people's calendars.
+
+### Openscapes Coworking - Fred Hutch Champions Cohort
+description text: We set up an hour for Coworking in between Cohort Calls; these are optional times where folks can work on their own things but also share and ask questions. Julie and Stef will be there to answer questions. Want to have your Team Seaside Chat at this time? We'll make a breakout room for you.
+
+Our Cohort folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link) has a Coworking Agenda doc where we take collaborative notes.
+
+### Openscapes Fred Hutch Cohort Calls
+description text: Cohort Calls for the [2023 Fred Hutch Openscapes Champions Cohort](https://openscapes.github.io/2023-fred-hutch/)
+Quicklinks: Shared Cohort Google Folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link)
+:::
 
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
