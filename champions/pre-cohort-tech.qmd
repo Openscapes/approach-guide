@@ -291,10 +291,15 @@ After the first Cohort Call, we:
 -   Create a private Slack channel for the cohort, called \[ year-cohort-name \]
 -   Invite Cohort to join Slack
     -   In Digest of Cohort Call 01 say, You'll soon receive an invitation to join Openscapes Slack. Here's some [information](https://openscapes.github.io/approach-guide/approach/tooling.html#slack) in our Approach Guide to help you get comfortable.
-    -   Inside Slack \> Openscapes \> Invite people to Openscapes \> add list of email addresses. Invite as Member. Custom message (Copy this text exactly because URLs are not permitted in custom invitation message): "Please join us in Openscapes Slack. Here's some information in our Approach Guide to help you get comfortable (copy the url then remove the space after //): https:// openscapes.github.io/approach-guide/approach/tooling.html#slack."
-        -   Custom invitation messages are limited to 560 characters and do not allow urls
-        -   Sending the invite from inside Slack is preferable to creating an invitation link that gets sent in a separate email.
--   Write a welcome message in the #general channel: Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
+    -   Inside Slack \> Openscapes \> Invite people to Openscapes \> Customize your invitation \> in Channels, add private channel \> add list of email addresses. Invite as Member.
+        -   note: Custom invitation messages are limited to 560 characters and do not allow urls
+        -   So far, we find that sending the invite from inside Slack is preferable to creating an invitation link that gets sent in a separate email.
+-   Write a welcome message in the #general channel:
+
+::: {.callout-note collapse="true"}
+## Example Slack #general welcome message
+Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
+:::
 
 ## GitHub Clinics
 
