@@ -14,7 +14,9 @@ Headers: cohort first last email email-2 institution GitHub - green means added 
 
 ## Create a Google Group with Mentors
 
-Add it easily to Calendar invite and emails
+For NASA, we created a Google Group so we could easily add mentors to Google Folders and Calendars. 
+
+This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
 
 ## 1:1 calls
 
