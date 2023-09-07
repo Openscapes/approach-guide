@@ -921,7 +921,7 @@
     "href": "mentors-framework/onboarding.html#create-a-google-group-with-mentors",
     "title": "Onboarding Mentors",
     "section": "Create a Google Group with Mentors",
-    "text": "Create a Google Group with Mentors\nAdd it easily to Calendar invite and emails"
+    "text": "Create a Google Group with Mentors\nFor NASA, we created a Google Group so we could easily add mentors to Google Folders and Calendars.\nThis hasn’t worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone’s Google-access emails are included in the Google Group."
   },
   {
     "objectID": "mentors-framework/onboarding.html#calls",
