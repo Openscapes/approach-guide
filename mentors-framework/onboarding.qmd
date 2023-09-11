@@ -121,7 +121,7 @@ Are there hurdles that we should be aware of?
 -   Add to google group
 -   Add to Slack
 -   Invite to Carpentries Instructor Training
--   Add to 2i2c
+-   Add to 2i2c as an administrator <https://openscapes.2i2c.cloud/admin>
 -   Add to GitHub Org
 
 ::: {.callout-note collapse="true" icon="false"}
