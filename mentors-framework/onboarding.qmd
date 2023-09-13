@@ -10,13 +10,17 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 
 We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
 
-Headers: cohort first last email email-2 institution GitHub - green means added to GitHub nasa-openscapes Org and 2i2c Twitter
+Headers: cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~Twitter - not using Twitter as of 2023~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ see AccessList: https://docs.google.com/spreadsheets/d/10Qg8YtUegXs9bepJzvK4UN54bX8BLXTrhxsjb2uV_6k/edit#gid=1824163684, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.									
 
 ## Create a Google Group with Mentors
 
 For NASA, we created a Google Group so we could easily add mentors to Google Folders and Calendars. 
 
 This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
+
+## Create a GitHub Team with Mentors
+
+Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: `YYYY-mentors-community`.
 
 ## 1:1 calls
 
@@ -112,17 +116,19 @@ Are there hurdles that we should be aware of?
 ## Post 1:1 Followup Checklist
 
 -   Send Welcome email (examples below)
-
     -   Ask for: GitHub Username, email-2
 
 <!-- -->
 
--   Add to calendar invites
--   Add to google group
+-   Add to calendar invites for Mentor Calls and Coworking
+-   Add to Google Folder
+-   Add to Google Group
+-   for NASA-Openscapes, Add to 2i2c as an administrator <https://openscapes.2i2c.cloud/admin> (do we add as member or admin?)
+-   Add to GitHub Mentors Team in Org
 -   Add to Slack
+-   Add to Coiled
 -   Invite to Carpentries Instructor Training
--   Add to 2i2c as an administrator <https://openscapes.2i2c.cloud/admin>
--   Add to GitHub Org
+-   Add Bio to Mentors page, or name if bio not available
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Intro email example
