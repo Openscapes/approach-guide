@@ -10,7 +10,7 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 
 We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
 
-Headers: cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~Twitter - not using Twitter as of 2023~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.									
+Headers (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~Twitter - not using Twitter as of 2023~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.									
 
 ## Create a Google Group with Mentors
 
