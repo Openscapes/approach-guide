@@ -128,6 +128,7 @@ Are there hurdles that we should be aware of?
 -   Add Bio to Mentors page, or name if bio not available
 -   for NASA-Openscapes
     - Add to 2i2c as member via <https://openscapes.2i2c.cloud/admin>
+    - Add to `Openscapes_JupyterHubAccess (Responses)` sheet of 2i2c members
     - Add to Coiled
     - Invite to Carpentries Instructor Training
 
