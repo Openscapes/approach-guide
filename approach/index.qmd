@@ -52,3 +52,9 @@ We work not only towards open science, but kinder science, and approach this in 
 ## We practice what we teach
 
 We use the same tooling to lead Openscapes that are powerful for research: based in R (RMarkdown, Quarto), GitHub, Google Drive, and Twitter. This is because as researchers these tools have transformed science collaboration and communication and we now can't imagine science or our regular workflows without them! Using them daily also keeps us current with modern tooling and provides endless opportunities for learning.
+
+## Space & Place
+
+<!-- place: tech: google docs, README, Zoom, office, Quarto, GitHub, slot in your calendar -->
+<!-- space: people: time, approval from your supervisor, physical , intentional, part of your job, advocating. coworking is the practice of creating space -->
+<!-- The hard part about documentation is being intentional, having this be part of your job. Making space is the hard part -->

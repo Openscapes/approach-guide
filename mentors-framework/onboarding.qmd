@@ -18,9 +18,9 @@ For NASA, we created a Google Group so we could easily add mentors to Google Fol
 
 This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
 
-## 1:1 calls
+## 1:1 Mentor intro calls
 
-Example doc
+We have intro calls with each mentor pair or trio prior to our kickoff call with the whole Mentor community.
 
 ::: {.callout-note collapse="true" icon="false"}
 ## 1:1 agenda example
@@ -111,18 +111,22 @@ Are there hurdles that we should be aware of?
 
 ## Post 1:1 Followup Checklist
 
--   Send Welcome email (examples below)
 
-    -   Ask for: GitHub Username, email-2
+- Send Welcome email (examples below)
+  - Ask for: GitHub Username, email-2
 
-<!-- -->
+- Add to calendar invites for Mentor Calls and Coworking
+- Add to Google Folder
+- Add to Google Group
+- Add to GitHub Mentors Team in Org
+- Add to Slack
+- Add Bio to Mentors page, or name if bio not available
+- For NASA-Openscapes
+  - Add to 2i2c as member via https://openscapes.2i2c.cloud/admin
+  - Add to `Openscapes_JupyterHubAccess (Responses)` sheet of 2i2c members
+  - Add to Coiled
+  - Invite to Carpentries Instructor Training
 
--   Add to calendar invites
--   Add to google group
--   Add to Slack
--   Invite to Carpentries Instructor Training
--   Add to 2i2c
--   Add to GitHub Org
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Intro email example
@@ -138,7 +142,7 @@ We'll soon add you to calendar invites. If you'd have time for a 1:1 intro in th
 Cheers, Julie
 :::
 
-::: {.callout-note icon="false"}
+::: {.callout-note collapse = "true" icon="false"}
 ## Followup email example
 
 Subject: Welcome to the NASA Openscapes Mentor Community!
