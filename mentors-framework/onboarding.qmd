@@ -143,7 +143,7 @@ We'll soon add you to calendar invites. If you'd have time for a 1:1 intro in th
 Cheers, Julie
 :::
 
-::: {.callout-note collapse = "true" icon="false"}
+::: {.callout-note collapse="true" icon="false"}
 ## Followup email example
 
 Subject: Welcome to the NASA Openscapes Mentor Community!
@@ -182,5 +182,3 @@ It was great to meet you and we're really excited you'll be joining the [NASA Op
 
 We're really looking forward to working with you! Cheers, Julie
 :::
-
-Update https://nasa-openscapes.github.io/mentors.html#mentor-cohort
