@@ -56,5 +56,7 @@ We use the same tooling to lead Openscapes that are powerful for research: based
 ## Space & Place
 
 <!-- place: tech: google docs, README, Zoom, office, Quarto, GitHub, slot in your calendar -->
+
 <!-- space: people: time, approval from your supervisor, physical , intentional, part of your job, advocating. coworking is the practice of creating space -->
+
 <!-- The hard part about documentation is being intentional, having this be part of your job. Making space is the hard part -->

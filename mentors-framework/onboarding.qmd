@@ -2,29 +2,55 @@
 title: "Onboarding Mentors"
 ---
 
+```{=html}
 <!---
 
 TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/blob/main/mentors.qmd#L90
 
 --->
-
+```
 ## Create a Participants List Spreadsheet
 
 We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
 
-Headers (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~~Twitter - not using Twitter as of 2023~~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.									
+Headers (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~~Twitter - not using Twitter as of 2023~~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.
 
-## Create a Google Group with Mentors
+## Welcome Email
 
-For NASA, we created a Google Group so we could easily add mentors to Google Folders and Calendars. 
+::: {.callout-note collapse="true" icon="false"}
+Subject: Welcome to the NASA Openscapes Mentor Community!
 
-This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
+Hi Rhys et al,
 
-## Create a GitHub Team with Mentors
+Welcome, we're excited you'll be joining the [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor community!
 
-Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: `YYYY-mentors-community`.
+This cross-DAAC mentor community is creating & teaching resources to help researchers migrate workflows to the cloud. We learn and develop common materials and teaching approaches together, working with alignment on common needs for researchers using NASA Earthdata. We meet regularly via video and collaborate asynchronously - details follow.
 
-## ## 1:1 Mentor intro calls
+We are currently gearing up for workshops and presentations at the Fall AGU Conference - will you be attending?
+
+Here are the first few steps for onboarding to this community:
+
+1.  **Read the [NASA Mentors Onboarding](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) section** **of the Earthdata Cloud Cookbook**. There are links to further information and work by the NASA Mentors, including slides, reading, and setup for what to expect.
+2.  **Provide your GitHub username** **via our [JupyterHub request form](https://docs.google.com/forms/d/e/1FAIpQLSdcKar-yNnofiAVKlks79AgmQeM1beLCQM5TW_0__x_JU4B3g/viewform?usp=sf_link)**.
+3.  **Look out for and accept invitations** to our Calendar, Google Drive, Slack, and GitHub. Note that to access our 2i2c JupyterHub, you'll need to provide your GitHub username and accept the GitHub Teams invitation.
+4.  **Carpentries Instructor Training** - We partner with [The Carpentries](https://carpentries.org/), a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics, and has grown a common teaching approach for NASA Openscapes Mentors. Please sign up following the 2-step process below.
+
+```{=html}
+<!-- -->
+```
+a.  Register for the event of your choice on our [Instructor Training event calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) with the code: **OUR-CODE-HERE**. New events are added to this calendar in December, March, June, and September.
+b.  Complete Carpentries [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same code. **Please note**: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.
+
+If you have any questions, please reach out via email or Slack. We are also available to book 1:1 intro calls before Thanksgiving.
+
+We're really looking forward to working with you!
+
+Cheers,
+
+Julie Lowndes, Erin Robinson, Stefanie Butland, NASA Openscapes
+:::
+
+## 1:1 Mentor intro calls
 
 We have intro calls with each mentor pair or trio prior to our kickoff call with the whole Mentor community.
 
@@ -114,20 +140,19 @@ Are there hurdles that we should be aware of?
 
 ## Post 1:1 Followup Checklist
 
-- Send Welcome email (examples below)
-  - Ask for: GitHub Username, email-2
-
-- Add to calendar invites for Mentor Calls and Coworking
-- Add to Google Folder
-- Add to Google Group
-- Add to GitHub Mentors Team in Org
-- Add to Slack
-- Add Bio to Mentors page, or name if bio not available
-- For NASA-Openscapes
-  - Add to 2i2c as member via <https://openscapes.2i2c.cloud/admin>
-  - Add to `Openscapes_JupyterHubAccess (Responses)` sheet of 2i2c members
-  - Add to Coiled
-  - Invite to Carpentries Instructor Training
+-   Send Welcome email (examples below)
+    -   Ask for: GitHub Username, email-2
+-   Add to calendar invites for Mentor Calls and Coworking
+-   Add to Google Folder
+-   Add to Google Group
+-   Add to GitHub Mentors Team in Org
+-   Add to Slack
+-   Add Bio to Mentors page, or name if bio not available
+-   For NASA-Openscapes
+    -   Add to 2i2c as member via <https://openscapes.2i2c.cloud/admin>
+    -   Add to `Openscapes_JupyterHubAccess (Responses)` sheet of 2i2c members
+    -   Add to Coiled
+    -   Invite to Carpentries Instructor Training
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Intro email example
@@ -152,13 +177,13 @@ Hi Sean, Alicia, Guoqing,
 
 It was great to meet you and we're really excited Guoqing will be joining the NASA Openscapes Mentor community from OBDAAC! I've cc'd co-lead Erin Robinson and our colleague Stefanie Butland here as well.
 
-**Please look out for invitations to our Calendar and Slack**. Guoqing, could you please share your GitHub username and an email address for Google Drive (if not this one)?. We'll then give you access to our 2i2c JupyterHub and other things listed in our [how we onboard](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) documentation – this is part of the Earthdata Cloud Cookbook that is the main place for all cloud resources the Mentors are developing. As one professional development opportunity, we partner with The Carpentries, a nonprofit that teaches introductory coding skills around the world. They will announce new dates for Instructor Training next month and we will share information for how to sign up.
+**Please look out for invitations to our Calendar and Slack**. Guoqing, could you please share your GitHub username and an email address for Google Drive (if not this one)?. We'll then give you access to our 2i2c JupyterHub and other things listed in our [how we onboard](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) documentation -- this is part of the Earthdata Cloud Cookbook that is the main place for all cloud resources the Mentors are developing. As one professional development opportunity, we partner with The Carpentries, a nonprofit that teaches introductory coding skills around the world. They will announce new dates for Instructor Training next month and we will share information for how to sign up.
 
 **We'll have our first Fall kickoff meeting September 20**, but you're welcome to join sessions anytime before then. Please also let us know if there are additional colleagues who are able to join.
 
-We're really looking forward to working with you! 
+We're really looking forward to working with you!
 
-Cheers, 
+Cheers,
 
 Julie
 :::
@@ -182,3 +207,15 @@ It was great to meet you and we're really excited you'll be joining the [NASA Op
 
 We're really looking forward to working with you! Cheers, Julie
 :::
+
+## Create a way to email Mentor group
+
+This is evolving.
+
+For NASA, we started off by creating a **Google Group** so we could easily add mentors to Google Folders and Calendars. This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
+
+We're also using GitHub Teams more, for 2i2c access and coordinating. Rather than a Google Group that is difficult to hand off in terms of managing, a GitHub Team might be the way to go. This will raise challenges for any private info (e.g. Carpentries code), but that could be handled in Slack.
+
+### Create a GitHub Team with Mentors
+
+Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: `nasa-mentors-community`.
