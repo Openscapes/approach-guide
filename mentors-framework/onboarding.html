@@ -301,10 +301,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#create-a-participants-list-spreadsheet" id="toc-create-a-participants-list-spreadsheet" class="nav-link active" data-scroll-target="#create-a-participants-list-spreadsheet">Create a Participants List Spreadsheet</a></li>
-  <li><a href="#create-a-google-group-with-mentors" id="toc-create-a-google-group-with-mentors" class="nav-link" data-scroll-target="#create-a-google-group-with-mentors">Create a Google Group with Mentors</a></li>
-  <li><a href="#create-a-github-team-with-mentors" id="toc-create-a-github-team-with-mentors" class="nav-link" data-scroll-target="#create-a-github-team-with-mentors">Create a GitHub Team with Mentors</a></li>
-  <li><a href="#mentor-intro-calls" id="toc-mentor-intro-calls" class="nav-link" data-scroll-target="#mentor-intro-calls">## 1:1 Mentor intro calls</a></li>
+  <li><a href="#welcome-email" id="toc-welcome-email" class="nav-link" data-scroll-target="#welcome-email">Welcome Email</a></li>
+  <li><a href="#mentor-intro-calls" id="toc-mentor-intro-calls" class="nav-link" data-scroll-target="#mentor-intro-calls">1:1 Mentor intro calls</a></li>
   <li><a href="#post-11-followup-checklist" id="toc-post-11-followup-checklist" class="nav-link" data-scroll-target="#post-11-followup-checklist">Post 1:1 Followup Checklist</a></li>
+  <li><a href="#create-a-way-to-email-mentor-group" id="toc-create-a-way-to-email-mentor-group" class="nav-link" data-scroll-target="#create-a-way-to-email-mentor-group">Create a way to email Mentor group</a>
+  <ul class="collapse">
+  <li><a href="#create-a-github-team-with-mentors" id="toc-create-a-github-team-with-mentors" class="nav-link" data-scroll-target="#create-a-github-team-with-mentors">Create a GitHub Team with Mentors</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/approach-guide/edit/main/mentors-framework/onboarding.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -338,20 +341,50 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 <p>We create a spreadsheet called <code>OpenscapesParticipantsList [ nasa-mentors ]</code></p>
 <p>Headers (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, <del>Twitter - not using Twitter as of 2023</del>, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to <code>Openscapes_JupyterHubAccess (Responses)</code> sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we’ll add; you can also make a GitHub Pull Request if you’d prefer.</p>
 </section>
-<section id="create-a-google-group-with-mentors" class="level2">
-<h2 class="anchored" data-anchor-id="create-a-google-group-with-mentors">Create a Google Group with Mentors</h2>
-<p>For NASA, we created a Google Group so we could easily add mentors to Google Folders and Calendars.</p>
-<p>This hasn’t worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone’s Google-access emails are included in the Google Group.</p>
-</section>
-<section id="create-a-github-team-with-mentors" class="level2">
-<h2 class="anchored" data-anchor-id="create-a-github-team-with-mentors">Create a GitHub Team with Mentors</h2>
-<p>Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: <code>YYYY-mentors-community</code>.</p>
-</section>
-<section id="mentor-intro-calls" class="level2">
-<h2 class="anchored" data-anchor-id="mentor-intro-calls">## 1:1 Mentor intro calls</h2>
-<p>We have intro calls with each mentor pair or trio prior to our kickoff call with the whole Mentor community.</p>
+<section id="welcome-email" class="level2">
+<h2 class="anchored" data-anchor-id="welcome-email">Welcome Email</h2>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Subject: Welcome to the NASA Openscapes Mentor Community!</p>
+<p>Hi Rhys et al,</p>
+<p>Welcome, we’re excited you’ll be joining the <a href="https://nasa-openscapes.github.io/">NASA Openscapes</a> Mentor community!</p>
+<p>This cross-DAAC mentor community is creating &amp; teaching resources to help researchers migrate workflows to the cloud. We learn and develop common materials and teaching approaches together, working with alignment on common needs for researchers using NASA Earthdata. We meet regularly via video and collaborate asynchronously - details follow.</p>
+<p>We are currently gearing up for workshops and presentations at the Fall AGU Conference - will you be attending?</p>
+<p>Here are the first few steps for onboarding to this community:</p>
+<ol type="1">
+<li><strong>Read the <a href="https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html">NASA Mentors Onboarding</a> section</strong> <strong>of the Earthdata Cloud Cookbook</strong>. There are links to further information and work by the NASA Mentors, including slides, reading, and setup for what to expect.</li>
+<li><strong>Provide your GitHub username</strong> <strong>via our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcKar-yNnofiAVKlks79AgmQeM1beLCQM5TW_0__x_JU4B3g/viewform?usp=sf_link">JupyterHub request form</a></strong>.</li>
+<li><strong>Look out for and accept invitations</strong> to our Calendar, Google Drive, Slack, and GitHub. Note that to access our 2i2c JupyterHub, you’ll need to provide your GitHub username and accept the GitHub Teams invitation.</li>
+<li><strong>Carpentries Instructor Training</strong> - We partner with <a href="https://carpentries.org/">The Carpentries</a>, a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics, and has grown a common teaching approach for NASA Openscapes Mentors. Please sign up following the 2-step process below.</li>
+</ol>
+<!-- -->
+<ol type="a">
+<li>Register for the event of your choice on our <a href="https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training">Instructor Training event calendar</a> with the code: <strong>OUR-CODE-HERE</strong>. New events are added to this calendar in December, March, June, and September.</li>
+<li>Complete Carpentries <a href="https://amy.carpentries.org/forms/request_training/">profile-creation form</a> using the same code. <strong>Please note</strong>: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.</li>
+</ol>
+<p>If you have any questions, please reach out via email or Slack. We are also available to book 1:1 intro calls before Thanksgiving.</p>
+<p>We’re really looking forward to working with you!</p>
+<p>Cheers,</p>
+<p>Julie Lowndes, Erin Robinson, Stefanie Butland, NASA Openscapes</p>
+</div>
+</div>
+</div>
+</section>
+<section id="mentor-intro-calls" class="level2">
+<h2 class="anchored" data-anchor-id="mentor-intro-calls">1:1 Mentor intro calls</h2>
+<p>We have intro calls with each mentor pair or trio prior to our kickoff call with the whole Mentor community.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -360,7 +393,7 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p><strong>SEDAC – Openscapes 1:1 meetings</strong></p>
 <p>Zoom:</p>
@@ -448,7 +481,7 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 </ul></li>
 </ul>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -457,7 +490,7 @@ Intro email example
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Hi V,</p>
 <p>It was great to meet you; your colleagues said you’re able to join the NASA Openscapes Mentors from PO.DAAC – we’re super excited, welcome! We’re preparing for a Sept 20 kickoff to onboard new mentors, and have a light outline of plans here: https://nasa-openscapes.github.io/mentors.html#current-activities.</p>
@@ -468,7 +501,7 @@ Intro email example
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -477,7 +510,7 @@ Followup email example
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Subject: Welcome to the NASA Openscapes Mentor Community!</p>
 <p>Hi Sean, Alicia, Guoqing,</p>
@@ -491,7 +524,7 @@ Followup email example
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -500,7 +533,7 @@ Followup email example with Carpentries
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Subject: Welcome to the NASA Openscapes Mentor Community!</p>
 <p>Hi Kytt and Juan,</p>
@@ -515,8 +548,18 @@ Followup email example with Carpentries
 </div>
 </div>
 </div>
+</section>
+<section id="create-a-way-to-email-mentor-group" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-way-to-email-mentor-group">Create a way to email Mentor group</h2>
+<p>This is evolving.</p>
+<p>For NASA, we started off by creating a <strong>Google Group</strong> so we could easily add mentors to Google Folders and Calendars. This hasn’t worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone’s Google-access emails are included in the Google Group.</p>
+<p>We’re also using GitHub Teams more, for 2i2c access and coordinating. Rather than a Google Group that is difficult to hand off in terms of managing, a GitHub Team might be the way to go. This will raise challenges for any private info (e.g.&nbsp;Carpentries code), but that could be handled in Slack.</p>
+<section id="create-a-github-team-with-mentors" class="level3">
+<h3 class="anchored" data-anchor-id="create-a-github-team-with-mentors">Create a GitHub Team with Mentors</h3>
+<p>Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: <code>nasa-mentors-community</code>.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
