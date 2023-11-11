@@ -16,8 +16,10 @@ We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
 Headers (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~~Twitter - not using Twitter as of 2023~~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.
 
 ## Welcome Email
+We send a welcome email as we engage folks - this is an example of NASA DAAC mentors joining in Fall 2023.
 
 ::: {.callout-note collapse="true" icon="false"}
+## Welcome email example
 Subject: Welcome to the NASA Openscapes Mentor Community!
 
 Hi Rhys et al,
