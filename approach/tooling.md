@@ -57,9 +57,9 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 ## ORCID/Rescognito
 
-We encourage people to create and populate their [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) profile. 
+We encourage people to create and populate their [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) profile.
 
-> ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions.
+> ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information --- affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions.
 
 ## Quicktime video editing
 
@@ -79,13 +79,13 @@ Once you delete a section \> Done, the clips are automatically spliced together.
 
 Sometimes we want to edit a recording to **remove the start and/or the end**.
 
-Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets move. Let's say we want to trim (delete) everything after time 59 mins. 
+Using Edit \> Trim, it can be hard to control how fast the yellow Trim brackets move. Let's say we want to trim (delete) everything after time 59 mins.
 
-- Go to the 59 min point in the video first
-- click Edit > Trim ... Yellow brackets appear around the whole video, with a red vertical line - the 'playhead' - at 59 mins. The yellow-bracket segment is the part that will be kept
-- Type “i” to move the starting point to the playhead’s position (keep the end of the video), or type “o” to make the ending point at the playhead’s position (keep the beginning of the video).
-- Click Trim
-- Save
+-   Go to the 59 min point in the video first
+-   click Edit \> Trim ... Yellow brackets appear around the whole video, with a red vertical line - the 'playhead' - at 59 mins. The yellow-bracket segment is the part that will be kept
+-   Type "i" to move the starting point to the playhead's position (keep the end of the video), or type "o" to make the ending point at the playhead's position (keep the beginning of the video).
+-   Click Trim
+-   Save
 
 ## R/RStudio
 
@@ -96,15 +96,13 @@ Using Edit > Trim, it can be hard to control how fast the yellow Trim brackets m
 
 ## Screen recording
 
-Thanks to Emma Ganley and Sam Csik for versions of this tip. 
+Thanks to Emma Ganley and Sam Csik for versions of this tip.
 
 To make a screen recording without audio, on a Mac, Ctrl-Shift brings up screen recording controls. We need to figure out how to set which screen to record during dual screen use.
 
-To make a screen recording without audio, on a Mac, using Quicktime. File > New screen recording > select options for what to share > to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions (under Quicktime above) to trim any rough start.
+To make a screen recording without audio, on a Mac, using Quicktime. File \> New screen recording \> select options for what to share \> to end recording, click Stop icon (black box at top of your screen). We can use the video editing instructions (under Quicktime above) to trim any rough start.
 
 Want to turn your video into a gif to have your screen recording play automatically (instead of having to press play on an embedded video) in a blog post or documentation? Upload your video to https://ezgif.com/video-to-gif/, select the frame rate that most closely matches the length of your video, in seconds.
-
-
 
 ## Slack
 
