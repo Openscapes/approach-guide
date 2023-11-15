@@ -110,6 +110,8 @@ Want to turn your video into a gif to have your screen recording play automatica
 
 *Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
 
+Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days. 
+
 **How do I use it?** Slack can feel like a daunting new tool, especially when we're introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) @woodley2020 from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
 
 **About Openscapes Slack:** We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. We want it to be a supportive, trust-based community of folks doing data intensive science. Members include, but are not limited to, people who have participated in a Champions Program, NASA Openscapes Framework, Pathways to Open Science, Reflections, NASA Cloud Cookbook Hackdays, or other Openscapes programs. Current Slack members can invite others to join - an informal sponsorship approach.
@@ -141,6 +143,22 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 **#shared-joy**: Sharing joy of any shape or size
 
 **#random**: Non-work banter and water cooler conversation
+
+### Slack integration with GitHub
+
+We'd love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to [Matt Fisher](https://github.com/MattF-NSIDC) for getting us started with Slack notifications for GitHub Discussions.
+
+We can set a Slack channel to subscribe to one repo, and one type of event. Subscribing a channel looks like:  
+`/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions`
+
+This will subscribe to the default notifications + discussions. We then have to unsubscribe from the defaults to quiet it down:  
+`/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments`
+
+This can be repeated on any channel and we can add/remove repos and events at will.
+
+**Example:** The Slack #nasa-mentors channel is set to get notified of new and answered [discussions](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions) for just the [Earthdata Cloud Cookbook GitHub repo](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook).
+
+In Slack, we can run `/github help` to get some more info on the command to modify subscriptions. Full [documentation](https://github.com/integrations/slack/blob/master/README.md)
 
 ## Zenodo {#sec-zenodo}
 
