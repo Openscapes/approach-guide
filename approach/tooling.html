@@ -332,6 +332,7 @@ div.csl-indent {
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a>
   <ul class="collapse">
   <li><a href="#channel-definitions" id="toc-channel-definitions" class="nav-link" data-scroll-target="#channel-definitions">Channel definitions</a></li>
+  <li><a href="#slack-integration-with-github" id="toc-slack-integration-with-github" class="nav-link" data-scroll-target="#slack-integration-with-github">Slack integration with GitHub</a></li>
   </ul></li>
   <li><a href="#sec-zenodo" id="toc-sec-zenodo" class="nav-link" data-scroll-target="#sec-zenodo">Zenodo</a>
   <ul class="collapse">
@@ -469,6 +470,7 @@ div.csl-indent {
 <h2 class="anchored" data-anchor-id="slack">Slack</h2>
 <p><em>Are you inviting someone to join Openscapes Slack? Send them the link to this section.</em></p>
 <p><em>Have you received an invitation to join Openscapes Slack? Here’s some information to help you get comfortable.</em></p>
+<p>Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days.</p>
 <p><strong>How do I use it?</strong> Slack can feel like a daunting new tool, especially when we’re introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see <a href="https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members">Getting started for new members</a> and <a href="https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide">How to use Slack</a>. This Slack <a href="https://doi.org/10.5281/zenodo.3763729">quick start guide</a> <span class="citation" data-cites="woodley2020">Woodley and Pratt (<a href="#ref-woodley2020" role="doc-biblioref">2020</a>)</span> from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.</p>
 <p><strong>About Openscapes Slack:</strong> We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. We want it to be a supportive, trust-based community of folks doing data intensive science. Members include, but are not limited to, people who have participated in a Champions Program, NASA Openscapes Framework, Pathways to Open Science, Reflections, NASA Cloud Cookbook Hackdays, or other Openscapes programs. Current Slack members can invite others to join - an informal sponsorship approach.</p>
 <p><strong>When you join</strong>, you’ll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #seaside-chats, #shared-joy 🌈. You can browse other channels and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by “listening” to the discussions, then jump right in!</p>
@@ -486,6 +488,17 @@ div.csl-indent {
 <p><strong>#jobs</strong>: Job opportunities, seeking work, offers to connect people with those “on the inside”</p>
 <p><strong>#shared-joy</strong>: Sharing joy of any shape or size</p>
 <p><strong>#random</strong>: Non-work banter and water cooler conversation</p>
+</section>
+<section id="slack-integration-with-github" class="level3">
+<h3 class="anchored" data-anchor-id="slack-integration-with-github">Slack integration with GitHub</h3>
+<p>We’d love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to <a href="https://github.com/MattF-NSIDC">Matt Fisher</a> for getting us started with Slack notifications for GitHub Discussions.</p>
+<p>We can set a Slack channel to subscribe to one repo, and one type of event. Subscribing a channel looks like:<br>
+<code>/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions</code></p>
+<p>This will subscribe to the default notifications + discussions. We then have to unsubscribe from the defaults to quiet it down:<br>
+<code>/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments</code></p>
+<p>This can be repeated on any channel and we can add/remove repos and events at will.</p>
+<p><strong>Example:</strong> The Slack #nasa-mentors channel is set to get notified of new and answered <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions">discussions</a> for just the <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook">Earthdata Cloud Cookbook GitHub repo</a>.</p>
+<p>In Slack, we can run <code>/github help</code> to get some more info on the command to modify subscriptions. Full <a href="https://github.com/integrations/slack/blob/master/README.md">documentation</a></p>
 </section>
 </section>
 <section id="sec-zenodo" class="level2">
