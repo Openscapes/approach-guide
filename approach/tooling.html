@@ -492,13 +492,14 @@ div.csl-indent {
 <section id="slack-integration-with-github" class="level3">
 <h3 class="anchored" data-anchor-id="slack-integration-with-github">Slack integration with GitHub</h3>
 <p>We’d love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to <a href="https://github.com/MattF-NSIDC">Matt Fisher</a> for getting us started with Slack notifications for GitHub Discussions.</p>
-<p>We can set a Slack channel to subscribe to one repo, and one type of event. Subscribing a channel looks like:<br>
-<code>/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions</code></p>
-<p>This will subscribe to the default notifications + discussions. We then have to unsubscribe from the defaults to quiet it down:<br>
-<code>/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments</code></p>
-<p>This can be repeated on any channel and we can add/remove repos and events at will.</p>
-<p><strong>Example:</strong> The Slack #nasa-mentors channel is set to get notified of new and answered <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions">discussions</a> for just the <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook">Earthdata Cloud Cookbook GitHub repo</a>.</p>
-<p>In Slack, we can run <code>/github help</code> to get some more info on the command to modify subscriptions. Full <a href="https://github.com/integrations/slack/blob/master/README.md">documentation</a></p>
+<p>We can subscribe Slack channels by repository and event types we’re interested in. In Slack, we can run <code>/github help</code> to get some more info on the command to modify subscriptions. <a href="https://github.com/integrations/slack/blob/master/README.md">Full documentation</a>.</p>
+<section id="example" class="level4">
+<h4 class="anchored" data-anchor-id="example">Example</h4>
+<p>The Slack <code>#nasa-mentors</code> channel is set to get notified of new and answered <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions">discussions</a> for just the <a href="https://github.com/NASA-Openscapes/earthdata-cloud-cookbook">Earthdata Cloud Cookbook GitHub repo</a>. The subscription process was started with this command:</p>
+<pre><code>/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions</code></pre>
+<p>The above will subscribe to “discussions” in addition to undesirable <a href="https://github.com/integrations/slack/blob/master/README.md#customize-your-notifications">default notifications</a>. We can unsubscribe from the defaults to quiet it down with another comment:</p>
+<pre><code>/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments</code></pre>
+</section>
 </section>
 </section>
 <section id="sec-zenodo" class="level2">
