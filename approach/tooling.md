@@ -148,17 +148,23 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 We'd love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to [Matt Fisher](https://github.com/MattF-NSIDC) for getting us started with Slack notifications for GitHub Discussions.
 
-We can set a Slack channel to subscribe to one repo, and one type of event. Subscribing a channel looks like:  
-`/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions`
+We can subscribe Slack channels by repository and event types we're interested in. In Slack, we can run `/github help` to get some more info on the command to modify subscriptions. [Full documentation](https://github.com/integrations/slack/blob/master/README.md).
 
-This will subscribe to the default notifications + discussions. We then have to unsubscribe from the defaults to quiet it down:  
-`/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments`
+#### Example
 
-This can be repeated on any channel and we can add/remove repos and events at will.
+The Slack `#nasa-mentors` channel is set to get notified of new and answered [discussions](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions) for just the [Earthdata Cloud Cookbook GitHub repo](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook).
+The subscription process was started with this command:
 
-**Example:** The Slack #nasa-mentors channel is set to get notified of new and answered [discussions](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions) for just the [Earthdata Cloud Cookbook GitHub repo](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook).
+```
+/github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions
+```
 
-In Slack, we can run `/github help` to get some more info on the command to modify subscriptions. Full [documentation](https://github.com/integrations/slack/blob/master/README.md)
+The above will subscribe to "discussions" in addition to undesirable [default notifications](https://github.com/integrations/slack/blob/master/README.md#customize-your-notifications). We can unsubscribe from the defaults to quiet it down with another comment:
+
+```
+/github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments
+```
+
 
 ## Zenodo {#sec-zenodo}
 
