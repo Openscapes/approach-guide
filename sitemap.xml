@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/inspiration.html</loc>
-    <lastmod>2023-11-15T18:21:44.923Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/index.html</loc>
-    <lastmod>2023-11-15T18:21:44.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/contributing/resources.html</loc>
-    <lastmod>2023-11-15T18:21:43.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/mentors-framework/index.html</loc>
-    <lastmod>2023-11-15T18:21:42.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/mentors-framework/nasa-openscapes.html</loc>
-    <lastmod>2023-11-15T18:21:41.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/LICENSE.html</loc>
-    <lastmod>2023-11-15T18:21:41.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/code-of-conduct.html</loc>
-    <lastmod>2023-11-15T18:21:40.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/tooling.html</loc>
-    <lastmod>2023-11-15T18:21:39.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/seaside-chats.html</loc>
-    <lastmod>2023-11-15T18:21:38.431Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/partners.html</loc>
-    <lastmod>2023-11-15T18:21:37.471Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/lessons.html</loc>
-    <lastmod>2023-11-15T18:21:36.559Z</lastmod>
-  </url>
-  <url>
     <loc>https://openscapes.github.io/approach-guide/champions/design.html</loc>
-    <lastmod>2023-11-15T18:21:35.779Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html</loc>
-    <lastmod>2023-11-15T18:21:34.923Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/cohort-planning.html</loc>
-    <lastmod>2023-11-15T18:21:33.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html</loc>
-    <lastmod>2023-11-15T18:21:31.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html</loc>
-    <lastmod>2023-11-15T18:21:33.131Z</lastmod>
+    <lastmod>2023-12-06T19:16:52.001Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/champions/about.html</loc>
-    <lastmod>2023-11-15T18:21:33.803Z</lastmod>
+    <lastmod>2023-12-06T19:16:50.589Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/approach-guide/champions/index.html</loc>
-    <lastmod>2023-11-15T18:21:35.339Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html</loc>
+    <lastmod>2023-12-06T19:16:49.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html</loc>
+    <lastmod>2023-12-06T19:16:48.293Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/champions/post-cohort-followup.html</loc>
-    <lastmod>2023-11-15T18:21:36.171Z</lastmod>
+    <lastmod>2023-12-06T19:16:47.125Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/qual-assessment.html</loc>
-    <lastmod>2023-11-15T18:21:37.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/index.html</loc>
-    <lastmod>2023-11-15T18:21:37.879Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/approach/code-of-conduct.html</loc>
+    <lastmod>2023-12-06T19:16:46.321Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/approach/onboarding.html</loc>
-    <lastmod>2023-11-15T18:21:38.799Z</lastmod>
+    <lastmod>2023-12-06T19:16:45.561Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/approach-guide/approach/documentation.html</loc>
-    <lastmod>2023-11-15T18:21:40.015Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/approach/tooling.html</loc>
+    <lastmod>2023-12-06T19:16:44.561Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/approach/calendar.html</loc>
-    <lastmod>2023-11-15T18:21:40.727Z</lastmod>
+    <lastmod>2023-12-06T19:16:43.313Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/approach-guide/mentors-framework/engage.html</loc>
-    <lastmod>2023-11-15T18:21:41.383Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/approach/seaside-chats.html</loc>
+    <lastmod>2023-12-06T19:16:42.601Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/mentors-framework/onboarding.html</loc>
-    <lastmod>2023-11-15T18:21:42.487Z</lastmod>
+    <lastmod>2023-12-06T19:16:41.741Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/approach-guide/index.html</loc>
-    <lastmod>2023-11-15T18:21:43.195Z</lastmod>
+    <loc>https://openscapes.github.io/approach-guide/mentors-framework/nasa-openscapes.html</loc>
+    <lastmod>2023-12-06T19:16:40.809Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/contributing/workflow.html</loc>
-    <lastmod>2023-11-15T18:21:43.799Z</lastmod>
+    <lastmod>2023-12-06T19:16:39.877Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/approach-guide/contributing/setup.html</loc>
-    <lastmod>2023-11-15T18:21:44.399Z</lastmod>
+    <lastmod>2023-12-06T19:16:39.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/index.html</loc>
+    <lastmod>2023-12-06T19:16:37.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/inspiration.html</loc>
+    <lastmod>2023-12-06T19:16:38.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/contributing/resources.html</loc>
+    <lastmod>2023-12-06T19:16:39.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/index.html</loc>
+    <lastmod>2023-12-06T19:16:40.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/mentors-framework/index.html</loc>
+    <lastmod>2023-12-06T19:16:41.133Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/mentors-framework/engage.html</loc>
+    <lastmod>2023-12-06T19:16:42.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/documentation.html</loc>
+    <lastmod>2023-12-06T19:16:43.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/index.html</loc>
+    <lastmod>2023-12-06T19:16:43.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/qual-assessment.html</loc>
+    <lastmod>2023-12-06T19:16:45.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/approach/partners.html</loc>
+    <lastmod>2023-12-06T19:16:45.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/LICENSE.html</loc>
+    <lastmod>2023-12-06T19:16:46.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/lessons.html</loc>
+    <lastmod>2023-12-06T19:16:47.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/index.html</loc>
+    <lastmod>2023-12-06T19:16:48.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/cohort-planning.html</loc>
+    <lastmod>2023-12-06T19:16:50.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html</loc>
+    <lastmod>2023-12-06T19:16:51.569Z</lastmod>
   </url>
 </urlset>
