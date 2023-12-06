@@ -73,6 +73,13 @@ We love snail mail. This is a chance to send a written thank you to teams and al
 -   revisit repo
 -   share summaries from pathways
 
+*Prompts from Gayle Hagler, EPA*
+
+Elements to consider including:
+
+- What was your project situation that motivated you to nominate your team? (Related - Who were your team members and how did you work together on data?)
+- Did you see any shifts (now or forthcoming) in your personal or team’s research approaches as the result of the experience? This could include how your team interacts, new technical practices, any “ripple effects” to other projects. 
+
 ::: {.callout-tip collapse="true"}
 ## Example Google Calendar text: CSS Openscapes 3-month check-in (optional)
 
