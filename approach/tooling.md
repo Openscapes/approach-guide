@@ -55,6 +55,17 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 > Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
 
+## Mastodon / Twitter
+
+Social media, and specifically Twitter, has been a huge part of growing the Open science community. We've taught and written about Twitter a lot in the past.
+
+Mastodon is a social network platform that is free and open-source. It's been around for quite a while, but many folks migrated there from Twitter. Twitter has tweets; Mastodon has toots.
+Many open science orgs and communities like The Carpentries and Openscapes are there. 
+
+For context, some of them posted about their plans/ reasons for moving away from Twitter and toward Mastodon: [The Carpentries](https://carpentries.org/blog/2022/11/community-statement-twitter/), [rOpenSci](https://ropensci.org/blog/2022/11/16/mastodon-en/). And rOpenSci posted about: [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/). 
+
+Openscapes has stopped posting to Twitter and posts only to our Mastodon account. There are concerns around inclusion about Mastodon as well, and it remains to be seen which social platform will evolve into the place for thriving, safe, inclusive science conversations. 
+
 ## ORCID/Rescognito
 
 We encourage people to create and populate their [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) profile.
