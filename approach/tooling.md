@@ -60,9 +60,9 @@ We send newsletters via Google Group following this procedure documented by [Sta
 Social media, and specifically Twitter, has been a huge part of growing the Open science community. We've taught and written about Twitter a lot in the past.
 
 Mastodon is a social network platform that is free and open-source. It's been around for quite a while, but many folks migrated there from Twitter. Twitter has tweets; Mastodon has toots.
-Many open science orgs and communities like The Carpentries and Openscapes are there. 
+Many open science orgs and communities like The Carpentries and Openscapes are there. For context, some of them posted about their plans/ reasons for moving away from Twitter and toward Mastodon: [The Carpentries](https://carpentries.org/blog/2022/11/community-statement-twitter/), [rOpenSci](https://ropensci.org/blog/2022/11/16/mastodon-en/). 
 
-For context, some of them posted about their plans/ reasons for moving away from Twitter and toward Mastodon: [The Carpentries](https://carpentries.org/blog/2022/11/community-statement-twitter/), [rOpenSci](https://ropensci.org/blog/2022/11/16/mastodon-en/). And rOpenSci posted about: [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/). 
+Here is a [Mastodon Quick Start Guide](https://zenodo.org/records/10019853) by Yanina Bellini Saibene, Oscar Masinyana, Alycia Crall. rOpenSci posted about: [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/). 
 
 Openscapes has stopped posting to Twitter and posts only to our Mastodon account. There are concerns around inclusion about Mastodon as well, and it remains to be seen which social platform will evolve into the place for thriving, safe, inclusive science conversations. 
 
