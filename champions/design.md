@@ -9,46 +9,48 @@ The Champions Program is described at <https://openscapes.org> and is taught wit
 
 [![](images/OpenscapesChampionsDesign.jpg){fig.alt="Openscapes Champions program slide shows" fig-align="center" width="90%"}](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit)
 
-Here are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants: 
+Here are a few example presentations to introduce the Champions program with different audiences, including sharing with leadership and to recruit participants:
 
-- [Openscapes_ChampionsIntro2022](https://docs.google.com/presentation/d/1yCzG8cdFsTxmFyZijiUGi2hlyuJVM_i-imkTrao_O1g/edit#slide=id.gb1d0505bec_0_0) 
-- [NMFS_Openscapes_2022_04_18](https://docs.google.com/presentation/d/1VAzYflkUTMVBS0onDThhVXxvja3z-nRGPwRuVsNKFks/edit#slide=id.g1138e626848_0_861) 
-- [NWFSC_Openscapes_2022_02_14](https://docs.google.com/presentation/d/1qyW3KcwxiKwBffjsJ-fMF0snG99ahqZAnfq2xDSRPdc/edit?usp=sharing)
-- [Openscapes_Intro_AFSC_2021_12_02](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit#slide=id.gcfa9a8ce7e_0_246)
-
+-   [Openscapes_ChampionsIntro2022](https://docs.google.com/presentation/d/1yCzG8cdFsTxmFyZijiUGi2hlyuJVM_i-imkTrao_O1g/edit#slide=id.gb1d0505bec_0_0)
+-   [NMFS_Openscapes_2022_04_18](https://docs.google.com/presentation/d/1VAzYflkUTMVBS0onDThhVXxvja3z-nRGPwRuVsNKFks/edit#slide=id.g1138e626848_0_861)
+-   [NWFSC_Openscapes_2022_02_14](https://docs.google.com/presentation/d/1qyW3KcwxiKwBffjsJ-fMF0snG99ahqZAnfq2xDSRPdc/edit?usp=sharing)
+-   [Openscapes_Intro_AFSC_2021_12_02](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit#slide=id.gcfa9a8ce7e_0_246)
 
 ## High-level timeline
 
-We work with our Partners to plan Champions Cohorts. 
+We work with our Partners to plan Champions Cohorts.
 
 This includes coordinating within the partner community, scheduling dates, and preparing the engagement strategy to share the opportunity and attract research teams interested in better practices for their research.
 
-1. [**Cohort Planning**](/champions/cohort-planning.md) with partners: 2-5 months prior to Cohort start date.
-1. [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.qmd) with potential participants: ~2 months prior to Cohort start date. 
-1. [**Leading Cohort Calls**](/champions/leading-cohort-calls.qmd) for participants: 2 months. 
+1.  [**Cohort Planning**](/champions/cohort-planning.md) with partners: 2-5 months prior to Cohort start date.
+2.  [**Pre-Cohort Engagement**](/champions/pre-cohort-engage.qmd) with potential participants: \~2 months prior to Cohort start date.
+3.  [**Leading Cohort Calls**](/champions/leading-cohort-calls.qmd) for participants: 2 months.
 
-:::{.callout-tip collapse="true"}
+::: {.callout-note collapse="true"}
 ## Example detailed timeline
 
-- **April-June**
-  - socialize within the partner organization, gain interest and visibility, secure funding
+-   **April-June**
+
+    -   socialize within the partner organization, gain interest and visibility, secure funding
 
 -   **July 8: Partners Planning Call**
-      - Introduce Cohort Structure
-          - 4 Cohort Calls + GitHub Clinic 
-          - Teams (research groups, projects, etc)
-          - ~7 teams is ideal (5 max per team) (~35 max is ideal)
-      - Review lessons learned from recent Cohorts
-          - recent blogs: [NOAA NWFSC 2021](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/ ), [NOAA NEFSC 2020](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/), [CSS 2021](https://www.openscapes.org/blog/2021/07/13/css-cohort/)
-      - Pre-Cohort Engagement
-          - Planning Doc - Openscapes drafts
-      - Onboarding assistants
-      - Research community structure
-          - How to form teams: https://www.openscapes.org/faq/ 
-      - Propose Cohort Dates
+
+    -   Introduce Cohort Structure
+        -   4 Cohort Calls + GitHub Clinic
+        -   Teams (research groups, projects, etc)
+        -   \~7 teams is ideal (5 max per team) (\~35 max is ideal)
+    -   Review lessons learned from recent Cohorts
+        -   recent blogs: [NOAA NWFSC 2021](https://www.openscapes.org/blog/2021/05/03/noaa-nwfsc-champions/), [NOAA NEFSC 2020](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/), [CSS 2021](https://www.openscapes.org/blog/2021/07/13/css-cohort/)
+    -   Pre-Cohort Engagement
+        -   Planning Doc - Openscapes drafts
+    -   Onboarding assistants
+    -   Research community structure
+        -   How to form teams: https://www.openscapes.org/faq/
+    -   Propose Cohort Dates
 
 -   **July 8-30: Pre-Cohort Engagement**
-      - Finalize Cohort Dates!
+
+    -   Finalize Cohort Dates!
 
 -   **July 30: Partners email their colleagues**
 
@@ -93,10 +95,8 @@ This includes coordinating within the partner community, scheduling dates, and p
 -   **November**
 
     -   Post final blogs, co-write with Partners
-
 :::
 
-Here is an example timeline that includes Pre-program engagement, Openscapes Champions Program, and Post-program follow-up, visualized by Anna Holder and Corey Clatterbuck for the California Waterboards Cohort.
+Here is an example timeline that includes a 2-month Champions Program, Pre- and Post-Cohort activities, and expected time commitment for participants (source [slide](https://docs.google.com/presentation/d/1avbxzFYGcNPytxNNdKKatdt7K43ew1i8ACAJOZ9mgkA/edit#slide=id.g2a810c29f6a_0_0)). Inspired by graphic from Anna Holder and Corey Clatterbuck for the California Water Boards.
 
-![](images/timeline-calwaterboards.png){fig-alt="Example timeline for an Openscapes Cohort. Orange timeline bar at bottom of image extends from Aug 2022 to Jan 2023. Headings at top of image define shapes that label elements on the timeline. \"Pre-program engagement\" marked by orange horizontal line spans 1.5 weeks and includes Instructor:Team 1:1 meetings; \"Openscapes Champions Program\" marked by blue diamonds (Cohort Call, 2hrs weekly), magenta horizontal lines (Seaside Chats, 1hr weekly between Cohort Calls), green squares (Co-working Sessions, optional, 1hr weekly on Fridays); \"Post-program follow-up\" marked by magenta triangles (2-month Cohort Seaside Chat of 1hr). Vertical lines intersect with timeline at blue diamonds to indicate Cohort Call 1 on 8/17, Call 2 on 8/31, Call 3 on 9/14, Call 4 on 9/28, Call 5 on 10/19. Vertical lines intersect with timeline at green square to indicate co-working on 9/9, 9/23, 10/7, 10/14. Vertical line intersects with timeline at magenta triangle to indicate 2-month Cohort Seaside Chat on 12/14."}
-
+![](images/timeline-openscapes.png)"
