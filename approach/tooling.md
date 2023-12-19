@@ -9,7 +9,8 @@ We also explore and learn new tools but always always with an eye towards intero
 
 Below are the tools that we use, why we use them, and set up instructions. (Here are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
 
-## Eventbrite
+::: {.callout-tip collapse="true"}
+## Eventbrite registratrion deprecated in favor of Zoom
 
 We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it's a good alternative for our needs.
 
@@ -19,7 +20,7 @@ For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-sci
 
 Recommended workflow for now:
 
-1.  Create Google Cal invite \> make it a Zoom meeting from inside that invite (if your Google Cal is integrated with Zoom )\> save. That meeting will appear in your Zoom account. Confirm it has waiting room and no password.
+1.  Create Google Cal invite \> make it a Zoom meeting from inside that invite (if your Google Cal is integrated with Zoom ) \> save. That meeting will appear in your Zoom account. Confirm it has waiting room and no password.
 
 2.  In Eventbrite, create Event \> copy Zoom link into Eventbrite \> Event \> Online Event Page \> Live video or audio, instead of "Add Zoom"
 
@@ -31,7 +32,8 @@ Recommended workflow for now:
 
     -   We create a custom reminder email with *Subject*: Zoom link for Openscapes event-name. *Body*: We're excited to see you later today! At the session start time (5:00 - 6:00 pm ET), please click to join us in Zoom: LINK. Optional, include event logo or Openscapes logo.
 
-    -   *Why a custom email reminer?* Several community call participants said it was hard to find the zoom link with Eventbrite's default reminder email (Stef agrees); that's why we put "Zoom" in subject line of custom reminder.
+    -   *Why a custom email reminder?* Several community call participants said it was hard to find the zoom link with Eventbrite's default reminder email (Stef agrees); that's why we put "Zoom" in subject line of custom reminder.
+:::
 
 ## GitHub
 
@@ -59,8 +61,7 @@ We send newsletters via Google Group following this procedure documented by [Sta
 
 Social media, and specifically Twitter, has been a huge part of growing the Open science community. We've taught and written about Twitter a lot in the past.
 
-Mastodon is a social network platform that is free and open-source. It's been around for quite a while, but many folks migrated there from Twitter. Twitter has tweets; Mastodon has toots.
-Many open science orgs and communities like The Carpentries and Openscapes are there. For context, some of them posted about their plans/ reasons for moving away from Twitter and toward Mastodon: [The Carpentries](https://carpentries.org/blog/2022/11/community-statement-twitter/), [rOpenSci](https://ropensci.org/blog/2022/11/16/mastodon-en/). 
+Mastodon is a social network platform that is free and open-source. It's been around for quite a while, but many folks migrated there from Twitter. Twitter has tweets; Mastodon has toots. Many open science orgs and communities like The Carpentries and Openscapes are there. For context, some of them posted about their plans/ reasons for moving away from Twitter and toward Mastodon: [The Carpentries](https://carpentries.org/blog/2022/11/community-statement-twitter/), [rOpenSci](https://ropensci.org/blog/2022/11/16/mastodon-en/).
 
 Here is a [Mastodon Quick Start Guide](https://zenodo.org/records/10019853) by Yanina Bellini Saibene, Oscar Masinyana, Alycia Crall. rOpenSci posted about: [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/). 
 
@@ -121,7 +122,7 @@ Want to turn your video into a gif to have your screen recording play automatica
 
 *Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
 
-Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days. 
+Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days.
 
 **How do I use it?** Slack can feel like a daunting new tool, especially when we're introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) @woodley2020 from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
 
@@ -163,19 +164,17 @@ We can subscribe Slack channels by repository and event types we're interested i
 
 #### Example
 
-The Slack `#nasa-mentors` channel is set to get notified of new and answered [discussions](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions) for just the [Earthdata Cloud Cookbook GitHub repo](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook).
-The subscription process was started with this command:
+The Slack `#nasa-mentors` channel is set to get notified of new and answered [discussions](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook/discussions) for just the [Earthdata Cloud Cookbook GitHub repo](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook). The subscription process was started with this command:
 
-```
+```         
 /github subscribe NASA-Openscapes/earthdata-cloud-cookbook discussions
 ```
 
 The above will subscribe to "discussions" in addition to undesirable [default notifications](https://github.com/integrations/slack/blob/master/README.md#customize-your-notifications). We can unsubscribe from the defaults to quiet it down with another comment:
 
-```
+```         
 /github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments
 ```
-
 
 ## Zenodo {#sec-zenodo}
 
@@ -277,7 +276,30 @@ See "Cite as" in the publication's Zenodo record, in the right-side navigation b
 
 ## Zoom
 
-<https://zoom.com/downloads>
+We use Zoom as our primary meeting tool and for registrations for events that will be held via Zoom, such as Community Calls and Pathways to Open Science. Below are instructions for event registration via Zoom, and for sharing audio in a Zoom meeting.
+
+### Event registration
+
+We can set up registration for a single event like a Community Call, or for a series like Pathways to Open Science.
+
+-   Create a meeting. Check ✔️ 'Recurring meeting' for a series.
+-   Check Registration ✔️ Required \> ✔️ Attendees register once and can attend any of the occurrences
+-   Options \> Show \> Alternative Hosts: add someone else who has Openscapes Zoom license
+-   Save
+-   The 'Registration Link' is the URL we add to an event page.
+-   See Registration tab; defaults are ok
+-   Click Branding tab \> Logo: upload Openscapes hex; Banner: use a banner image from Openscapes site
+-   Click Email Settings tab \> Edit Confirmation Email to Registrants; use Send me a preview email to check the look
+
+Note! Each person who registers receives a unique URL. Do not share that link as every person using it will be signed in with that person's name (ask us how we know ;-) )
+
+### Viewing registrations for an event
+
+TODO
+
+We can view a list of registrants (TODO: how to) or we can export a csv file (this one is not intuitive).
+
+Account Management \> Reports \> Upcoming Events
 
 ### Two scenarios for sharing audio in Zoom
 
