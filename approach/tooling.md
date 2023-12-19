@@ -9,8 +9,8 @@ We also explore and learn new tools but always always with an eye towards intero
 
 Below are the tools that we use, why we use them, and set up instructions. (Here are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
 
-::: {.callout-tip collapse="true"}
-## Eventbrite registratrion deprecated in favor of Zoom
+::: {.callout-note collapse="true"}
+## Eventbrite registration deprecated in favor of Zoom
 
 We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it's a good alternative for our needs.
 
@@ -276,7 +276,7 @@ See "Cite as" in the publication's Zenodo record, in the right-side navigation b
 
 ## Zoom
 
-We use Zoom as our primary meeting tool and for registrations for events that will be held via Zoom, such as Community Calls and Pathways to Open Science. Below are instructions for event registration via Zoom, and for sharing audio in a Zoom meeting.
+We use Zoom as our primary meeting tool and for registrations for events that will be held via Zoom, such as Community Calls and the Pathways to Open Science series. Below are instructions for event registration, and for sharing audio in a Zoom meeting.
 
 ### Event registration
 
@@ -288,28 +288,40 @@ We can set up registration for a single event like a Community Call, or for a se
 -   Save
 -   The 'Registration Link' is the URL we add to an event page.
 -   See Registration tab; defaults are ok
--   Click Branding tab \> Logo: upload Openscapes hex; Banner: use a banner image from Openscapes site
--   Click Email Settings tab \> Edit Confirmation Email to Registrants; use Send me a preview email to check the look
+-   Click Branding tab \> Logo: upload Openscapes hex; Banner: use a [banner image](https://github.com/Openscapes/website-new/tree/main/images/banner_imgs) from the Openscapes website
+-   Click Email Settings tab \> Edit Confirmation Email to Registrants; use 'Send me a preview email' to check and iterate on the content
 
-Note! Each person who registers receives a unique URL. Do not share that link as every person using it will be signed in with that person's name (ask us how we know ;-) )
+::: callout-caution
+Each person who registers receives a unique URL for the Zoom meeting. Do not share that link, since every person using it will be signed in with one person's name (ask us how we know ;-) ). Use 'copy invitation' to get a sharable link to the meeting e.g. to post last minute in Slack for a Community Call.
+:::
 
-### Viewing registrations for an event
+### View registrations for an event
 
-TODO
+**View a list of registrants**. No option to export the list here.
 
-We can view a list of registrants (TODO: how to) or we can export a csv file (this one is not intuitive).
+-   Meetings \> select a meeting (click title/date, not Edit)
 
-Account Management \> Reports \> Upcoming Events
+-   Registration tab \> Manage Registrants \> click View
+
+**Export a csv file of registrants**
+
+*This one is not intuitive. H/T Emily Anderson of Coiled.*
+
+-   Account Management (near bottom of left nav bar) \> Reports \> Meeting
+
+-   Enter date of event, Select Registration Report \> ✔️ Check event \> Click Generate
+
+-   Click Download
 
 ### Two scenarios for sharing audio in Zoom
 
 This Zoom resource covers two scenarios we use: [Sharing computer sound in a screen share](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share). Screenshots below. Practice both beforehand, testing by recording yourself, because they're not obvious and chances of working smoothly on the fly in a meeting are ...low.
 
-Scenario 1. During start of meeting, sharing welcome slides in a loop, with music from spotify playing so audience can hear, and people speaking does not disrupt music. See [**How to share audio with shared visuals**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFBZ8GBD3Z3YV70YRETA7Y).
+**Scenario 1**. During start of meeting, sharing welcome slides in a loop, with music from spotify playing so audience can hear, and people speaking does not disrupt music. See [**How to share audio with shared visuals**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFBZ8GBD3Z3YV70YRETA7Y).
 
 ![](images/Screenshot%202023-05-10%20at%209.25.19%20PM.png){width="340"}
 
-Scenario 2. During interludes where people are silent journaling, to share audio only, not screen. See [**How to play audio or music without sharing your screen**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFC4HB7B83C4T81Y5RRR38).
+**Scenario 2**. During interludes where people are silent journaling, to share audio only, not screen. See [**How to play audio or music without sharing your screen**](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share#h_01GBXFC4HB7B83C4T81Y5RRR38).
 
 ![](images/Screenshot%202023-05-10%20at%209.24.08%20PM.png){width="340"}
 
