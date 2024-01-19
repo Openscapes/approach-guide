@@ -291,8 +291,8 @@ We can set up registration for a single event like a Community Call, or for a se
 -   Click Branding tab \> Logo: upload Openscapes hex; Banner: use a [banner image](https://github.com/Openscapes/website-new/tree/main/images/banner_imgs) from the Openscapes website
 -   Click Email Settings tab \> Edit Confirmation Email to Registrants; use 'Send me a preview email' to check and iterate on the content
 
-::: callout-caution
-Each person who registers receives a unique URL for the Zoom meeting. Do not share that link, since every person using it will be signed in with one person's name (ask us how we know ;-) ). Use 'copy invitation' to get a sharable link to the meeting e.g. to post last minute in Slack for a Community Call.
+::: callout-note
+Each person who registers receives a unique URL for the Zoom meeting. Do not share that link, since every person using it will be signed in with one person's name (ask us how we know ;-) ). The root of that link is the generic url anyone can use to join e.g. a speaker who did not have to register, or to post last minute in Slack for a Community Call.
 :::
 
 ### View registrations for an event
@@ -312,6 +312,12 @@ Each person who registers receives a unique URL for the Zoom meeting. Do not sha
 -   Enter date of event, Select Registration Report \> ✔️ Check event \> Click Generate
 
 -   Click Download
+
+### Resend confirmation emails to registrants
+
+Imagine people have registered and received their confirmation email with their unique Zoom link weeks in advance of your event. When it's time to join, how do they find the link?
+
+This must be done manually for every registrant. In Zoom web portal \> Meetings \> your meeting \> Registration \> Manage Registrants \> View \> click name \> Resend Confirmation Email button. (see also [Zoom Support article](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068036))
 
 ### Two scenarios for sharing audio in Zoom
 
