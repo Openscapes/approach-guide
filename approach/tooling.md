@@ -317,9 +317,11 @@ Each person who registers receives a unique URL for the Zoom meeting. Do not sha
 
 Imagine people have registered and received their confirmation email with their unique Zoom link weeks in advance of your event. When it's time to join, how do they find the link?
 
-This must be done manually for every registrant. In Zoom web portal \> Meetings \> your meeting \> Registration \> Manage Registrants \> View \> click name \> Resend Confirmation Email button. (see also [Zoom Support article](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068036))
+This must be done semi-manually. In Zoom web portal \> Meetings \> your meeting \> Registration \> Manage Registrants \> View \> select Registrants checkbox to select all registrants on that page \> Resend Confirmation Email button. Repeat for each page of registrants. (See also [Zoom Support article](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068036); this pointed me in the right direction but said we had to send every single email separately.)
 
-### Two scenarios for sharing audio in Zoom
+![](images/zoom-resend-email.png){width="67%"}
+
+### Sharing audio in Zoom: Two scenarios
 
 This Zoom resource covers two scenarios we use: [Sharing computer sound in a screen share](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-computer-sound-in-a-screen-share). Screenshots below. Practice both beforehand, testing by recording yourself, because they're not obvious and chances of working smoothly on the fly in a meeting are ...low.
 
