@@ -146,7 +146,9 @@ Are there hurdles that we should be aware of?
     -   Ask for: GitHub Username, email-2
 -   Add to calendar invites for Mentor Calls and Coworking
 -   Add to Google Folder
--   Add to Google Group
+-   Add to Google Group `nasa-openscapes-mentors`. 
+    - People will receive an email from Google Groups: "You have been added to nasa-openscapes-mentors`. 
+    - The welcome message: "NASA Openscapes Mentors list. Welcome! We use this list primarily for calendar invites and occasional emails to the whole group"
 -   Add to GitHub Mentors Team in Org
 -   Add to Slack
 -   Add Bio to Mentors page, or name if bio not available
