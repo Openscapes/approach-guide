@@ -57,6 +57,8 @@ website:
           - mentors-framework/engage.qmd
           - mentors-framework/onboarding.qmd
           - mentors-framework/nasa-openscapes.qmd 
+      - pathways/index.qmd
+      - reflections/index.qmd
       - section: contributing/index.qmd
         contents:
           - contributing/setup.qmd
