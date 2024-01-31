@@ -1,0 +1,11 @@
+---
+title: Pathways to Open Science
+---
+
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. 
+
+The website is: <https://openscapes.github.io/pathways-to-open-science/>
+
+Ileana Fenwick leads this program with intentional engagement and collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), and Historically Black Colleges and Universities (HBCU) marine science professors. 
+
+Details for how we work for now here: <https://openscapes.org/blog/2023-04-26-pathways-report/>

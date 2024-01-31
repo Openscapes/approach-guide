@@ -1,0 +1,28 @@
+---
+title: "Reflections Program"
+---
+
+**The Openscapes Reflections Program**, modeled after leadership coaching, offers structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
+
+## Booklet
+
+The [Reflections Booklet](https://openscapes.github.io/booklet/) (paralleling the Champions Series) is the curriculum for the Reflections Program. It's a Quarto html book that you can also download as PDF and print out for tactile writing. Tactile things help your brain work in different ways (citation needed).
+
+The GitHub repo is here: <https://github.com/openscapes/booklet>
+
+## `quarto publish` the Booklet
+
+We use `quarto publish` to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:
+
+- Open RStudio locally
+- Commit changes. You do not need to push when you use `quarto publish`. Alternatively, git pull if you've made edits from github.com
+- Click on the Terminal tab next to the console
+- Type `quarto publish`, press return
+- It will prompt you to setup the first time. Follow the instructions. This is what it looks like after that: 
+
+![](images/quarto-publish.png){width=80%}
+
+...then more details then: 
+
+![](images/quarto-publish-success.png){width=80%}
+
