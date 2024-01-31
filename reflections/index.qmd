@@ -15,7 +15,7 @@ The GitHub repo is here: <https://github.com/openscapes/booklet>
 We use `quarto publish` to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:
 
 - Open RStudio locally
-- Commit changes, or git pull if you've made edits from github.com
+- Commit changes. You do not need to push when you use `quarto publish`. Alternatively, git pull if you've made edits from github.com
 - Click on the Terminal tab next to the console
 - Type `quarto publish`, press return
 - It will prompt you to setup the first time. Follow the instructions. This is what it looks like after that: 
