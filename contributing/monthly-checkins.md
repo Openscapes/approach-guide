@@ -5,6 +5,11 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## Feb 2024
+
+[This 1957 drawing reveals the brilliant strategy behind Disney's lasting success](https://www.businessinsider.com/1957-drawing-walt-disney-brilliant-strategy-2015-7) - heard through Sean Kross, and paralleling [Issa Rae's business map](https://trapital.co/2020/04/23/how-issa-rae-became-the-modern-mogul/) – heard through Ileana Fenwick in May 2023!
+
+
 ## Jan 2024
 
 [Unicorns, Show Ponies, and Gazelles](https://radiant.earth/blog/2024/01/unicorns-show-ponies-and-gazelles) - Jed Sundwall, Executive Director of Radiant Earth
