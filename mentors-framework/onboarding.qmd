@@ -147,6 +147,7 @@ Are there hurdles that we should be aware of?
 -   Add to calendar invites for Mentor Calls and Coworking
 -   Add to Google Folder
 -   Add to Google Group `nasa-openscapes-mentors`. 
+    - add both primary and google-friendly emails for mentors so they can have access to google folder
     - People will receive an email from Google Groups: "You have been added to nasa-openscapes-mentors`. 
     - The welcome message: "NASA Openscapes Mentors list. Welcome! We use this list primarily for calendar invites and occasional emails to the whole group"
 -   Add to GitHub Mentors Team in Org
