@@ -295,7 +295,7 @@ We can set up registration for a single event like a Community Call, or for a se
 Each person who registers receives a unique URL for the Zoom meeting. Do not share that link, since every person using it will be signed in with one person's name (ask us how we know ;-) ). The root of that link is the generic url anyone can use to join e.g. a speaker who did not have to register, or to post last minute in Slack for a Community Call.
 :::
 
-### View registrations for an event
+### View registrations and participants for an event
 
 **View a list of registrants**. No option to export the list here.
 
@@ -313,9 +313,9 @@ Each person who registers receives a unique URL for the Zoom meeting. Do not sha
 
 -   Click Download
 
-**Export a csv file of registrants**
+**Export a csv file of participants**
 
-*Also not intuitive* ... because there are 2 sections called 'Reports' : one above we use for registrants, and this one for meeting participants
+*Also not intuitive* ... because there are 2 sections called 'Reports' : one under ADMIN we use for registrants, and this one under PERSONAL for meeting participants
 
 -   PERSONAL \> Reports \> Usage Reports \> Usage
 
