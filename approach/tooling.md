@@ -307,11 +307,19 @@ Each person who registers receives a unique URL for the Zoom meeting. Do not sha
 
 *This one is not intuitive. H/T Emily Anderson of Coiled.*
 
--   Account Management (near bottom of left nav bar) \> Reports \> Meeting
+-   ADMIN \> Account Management (near bottom of left nav bar) \> Reports \> Meeting
 
 -   Enter date of event, Select Registration Report \> ✔️ Check event \> Click Generate
 
 -   Click Download
+
+**Export a csv file of registrants**
+
+*Also not intuitive* ... because there are 2 sections called 'Reports' : one above we use for registrants, and this one for meeting participants
+
+-   PERSONAL \> Reports \> Usage Reports \> Usage
+
+-   Search narrow date range for event \> scroll to right to see Participants \> click number of participants shown \> Export with 'Show unique users' and 'Export with meeting data' selected
 
 ### Resend confirmation emails to registrants
 
