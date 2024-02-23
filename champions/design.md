@@ -97,6 +97,8 @@ This includes coordinating within the partner community, scheduling dates, and p
     -   Post final blogs, co-write with Partners
 :::
 
+### Timeline graphic
+
 Here is an example timeline that includes a 2-month Champions Program, Pre- and Post-Cohort activities, and expected time commitment for participants (source [slide](https://docs.google.com/presentation/d/1avbxzFYGcNPytxNNdKKatdt7K43ew1i8ACAJOZ9mgkA/edit#slide=id.g2a810c29f6a_0_0)). Inspired by graphic from Anna Holder and Corey Clatterbuck for the California Water Boards.
 
 ![](images/timeline-openscapes.png)"
