@@ -18,7 +18,7 @@ The next step is to experience the Cohort Calls to see what they are really like
 - Watch a `CallRecording` while at the same time reading through the accompanying `CallAgenda` (we'll let you know which one we recommend). We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go
 - Go through a few examples in the `PathwaysShare` folder to get a sense of what Champions share on the last call
 
-## Seaside Chats / Co-working
+## Seaside Chats / coworking
 
 We'll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. These are outlines of a few first few meetings. 
 
@@ -29,16 +29,16 @@ We'll then meet for a Seaside Chat to get oriented and establish a workplan. We 
     - add to Slack
 1. **GitHub Clinic**: using GitHub to collaborate and publish from the web
 1. **RMarkdown/Quarto Clinic**: how to contribute to the approach-guide and events site
-1. **Co-working**: from here, we'll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects
+1. **Coworking**: from here, we'll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects
 
 ### Lesson Contributors
 
 1. **Getting oriented**: discuss Cohort Calls, [lesson series](/champions/lessons.html), brainstorm lesson plan
     - cohort dates/calendar
     - add to Slack
-1. **Lesson workplan**: solidify lesson plan, establish workplan/co-working
+1. **Lesson workplan**: solidify lesson plan, establish workplan/coworking
     - Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
-1. **Co-working**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
+1. **Coworking**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
 
 ## Cohort Planning using GitHub Issues
 
