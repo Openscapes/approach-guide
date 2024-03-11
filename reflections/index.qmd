@@ -45,7 +45,7 @@ We have a short Google Form for folks to sign up for Reflections. We use the sam
 
 **Booklet:**
 
-Here is the 2024 commit for reference. 
+Here is the [2024 commit](https://github.com/Openscapes/booklet/commit/c8c0950455a53faa79f58affd68bb9234a3ef52b) for reference. 
 
 - Edit text up top: `**[Registration is open for the May 2024 Reflections Program](STRIPE-LINK-HERE)!**` and dates `**2024 Dates: April 29 - May 17**`
 - Add registration link in the `## Registration` section - `STRIPE-LINK-HERE`
