@@ -10,12 +10,14 @@ The [Reflections Booklet](https://openscapes.github.io/booklet/) (paralleling th
 
 The GitHub repo is here: <https://github.com/openscapes/booklet>
 
+We created the Booklet in 2023. There are some updates to make each year when Registration is Open (March) and again when it is Closed (June).
+
 ## `quarto publish` the Booklet
 
 We use `quarto publish` to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:
 
 - Open RStudio locally
-- Commit changes. You do not need to push when you use `quarto publish`. Alternatively, git pull if you've made edits from github.com
+- Commit changes. Push. (Alternatively, git pull if you've made edits from github.com)
 - Click on the Terminal tab next to the console
 - Type `quarto publish`, press return
 - It will prompt you to setup the first time. Follow the instructions. This is what it looks like after that: 
@@ -25,4 +27,44 @@ We use `quarto publish` to publish this booklet. This was partly to experiment a
 ...then more details then: 
 
 ![](images/quarto-publish-success.png){width=80%}
+
+
+## Registration Open
+
+When it's time to open registration, here are the things involved. 
+
+**Google Form and Stripe**
+
+We have a short Google Form for folks to sign up for Reflections. We use the same form each year; new responses are added by date.
+
+- Google Form: 
+  - Update dates
+  - Turn on "accepting responses"
+
+- Stripe: this should be good to go; there are no dates to change. We provide [Email Receipts](https://docs.stripe.com/receipts) (at not cost), not Payment Invoices. 
+
+**Booklet:**
+
+Here is the [2024 commit](https://github.com/Openscapes/booklet/commit/c8c0950455a53faa79f58affd68bb9234a3ef52b) for reference. 
+
+- Edit text up top: `**[Registration is open for the May 2024 Reflections Program](STRIPE-LINK-HERE)!**` and dates `**2024 Dates: April 29 - May 17**`
+- Add registration link in the `## Registration` section - `STRIPE-LINK-HERE`
+- Before committing: search "TODO" to confirm everything updated.
+
+**Events page:**
+
+- Create an events page. An example to follow: https://openscapes.org/events/2023-05-08-reflections/
+
+<!---**Initiatives page???**--->
+
+
+## Registration Closed
+
+When it's time to close registration, here are the things involved. 
+
+**Booklet**
+
+TODO: Here is the 2024 commit for reference. 
+
+
 
