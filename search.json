@@ -1057,11 +1057,11 @@
     ]
   },
   {
-    "objectID": "approach/seaside-chats.html#co-working",
-    "href": "approach/seaside-chats.html#co-working",
+    "objectID": "approach/seaside-chats.html#coworking",
+    "href": "approach/seaside-chats.html#coworking",
     "title": "Seaside Chats, etc.",
-    "section": "Co-working",
-    "text": "Co-working\nWe also have co-working sessions where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. These most often have no agenda.",
+    "section": "Coworking",
+    "text": "Coworking\nWe also have coworking sessions where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. These most often have no agenda.",
     "crumbs": [
       "Openscapes Approach",
       "Seaside Chats, etc."
@@ -1149,7 +1149,7 @@
     "href": "approach/documentation.html",
     "title": "Documentation",
     "section": "",
-    "text": "Documenting our work and how we work is something we prioritize. If we’re investing time doing something, that time is better spent if more people can access and learn from it (most importantly, Future Us!)\nJulie aside:\nWe can build out this page with different ways we do documentation, but a first focus on blog writing.",
+    "text": "Documenting our work and how we work is something we prioritize. If we’re investing time doing something, that time is better spent if more people can access and learn from it (most importantly, Future Us!)\nWe approach documentation “modularly” like we do with code, so that it is has a place for the right audience and links to other places. This slide from our talk Documenting things: openly for future us (youtube) gives a sense:\nJulie aside:\nWe can build out this page with different ways we do documentation, but a first focus on blog writing.",
     "crumbs": [
       "Openscapes Approach",
       "Documentation"
@@ -1222,11 +1222,11 @@
     ]
   },
   {
-    "objectID": "approach/onboarding.html#seaside-chats-co-working",
-    "href": "approach/onboarding.html#seaside-chats-co-working",
+    "objectID": "approach/onboarding.html#seaside-chats-coworking",
+    "href": "approach/onboarding.html#seaside-chats-coworking",
     "title": "Onboarding",
-    "section": "Seaside Chats / Co-working",
-    "text": "Seaside Chats / Co-working\nWe’ll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. These are outlines of a few first few meetings.\n\nCohort Mentors/Assistants\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site\nCo-working: from here, we’ll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects\n\n\n\nLesson Contributors\n\nGetting oriented: discuss Cohort Calls, lesson series, brainstorm lesson plan\n\ncohort dates/calendar\nadd to Slack\n\nLesson workplan: solidify lesson plan, establish workplan/co-working\n\nExample: SASI Cohort Lesson Plan\n\nCo-working: from here, we’ll likely co-work to develop Call Agendas and use GitHub Issues/Projects",
+    "section": "Seaside Chats / coworking",
+    "text": "Seaside Chats / coworking\nWe’ll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. These are outlines of a few first few meetings.\n\nCohort Mentors/Assistants\n\nGetting oriented: discuss Cohort Calls, pre-Cohort engagement & setup, tooling\n\ncohort dates/calendar\nadd to Slack\n\nGitHub Clinic: using GitHub to collaborate and publish from the web\nRMarkdown/Quarto Clinic: how to contribute to the approach-guide and events site\nCoworking: from here, we’ll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects\n\n\n\nLesson Contributors\n\nGetting oriented: discuss Cohort Calls, lesson series, brainstorm lesson plan\n\ncohort dates/calendar\nadd to Slack\n\nLesson workplan: solidify lesson plan, establish workplan/coworking\n\nExample: SASI Cohort Lesson Plan\n\nCoworking: from here, we’ll likely co-work to develop Call Agendas and use GitHub Issues/Projects",
     "crumbs": [
       "Openscapes Approach",
       "Onboarding"
