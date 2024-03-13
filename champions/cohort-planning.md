@@ -13,77 +13,9 @@ Planning with partners can take several months, depending on the needs of their 
 
 We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1uzQ-hic0Kn0pNyeb9VwVNDwMYRetZgiXkQ2mZIe_TXk/edit?usp=sharing) to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.
 
-The following is a high-level overview of what is in the Planning Doc and announcement, with example text. It also includes example checklists we use in GitHub Issues.
+The following is a high-level overview of what is in the Planning Doc and announcement, with example text. 
 
-::: {.callout-tip collapse="true"}
-
-## Example GitHub Issue checklist
-```
-This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#planning-document) and focused on the engagement and tech setup after dates are set.
-
-These TODO's are for @jules32 unless otherwise noted. cc: [ Openscapes/2022-noaa-afsc-assist ]
-
-## Quicklinks
-
-- [Planning Folder] - includes Planning Doc that also serves for Seaside Chats and Debriefs, also [LessonPlannning Spreadsheet]  
-- [Cohort Folder] - to share with Champions (a subfolder within planning folder)
-  - [ParticipantsList]
-
-
-## Prep Announcement
-
-- [ ] draft events page (https://openscapes.github.io/events)
-- [ ] create google form - Ady made and internal spreadsheet
-- [ ] post events page (with linked google form)
-
-## Tech Setup for Cohort 
-For Cohort Planning Team  (Stef, Julie, Ady)
-
-- [ ] invite co-leads/assists to Google Calendar Cohort Calls
-- [ ] GitHub:
-  - [ ] create GitHub repo for cohort with cohort name: eg github.com/openscapes/2022-noaa-sefsc-summer
-  - [ ] Make it a website: Settings > Pages > Source: main, dir: root
-  - [ ] Add our Code of Conduct (kyber)
-  - [ ]  Write Cohort info on the README (kyber)
-  -  *Add Evaluation information upcoming*
-  - [ ] Add co-leads/assists to GitHub repo with maintainer permission
-  - [ ] create Cohort Planning Checklist Issues, tag planning team
-- [ ] Google Folder:
-  - [ ] create Google Folder for participants: `Openscapes_CohortCalls [ cohort_name ]` 
-  - [ ] add co-leads/assists to Google Folder for participants
-
-## Adding Participants: Before Call 1
-(giving access at the right time)
-
-- [ ] Emails
-  - [ ] draft welcome email
-  - [ ] send welcome email
-  - [ ] send "reminder" email 1 day before, after adding participants to `Openscapes_CohortCalls [ cohort_name ]`
-- [ ] Google Calendar:
-  - [ ] add participants emails to Google Calendar Invites: Cohort Calls - Do this when you send Welcome Email
-  - [ ] add Google Folder link to the Google Calendar description: 
-
-  > We'll meet with the above Google Meet link. 
-  > [Openscapes_CohortCalls] is our Cohort Folder that will have Agendas prior to each call
-
-- [ ] Google Folder: 
-  - [ ] add participants emails to `Openscapes_CohortCalls [ cohort_name ]` - Do this the day before Cohort Call 1
-  
-## Adding Participants: After Call 1
-  
-- [ ] Slack
-  - [ ] Add participant emails to Slack; create cohort channel - Do this after Cohort Call 1
-- [ ] Google Calendar
-  - [ ] add participants emails to Google Calendar Invites: Co-working times (optional) - Do this after Cohort Call 1
-
-## Adding Participants: Before Call 2
-
-- [ ] GitHub:
-  - [ ] add participants to GitHub repo with `kyber` - Do this before GitHub Clinic 
-  - [ ] create GitHub Clinic files with `kyber` - Do this before GitHub Clinic
-
-```
-:::
+The later section on Champions [Cohort tech setup](pre-cohort-tech.qmd) describes and links to the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) through which we manage checklists in Issues focused on engagement and tech setup after dates are set. 
 
 ## Partners Planning Call {#partners-planning-call}
 
