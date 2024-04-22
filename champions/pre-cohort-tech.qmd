@@ -330,7 +330,23 @@ Preparing for the GitHub Clinic involves:
 
 To set up GitHub Clinics, we recommend using the [`kyber` R package](https://openscapes.github.io/kyber) created by [Sean Kross](https://seankross.com/). `kyber` automates adding participants' GitHub usernames to a Team that can write to the GitHub repo, and creates a set of markdown files such that each person has their own `name.md` to play around in. You can also do this "by hand" at github.com and copy-paste files from other cohorts if you prefer (we did this for the first few Champions cohorts!). Also, setting up with GitHub Clinic is not Openscapes-specific so you don't need to be leading an Openscapes event to use `kyber`!
 
-Before the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following the previous Cohort Call.
+Before the GitHub Clinic, we ask people to create a GitHub account and share their username with us - as part of their task following the previous Cohort Call. 1-2 days before the Clinic we email a reminder for folks to share their username with us.
+
+::: {.callout-note collapse="true"}
+### Example email for GitHub username reminder
+subject: Openscapes - your GitHub username for Call 02
+
+Hi All,
+
+We're looking forward to the GitHub Clinic on Wednesday for Cohort Call 02! We will be adding you all to a [year-cohort-name-cohort] GitHub Team so that you can participate. Please share your GitHub username today if possible.
+
+Add your GitHub username to the Cohort_ParticipantList [ year-cohort-name ] spreadsheet in our Cohort Folder, column F. Creating a GitHub account for the first time? Here's some [username advice.](https://happygitwithr.com/github-acct.html)
+
+No prior knowledge needed for the Clinic!
+
+Cheers,
+Stef
+:::
 
 From RStudio, within the Cohort repository (example `2022-noaa-afsc`), follow [`kyber` Github Clinic instructions](https://openscapes.github.io/kyber/). Make sure you pull before starting in case there are any updates you don't have locally. You might be prompted to install some other R packages called by `kyber`.
 
