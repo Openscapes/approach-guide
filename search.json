@@ -1581,7 +1581,7 @@
     "href": "reflections/index.html#quarto-publish-the-booklet",
     "title": "Reflections Program",
     "section": "quarto publish the Booklet",
-    "text": "quarto publish the Booklet\nWe use quarto publish to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:\n\nOpen RStudio locally\nCommit changes. Push. (Alternatively, git pull if you’ve made edits from github.com)\nClick on the Terminal tab next to the console\nType quarto publish, press return\nIt will prompt you to setup the first time. Follow the instructions. This is what it looks like after that:\n\n\n…then more details then:",
+    "text": "quarto publish the Booklet\nWe use quarto publish to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:\n\nOpen RStudio locally\nWork in Main branch (don’t make a new branch as we figure out this workflow with PDFs and Quarto Publish)\nCommit changes. Push. (Alternatively, git pull if you’ve made edits from github.com)\nClick on the Terminal tab next to the console\nType quarto publish, press return\nIt will prompt you to setup the first time. Follow the instructions. This is what it looks like after that:\n\n\n…then more details then:",
     "crumbs": [
       "Reflections Program"
     ]
