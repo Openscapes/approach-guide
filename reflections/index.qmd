@@ -17,6 +17,7 @@ We created the Booklet in 2023. There are some updates to make each year when Re
 We use `quarto publish` to publish this booklet. This was partly to experiment and partly because we would like to publish a PDF and Web version in a single way. What this looks like:
 
 - Open RStudio locally
+- Work in Main branch (don't make a new branch as we figure out this workflow with PDFs and Quarto Publish)
 - Commit changes. Push. (Alternatively, git pull if you've made edits from github.com)
 - Click on the Terminal tab next to the console
 - Type `quarto publish`, press return
