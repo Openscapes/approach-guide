@@ -9,6 +9,13 @@ TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/bl
 
 --->
 ```
+
+## Onboarding examples across groups
+
+Onboarding Mentors at...
+- [The California Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_onboarding.html)
+- [NOAA Fisheries](https://nmfs-openscapes.github.io/mentors/mentor-calls.html)
+
 ## Create a Participants List Spreadsheet
 
 We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]`
