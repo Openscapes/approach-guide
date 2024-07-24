@@ -156,6 +156,15 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#random**: Non-work banter and water cooler conversation
 
+### Set Slack reminders
+
+Here's an example of how to set a Slackbot reminder for recurring meetings, in this case, biweekly. Add links to "zoom link" and "notes".  
+`/remind #earthaccess “Our earthaccess hack starts in 1 hour! Here is the meeting zoom link and the notes” at 9AM every other Tuesday`
+
+Here's how it appears in Slack:  
+"Reminder: Our earthaccess hack starts in 1 hour! Here is the meeting zoom link and the notes"
+
+
 ### Slack integration with GitHub
 
 We'd love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to [Matt Fisher](https://github.com/MattF-NSIDC) for getting us started with Slack notifications for GitHub Discussions.
