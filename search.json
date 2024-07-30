@@ -657,6 +657,67 @@
     ]
   },
   {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Openscapes Approach Guide",
+    "section": "Welcome",
+    "text": "Welcome\nWelcome to the Openscapes Approach Guide! This is an open and iterating guide to document our process and onboard folks to the Openscapes approach.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#about-openscapes",
+    "href": "index.html#about-openscapes",
+    "title": "Openscapes Approach Guide",
+    "section": "About Openscapes",
+    "text": "About Openscapes\nOpenscapes is an approach for doing better science in less time. We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#about-this-guide",
+    "href": "index.html#about-this-guide",
+    "title": "Openscapes Approach Guide",
+    "section": "About This Guide",
+    "text": "About This Guide\nWe’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and “fork” it to make it your own (particularly as it’s a bit more developed!).\nWe complete a full revolution of our Flywheel (see Robinson & Lowndes 2022) each time we lead the Champions Program.\n\n\n\nFigure 1 from Robinson & Lowndes 2022. The Openscapes Flywheel builds momentum as a culture change engine as We engage a Future Us mindset through welcoming and creating space and place, we Empower a learning culture by investing in learning and trust, and working openly, and we amplify open leaders by leveraging common open data science workflows, skills and tools and inspire broader scientific culture change. And the Flywheel turns again.\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus on Champions Program and then the Mentors Framework.\n\nThe Flywheel is a concept developed by Jim Collins in the book Good to Great; it’s the idea that when building something to last, there is no single defining action. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. We’ve found these are the synergistic and overlapping elements for open data science movement building which we’ve tested, iterated, and refined in working with over 150 research teams since 2019. We are really focused on building habits that last, and institutional change that lasts.\n\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines. We are gradually converting to build all our materials with Quarto.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "Openscapes Approach Guide",
+    "section": "Citation",
+    "text": "Citation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.\n\n\n\nOpenscapes artwork by Allison Horst",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "LICENSE",
+    "section": "",
+    "text": "Adapted from The Turing Way\nOpenscapes makes all of their materials publicly available under open source licenses.\nThe process documents and data are made available under a CC-BY license. Software are made available under an MIT license.\nThe license text listed below (describing both CC-BY and MIT licenses as well as their usage in Openscapes) is re-used under a CC-BY license from The Carpentries community materials. (Specifically from the Reproducible Science Curriculum).\n\n\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.\n\n\n\n\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "LICENSE.html#process-documents-and-data",
+    "href": "LICENSE.html#process-documents-and-data",
+    "title": "LICENSE",
+    "section": "",
+    "text": "All documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
+  },
+  {
+    "objectID": "LICENSE.html#software",
+    "href": "LICENSE.html#software",
+    "title": "LICENSE",
+    "section": "",
+    "text": "Except where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
     "objectID": "reflections/index.html",
     "href": "reflections/index.html",
     "title": "Reflections Program",
@@ -707,64 +768,25 @@
     ]
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "LICENSE",
+    "objectID": "mentors-framework/how-we-work-clinic.html",
+    "href": "mentors-framework/how-we-work-clinic.html",
+    "title": "Clinic: How We Work",
     "section": "",
-    "text": "Adapted from The Turing Way\nOpenscapes makes all of their materials publicly available under open source licenses.\nThe process documents and data are made available under a CC-BY license. Software are made available under an MIT license.\nThe license text listed below (describing both CC-BY and MIT licenses as well as their usage in Openscapes) is re-used under a CC-BY license from The Carpentries community materials. (Specifically from the Reproducible Science Curriculum).\n\n\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.\n\n\n\n\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "LICENSE.html#process-documents-and-data",
-    "href": "LICENSE.html#process-documents-and-data",
-    "title": "LICENSE",
-    "section": "",
-    "text": "All documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
-  },
-  {
-    "objectID": "LICENSE.html#software",
-    "href": "LICENSE.html#software",
-    "title": "LICENSE",
-    "section": "",
-    "text": "Except where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Openscapes Approach Guide",
-    "section": "Welcome",
-    "text": "Welcome\nWelcome to the Openscapes Approach Guide! This is an open and iterating guide to document our process and onboard folks to the Openscapes approach.",
+    "text": "From March 19 to April 4, 2024 we led four sessions to share How We Work for Setting up Openscapes Champions Cohorts with a small group of Openscapes Mentors and a Science Gateways Focus Week participant. We’re adding the content here for future us to adapt and reuse.\nPurpose: Onboarding to how we work, while getting specific tasks done to prepare for a Champions Cohort. We’re hoping the group will have complementing motivations to learn/reuse.\nProcess: 4 Calls: Call 1 to be a kickoff conversation to share our overall approach, context, and get to know everyone’s needs/motivations. Calls 2-4 will be what we call “coworking” - Stef will screenshare and Stef and Julie will talk through the tech and tasks we get done live that day, and we can learn together. We can schedule a check-in call after the cohort.\nOutcomes: People learn how we work and have a sense of how this applies to their work, and everything is set for our spring Champions Cohorts for NASA Earthdata and EPA researchers.",
     "crumbs": [
-      "Welcome"
+      "Mentors Framework",
+      "Clinic: How We Work"
     ]
   },
   {
-    "objectID": "index.html#about-openscapes",
-    "href": "index.html#about-openscapes",
-    "title": "Openscapes Approach Guide",
-    "section": "About Openscapes",
-    "text": "About Openscapes\nOpenscapes is an approach for doing better science in less time. We offer mentorship, coaching, teaching, and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.\nOpenscapes Champions is an open data science mentorship program for science teams. We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science.",
+    "objectID": "mentors-framework/how-we-work-clinic.html#content",
+    "href": "mentors-framework/how-we-work-clinic.html#content",
+    "title": "Clinic: How We Work",
+    "section": "Content",
+    "text": "Content\nThe Google doc HowWeWork_ChampionsSetup_2024 [ public ] has Agendas for the 4 sessions.\nPlanning/Communication section at bottom of the doc has text of emails sent to invitees.\nRecordings of sessions e.g. HowWeWork_ChampionsSetup_Coworking-01_2024, are in the OpenscapesCohortPlanning folder.",
     "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#about-this-guide",
-    "href": "index.html#about-this-guide",
-    "title": "Openscapes Approach Guide",
-    "section": "About This Guide",
-    "text": "About This Guide\nWe’ve been growing Openscapes since founding it in 2018. This is our attempt to codify our approach so that we can onboard others as we grow. Aligned with our values for kinder, open science, we are developing it openly and designing it so that you can also use the guide to use the Openscapes Approach on your own. We encourage anyone to use and “fork” it to make it your own (particularly as it’s a bit more developed!).\nWe complete a full revolution of our Flywheel (see Robinson & Lowndes 2022) each time we lead the Champions Program.\n\n\n\nFigure 1 from Robinson & Lowndes 2022. The Openscapes Flywheel builds momentum as a culture change engine as We engage a Future Us mindset through welcoming and creating space and place, we Empower a learning culture by investing in learning and trust, and working openly, and we amplify open leaders by leveraging common open data science workflows, skills and tools and inspire broader scientific culture change. And the Flywheel turns again.\n\n\nEach turn of the flywheel delivers the Champions program for a Cohort of research teams so that they can begin transforming their workflows towards kinder, inclusive open science and inspire their broader communities. We support this delivery and transformation through developing mentor teams with inclusive facilitation skills, by investing in the Champions curriculum as we learn new software and inclusive practices and to meet specific Cohort needs, and by attracting research teams through storytelling (talks, blogs, publications), community engagement, and artwork to welcome more folks to the open science movement.\nThis book will ultimately describe the Openscapes Approach as all parts of our Flywheel, but we are beginning our focus on Champions Program and then the Mentors Framework.\n\nThe Flywheel is a concept developed by Jim Collins in the book Good to Great; it’s the idea that when building something to last, there is no single defining action. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond. We’ve found these are the synergistic and overlapping elements for open data science movement building which we’ve tested, iterated, and refined in working with over 150 research teams since 2019. We are really focused on building habits that last, and institutional change that lasts.\n\n\nBuilt with Quarto\nWe’re collaboratively making the Openscapes Approach Guide with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we use to openly develop and publish all Openscapes websites, books, and blogs. Quarto makes collaborating to create technical documentation streamlined because we work in plain text documents that can have executable code (Python, R) and are rendered natively using Jupyter and Knitr engines. We are gradually converting to build all our materials with Quarto.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#citation",
-    "href": "index.html#citation",
-    "title": "Openscapes Approach Guide",
-    "section": "Citation",
-    "text": "Citation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). https://openscapes.org/approach-guide.\n\n\n\nOpenscapes artwork by Allison Horst",
-    "crumbs": [
-      "Welcome"
+      "Mentors Framework",
+      "Clinic: How We Work"
     ]
   },
   {
