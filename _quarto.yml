@@ -56,7 +56,8 @@ website:
         contents:
           - mentors-framework/engage.qmd
           - mentors-framework/onboarding.qmd
-          - mentors-framework/nasa-openscapes.qmd 
+          - mentors-framework/nasa-openscapes.qmd
+          - mentors-framework/how-we-work-clinic.qmd 
       - pathways/index.qmd
       - reflections/index.qmd
       - section: contributing/index.qmd
