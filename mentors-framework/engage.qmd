@@ -2,9 +2,32 @@
 title: Engagement
 ---
 
-TODO.
+## Mentor Calls
+
+These are resources from NOAA Fisheries Mentor Calls, Fall 2023
+
+### Agenda
+
+TODO: link blank/public coworking agenda
+
+### Slides
+
+1.  [Openscapes Mindset for Mentors](https://docs.google.com/presentation/d/1EGXrIRzTptY3gcTlG20I7oW5oCzdIS9DB255AHjJ77U/edit#slide=id.p)
+2.  [Open and Collaborative Communities for Mentors](https://docs.google.com/presentation/d/1rQ7N51AQl-A73SZnvRuPv2QJobIinvksKjIriQn0YNM/edit#slide=id.p)
 
 ## Engaging supervisors
 
-- Include a deadline
-- say please forward to all supervisors
+-   Include a deadline
+-   say please forward to all supervisors
+
+## Listening
+
+Credit to [Tara Robertson](https://tararobertson.ca/) for leading some Openscapes Mentors in “Mentoring with a Coach Approach” Series. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/)
+
+**Listening**
+
+How we listen differs whether we are in mentor-mode or coach-mode:
+
+-   When we listen as mentors, we’re trying to understand where our expertise can help someone solve a problem.
+
+-   When we’re listening as coaches, we’re trying to help the other person define their problem, and tap into their own wisdom to find their solution, likely outside of our domain expertise.
