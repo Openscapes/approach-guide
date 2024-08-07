@@ -75,14 +75,16 @@ We give a land acknowledgement during the welcome of every Cohort Call and Commu
 
 ## Stickers
 
-We have physical stickers we share with our community. These hex stickers are something from the R (#rstats) community that we put on laptops, waterbottles, etc.
+We have physical stickers we share with our community. These hex stickers are something from the R (#rstats) community that we put on laptops, waterbottles, etc. These are a visible part of community building - Julie Lowndes has made friends with people at airports through them seeing her laptop and coming to start a conversation.
 
 So far we've ordered them from Sticker Mule, using dimensions following RStudio:
+
+[Shareable reorder link](https://www.stickermule.com/cart/cd74b891-7616-42db-9c83-c0267155375d/share) for anyone interested in ordering their own
 
 -   Die cut stickers
 -   Size: 1.74" x 2"
 
-![](images/khora-laptop-sleep.jpg){fig-align="center"}
+![](images/khora-laptop-sleep.jpg){fig-align="center" width="60%"}
 
 ## Resources
 
