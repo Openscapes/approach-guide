@@ -356,6 +356,7 @@ IMPT: volume of shared sound is controlled in the source application. If spotify
 
 -   <https://www.zotero.org/>
 -   Login from browser
--   Download desktop app and Zotero Connector to Firefox
+-   Download desktop app and Zotero Connector to Firefox or your preferred browser
+-   Quarto uses Zotero locally from the app, not from the web. Login to sync from our Openscapes Zotero library on the cloud, and then Quarto should be able to find them. There is a button in Zotero app to sync to a connected cloud library, if it does not happen automatically.
 
 In our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.
