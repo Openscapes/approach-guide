@@ -117,29 +117,6 @@ We'll need to do some configuration to use `kyber`, so follow the [configuration
 
 Specific `kyber` functions will be described in more detail where relevant to specific tasks below.
 
-### Google Workspace
-
-In June 2022 we began moving our work to an Openscapes Google Workspace, starting with the 2022 NOAA SEFSC summer Cohort.
-
-**Folder organization**
-
--   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1:1's and specific Cohort Folders.
--   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
-
-**Calendar**: The OpenscapesEvents Google Calendar is used for events, like Cohort Calls and Coworking sessions. This may differ for Cohorts that cannot use Google Tools and use MS Teams for example. Add the CohortFolder link to calendar invites; we learned that folks go to Calendars to find the docs for meetings.
-
-There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
-
-::: {.callout-tip collapse="true"}
-## Tip: Click URL to add to your Google Calendar
-
-Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event \> click the 3 dots \> Publish event \> choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
-:::
-
-**Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
-
-**Google Spaces**: We have used Google Spaces for within-Cohort communications like Q&A and resource sharing when that is already the strongly-preferred tool for participants e.g. NOAA NMFS Fall 2022 Cohorts. After Cohort completion, the Openscapes team's support moves entirely to Slack.
-
 ## Timing and order of tasks
 
 [Pre-cohort engagement](pre-cohort-engage.qmd) (the preceding section) ends with a reminder to participants the day before Cohort Call 1. The "Before Call 1" tasks below must be started *before* that last-minute reminder.
@@ -204,6 +181,46 @@ If you prefer to make this planning issue in the openscapes/cohort-planning repo
 
 -   "Quicklinks" Issue with links nice to have open during Cohort Calls. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/47). We pin this issue so that it shows up at the top of <https://github.com/Openscapes/cohort-planning/issues>
 -   "Pre-cohort setup: Issue with check-boxes aligned with this approach-guide so we know what's been done. Aligning this Issue with the approach-guide is a work-in-progress. Example: [2022-nmfs-afsc](https://github.com/Openscapes/cohort-planning/issues/48)
+:::
+
+## Google Workspace
+
+In June 2022 we began moving our work to an Openscapes Google Workspace, starting with the 2022 NOAA SEFSC summer Cohort.
+
+**Folder organization**
+
+-   OpenscapesMain \> OpenscapesChampionsProgram \> contains materials for active and completed Cohorts, including 1:1's and specific Cohort Folders.
+-   OpenscapesMain \> OpenscapesCohortPlanning \> contains materials for planning Cohorts, including the Cohort Registry and docs for Mentors Seaside Chats.
+
+**Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
+
+**Google Spaces**: We have used Google Spaces for within-Cohort communications like Q&A and resource sharing when that is already the strongly-preferred tool for participants e.g. NOAA NMFS Fall 2022 Cohorts. After Cohort completion, the Openscapes team's support moves entirely to Slack.
+
+### Calendar
+
+This information complements our CohortCalendaring GitHub Projects that lay out checklists and order of operations as GitHub Issues. [Example](https://github.com/orgs/Openscapes/projects/7/)
+
+We use the OpenscapesEvents Calendar or other specific Google Calendar (e.g. NMFS-Openscapes, NASA-Openscapes) for Cohort Calls and Coworking sessions. This may differ for organizations that cannot use Google products and use MS Teams for example.
+
+Here's what to include, in this order, to create calendar invites for a cohort before finally adding participants:
+
+-   cohort name e.g. Openscapes Cohort-A Champions Calls
+-   description text with Champions teams as primary audience and Mentors as secondary audience.
+    -   "Welcome! This is a Champions Cohort for NMFS Openscapes; one of three this fall."\
+        link to empty Cohort Google Folder\
+        link to Cohort GitHub repo
+    -   more text later about everything a Cohort involves e.g. Cohort Calls, optional Coworking, Seaside Chats. Cohort Folder contains all Agendas, recordings, etc
+-   Attach empty Cohort Folder e.g. Openscapes-CohortCalls \[ cohort-name \] (create an empty one if it doesn't already exist). Folder will ultimately contain Call Agendas, recordings, etc. (we learned in fall 2022 that folks go to Calendars to find the docs for meetings)
+-   Add Zoom or Google Meet link
+-   add Mentors' emails as Guests, potentially using a Google Group. Mentors names and emails are in OpenscapesParticipantsMainList sheet (also in an organization-specific sheet e.g. OpenscapesParticipants \[ nmfs-mentors \])
+-   Add Champions as Guests last. Adding them last prevents confusion from receiving multiple notifications and we know that Outlook Calendar users do not see updates in their calendars and has resulted in people having the wrong meeting link. Add as much info as you can before adding Mentors and Champions to a calendar invite.
+
+There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
+
+::: {.callout-tip collapse="true"}
+## Tip: Click URL to add to your Google Calendar
+
+Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event \> click the 3 dots \> Publish event \> choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
 :::
 
 ## GitHub repo
@@ -298,6 +315,7 @@ After the first Cohort Call, we:
 
 ::: {.callout-note collapse="true"}
 ## Example Slack #general welcome message
+
 Hi Everyone - We have a new Champions Cohort that started today and we just added them to slack! They may say hello here too :wave: Here is their \[ cohort repo \] with a few more details.
 :::
 
@@ -334,18 +352,18 @@ Before the GitHub Clinic, we ask people to create a GitHub account and share the
 
 ::: {.callout-note collapse="true"}
 ### Example email for GitHub username reminder
+
 subject: Openscapes - your GitHub username for Call 02
 
 Hi All,
 
-We're looking forward to the GitHub Clinic on Wednesday for Cohort Call 02! We will be adding you all to a [year-cohort-name-cohort] GitHub Team so that you can participate. Please share your GitHub username today if possible.
+We're looking forward to the GitHub Clinic on Wednesday for Cohort Call 02! We will be adding you all to a \[year-cohort-name-cohort\] GitHub Team so that you can participate. Please share your GitHub username today if possible.
 
-Add your GitHub username to the Cohort_ParticipantList [ year-cohort-name ] spreadsheet in our Cohort Folder, column F. Creating a GitHub account for the first time? Here's some [username advice.](https://happygitwithr.com/github-acct.html)
+Add your GitHub username to the Cohort_ParticipantList \[ year-cohort-name \] spreadsheet in our Cohort Folder, column F. Creating a GitHub account for the first time? Here's some [username advice.](https://happygitwithr.com/github-acct.html)
 
 No prior knowledge needed for the Clinic!
 
-Cheers,
-Stef
+Cheers, Stef
 :::
 
 From RStudio, within the Cohort repository (example `2022-noaa-afsc`), follow [`kyber` Github Clinic instructions](https://openscapes.github.io/kyber/). Make sure you pull before starting in case there are any updates you don't have locally. You might be prompted to install some other R packages called by `kyber`.
