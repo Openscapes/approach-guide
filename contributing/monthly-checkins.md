@@ -5,6 +5,18 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## August 2024
+
+[Workplace Democracy and Open Source](https://catalyst.coop/2024/08/13/workplace-democracy-and-open-source/) – by Zane Selvans, a "bloggified version" of their talk from csv,conf,v8
+
+[Want to Improve Your Relationship? Start Paying More Attention to Bids](https://www.gottman.com/blog/want-to-improve-your-relationship-start-paying-more-attention-to-bids/) – heard through Aaron Friesz: "I was in trainer training for the UW Hackweek where this was shared, which after reading really resonates. It's written from a relationship perspective, but it's definitely applicable to interactions with colleagues and workshop/cohort participants". Also: [Wheel of Privilege and Power](https://kb.wisc.edu/instructional-resources/page.php?id=119380)
+
+[Governor Tim Walz - Uniting One Minnesota | We’re All on the Map ](https://mediaspace.esri.com/media/t/1_d2sqkrju) – heard through Dr. Dawn Wright, Chief Scientist of ESRI. Gov Walz's keynote as ~2 weeks before becoming Kamala Harris' VP runnning mate 
+
+[Reproducible Research: A Retrospective](https://pubmed.ncbi.nlm.nih.gov/33467923/) by Roger Peng & Stephanie Hicks; herard through Sean Kross (Fred Hutch Cancer Center)
+
+[A letter to researchers that want to make the world a better place](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) by Dr. Antoinette Foster, as part of the the [Pathways to Open Science Program](https://openscapes.github.io/pathways-to-open-science/).
+
 ## June 2024
 
 [AI isn't useless. But is it worth it? - By Molly White, Citation Needed](https://www.citationneeded.news/ai-isnt-useless/) - heard through Yuvi Panda
