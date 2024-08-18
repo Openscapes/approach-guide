@@ -15,7 +15,7 @@ Regular checkins documenting we've learned and what's stood out in the Openscape
 
 [Reproducible Research: A Retrospective](https://pubmed.ncbi.nlm.nih.gov/33467923/) by Roger Peng & Stephanie Hicks; herard through Sean Kross (Fred Hutch Cancer Center)
 
-[A letter to researchers that want to make the world a better place](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) by Dr. Antoinette Foster, as part of the the [Pathways to Open Science Program](https://openscapes.github.io/pathways-to-open-science/).
+[A letter to researchers that want to make the world a better place](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) by Dr. Antoinette Foster, as part of the the [Pathways to Open Science Program](https://openscapes.github.io/pathways-to-open-science/). Also links to [How to Deliver Constructive Feedback in Difficult Situations[(https://www.dave-bailey.com/blog/nonviolent-communication) by Dave Bailey
 
 ## June 2024
 
