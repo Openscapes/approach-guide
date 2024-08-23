@@ -156,6 +156,8 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#random**: Non-work banter and water cooler conversation
 
+**team-openscapes**: (private) ~daily checkins. We started this when our team grew in 2024 so that Stef and I weren’t in DMs anymore. Like we did during [mentor-coaching](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), we check in here daily when we’re working on Openscapes stuff to say hi and give a heads up about what we’re working on. For Stef, Andy, and me this is almost daily, for Liz it’s less so and when it’s makes sense for her, since she’s less time. We tag people when they’re needed directly so if it’s better for you to not be notified until you’re tagged that is great too.
+
 ### Set Slack reminders
 
 Here's an example of how to set a Slackbot reminder for recurring meetings, in this case, biweekly. Add links to "zoom link" and "notes".  
