@@ -194,7 +194,7 @@ In June 2022 we began moving our work to an Openscapes Google Workspace, startin
 
 **Google Meet**: Breakout room functionality in Google Meet is limited (e.g. participant cannot dynamically choose a room to join; host must manually assign them). We prefer to use Zoom when possible.
 
-**Google Spaces**: We have used Google Spaces for within-Cohort communications like Q&A and resource sharing when that is already the strongly-preferred tool for participants e.g. NOAA NMFS Fall 2022 Cohorts. After Cohort completion, the Openscapes team's support moves entirely to Slack.
+**Google Spaces**: We use Google Spaces for within-Cohort communications like Q&A and resource sharing when that is already the strongly-preferred tool for participants e.g. NOAA NMFS Mentors and Champions Cohorts. Champions are invited to Openscapes Slack to connect with the broader community.
 
 ### Calendar
 
