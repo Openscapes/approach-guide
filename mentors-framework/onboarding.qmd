@@ -222,9 +222,24 @@ We're really looking forward to working with you! Cheers, Julie
 
 This is evolving.
 
-For NASA, we started off by creating a **Google Group** so we could easily add mentors to Google Folders and Calendars. This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
+For NASA, we started off by creating a **Google Group** so we could easily add mentors to Google Folders and Calendars. This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group. In August 2024, we created a Google Group for NMFS Openscapes Mentors.
 
-After we create a new Google Group, Julie, as Google Workspace Administrator, must change the Group Access Type to Allow Members Outside Your Organization.
+### Settings
+
+After we create a new Google Group, Julie, as Google Workspace Administrator, must:
+
+-   change the Group Access Type to Allow Members Outside Your Organization.
+-   change Group Settings, Who can see group - Anyone on the web
+    -   without this setting, members are not able to search for or find the group listed in "My groups"
+-   Who can join group - Invited users only
+
+Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
+
+![Google Group content visibility (in Group Settings)](images/google-group-content-visibility.png){width="60%"}
+
+![Google Group access (in About)](images/google-group-access.png){width="60%"}
+
+Group description: NMFS Openscapes Mentors list. Welcome! We use this Google Group primarily for calendar invites and coordinating emails to the whole group. Who can see these emails? Members of the Openscapes organization (aka the Openscapes team) and members we invite to this Group. ("who can see" added so members consider what they share).
 
 We chose not to include an email subject prefix e.g. \[nmfs-openscapes-mentors\] since email itself is sent from the sender to the group address, and email includes footer with group information.
 
@@ -232,6 +247,6 @@ We chose not to include an email subject prefix e.g. \[nmfs-openscapes-mentors\]
 
 We're also using GitHub Teams more, for 2i2c access and coordinating. Rather than a Google Group that is difficult to hand off in terms of managing, a GitHub Team might be the way to go. This will raise challenges for any private info (e.g. Carpentries code), but that could be handled in Slack.
 
-### Create a GitHub Team with Mentors
+## Create a GitHub Team with Mentors
 
 Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: `nasa-mentors-community`.
