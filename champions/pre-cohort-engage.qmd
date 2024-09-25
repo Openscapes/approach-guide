@@ -173,6 +173,50 @@ Cheers,\
 Julie Lowndes, Openscapes
 :::
 
+::: {.callout-tip collapse="true"}
+## Example email welcome to selected NMFS individuals
+
+Subject: Welcome to the NMFS Openscapes Champions Cohort 🎉
+
+Hello All,
+
+We are so excited to welcome you to the 2022 SEFSC Openscapes Champions Cohort! Our first Cohort Call is the first week of October and we wanted to share some information with you. Many thanks to Erica Rule for coordination and support in creating this opportunity, and to Adyan Rios and Molly Stevens who are co-leading this Cohort. This is one of four [NMFS Openscapes](https://nmfs-openscapes.github.io) Cohorts happening concurrently this Fall and we’ll create some opportunities for you to connect. 
+
+The [Openscapes Champions Program](https://openscapes.org/champions) is designed for you to all participate actively with your team and across teams in the Cohort, so please come prepared to engage with your colleagues. Within your team and across teams we have a mix of backgrounds, technical/coding/data experience, responsibilities, and more – this is intentional. You are all welcome here and provide value to our Cohort; there are no technical prerequisites to participate. 
+
+**Preparing for our Cohort. This week, please**:
+
+1.  **Check that you’ve received Google Calendar invites for our 5 Cohort Calls**. If you have not received these invites, please let us know.
+
+    1.  **Dates:** October 4, 18, November 1, 15, 29
+
+    2.  **Times:** 10:00am - 11:30am PT
+
+    3.  **Location:** Remotely, via Zoom (link will be added to Calendar invites)
+
+2.  [**Book a 30-minute intro call the week of Sept 26**](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUx3MjBab3hoUGpLfGRlZmF1bHR8ZTcwNmUxNjRjMDQxMGNhMGRkZWY1OTYzN2I1YjVjNmU) – or suggest other times if that is not possible. These optional “1:1’s” are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
+
+3.  **Read before our first call[ Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools.
+
+**Additional Information.**
+
+All Openscapes events abide by our[ Code of Conduct](https://openscapes.org/code-of-conduct). We are dedicated to providing a positive learning environment for all. Please let us know if you require any accommodations or if there is anything we can do to make this cohort more accessible to you.
+
+Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know. We will also have live transcripts. 
+
+“Seaside Chats”: In the alternating weeks when we do not meet as a cohort, your task will be to meet as a team to further discuss and apply what we learn to your work. We call these meetings “[Seaside Chats](https://github.com/Openscapes/seaside-chats)” and suggest you schedule them with your team now; people usually schedule these as 60-min meetings but you can make them whatever length you want. 
+
+Optional “Coworking” sessions: times to implement what we’ve learned during Cohort Calls, where we work on our own projects at the same time together. Sometimes, this means quiet work with check-ins to break up the time, be accountable for, and get feedback on focused work, and sometimes this involves breakout rooms and screensharing to plan and problem solve. We’ll send Google Calendar invitations after our first Cohort Call.
+
+Please let us know if you have any questions. Thank you for being a part of it; we have an exciting group assembled and we’re looking forward to getting to know all of you and strengthening relationships within the Cohort.
+
+Cheers,
+
+Julie Lowndes, Stefanie Butland (Openscapes)
+
+Eli Holmes (NWFSC)
+:::
+
 #### Email to decline
 
 Declining nominees is the worst.
@@ -203,16 +247,18 @@ Here's the process as the PIs confirm with their teams:
 
 ::: {.callout-tip collapse="true"}
 ## Example text for Google Calendar invites
+
 It's helpful to add "Openscapes" as the first word in title of Calendar invite to distinguish it from many other invites in people's calendars.
 
 ### Openscapes Coworking - Fred Hutch Champions Cohort
+
 description text: We set up an hour for Coworking in between Cohort Calls; these are optional times where folks can work on their own things but also share and ask questions. Julie and Stef will be there to answer questions. Want to have your Team Seaside Chat at this time? We'll make a breakout room for you.
 
-Our Cohort folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link) has a Coworking Agenda doc where we take collaborative notes.
+Our Cohort folder [Openscapes_CohortCalls \[ 2023-fred-hutch \]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link) has a Coworking Agenda doc where we take collaborative notes.
 
 ### Openscapes Fred Hutch Cohort Calls
-description text: Cohort Calls for the [2023 Fred Hutch Openscapes Champions Cohort](https://openscapes.github.io/2023-fred-hutch/)
-Quicklinks: Shared Cohort Google Folder [Openscapes_CohortCalls [ 2023-fred-hutch ]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link)
+
+description text: Cohort Calls for the [2023 Fred Hutch Openscapes Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) Quicklinks: Shared Cohort Google Folder [Openscapes_CohortCalls \[ 2023-fred-hutch \]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link)
 :::
 
 ::: {.callout-tip collapse="true"}
@@ -441,50 +487,23 @@ Cheers,
 Julie and Erin
 :::
 
-And some follow up advice to help strategize preparing: 
+And some follow up advice to help strategize preparing:
 
 ::: {.callout-tip collapse="true"}
 ## Example email advice to guest teacher
 
-I'm following up on our conversation about your Data Strategies
-lesson for the CA Water Boards Openscapes Cohort. Here's my advice
-brain-dump ;-) 
+I'm following up on our conversation about your Data Strategies lesson for the CA Water Boards Openscapes Cohort. Here's my advice brain-dump ;-) 
 
-The most important point is that you don't need to make up new material or create an activity. We teach these lessons from [our existing slide deck](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/).
-Julie taught from this deck to the previous Water Boards Cohort and I
-did the same for another cohort. The speaker notes have some guiding
-language. We try to basically say what's on the slides and we pepper
-them (within the time limit) with personal examples or anecdotes. 
+The most important point is that you don't need to make up new material or create an activity. We teach these lessons from [our existing slide deck](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/). Julie taught from this deck to the previous Water Boards Cohort and I did the same for another cohort. The speaker notes have some guiding language. We try to basically say what's on the slides and we pepper them (within the time limit) with personal examples or anecdotes. 
 
-The[ Data Strategies page](https://openscapes.github.io/series/core-lessons/data-strategies.html)
-in our Openscapes Champions Lesson Series, has a narrative that
-essentially follows the slides. Near the top of that page is a link to a
-recording of Ileana Fenwick teaching from the same slide deck. The
-first time I prepared to give that lesson (the only time so far), I
-started by watching Ileana's recording and reading the couple of papers/
-blog posts in the slides. Tip: when a slide has a list of 10 tips, you
-don't need to say them all. You might say "this paper gives 10 tips for
-... . I want to highlight 3". Then I said the tip and gave an example of
-how I've used it in my work. That's the way you get to make the same
-slide deck be relatable and allow you to share your own knowledge and
-experiences.
+The[Data Strategies page](https://openscapes.github.io/series/core-lessons/data-strategies.html) in our Openscapes Champions Lesson Series, has a narrative that essentially follows the slides. Near the top of that page is a link to a recording of Ileana Fenwick teaching from the same slide deck. The first time I prepared to give that lesson (the only time so far), I started by watching Ileana's recording and reading the couple of papers/ blog posts in the slides. Tip: when a slide has a list of 10 tips, you don't need to say them all. You might say "this paper gives 10 tips for ... . I want to highlight 3". Then I said the tip and gave an example of how I've used it in my work. That's the way you get to make the same slide deck be relatable and allow you to share your own knowledge and experiences.
 
-The Water Boards sessions are in
-Microsoft Teams. There are \~ 20 folks. When teaching, you don't share
-your screen - people follow along by clicking through the slide deck
-themselves - that means it's easier to use speaker notes if you like to
-do that. Anna Holder, the lead, is such a warm facilitator with a great
-sense of humour that shows through. She makes for a really positive
-teaching experience. 
+The Water Boards sessions are in Microsoft Teams. There are \~ 20 folks. When teaching, you don't share your screen - people follow along by clicking through the slide deck themselves - that means it's easier to use speaker notes if you like to do that. Anna Holder, the lead, is such a warm facilitator with a great sense of humour that shows through. She makes for a really positive teaching experience. 
 
 Looking forward to seeing you soon,
 
 Stef
-
 :::
-
-
-
 
 Followup email the week before:
 
