@@ -173,6 +173,8 @@ Cheers,\
 Julie Lowndes, Openscapes
 :::
 
+### Email to confirm individuals
+
 ::: {.callout-tip collapse="true"}
 ## Example email welcome to selected NMFS individuals
 
