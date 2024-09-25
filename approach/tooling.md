@@ -37,9 +37,10 @@ Recommended workflow for now:
 
 ## GitHub
 
+-   documentation, like this Approach Guide
 -   version control for everything that's not Google Drive
 -   coordination with Issues and GitHub Projects
--   publishing all our R-based web communications (see next)
+-   publishing all our R-based web communications
 -   comms through website
 
 ## Google Workspace
@@ -50,14 +51,17 @@ We use an Openscapes Google Workspace. This is our default system for Champions 
 -   Drive
 -   Docs
 -   Sheets
+-   Slides
 
-We prefer to use Zoom over Google Meet, which we found has some limits to functionality e.g. breakout rooms
+**We prefer to use Zoom over Google Meet**, which has some limits to functionality e.g. breakout rooms. In Zoom, participants are able to move freely in and out of breakout rooms, if that setting is selected when creating breakouts. In Google Meet, the host must assign people to breakouts either before the meeting via the Google Calendar invite, or during the meeting. If you invite a Google group to a meeting, participants in that group won't automatically be available to distribute into breakout rooms.
 
-We send newsletters via Google Group following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs):
+Google documentation: [Use breakout rooms in Google Meet](https://support.google.com/meet/answer/13054147?co=GOOGLE_MEET._MeetingUserType%3DHost&oco=0).
+
+**We send newsletters via Google Group** following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs):
 
 > Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
 
-## Mastodon / Twitter
+## Mastodon / Bluesky / Twitter
 
 Social media, and specifically Twitter, has been a huge part of growing the Open science community. We've taught and written about Twitter a lot in the past.
 
@@ -65,7 +69,7 @@ Mastodon is a social network platform that is free and open-source. It's been 
 
 Here is a [Mastodon Quick Start Guide](https://zenodo.org/records/10019853) by Yanina Bellini Saibene, Oscar Masinyana, Alycia Crall. rOpenSci posted about: [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/). 
 
-Openscapes has stopped posting to Twitter and posts only to our Mastodon account. There are concerns around inclusion about Mastodon as well, and it remains to be seen which social platform will evolve into the place for thriving, safe, inclusive science conversations. 
+Openscapes has stopped posting to Twitter and now posts to our Mastodon and Bluesky accounts. There are concerns around inclusion about Mastodon and Bluesky as well, and it remains to be seen which social platform will evolve into the place for thriving, safe, inclusive science conversations. 
 
 ## ORCID/Rescognito
 
@@ -156,16 +160,15 @@ When people join, they automatically land in #welcome #general #seaside-chats #e
 
 **#random**: Non-work banter and water cooler conversation
 
-**team-openscapes**: (private) ~daily checkins. We started this when our team grew in 2024 so that Stef and I weren’t in DMs anymore. Like we did during [mentor-coaching](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), we check in here daily when we’re working on Openscapes stuff to say hi and give a heads up about what we’re working on. For Stef, Andy, and me this is almost daily, for Liz it’s less so and when it’s makes sense for her, since she’s less time. We tag people when they’re needed directly so if it’s better for you to not be notified until you’re tagged that is great too.
+**team-openscapes**: (private) \~daily checkins. We started this when our team grew in 2024 so that Stef and I weren’t in DMs anymore. Like we did during [mentor-coaching](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), we check in here daily when we’re working on Openscapes stuff to say hi and give a heads up about what we’re working on. For Stef, Andy, and me this is almost daily, for Liz it’s less so and when it’s makes sense for her, since she’s less time. We tag people when they’re needed directly so if it’s better for you to not be notified until you’re tagged that is great too.
 
 ### Set Slack reminders
 
-Here's an example of how to set a Slackbot reminder for recurring meetings, in this case, biweekly. Add links to "zoom link" and "notes".  
+Here's an example of how to set a Slackbot reminder for recurring meetings, in this case, biweekly. Add links to "zoom link" and "notes".\
 `/remind #earthaccess “Our earthaccess hack starts in 1 hour! Here is the meeting zoom link and the notes” at 9AM every other Tuesday`
 
-Here's how it appears in Slack:  
+Here's how it appears in Slack:\
 "Reminder: Our earthaccess hack starts in 1 hour! Here is the meeting zoom link and the notes"
-
 
 ### Slack integration with GitHub
 
