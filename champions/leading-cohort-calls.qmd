@@ -29,6 +29,7 @@ Note-taking should focus on capturing questions and conversations and less about
 Software to have open:
 
 -   Zoom, with Chat and Participants open
+    -   Google Meet ([How to use breakout rooms in Google Meet](https://support.google.com/meet/answer/13054147?co=GOOGLE_MEET._MeetingUserType%3DHost&oco=0)), MS Teams if required
 -   Slack for back-channeling if needed, likely not
 -   Agenda
 -   Quicklinks Issue, Participants List (example: [NOAA NMFS](https://github.com/Openscapes/cohort-planning/issues/1))
@@ -109,7 +110,6 @@ Tips when presenting
 -   At start of call, open all your slide decks at 1st slide, especially when you're presenting twice in one day
 -   As you start to present a deck, put slide link into chat
 -   Ask guest teachers to screenshare so we can post video
- 
 
 ### Debriefs
 
@@ -171,7 +171,6 @@ Have a good week,
 
 Stef, Julie, Co-lead, Co-lead
 
-
 **Digest: Cohort Call 01 \[ year-cohort-name \]**
 
 Openscapes_CohortCalls \[ year-cohort-name \] (TODO: add link) Google folder - contains agendas, recordings, pathways 
@@ -195,7 +194,9 @@ https://openscapes.github.io/year-cohort-name/ (TODO: add link) - cohort webpage
 *Note: no need to add agenda subheadings or group notes under them*
 
 -   
+
 -   
+
 -   
 :::
 
