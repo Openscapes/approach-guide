@@ -1,0 +1,7 @@
+---
+title: "Newsletter"
+---
+
+We create an Openscapes Newsletter 4x / year. It is published as a blog post with tag `newsletter` and emailed to the newsletter subscribers mailing list.
+
+The **newsletter mailing list** is a Google Group. People can [subscribe via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform?usp=sf_link)
