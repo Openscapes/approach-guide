@@ -1,0 +1,13 @@
+---
+title: "Newsletter"
+---
+
+We create an Openscapes Newsletter 4x / year. It is published as a blog post with tag `newsletter` and emailed to the newsletter subscribers mailing list.
+
+The **newsletter mailing list** is a Google Group. People can [subscribe via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform?usp=sf_link)
+
+-   add new subscribers from Google Form to Group
+
+-   Duplicate previous tab, add date, cp new subscribers from Join_Openscapes to EmailList 
+
+    -   Add new people to Google Group: welcome text in the first Tab README
