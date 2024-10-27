@@ -5,6 +5,10 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## October 2024
+
+A short recent blog post by Peter Ellis on [Making R work in government](https://freerangestats.info/blog/2024/09/28/ihaka-lecture) H/t (heard through) EPA Openscapes Mentor Mike McManus
+
 ## August 2024
 
 [Workplace Democracy and Open Source](https://catalyst.coop/2024/08/13/workplace-democracy-and-open-source/) – by Zane Selvans, a "bloggified version" of their talk from csv,conf,v8
