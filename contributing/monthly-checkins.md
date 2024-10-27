@@ -7,7 +7,9 @@ Regular checkins documenting we've learned and what's stood out in the Openscape
 
 ## October 2024
 
-A short recent blog post by Peter Ellis on [Making R work in government](https://freerangestats.info/blog/2024/09/28/ihaka-lecture) H/t (heard through) EPA Openscapes Mentor Mike McManus
+[Making R work in government](https://freerangestats.info/blog/2024/09/28/ihaka-lecture) - A short recent blog post by Peter Ellis on H/t (heard through) EPA Openscapes Mentor Mike McManus
+
+[Indigenous People's Initiative at NASA](https://appliedsciences.nasa.gov/indigenous-peoples-initiative) - Nikki Tulley's work
 
 ## August 2024
 
