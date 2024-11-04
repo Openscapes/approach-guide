@@ -5,6 +5,10 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## November 2024
+
+[Paul Graham and the Cult of the Founder](https://davekarpf.substack.com/p/paul-graham-and-the-cult-of-the-founder) – a short essay by Dave Karpf, an Internet politics professor at GWU. Describes how Aaron Schwarz and Sam Altman, 2 totally different views of what the internet could be, were in the first cohort of YCombinator. H/t Liz Neeley
+
 ## October 2024
 
 [Making R work in government](https://freerangestats.info/blog/2024/09/28/ihaka-lecture) - A short recent blog post by Peter Ellis on H/t (heard through) EPA Openscapes Mentor Mike McManus
