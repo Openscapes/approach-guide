@@ -15,6 +15,10 @@ Regular checkins documenting we've learned and what's stood out in the Openscape
 
 [Indigenous People's Initiative at NASA](https://appliedsciences.nasa.gov/indigenous-peoples-initiative) - Nikki Tulley's work
 
+## September 2024
+
+[White Supremacy Culture](https://www.dismantlingracism.org) by Tema Okum on Dismantling Racism - h/t Erin Robinson
+
 ## August 2024
 
 [Workplace Democracy and Open Source](https://catalyst.coop/2024/08/13/workplace-democracy-and-open-source/) – by Zane Selvans, a "bloggified version" of their talk from csv,conf,v8
