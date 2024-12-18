@@ -17,6 +17,21 @@ Regular checkins documenting we've learned and what's stood out in the Openscape
 
 [Learning and Improving upon Stock Assessment Workflows across the U.S.A.](https://www.youtube.com/watch?v=Q8XJTTkjcts) - Samantha Schiano, NOAA Fisheries Office of Science and Technology. NOAA Libraries talk, October 2024.
 
+
+## November 2024
+
+[Paul Graham and the Cult of the Founder](https://davekarpf.substack.com/p/paul-graham-and-the-cult-of-the-founder) – a short essay by Dave Karpf, an Internet politics professor at GWU. Describes how Aaron Schwarz and Sam Altman, 2 totally different views of what the internet could be, were in the first cohort of YCombinator. H/t Liz Neeley
+
+## October 2024
+
+[Making R work in government](https://freerangestats.info/blog/2024/09/28/ihaka-lecture) - A short recent blog post by Peter Ellis on H/t (heard through) EPA Openscapes Mentor Mike McManus
+
+[Indigenous People's Initiative at NASA](https://appliedsciences.nasa.gov/indigenous-peoples-initiative) - Nikki Tulley's work
+
+## September 2024
+
+[White Supremacy Culture](https://www.dismantlingracism.org) by Tema Okum on Dismantling Racism - h/t Erin Robinson
+
 ## August 2024
 
 [Workplace Democracy and Open Source](https://catalyst.coop/2024/08/13/workplace-democracy-and-open-source/) – by Zane Selvans, a "bloggified version" of their talk from csv,conf,v8

@@ -129,7 +129,7 @@ You might notice some complementarity among this list, the [GitHub Project](http
 -   Create `CohortCalendaring [ year-cohort-name ]` Google sheet (copy from recent sheet) and populate with dates, session topics, guests etc
 -   Create GitHub repo; make it a website
 -   Create Cohort Google Folder
--   Create Google Calendar invite for Cohort Calls and optional Coworking sessions in OpenscapesEvents calendar. Add participants as guests.
+-   Create Google Calendar invite for Cohort Calls and optional  sessions in OpenscapesEvents calendar. Add participants as guests.
 -   Create Call 1 Agenda (`kyber`)
 -   Email reminder to participants - day before (see [Pre-cohort engagement](pre-cohort-engage.qmd#day-prior))
 -   Add participants to Cohort Google Folder - day before
@@ -142,7 +142,7 @@ You might notice some complementarity among this list, the [GitHub Project](http
 
 ### Before Call 2
 
--   Host Coworking session
+-   Host  session
 -   Check in with Cohort Mentors
 -   Create Agenda for Call 2 (`kyber`)
 -   Set up GitHub Clinic (`kyber`)
@@ -150,7 +150,7 @@ You might notice some complementarity among this list, the [GitHub Project](http
 ### After Call 2 and subsequent Calls
 
 -   Call Digest as GitHub Issue
--   Host Coworking session
+-   Host  session
 -   Create next Agenda (`kyber`)
 
 ### Wrap up
@@ -215,12 +215,12 @@ Here's what to include, in this order, to create calendar invites for a cohort b
 -   add Mentors' emails as Guests, potentially using a Google Group. Mentors names and emails are in OpenscapesParticipantsMainList sheet (also in an organization-specific sheet e.g. OpenscapesParticipants \[ nmfs-mentors \])
 -   Add Champions as Guests last. Adding them last prevents confusion from receiving multiple notifications and we know that Outlook Calendar users do not see updates in their calendars and has resulted in people having the wrong meeting link. Add as much info as you can before adding Mentors and Champions to a calendar invite.
 
-There are limits to the number of Guests that can be added to a calendar invite. Google does not provide information on the actual limit number. Our recommended strategy is to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
+You can invite up to 200 people to an event. In the past, Google did not provide the actual limit number so our strategy was to add \~80 Guests initially, then add additional blocks of 40 Guests on subsequent days. We learned this the hard way for Cross-Cohort Coworking sessions for 4 NOAA NMFS Cohorts in Fall 2022 when we had \~160 potential participants.
 
 ::: {.callout-tip collapse="true"}
 ## Tip: Click URL to add to your Google Calendar
 
-Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event \> click the 3 dots \> Publish event \> choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example.
+Sometimes we ask people add an event to their own Google Calendar without being added explicitly as a Guest. To do this, in a Calendar Event \> click the 3 dots \> Publish event \> choose Copy Link to event and share link in Slack or email saying "Click URL to add this to your Google Calendar". We have used this to let people in a Cohort know of an optional impromptu session like drop-in GitHub help, or a screenshare-and-tell for example. The event **must be in a public calendar** for this to work.
 :::
 
 ## GitHub repo

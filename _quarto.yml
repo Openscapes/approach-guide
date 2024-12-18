@@ -11,7 +11,7 @@ website:
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes Core Team, Julia Stewart Lowndes & Erin Robinson (2022). Openscapes Approach Guide (Version v0.0.1)."
+    left: "&copy; CC-By Openscapes Core Team. Openscapes Approach Guide (Version v0.0.1)."
         
   sidebar:
     logo: images/openscapes_hex.png
