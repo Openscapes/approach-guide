@@ -5,6 +5,13 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## January 2025
+
+[What docs as code really means](https://passo.uno/what-docs-as-code-means/) - Passo.Uno blog, Heard through Jenny Wong (2i2c). 
+
+- "As docs engineers, we’re not just scribes recording the deeds of coders; we’re architects of understanding, building bridges between complex systems and the humans who use them."
+- Also recommended by Matt Fisher: [The Seven-Action Documentation model - Shifting the focus from content types to user needs](https://passo.uno/seven-action-model/#shifting-the-focus-from-content-types-to-user-needs)
+
 ## December 2024
 
 [Solving the lonely data scientist problem](https://www.monicagerber.com/blog/2024-12-17-solving-the-lonely-data-scientist-problem/) - Monica Gerber, December 2024
