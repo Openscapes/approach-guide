@@ -38,9 +38,9 @@ Continue strategic thinking and goal-setting and discuss software peer review.
 
 -   **Supporting each other on the fly verbally as we updated the agenda to accommodate a concurrent NWFSC all-hands meeting** - open facilitation
 
-## Resources from NOAA Fisheries Mentor Calls, Fall 2023
+## Fall 2023 NOAA Fisheries Mentors Skills and Practices
 
-In fall 2023, we had five Mentor Calls as a full community. We detail the skills and practices Mentors experienced and experimented with in each Call, in the [NMFS Openscapes website](https://nmfs-openscapes.github.io/mentors/mentor-calls.html).
+In fall 2023, we had five Mentor Calls as a full community. We detail the **skills and practices** Mentors experienced and experimented with in each Call, in the [NMFS Openscapes website](https://nmfs-openscapes.github.io/mentors/mentor-calls.html).
 
 ### Agendas
 
@@ -54,7 +54,7 @@ In fall 2023, we had five Mentor Calls as a full community. We detail the skills
 ## Engaging supervisors
 
 -   Include a deadline
--   say please forward to all supervisors
+-   Say please forward to all supervisors
 
 ## Listening
 
