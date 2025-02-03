@@ -1,10 +1,46 @@
 ---
-title: Engagement
+title: Mentors Skills
 ---
 
-## Mentor Calls
+## Winter 2025 NOAA Fisheries Mentors Skills and Practices
 
-These are resources from NOAA Fisheries Mentor Calls, Fall 2023.
+### Call 1 
+
+Reconnecting together, welcoming new Mentors, and focusing on building our community and goals for the next year.
+
+-   **Getting into a mindset for the call** - use a framework for silent reflection at top of call.
+
+-   **Speaking up/sharing about yourself for 3 minutes** - a challenge for some to take up that space, a challenge for others to limit to that space.
+
+-   **Practicing asking questions** -“could you share background on this?”
+
+-   **Being a learner and leader at the same time** - using this group to help reduce feelings of overwhelm. Learn something then turn around and teach someone else.
+
+-   **Learning from other organizations experiences** - seeing what is possible (for example, from NASA) and from where NOAA leads
+
+-   **Live contributing to group visioning in 3 phases** - using a new tool to brainstorm all ideas; pause and read; move ideas into common themes
+
+-   **Adjusting time on the fly in the shared agenda and verbally** - open facilitation
+
+### Call 2
+
+Continue strategic thinking and goal-setting and discuss software peer review.
+
+-   **Getting into a mindset for the call** - use the “mind dump” for silent reflection and harnessing our focus at top of call
+
+-   **Define specific and ‘small-enough’ goals to make progress on larger objectives -** loosely using the SMART framework
+
+-   **Moving quickly into breakouts when time is limited** - make the most of time to work together
+
+-   **Making ideas, goals, and resources more visible so others can contribute** - use GitHub Project board and Issues 
+
+-   **Learning about software peer review from rOpenSci** - the value of borrowing and adapting standards
+
+-   **Supporting each other on the fly verbally as we updated the agenda to accommodate a concurrent NWFSC all-hands meeting** - open facilitation
+
+## Fall 2023 NOAA Fisheries Mentors Skills and Practices
+
+In fall 2023, we had five Mentor Calls as a full community. We detail the **skills and practices** Mentors experienced and experimented with in each Call, in the [NMFS Openscapes website](https://nmfs-openscapes.github.io/mentors/mentor-calls.html).
 
 ### Agendas
 
@@ -18,7 +54,7 @@ These are resources from NOAA Fisheries Mentor Calls, Fall 2023.
 ## Engaging supervisors
 
 -   Include a deadline
--   say please forward to all supervisors
+-   Say please forward to all supervisors
 
 ## Listening
 
