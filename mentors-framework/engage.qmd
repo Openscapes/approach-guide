@@ -2,7 +2,9 @@
 title: Mentors Skills
 ---
 
-## Winter 2025 NOAA Fisheries Mentors Skills and Practices
+## Mentors Skills and Practices
+
+Developed Winter 2025
 
 ### Call 1 
 
@@ -38,13 +40,11 @@ Continue strategic thinking and goal-setting and discuss software peer review.
 
 -   **Supporting each other on the fly verbally as we updated the agenda to accommodate a concurrent NWFSC all-hands meeting** - open facilitation
 
-## Fall 2023 NOAA Fisheries Mentors Skills and Practices
-
-In fall 2023, we had five Mentor Calls as a full community. We detail the **skills and practices** Mentors experienced and experimented with in each Call, in the [NMFS Openscapes website](https://nmfs-openscapes.github.io/mentors/mentor-calls.html).
+In fall 2023, we had five Mentor Calls as a full community, and [detailed the **skills and practices**](https://nmfs-openscapes.github.io/mentors/mentor-calls.html) Mentors experienced and experimented with in each Call.
 
 ### Agendas
 
-[Public copy of Agendas](https://docs.google.com/document/d/16F5nt0TNfU66OakTBmuyrZkASv9vKDMGkXjb_eJY_78/edit?tab=t.0) for NMFS Openscapes Mentor Calls and Themed Seaside Chats.
+[Public copy of Agendas](https://docs.google.com/document/d/16F5nt0TNfU66OakTBmuyrZkASv9vKDMGkXjb_eJY_78/edit?tab=t.0) for Mentor Calls and Themed Seaside Chats.
 
 ### Slides
 
@@ -58,12 +58,10 @@ In fall 2023, we had five Mentor Calls as a full community. We detail the **skil
 
 ## Listening
 
-Credit to [Tara Robertson](https://tararobertson.ca/) for leading some Openscapes Mentors in “Mentoring with a Coach Approach” Series. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/)
-
-**Listening**
-
 How we listen differs whether we are in mentor-mode or coach-mode:
 
 -   When we listen as mentors, we’re trying to understand where our expertise can help someone solve a problem.
 
 -   When we’re listening as coaches, we’re trying to help the other person define their problem, and tap into their own wisdom to find their solution, likely outside of our domain expertise.
+
+Credit to Tara Robertson for leading some Openscapes Mentors in “Mentoring with a Coach Approach” Series. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/)
