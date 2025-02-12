@@ -1,0 +1,33 @@
+---
+title: "Onboarding Mentors"
+---
+
+Onboarding looks different depending on the group; how much they may already know each other or have a common task formed. There are a few examples linked below, then common themes.  
+
+
+## Onboarding examples across groups
+
+Onboarding Mentors specifics are here: 
+
+- [NASA Earthdata](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html)
+- [The California Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_onboarding.html) 
+
+- [NOAA Fisheries](https://nmfs-openscapes.github.io/mentors/mentor-calls.html)
+
+## Clinic: How We Work
+
+**How We Work for Setting up Openscapes Champions Cohorts**: From March 19 to April 4, 2024 we led four sessions to share with a small group of Openscapes Mentors and a Science Gateways Focus Week participant. We're adding the content here for future us to adapt and reuse.
+
+- **Purpose:** Onboarding to how we work, while getting specific tasks done to prepare for a Champions Cohort. We’re hoping the group will have complementing motivations to learn/reuse.
+
+- **Process:** 4 Calls: Call 1 to be a kickoff conversation to share our overall approach, context, and get to know everyone’s needs/motivations. Calls 2-4 will be what we call “coworking” - Stef will screenshare and Stef and Julie will talk through the tech and tasks we get done live that day, and we can learn together. We can schedule a check-in call after the cohort.
+
+- **Outcomes:** People learn how we work and have a sense of how this applies to their work, and everything is set for our spring Champions Cohorts for NASA Earthdata and EPA researchers.
+
+### Lesson Content
+
+The Google doc [HowWeWork_ChampionsSetup_2024 \[ public \]](https://docs.google.com/document/d/19i_IPBLCZ2p7RBxdEGAeqzhtUSeGpcjC-7TXfVstvKs/edit) has Agendas for the 4 sessions.
+
+Planning/Communication section at bottom of the doc has text of emails sent to invitees.
+
+Recordings of sessions e.g. HowWeWork_ChampionsSetup_Coworking-01_2024, are in the OpenscapesCohortPlanning folder.
