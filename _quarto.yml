@@ -54,10 +54,11 @@ website:
           - champions/post-cohort-followup.qmd
       - section: mentors-framework/index.qmd
         contents:
-          - mentors-framework/engage.qmd
-          - mentors-framework/onboarding.qmd
+          - mentors-framework/onboarding.qmd 
+          - mentors-framework/mentor-series.qmd
+          - mentors-framework/mentor-skills.qmd
+          - mentors-framework/tech-setup.qmd
           - mentors-framework/nasa-openscapes.qmd
-          - mentors-framework/how-we-work-clinic.qmd 
       - pathways/index.qmd
       - reflections/index.qmd
       - section: contributing/index.qmd

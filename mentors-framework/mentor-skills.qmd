@@ -1,0 +1,339 @@
+---
+title: Mentors Skills
+---
+
+In addition to developing the Mentors Series, we are focused on communicating the skills that mentors develop. These skills show up in making their work more collaborative and efficient, and increase the quality of their products. In the place of digests that we send the Champions Cohorts, we send skills to the Mentors Cohorts (thus, the tasks before the next call).
+
+## 10-week Cohort Skills
+
+In fall 2023, we had five Mentor Calls as a full community over 10-weeks (alternating with coworking sessions). Here we detail the skills and practices Mentors experienced and experimented with in each Call.
+
+### Call 1 Openscapes mindset for mentors
+
+What does it mean to be a mentor? What does Open Science at our org mean?
+
+-   **Speaking up/sharing about yourself for 4 minutes** - a challenge
+    for some to take up that space, a challenge for others to limit to
+    that space.
+
+-   **Keeping on time** - as a speaker and as a timekeeper
+
+-   **Listening: giving space/silence. Not jumping in** - get
+    comfortable with discomfort
+
+-   **Live contributing to collaborative google doc** - hear from more
+    voices than we could only out loud, both time-wise and due to power
+    structures
+
+-   **Learned emoji shortcut** - not frivolous; a way to connect, side
+    conversations and encouragement to build relationships
+
+-   **Saw us adjusting time on the fly in the doc and verbally** - open
+    facilitation
+
+#### Your tasks before next Call
+
+1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office
+    (or other people from other centers/offices), to discuss how you
+    could improve workflows with open science in your own work, your own
+    center, or more broadly. You could also discuss these readings 
+2.  **Readings**: Read [Shifting institutional culture to develop
+    climate solutions with Open
+    Science](https://eartharxiv.org/repository/view/5948/) (2023
+    preprint) and [How coaching skills have made us better open data
+    science
+    mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May
+    2023), both coauthored by NMFS Mentors, (and \<20 mins combined). 
+3.  **(optional) Attend** **Coworking**. We'll send a recurring calendar
+    invite for the weeks between Mentors Calls, Tuesdays, 12:30 - 1:30
+    pm PT. ([find your local
+    time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=NMFS+Openscapes+Mentors+Coworking&iso=20231024T1230&p1=1050&ah=1)).
+    On Oct 24, Eli Holmes will report on PARR and the new 2022 memo and
+    changes to our data workflows that are being proposed, and discuss
+    how these changes will impact staff. (Eli is the NMFS Public Access
+    of Research Results (PARR) representative on the NOAA PARR working
+    group.)
+
+### Call 2 Developing strong open and collaborative Communities
+
+What skills can we develop to support each other? What are the elements
+of successful open communities? What NOAA & NMFS open science
+communities do we like to participate in?
+
+-   **Active listening and asking powerful questions** - coaching to
+    empower people to find their own solutions rather than suggesting
+    our ideas of what they should do
+
+-   **Vulnerability, yes! Shame, no** - learning and building trust by
+    getting curious with each other
+
+-   **Leveraging the experiences of a community** - mentors presenting
+
+-   **You don't have to be an expert to teach** - mentors
+    screensharing an efficiency tip she just learned
+
+-   **Sharing open resources for reuse** - slides for 12-minute,
+    5-minute, or 1-slide only presentations
+
+-   **Crowdsourcing resources** - a list of NOAA & NMFS communities we
+    recommend
+
+-   **Making time for live clarification** - open facilitation 'til we
+    all know the plan
+
+-   **Bringing attention to or sharing gratitude for a colleague** -
+    coaching kudos and examples of raising people up
+
+#### Your tasks before next Call
+
+1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office
+    (or other people from other centers/offices), to discuss how you
+    could improve workflows with open science in your own work, your own
+    center, or more broadly. You could also discuss these readings
+    a.  Continue to add to 'seeking mentors for Seaside Chat' in the
+        'Fall 2023 Openscapes mentors cohort' sheet
+    b.  Share your Seaside Chat report outs in our doc
+2.  **Readings**: Read [19 reasons why technologists don't want to work
+    at your government
+    agency](https://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/),
+    Ben Balter
+3.  **Optional themed seaside chat.** In between the full cohort calls,
+    Eli will hold optional Seaside Chats open to any mentors. We'll
+    discuss Open Data and Open Science issues affecting NOAA Fisheries.
+    Wed, Nov 8, Eli will give a brief update on what is happening at the
+    NOAA level re Open Science. We've sent calendar invites.
+
+### Call 3 Experiential learning
+
+We converged on open science challenges topics and people who want to
+work together and we learned about and practiced experiential learning.
+
+-   **Pitching ideas** - to connect with colleagues
+
+-   **Listening** - listening to understand, avoiding solutioneering
+
+-   **Asking powerful questions** - often begin with "what", "what
+    else?", never yes/no
+
+-   **Breaking down activities into teaching concepts** - identifying
+    and letting go of extra topics
+
+-   **Do - Reflect - Apply** - approach to teaching
+
+-   **Time constraints** - how constraints both for planning time and
+    teaching time can help determine scope of an activity
+
+#### Your tasks before next Call
+
+1.  **Seaside Chat:** Have and report-out from your small-group Seaside
+    Chats, building from topics in the Fall 2023 Openscapes mentors
+    sheet
+
+    a.  What help do you need to arrange these?
+    b.  Share your meeting time so others can join. Options: post to our
+        Google Space, Mentors Calendar, or add to column H in the Fall
+        2023 Openscapes mentors sheet.
+    c.  Share your Seaside Chat report outs in the
+        SeasideChats_ReportOuts \[ nmfs-openscapes-mentors \] doc.
+
+2.  **Open Science News**: Share your Open Science news in the [Open
+    Science/Open Data Weekly
+    Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit#heading=h.2uk93pxi4pkb)
+    doc
+
+3.  **Readings**: [Tips and Tools for Gentle R
+    Introductions](https://allisonhorst.github.io/qmss-r-teaching-tools/)
+    (slides, by Allison Horst)
+
+4.  **Optional themed seaside chat - Nov 20, 1-2pm PT.** In between the
+    full cohort calls, we will hold optional themed Seaside Chats open
+    to any mentors. Mon, Nov 20 1-2pm PT, Julie and Eli will give an
+    overview of the Openscapes Champions Program, our goals for the
+    Feb-Mar 2024 NMFS Champions Cohorts and how this fits into the
+    broader plan for NMFS Open Science.
+
+### Call 4 Supporting teams to tackle workflow change through the Champions Program
+
+We followed up on making connections through topic-based Seaside Chats,
+practiced skills for presenting and iterating new-to-us material to
+different audiences.
+
+-   **Calendaring** - adding a shared group to a Google Calendar invite
+
+-   **Pitching to different audiences** - how to reframe messaging and
+    reuse slides to communicate
+
+-   **Sharing imperfect work** - share early to co-design with feedback
+
+-   **Rapid prototyping** - incorporating feedback live from 1st time,
+    to present minutes later for 2nd time
+
+-   **Presenting someone else's slides** - how to let go of how you
+    might have made the slides -- and iterate them to make them work
+    more for you
+
+-   **Presenting with little prep time** - saying things out loud as a
+    way to test and iterate
+
+-   **Asking questions and giving feedback** - shaping Champions program
+    comms/engagement together. Balancing keeping what works,
+    improvement, and time.
+
+-   **Feedback framework** - elicit more helpful feedback using explicit
+    guides, from [The Carpentries Instructor
+    Training](https://carpentries.github.io/instructor-training/index.html):
+
+    -   Content
+        -   Positive
+        -   Constructive
+    -   Delivery
+        -   Positive
+        -   Constructive
+
+#### Your tasks before next Call
+
+1.  **Seaside Chat:** join or host a [topic-based Seaside
+    Chat](https://docs.google.com/spreadsheets/d/1hbjcOaMPirCJrh4Hr8fEtJsLr4WbbSKBmo-9yQgRJr4/edit#gid=0) 
+
+    a.  You can find and add Seaside Chats on the [NMFS Openscapes
+        Mentors
+        Calendar](https://calendar.google.com/calendar/u/0?cid=Y181OGVjNjkzOGQzYjJjZTNhMzk2YzhlNGNhMGMzNzUzODUyOWVjZjRiMmQxODM5MDA0ZmMwMjU5YWQxYjc5YzY2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+        and post to our Google Space
+    b.  Report out in [SeasideChats_ReportOuts \[
+        nmfs-openscapes-mentors
+        \]](https://docs.google.com/document/d/1yqqPZbZRHgD1qjoiu67r9LqB9LK7QZuEaidVjRTNxzc/edit#heading=h.vsvqf3xcxomp)
+    c.  Continue to add to "seeking mentors for Seaside Chat" ([Fall
+        2023 Openscapes mentors
+        cohort](https://docs.google.com/spreadsheets/u/1/d/1hbjcOaMPirCJrh4Hr8fEtJsLr4WbbSKBmo-9yQgRJr4/edit)
+        sheet)
+
+2.  **Open Science / Open Data News**: Share yours in[DRAFT of OS/OD
+    Weekly
+    Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit?usp=sharing)
+    and reuse/remix from each other to share back out in your
+    newsletters
+
+3.  **Readings**: 
+
+    1.  [Agile teams don't work without psychological safety
+        skills](https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety)
+
+    2.  [The changing skill-set needed for project
+        leaders](https://hbr.org/2022/03/managers-cant-do-it-all)
+
+4.  **Optional themed seaside chat.** Wednesday, December 6, 3:30 - 4:30
+    ET / 12:30 - 1:30 PT (30 mins earlier than last time). This session
+    will be on Cloud Computing. You will get a brief introduction to
+    JupyterHubs, which is a popular platform for cloud computing. You'll
+    get to play around on a JupyterHub set up on NOAA's Azure account.
+    The hub has both RStudio and Jupyter Notebooks loaded. We will
+    discuss how cloud computing platforms streamline and accelerate open
+    science by increasing reproducibility and removing the "set-up"
+    phase of a computing environment. 
+
+### Call 5 Reflections and shaping future plans
+
+Celebrating what you've all accomplished together, and this is just the
+beginning!
+
+-   **Getting closure on a shared experience** - individual reflection
+    to notice progress and set goals, physical pen & paper for the
+    mind-body process
+
+-   **Sharing challenges** - in a space built on trust over time
+
+-   **Note-taking shortcuts -** Em's efficiency tip sharing a new Google
+    Doc feature for adding meeting notes, attendees list, and actions
+    checklist 
+
+-   **Strategic organizing and planning** - seeing how Mentors' cohort
+    fits with upcoming year to support colleagues and broader NMFS open
+    science initiatives
+
+-   **Value of microlearnings and microcommunications** - the idea of
+    reusing pieces of the blog post content as microcommunications in
+    open science newsletters, as messages to colleagues, or to share in
+    a meeting
+
+-   **Reading out loud from source material** - emphasizing other
+    people's work and giving credit by directly reading rather than
+    summarizing
+
+#### **Continue our momentum!**
+
+1.  **Cowork to co-write a blog post**: Wednesday, December 20, 4 - 5pm
+    ET; 1 - 2 pm PT (we've sent a calendar invite). 
+
+2.  **Seaside Chats**: join or host a [topic-based Seaside
+    Chat](https://docs.google.com/spreadsheets/d/1hbjcOaMPirCJrh4Hr8fEtJsLr4WbbSKBmo-9yQgRJr4/edit#gid=0)
+    in the New Year
+
+    a.  Share in NMFS Openscapes Mentors Google Space and Calendar
+    b.  Report out in [SeasideChats_ReportOuts \[
+        nmfs-openscapes-mentors
+        \]](https://docs.google.com/document/d/1yqqPZbZRHgD1qjoiu67r9LqB9LK7QZuEaidVjRTNxzc/edit#heading=h.vsvqf3xcxomp)
+
+3.  **Open Science / Open Data News**: Share yours in [DRAFT of OS/OD
+    Weekly
+    Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit?usp=sharing)
+    and reuse/remix from each other to share back out in your
+    newsletters
+
+4.  **Book club**: Join the Openscapes Slack #bookclub channel
+
+5.  **Express your interest in the Winter 2024 Openscapes Champions
+    Program** [Champions_Interest_Winter2024 \[ NMFS-Openscapes
+    \]](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit#gid=0).
+
+## 1-month Regrouping Skills
+
+Developed with Eli Holmes of NOAA Fisheries, Winter 2025.
+
+### Call 1 
+
+Reconnecting together, welcoming new Mentors, and focusing on building our community and goals for the next year.
+
+-   **Getting into a mindset for the call** - use a framework for silent reflection at top of call.
+
+-   **Speaking up/sharing about yourself for 3 minutes** - a challenge for some to take up that space, a challenge for others to limit to that space.
+
+-   **Practicing asking questions** -“could you share background on this?”
+
+-   **Being a learner and leader at the same time** - using this group to help reduce feelings of overwhelm. Learn something then turn around and teach someone else.
+
+-   **Learning from other organizations experiences** - seeing what is possible (for example, from NASA) and from where NOAA leads
+
+-   **Live contributing to group visioning in 3 phases** - using a new tool to brainstorm all ideas; pause and read; move ideas into common themes
+
+-   **Adjusting time on the fly in the shared agenda and verbally** - open facilitation
+
+### Call 2
+
+Continue strategic thinking and goal-setting and discuss software peer review.
+
+-   **Getting into a mindset for the call** - use the “mind dump” for silent reflection and harnessing our focus at top of call
+
+-   **Define specific and ‘small-enough’ goals to make progress on larger objectives -** loosely using the SMART framework
+
+-   **Moving quickly into breakouts when time is limited** - make the most of time to work together
+
+-   **Making ideas, goals, and resources more visible so others can contribute** - use GitHub Project board and Issues 
+
+-   **Learning about software peer review from rOpenSci** - the value of borrowing and adapting standards
+
+-   **Supporting each other on the fly verbally as we updated the agenda to accommodate a concurrent NWFSC all-hands meeting** - open facilitation
+
+## Notes on engaging supervisors
+
+-   Include a deadline
+-   Say please forward to all supervisors
+
+## Notes on listening
+
+How we listen differs whether we are in mentor-mode or coach-mode:
+
+-   When we listen as mentors, we’re trying to understand where our expertise can help someone solve a problem.
+
+-   When we’re listening as coaches, we’re trying to help the other person define their problem, and tap into their own wisdom to find their solution, likely outside of our domain expertise.
+
+Credit to Tara Robertson for leading some Openscapes Mentors in “Mentoring with a Coach Approach” Series. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/)

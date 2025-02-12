@@ -2,304 +2,32 @@
 title: "Onboarding Mentors"
 ---
 
-<!---
+Onboarding looks different depending on the group; how much they may already know each other or have a common task formed. There are a few examples linked below, then common themes.  
 
-TODO: Maybe add: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io/blob/main/mentors.qmd#L90
-
---->
 
 ## Onboarding examples across groups
 
-Onboarding Mentors at... - [The California Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_onboarding.html) - [NOAA Fisheries](https://nmfs-openscapes.github.io/mentors/mentor-calls.html)
+Onboarding Mentors specifics are here: 
 
-## Invite people to opt in as Mentors
+- [NASA Earthdata](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html)
+- [The California Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_onboarding.html) 
 
-We send invitation email to (re-)engage folks - this is an example sent to NMFS Openscapes Mentors Google Group in Fall 2024 to invite them to opt in for 2025.
+- [NOAA Fisheries](https://nmfs-openscapes.github.io/mentors/mentor-calls.html)
 
-::: {.callout-note collapse="true" icon="false"}
-## Invite to opt in email example
+## Clinic: How We Work
 
-Subject: FY25 NMFS Openscapes Mentors - invitation to opt-in!
+**How We Work for Setting up Openscapes Champions Cohorts**: From March 19 to April 4, 2024 we led four sessions to share with a small group of Openscapes Mentors and a Science Gateways Focus Week participant. We're adding the content here for future us to adapt and reuse.
 
-Date: November 19, 2024
+- **Purpose:** Onboarding to how we work, while getting specific tasks done to prepare for a Champions Cohort. We’re hoping the group will have complementing motivations to learn/reuse.
 
-Hi All!
+- **Process:** 4 Calls: Call 1 to be a kickoff conversation to share our overall approach, context, and get to know everyone’s needs/motivations. Calls 2-4 will be what we call “coworking” - Stef will screenshare and Stef and Julie will talk through the tech and tasks we get done live that day, and we can learn together. We can schedule a check-in call after the cohort.
 
-A key part of the [Fisheries Data Modernization Strategy](https://www.fisheries.noaa.gov/science-data/data-modernization-efforts-under-inflation-reduction-act) is the development and support of local leaders in Open Science, Open Data and Data Modernization. The NMFS Openscapes Mentors' cohort provides a support and leadership development group to help **you** make progress on your own, your team’s, your office’s or our line office’s Open Science, Open Data and Data Modernization goals. In 2025 we’ll be dialing up our work together as a cross-NMFS Openscapes Mentors community and invite you to continue to be involved! Please read the details below, and opt in via the [OpenscapesParticipants \[ nmfs-mentors \]](https://docs.google.com/spreadsheets/d/1R7aibx9u2siPqnxsflL7EQ9I0FB-wJMVpZ0O-X2TRhE/edit) sheet by December 18th. Our intent is not to move anyone off the mentors list, but to reestablish your commitment and support from your supervisor. 
+- **Outcomes:** People learn how we work and have a sense of how this applies to their work, and everything is set for our spring Champions Cohorts for NASA Earthdata and EPA researchers.
 
-**Proposed activities 2025 - NMFS Openscapes Mentors**
+### Lesson Content
 
--   The expected time commitment is 8 hours/month: Two 1.5-hour Mentor Calls per month and 4 hours of Coworking sessions. 
+The Google doc [HowWeWork_ChampionsSetup_2024 \[ public \]](https://docs.google.com/document/d/19i_IPBLCZ2p7RBxdEGAeqzhtUSeGpcjC-7TXfVstvKs/edit) has Agendas for the 4 sessions.
 
--   Mentor Calls biweekly beginning Jan 13, 2025 and Mentors Coworking in the intervening weeks.
+Planning/Communication section at bottom of the doc has text of emails sent to invitees.
 
--   Skillbuilding: Mentoring with a Coach Approach. 6-session Mentor Calls takeover Feb - April 2025 with Tara Robertson. See [Lowndes et al. 2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) Ecol & Evol, [blog post](https://openscapes.org/blog/2023-05-17-mentor-coach/).
-
--   Opportunities to participate in Openscapes mentor activities with Open Science peers across the other Openscapes mentor groups (NASA, EPA, Fred Hutch, Pathways) held at conferences throughout the year (ESIP, AGU, Posit) and in coworking sessions.
-
--   Opportunities to develop ideas with the larger mentor group.
-
--   Voice feedback and ideas with leadership, including at Mentor retreats, and grow opportunities to help provide direction at NMFS.
-
--   Support the Fall 2025 NMFS Openscapes Champions Cohort according to your capacity (see [Mentor Roles](https://nmfs-openscapes.github.io/champions.html#mentor-roles)).
-
-**How do I opt in?**
-
--   If you would like to join the FY25 NMFS Openscapes Mentor Cohort, please talk to your supervisor and confirm support for 8hrs/month of your time to participate. Then, **opt in with a Yes in the column E** dropdown in the [OpenscapesParticipants \[ nmfs-mentors \]](https://docs.google.com/spreadsheets/d/1R7aibx9u2siPqnxsflL7EQ9I0FB-wJMVpZ0O-X2TRhE/edit) sheet! It is ok if you need to opt out of this group; we know participation will ebb and flow. To opt out, add a No in column E. We’ll take your name off the email list. 
-
--   **Indicate all time slots you are able to attend with Yes / No in Columns F - H**. We will select the most popular time for biweekly Mentor Calls and the second for Mentors Coworking in the intervening weeks. You can still be a part of the Mentors Community if you cannot make these synchronous times.
-
--   If you know someone you think would be interested, please feel free to share this message.
-
--   Deadline December 18.
-
-We’ll also have one final Closing Call for 2024 NMFS Openscapes Mentors, December 11, 1 - 2:30 pm PT / 4 - 5:30 pm ET. You’re all invited!
-
-Please reach out if you have questions!
-
-Cheers,
-
-Stefanie Butland, Julia Lowndes, Openscapes
-
-Eli Holmes, NMFS Open Science
-
-This page lists the NOAA Fisheries staff who have participated as [NMFS Openscapes Mentors](https://nmfs-openscapes.github.io/mentors/#mentors) in some capacity in 2024.
-:::
-
-## Create a Participants List Spreadsheet
-
-We create a spreadsheet called `OpenscapesParticipantsList [ nasa-mentors ]` or `OpenscapesParticipants [ nmfs-mentors ]`
-
-Headers for nasa-mentors (comma separated list): cohort, first, last, email, email-2 for Google Folder access, institution, GitHub username, ~~Twitter - not using Twitter as of 2023~~, New Mentor Welcome email - sent, Calendars - added, Folders - added, Google Group - added, 2i2c - added using GitHub username via https://openscapes.2i2c.cloud/hub/admin#/ then add them to `Openscapes_JupyterHubAccess (Responses)` sheet, GitHub - added to Team, Slack - added, Coiled - added, Carpentries - Y3 code shared, Carpentries Certified Instructor, Bio text - for https://nasa-openscapes.github.io/mentors.html. Please Share details that we'll add; you can also make a GitHub Pull Request if you'd prefer.
-
-## Welcome Email
-
-We send a welcome email as we engage folks - this is an example of NASA DAAC mentors joining in Fall 2023.
-
-::: {.callout-note collapse="true" icon="false"}
-## Welcome email example
-
-Subject: Welcome to the NASA Openscapes Mentor Community!
-
-Hi Rhys et al,
-
-Welcome, we're excited you'll be joining the [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor community!
-
-This cross-DAAC mentor community is creating & teaching resources to help researchers migrate workflows to the cloud. We learn and develop common materials and teaching approaches together, working with alignment on common needs for researchers using NASA Earthdata. We meet regularly via video and collaborate asynchronously - details follow.
-
-We are currently gearing up for workshops and presentations at the Fall AGU Conference - will you be attending?
-
-Here are the first few steps for onboarding to this community:
-
-1.  **Read the [NASA Mentors Onboarding](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) section** **of the Earthdata Cloud Cookbook**. There are links to further information and work by the NASA Mentors, including slides, reading, and setup for what to expect.
-2.  **Provide your GitHub username** **via our [JupyterHub request form](https://docs.google.com/forms/d/e/1FAIpQLSdcKar-yNnofiAVKlks79AgmQeM1beLCQM5TW_0__x_JU4B3g/viewform?usp=sf_link)**.
-3.  **Look out for and accept invitations** to our Calendar, Google Drive, Slack, and GitHub. Note that to access our 2i2c JupyterHub, you'll need to provide your GitHub username and accept the GitHub Teams invitation.
-4.  **Carpentries Instructor Training** - We partner with [The Carpentries](https://carpentries.org/), a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics, and has grown a common teaching approach for NASA Openscapes Mentors. Please sign up following the 2-step process below.
-
-<!-- -->
-
-a.  Register for the event of your choice on our [Instructor Training event calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) with the code: **OUR-CODE-HERE**. New events are added to this calendar in December, March, June, and September.
-b.  Complete Carpentries [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same code. **Please note**: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.
-
-If you have any questions, please reach out via email or Slack. We are also available to book 1:1 intro calls before Thanksgiving.
-
-We're really looking forward to working with you!
-
-Cheers,
-
-Julie Lowndes, Erin Robinson, Stefanie Butland, NASA Openscapes
-:::
-
-## 1:1 Mentor intro calls
-
-We have intro calls with each mentor pair or trio prior to our kickoff call with the whole Mentor community.
-
-::: {.callout-note collapse="true" icon="false"}
-## 1:1 agenda example
-
-**SEDAC -- Openscapes 1:1 meetings**
-
-Zoom:
-
-**Aug 24, 2023**
-
-Name, Julie Lowndes
-
-30 minutes
-
-**Purpose:** Openscapes overview and getting to know each other
-
-**Agenda**
-
-**Introductions - what brings you to NASA Openscapes?**
-
--   
-
--   Julie marine ecologist turned open science person, NASA Openscapes with Erin Robinson
-
-**NASA-Openscapes Overview**
-
--   <https://nasa-openscapes.github.io> **(**[recent presentations](https://nasa-openscapes.github.io/about.html)) 
-
--   [ESIP Session at Winter 2023](https://2023januaryesipmeeting.sched.com/event/1EwXx) - 3 Approaches for the Year of Open Science
-
--   [NASA OSS Working Group Talk](https://docs.google.com/presentation/d/1BK678MADRg6QkejRQI_5KREGn6DzzQqAS4StsjXmi-k/edit#slide=id.g1b5922f14f8_0_83) 
-
--   Our goal: to support the work you are already doing. Using Openscapes model, iterating and growing and evolving with Mentors
-
--   "Not in addition to our jobs" - and connects to other DAACs
-
--   Professional dev, relationships with other DAAC mentors, and ability to work with "early adopter" scientists
-
-Broader background about Openscapes: <https://openscapes.org> 
-
-**DAAC activities, skills & software** (help us plan clinics/co-working/what do you all collectively want to do?)
-
--   GitHub Usernames:
-
--   
-
--    
-
-**NASA activities**
-
--   Are you working with ARSET, DEVELOP, TOPS, SERVIR?
-
-    -   
-
--   Are you doing anything cross-DAAC?
-
-    -   
-
-Are there hurdles that we should be aware of?
-
--   
-
--   
-
-**Next steps**
-
--    
-
--    
-
-**Draft Calendar (in progress)**
-
--   New mentors onboarded in late Summer 2023 
-
--   
-
-**Discussion / Questions**
-
--    
-
--    
-
--   
-:::
-
-## Post 1:1 Followup Checklist
-
--   Send Welcome email (examples below)
-    -   Ask for: GitHub Username, email-2
--   Add to calendar invites for Mentor Calls and Coworking
--   Add to Google Folder
--   Add to Google Group `nasa-openscapes-mentors`.
-    -   add both primary and google-friendly emails for mentors so they can have access to google folder
-    -   People will receive an email from Google Groups: "You have been added to nasa-openscapes-mentors\`.
-    -   The welcome message: "NASA Openscapes Mentors list. Welcome! We use this list primarily for calendar invites and occasional emails to the whole group"
--   Add to GitHub Mentors Team in Org
--   Add to Slack
--   Add Bio to Mentors page, or name if bio not available
--   For NASA-Openscapes
-    -   Add to 2i2c as member via <https://openscapes.2i2c.cloud/admin>
-    -   Add to `Openscapes_JupyterHubAccess (Responses)` sheet of 2i2c members
-    -   Add to Coiled
-    -   Invite to Carpentries Instructor Training
-
-::: {.callout-note collapse="true" icon="false"}
-## Intro email example
-
-Hi V,
-
-It was great to meet you; your colleagues said you're able to join the NASA Openscapes Mentors from PO.DAAC -- we're super excited, welcome! We're preparing for a Sept 20 kickoff to onboard new mentors, and have a light outline of plans here: https://nasa-openscapes.github.io/mentors.html#current-activities.
-
-This cross-DAAC mentor community is creating & teaching resources to help researchers migrate workflows to the cloud. The expected time commitment is 3 days/month per year (and this ebbs and flows with your deadlines). This accounts for \~6 hours/month of synchronous calls with the rest of the time being self-directed towards improving support approaches for specific DAACs. You'll be collaborating with others at your DAAC as well as across DAACs and the broader open science community. Please talk with your supervisor to make sure you are supported in alignment with your job; we will share with EOSDIS and HQ as well.
-
-We'll soon add you to calendar invites. If you'd have time for a 1:1 intro in the next few weeks, that would be super -- we can share more and answer any questions you have ahead of our Sept 20 kickoff. The week of Sept 5 I'm available most days between 11-2pm PT if you'd have 30 minutes to chat.
-
-Cheers, Julie
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-## Followup email example
-
-Subject: Welcome to the NASA Openscapes Mentor Community!
-
-Hi Sean, Alicia, Guoqing,
-
-It was great to meet you and we're really excited Guoqing will be joining the NASA Openscapes Mentor community from OBDAAC! I've cc'd co-lead Erin Robinson and our colleague Stefanie Butland here as well.
-
-**Please look out for invitations to our Calendar and Slack**. Guoqing, could you please share your GitHub username and an email address for Google Drive (if not this one)?. We'll then give you access to our 2i2c JupyterHub and other things listed in our [how we onboard](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) documentation -- this is part of the Earthdata Cloud Cookbook that is the main place for all cloud resources the Mentors are developing. As one professional development opportunity, we partner with The Carpentries, a nonprofit that teaches introductory coding skills around the world. They will announce new dates for Instructor Training next month and we will share information for how to sign up.
-
-**We'll have our first Fall kickoff meeting September 20**, but you're welcome to join sessions anytime before then. Please also let us know if there are additional colleagues who are able to join.
-
-We're really looking forward to working with you!
-
-Cheers,
-
-Julie
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-## Followup email example with Carpentries
-
-Subject: Welcome to the NASA Openscapes Mentor Community!
-
-Hi Kytt and Juan,
-
-It was great to meet you and we're really excited you'll be joining the [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor community from SEDAC!
-
-**Please look out for invitations** to our Calendar and Slack. Could you please share your GitHub username and an email address for Google Drive (if not this one)?. We'll have our first Fall kickoff meeting September 20, but you're welcome to join sessions anytime before then. You can also familiarize yourself with [how we onboard](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/onboarding.html) --- this is part of the Mentors' Earthdata Cloud Cookbook.
-
-**Carpentries Instructor Training** - As part of our NASA grant, we partner with [The Carpentries](https://carpentries.org/), a nonprofit that teaches introductory coding skills around the world. This remote training is not coding-specific, but it is a pedagogical approach to teaching technical topics. If you would like to sign up, please follow the 2-step process below. Our membership renews Sept 14; if you have trouble signing up using our code please let me know and I can help get it sorted.
-
-1)  Register for the event of your choice on our [Instructor Training event calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) with the code: **OUR-CODE-HERE**. New events are added to this calendar in December, March, June, and September.
-
-2)  Complete Carpentries [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same code. **Please note**: Registration secures their seat; profile creation enables us to record their attendance and track their progress toward certification.
-
-We're really looking forward to working with you! Cheers, Julie
-:::
-
-## Create a way to email Mentor group
-
-This is evolving.
-
-For NASA, we started off by creating a **Google Group** so we could easily add mentors to Google Folders and Calendars. This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group. In August 2024, we created a Google Group for NMFS Openscapes Mentors.
-
-### Settings
-
-After we create a new Google Group, Julie, as Google Workspace Administrator, must:
-
--   change the Group Access Type to Allow Members Outside Your Organization.
--   change Group Settings, Who can see group - Anyone on the web
-    -   without this setting, members are not able to search for or find the group listed in "My groups"
--   Who can join group - Invited users only
-
-Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
-
-![Google Group content visibility (in Group Settings)](images/google-group-content-visibility.png){width="60%"}
-
-![Google Group access (in About)](images/google-group-access.png){width="60%"}
-
-Group description: NMFS Openscapes Mentors list. Welcome! We use this Google Group primarily for calendar invites and coordinating emails to the whole group. Who can see these emails? Members of the Openscapes organization (aka the Openscapes team) and members we invite to this Group. ("who can see" added so members consider what they share).
-
-We chose not to include an email subject prefix e.g. \[nmfs-openscapes-mentors\] since email itself is sent from the sender to the group address, and email includes footer with group information.
-
-![Email sent to Google Group from Julia](images/google-group-email.png)
-
-We're also using GitHub Teams more, for 2i2c access and coordinating. Rather than a Google Group that is difficult to hand off in terms of managing, a GitHub Team might be the way to go. This will raise challenges for any private info (e.g. Carpentries code), but that could be handled in Slack.
-
-## Create a GitHub Team with Mentors
-
-Create a GitHub Team in GitHub org Openscapes, NASA-Openscapes, or NMFS-Openscapes, that includes new and past Mentors. Team name: `nasa-mentors-community`.
+Recordings of sessions e.g. HowWeWork_ChampionsSetup_Coworking-01_2024, are in the OpenscapesCohortPlanning folder.

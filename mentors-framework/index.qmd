@@ -5,15 +5,15 @@ format: html
 
 The Mentors Framework is something that we've developed first through our work with NASA Openscapes, co-led with Erin Robinson of Metadata Game Changers.
 
-This is a multi-year engine for culture change within organizations. This means a framework for sustainably scaling technical and social skill-building through the Openscapes Champions Program and other learning formats such as multi-day hands-on workshops and hackathons.
+This is a multi-year engine for culture change within organizations. This means a framework for sustainably scaling technical and social skill-building through helping people find what is common and working on it together. Mentors also support the Openscapes Champions Program and may teach in other learning formats such as multi-day hands-on workshops and hackathons.
 
-An overview of how we build the Mentors Framework with NASA Earthdata staff across different data centers (Distributed Active Archive Centers (DAACs)) is detailed in our recent preprint: [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices (Robinson & Lowndes 2022)](https://eartharxiv.org/repository/view/4560/)
+An overview of how we build the Mentors Framework with NASA Earthdata staff across different data centers (Distributed Active Archive Centers (DAACs)) is detailed in our preprint: [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022).
 
 ## Documentation: main places
 
 As we develop the Mentor Community, there are 3 places, 3 audiences & 3 purposes for documentation.
 
-TODO: develop this further with notes from meeting_saved...txt in this folder.
+We describe this more fully in the this talk at Posit Conf: [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) (Lowndes 2023).
 
 ### Webpage
 
