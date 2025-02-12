@@ -1,12 +1,9 @@
 ---
 title: "Mentors tech setup"
-aliases:
-  - onboarding.html
 ---
 
-## Onboarding examples across groups
+Some common steps to developing infrastructure for growing a Mentor Community! 
 
-Onboarding Mentors at... - [The California Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_onboarding.html) - [NOAA Fisheries](https://nmfs-openscapes.github.io/mentors/mentor-calls.html)
 
 ## Invite people to opt in as Mentors
 
