@@ -55,6 +55,7 @@ website:
       - section: mentors-framework/index.qmd
         contents:
           - mentors-framework/onboarding.qmd 
+          - mentors-framework/mentor-series.qmd
           - mentors-framework/mentor-skills.qmd
           - mentors-framework/tech-setup.qmd
           - mentors-framework/nasa-openscapes.qmd

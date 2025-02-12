@@ -1,0 +1,45 @@
+---
+title: "Mentor Series"
+---
+
+Here we are gathering the lessons we have developed for mentors communities so we can eventually turn them into a Mentors Series to complement the [Champions Lesson Series](https://openscapes.github.io/series/).
+
+How might you reuse these? Moving from “open science is something I
+do alone” to “open science is something I support in others”.
+
+## 10-week Mentors Cohort!
+
+This was co-developed with Eli Holmes, NOAA Fisheries for the 2023 Mentors Community.
+
+Through facilitation and practical training for mentoring, teaching, and coaching, Openscapes will help mentors strengthen skills and strategies to support colleagues with diverse comfort levels with software, coding, and data, while also strengthening relationships across centers/offices. Through this, mentors will identify and co-create on common resources and activities – such as code or databases for identical tasks or community developed standard practices – so there is less reinventing at each center.
+
+The FY24 mentor cohort will start with a mentors-only Openscapes cohort (facilated bi-weekly group meetings) during which Openscapes will guide the mentor cohort in discussing the needs and challenges for adoption of Open Science in NMFS and to develop actions to take. The facilitated meetings are virtual and twice monthly. Mentors will also collaborate asynchronously (e.g. Google Chat, GitHub). During the fall session, mentors will learn and practice coaching and mentoring skills in preparation for the winter Champions cohorts. We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years.
+
+### Timeline & topics {#sec-timeline}
+
+-   **Dates: Twice monthly starting October 17, 2023**
+-   **Times: 12:00 - 1:30pm PT / 3:00 - 4:30 pm ET**
+-   **Location: Remotely, via Google Meet**
+
+### Mentor Calls
+
+**Mentor Calls** are when we convene as a group to learn and plan. Agendas A [public copy of our Agendas](https://docs.google.com/document/d/16F5nt0TNfU66OakTBmuyrZkASv9vKDMGkXjb_eJY_78/edit?tab=t.0) is available for reuse and remixing; an original is used during the calls as an archive of our live notetaking.
+
+| Date | Mentor Call Topics |
+|-----------------|-------------------------------------------------------|
+| 10/17 | 1\. [Openscapes mindset for mentors](https://docs.google.com/presentation/d/1EGXrIRzTptY3gcTlG20I7oW5oCzdIS9DB255AHjJ77U/edit#slide=id.p): What does it mean to be a mentor? What does Open Science at our org mean? |
+| 10/31 | 2\. [Developing strong Open and Collaborative Communities](https://docs.google.com/presentation/d/1rQ7N51AQl-A73SZnvRuPv2QJobIinvksKjIriQn0YNM/edit#slide=id.p) |
+| 11/14 | 3\. The art of teaching skills: running GitHub clinics |
+| 11/28 | 4\. Supporting teams to tackle workflow change through the Champions Program |
+| 12/12 | 5\. Reflections and shaping future plans |
+
+### Seaside Chats
+
+**Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note that participants from different centers or offices can have Seaside chats together. We will organize our Seaside chats after the first mentor calls.
+
+| Date | Seaside co-working sessions |
+|------------------|------------------------------------------------------|
+| Week of 10/23 | Begin work on an Open Science Pathway for your center, office or program. Where are you at? Where would you like to be? Do you have the info you need to answer this? |
+| Week of 11/6 | Keep working Open Science Pathway for your center, office or program with specific discussions of needs/challenges |
+| Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub |
+| Week of 12/4. | Discuss ideas and plans for coordinating & engaging staff in Open Science goals |
