@@ -249,11 +249,11 @@
   {
     "objectID": "resources/index.html",
     "href": "resources/index.html",
-    "title": "Openscapes resources",
+    "title": "Openscapes Resources",
     "section": "",
     "text": "Our main Openscapes website Resources page has some resources meant to welcome environmental scientists who are newly onboarding to open data science.\nWe encourage people to reuse and remix our approach. To help, we have created template Google docs for our Openscapes Champions Lesson Series agendas, debriefs, and group coworking sessions (Google drive folder).\nOur Openscapes GitHub Organization has pinned repositories of interest, including the teaching-learning-resources repo where we use Issues to jot down specific tools or learning resources for open, reproducible, inclusive science.\nWe also have a public Openscapes Zotero library linking publications, talks, and curricula. And, a public Openscapes Spotify Playlist of favorite pump-up songs from our cohorts.",
     "crumbs": [
-      "Openscapes resources"
+      "Openscapes Resources"
     ]
   },
   {
