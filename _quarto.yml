@@ -61,13 +61,13 @@ website:
           - mentors-framework/nasa-openscapes.qmd
       - pathways/index.qmd
       - reflections/index.qmd
+      - resources/index.qmd
       - section: contributing/index.qmd
         contents:
           - contributing/setup.qmd
           - contributing/workflow.md
           - contributing/inspiration.md
           - contributing/monthly-checkins.md
-          - contributing/resources.qmd
 
 format:
   html:
