@@ -250,7 +250,7 @@ There's an example workflow provided to indicate when `kyber` can be helpful, be
 ## Cohort Google Folder
 
 -   Create a Google Folder (inside OpenscapesMain \> OpenscapesChampionsProgram) for participants with the name of the cohort in brackets, e.g. `Openscapes_CohortCalls [ 2021-noaa-nmfs ]`. The text inside brackets indicates who will have permission to access the folder. For a recent example - the first to use the Openscapes Google Workspace - see Openscapes_CohortCalls \[ 2021-noaa-sefsc-summer\].
--   Add a PathwayShare folder and the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1SvBznl_P-nDJObGr6eZO5RauCjbdu0BcFMgRm_myvOU/edit#gid=0). We'll encourage participants to share their team's Pathways there.
+-   Add a PathwayShare folder and the [Pathways Spreadsheet](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=drive_link). We'll encourage participants to share their team's Pathways there.
 -   Add co-leads/assists to Google Folder access
 
 ### Before Cohort Call 1
