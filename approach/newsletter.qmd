@@ -2,12 +2,17 @@
 title: "Newsletter"
 ---
 
-We create an Openscapes Newsletter 4x / year. It is published as a blog post with tag `newsletter` and emailed to the newsletter subscribers mailing list.
+We create an Openscapes Newsletter \~ 4x / year. It is published as a blog post in the [newsletter](https://openscapes.org/blog#category=newsletter) category and then emailed to the newsletter subscribers mailing list. People can subscribe [via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform?usp=sf_link), which is linked on our website under [Connect With Us](https://openscapes.org/connect).
 
-The **newsletter mailing list** is a Google Group. People can [subscribe via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd25jpfiAn1gYNwUPcfMVudsL625_pYbKsqxXpRazHCL6QA7g/viewform?usp=sf_link)
+Our Google Drive Folder, OpenscapesNewsletters, includes
 
--   add new subscribers from Google Form to Group
+-   subscription form, `Join_OpenscapesCommunity`
+-   subscription form responses sheet, `Join_OpenscapesCommunity (Responses)`.
+-   list of newsletter recipients (one tab for each newsletter), `EmailList_Newsletters_openscapes.org`
 
--   Duplicate previous tab, add date, cp new subscribers from Join_Openscapes to EmailList 
+The **newsletter mailing list** is a Google Group, `openscapes-news@openscapes.org`. Before emailing the newsletter, we need to update the Google Group with new subscribers from Google Form Responses.
 
-    -   Add new people to Google Group: welcome text in the first Tab README
+-   In `EmailList_Newsletters_openscapes.org`, duplicate the previous tab, name tab as date, copy new subscribers from `Join_OpenscapesCommunity (Responses)` to the new tab.
+-   Add new subscirbers to the Google Group. The welcome text to use is in the first tab, README.
+
+The body of the newsletter email is the text (with links) of the blog post only, signed "Cheers, Julie, Stefanie, Ileana, Andy.\
