@@ -284,8 +284,7 @@ For NASA, we started off by creating a **Google Group** so we could easily add m
 
 -   change Group Settings, Who can see group - Anyone on the web
     - Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
-
-![Google Group content visibility (in Group Settings)](images/google-group-content-visibility.png){width="60%"}
+- Who can see conversations - the Google Group: 
 
 ![Google Group access (in About)](images/google-group-access.png){width="60%"}
 
