@@ -272,14 +272,18 @@ For NASA, we started off by creating a **Google Group** so we could easily add m
 
 ### Settings
 
-After we create a new Google Group, Julie, as Google Workspace Administrator, must:
+**Step 1:** In the Google Groups (no admin access needed), create a new Google Group
 
--   change the Group Access Type to Allow Members Outside Your Organization.
--   change Group Settings, Who can see group - Anyone on the web
+**Step 2:** Julie, as Google Workspace Administrator, must do the following. Navigating to Directory > Groups:
+
+-   change the Group Access Type to Allow Members Outside Your Organization > yes
     -   without this setting, members are not able to search for or find the group listed in "My groups"
--   Who can join group - Invited users only
+-   Who can join group - Invited users only > change
 
-Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
+**Step 3:** In the Google Groups (no admin access needed): 
+
+-   change Group Settings, Who can see group - Anyone on the web
+    - Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
 
 ![Google Group content visibility (in Group Settings)](images/google-group-content-visibility.png){width="60%"}
 
