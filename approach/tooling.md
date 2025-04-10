@@ -88,7 +88,8 @@ This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using
 -   use arrow keys for finer navigation
 -   Edit \> Split clip \> Done
 -   go to end point of section you want to remove
--   Edit \> Split clip \> I think you hit delete on the section to exclude at this point \> Done
+-   Edit \> Split clip \> Done
+-   View > Clips and delete the relevant clip
 -   Save
 
 Once you delete a section \> Done, the clips are automatically spliced together.
