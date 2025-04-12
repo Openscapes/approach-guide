@@ -2,8 +2,7 @@
 title: "Mentors tech setup"
 ---
 
-Some common steps to developing infrastructure for growing a Mentor Community! 
-
+Some common steps to developing infrastructure for growing a Mentor Community!
 
 ## Invite people to opt in as Mentors
 
@@ -266,27 +265,33 @@ We're really looking forward to working with you! Cheers, Julie
 
 ## Create a way to email Mentor group
 
-This is evolving.
+We use **Google Groups when possible** to easily add mentors and other cohorts of participants (e.g. NMFS Openscapes Data Academy) to Google Folders and Calendars. Google Groups work well for people and organizations that use Google products, and not so well for those who use Microsoft products. Not everyone can use their work email or computer to access Google products. We collect a second email address in ParticipantsList spreadsheets, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group.
 
-For NASA, we started off by creating a **Google Group** so we could easily add mentors to Google Folders and Calendars. This hasn't worked perfectly because not everyone can use their work address to access Google things. We collect a second email address in the ParticipantsList spreadsheet, but if we use Google Groups we need to make sure that everyone's Google-access emails are included in the Google Group. In August 2024, we created a Google Group for NMFS Openscapes Mentors.
+**For NASA Mentors**, we use a Google Group for emails, but for calendar invites, we must add individuals' emails, otherwise they do not see updates in their own calendars.
+
+**For NOAA Fisheries**, we use Google Groups successfully for emails and calendar invites. We have tested adding and deleting an individual from a Group and confirmed they see the relevant calendar invite appear and disappear as expected.
 
 ### Settings
 
-**Step 1:** In the Google Groups (no admin access needed), create a new Google Group
+**Step 1:** In the Google Groups (no admin access needed), create a new Google Group.
 
-**Step 2:** Julie, as Google Workspace Administrator, must do the following. Navigating to Directory > Groups:
+**Step 2:** Julie, as Google Workspace Administrator, must do the following. Navigating to Directory \> Groups:
 
--   change the Group Access Type to Allow Members Outside Your Organization > yes
+-   change the Group Access Type to Allow Members Outside Your Organization \> yes
     -   without this setting, members are not able to search for or find the group listed in "My groups"
--   Who can join group - Invited users only > change
+-   Who can join group - Invited users only
 
-**Step 3:** In the Google Groups (no admin access needed): 
+**Step 3:** In the Google Groups (no admin access needed; see screenshot):
 
 -   change Group Settings, Who can see group - Anyone on the web
-    - Organization members (aka Openscapes team with Google Workspace access) or Julie as Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
-- Who can see conversations - the Google Group: 
+    -   Organization members (aka Openscapes team with Google Workspace access) or Administrator should set viewing privacy (screenshot) so conversations are not visible to the open internet.
+-   Who can see conversations - the Google Group members.
 
-![Google Group access (in About)](images/google-group-access.png){width="60%"}
+![](images/google-group-setting.png){width="60%"}
+
+The final settings (screenshot):
+
+![Google Group access (in About)](images/google-group-access.png){fig-align="left" width="60%"}
 
 Group description: NMFS Openscapes Mentors list. Welcome! We use this Google Group primarily for calendar invites and coordinating emails to the whole group. Who can see these emails? Members of the Openscapes organization (aka the Openscapes team) and members we invite to this Group. ("who can see" added so members consider what they share).
 
