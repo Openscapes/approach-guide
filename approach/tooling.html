@@ -364,7 +364,11 @@ div.csl-indent {
    
   <ul>
   <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github">GitHub</a></li>
-  <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link" data-scroll-target="#google-workspace">Google Workspace</a></li>
+  <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link" data-scroll-target="#google-workspace">Google Workspace</a>
+  <ul class="collapse">
+  <li><a href="#zoom-over-google-meet" id="toc-zoom-over-google-meet" class="nav-link" data-scroll-target="#zoom-over-google-meet">Zoom over Google Meet</a></li>
+  <li><a href="#google-groups" id="toc-google-groups" class="nav-link" data-scroll-target="#google-groups">Google Groups</a></li>
+  </ul></li>
   <li><a href="#mastodon-bluesky-twitter" id="toc-mastodon-bluesky-twitter" class="nav-link" data-scroll-target="#mastodon-bluesky-twitter">Mastodon / Bluesky / Twitter</a></li>
   <li><a href="#orcidrescognito" id="toc-orcidrescognito" class="nav-link" data-scroll-target="#orcidrescognito">ORCID/Rescognito</a></li>
   <li><a href="#quicktime-video-editing" id="toc-quicktime-video-editing" class="nav-link" data-scroll-target="#quicktime-video-editing">Quicktime video editing</a></li>
@@ -474,12 +478,31 @@ Eventbrite registration deprecated in favor of Zoom
 <li>Sheets</li>
 <li>Slides</li>
 </ul>
-<p><strong>We prefer to use Zoom over Google Meet</strong>, which has some limits to functionality e.g.&nbsp;breakout rooms. In Zoom, participants are able to move freely in and out of breakout rooms, if that setting is selected when creating breakouts. In Google Meet, the host must assign people to breakouts either before the meeting via the Google Calendar invite, or during the meeting. If you invite a Google group to a meeting, participants in that group won’t automatically be available to distribute into breakout rooms.</p>
+<section id="zoom-over-google-meet" class="level3">
+<h3 class="anchored" data-anchor-id="zoom-over-google-meet">Zoom over Google Meet</h3>
+<p>We prefer to use Zoom over Google Meet, which has some limits to functionality e.g.&nbsp;breakout rooms. In Zoom, participants are able to move freely in and out of breakout rooms, if that setting is selected when creating breakouts. In Google Meet, the host must assign people to breakouts either before the meeting via the Google Calendar invite, or during the meeting. If you invite a Google group to a meeting, participants in that group won’t automatically be available to distribute into breakout rooms.</p>
 <p>Google documentation: <a href="https://support.google.com/meet/answer/13054147?co=GOOGLE_MEET._MeetingUserType%3DHost&amp;oco=0">Use breakout rooms in Google Meet</a>.</p>
-<p><strong>We send newsletters via Google Group</strong> following this procedure documented by <a href="https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs">Stanford IT</a>:</p>
+</section>
+<section id="google-groups" class="level3">
+<h3 class="anchored" data-anchor-id="google-groups">Google Groups</h3>
+<p>We use <strong>Google Groups when possible</strong> to easily email groups of people and / or add them to Google Folders and Calendars invites. Examples: Openscapes Newsletter email to subscribers, Mentors, NMFS Openscapes Data Academy participants. Google Groups work well for people and organizations that use Google products, and not so well for those who use Microsoft products. Not everyone can use their work email or computer to access Google products.</p>
+<p><strong>We send emails via Google Group</strong> following this procedure documented by <a href="https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs">Stanford IT</a>:</p>
 <blockquote class="blockquote">
 <p>Compose your email message. In the “To” field of an email message, instead of adding each team member’s email address to your email, just enter the group’s address as a recipient.</p>
 </blockquote>
+<p><strong>Documentation for different applications:</strong></p>
+<ul>
+<li><a href="https://openscapes.github.io/approach-guide/approach/newsletter.qmd">Openscapes Newsletter</a></li>
+<li><a href="https://openscapes.github.io/approach-guide/mentors-framework/tech-setup.qmd">Mentors tech setup</a></li>
+</ul>
+<p><strong>Manual additions to a Google Group are limited to 100 emails per organization in a 24 hr period</strong>, i.e.&nbsp;not per workspace manager.</p>
+<p>To add more emails at once, such as when we add a large list of newsletter subscribers, the admin can do a bulk upload with a csv file. <a href="https://support.google.com/a/answer/9400087?hl=en&amp;sjid=7940896354587010253-NC&amp;authuser=1#upload&amp;zippy=%2Cupload-users-from-a-csv-file">Google Support how-to</a>.</p>
+<p>CSV Format:</p>
+<ul>
+<li><p>Header: Group Email [Required],Member Email,Member Type,Member Role</p></li>
+<li><p>Entry: <a href="mailto:yourgroup@email.com">yourgroup@email.com</a>, <a href="mailto:membername@email.com">membername@email.com</a>,USER,MEMBER</p></li>
+</ul>
+</section>
 </section>
 <section id="mastodon-bluesky-twitter" class="level2">
 <h2 class="anchored" data-anchor-id="mastodon-bluesky-twitter">Mastodon / Bluesky / Twitter</h2>
