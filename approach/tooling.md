@@ -53,13 +53,34 @@ We use an Openscapes Google Workspace. This is our default system for Champions 
 -   Sheets
 -   Slides
 
-**We prefer to use Zoom over Google Meet**, which has some limits to functionality e.g. breakout rooms. In Zoom, participants are able to move freely in and out of breakout rooms, if that setting is selected when creating breakouts. In Google Meet, the host must assign people to breakouts either before the meeting via the Google Calendar invite, or during the meeting. If you invite a Google group to a meeting, participants in that group won't automatically be available to distribute into breakout rooms.
+### Zoom over Google Meet
+
+We prefer to use Zoom over Google Meet, which has some limits to functionality e.g. breakout rooms. In Zoom, participants are able to move freely in and out of breakout rooms, if that setting is selected when creating breakouts. In Google Meet, the host must assign people to breakouts either before the meeting via the Google Calendar invite, or during the meeting. If you invite a Google group to a meeting, participants in that group won't automatically be available to distribute into breakout rooms.
 
 Google documentation: [Use breakout rooms in Google Meet](https://support.google.com/meet/answer/13054147?co=GOOGLE_MEET._MeetingUserType%3DHost&oco=0).
 
-**We send newsletters via Google Group** following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs):
+### Google Groups
+
+We use **Google Groups when possible** to easily email groups of people and / or add them to Google Folders and Calendars invites. Examples: Openscapes Newsletter email to subscribers, Mentors, NMFS Openscapes Data Academy participants. Google Groups work well for people and organizations that use Google products, and not so well for those who use Microsoft products. Not everyone can use their work email or computer to access Google products.
+
+**We send emails via Google Group** following this procedure documented by [Stanford IT](https://uit.stanford.edu/service/gsuite/groups/mailinglists/list-faqs):
 
 > Compose your email message. In the "To" field of an email message, instead of adding each team member's email address to your email, just enter the group's address as a recipient.
+
+**Documentation for different applications:**
+
+-   [Openscapes Newsletter](https://openscapes.github.io/approach-guide/approach/newsletter.qmd)
+-   [Mentors tech setup](https://openscapes.github.io/approach-guide/mentors-framework/tech-setup.qmd)
+
+**Manual additions to a Google Group are limited to 100 emails per organization in a 24 hr period**, i.e. not per workspace manager.
+
+To add more emails at once, such as when we add a large list of newsletter subscribers, the admin can do a bulk upload with a csv file. [Google Support how-to](https://support.google.com/a/answer/9400087?hl=en&sjid=7940896354587010253-NC&authuser=1#upload&zippy=%2Cupload-users-from-a-csv-file).
+
+CSV Format:
+
+-   Header: Group Email \[Required\],Member Email,Member Type,Member Role
+
+-   Entry: [yourgroup\@email.com](mailto:yourgroup@email.com), [membername\@email.com](mailto:membername@email.com),USER,MEMBER
 
 ## Mastodon / Bluesky / Twitter
 
@@ -89,7 +110,7 @@ This video says it all: [Trimming Clips or Cutting Parts Out of the Middle Using
 -   Edit \> Split clip \> Done
 -   go to end point of section you want to remove
 -   Edit \> Split clip \> Done
--   View > Clips and delete the relevant clip
+-   View \> Clips and delete the relevant clip
 -   Save
 
 Once you delete a section \> Done, the clips are automatically spliced together.
