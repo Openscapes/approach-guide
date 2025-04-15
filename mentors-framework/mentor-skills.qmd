@@ -323,12 +323,21 @@ Continue strategic thinking and goal-setting and discuss software peer review.
 
 -   **Supporting each other on the fly verbally as we updated the agenda to accommodate a concurrent NWFSC all-hands meeting** - open facilitation
 
-## Notes on engaging supervisors
+## Coaching skills
 
--   Include a deadline
--   Say please forward to all supervisors
+The 2025 Openscapes Mentor-Coach cohort was a 5-part series where we developed coaching skills that can help us as professionals – skills like listening rather than solutioneering, asking open-ended questions that empower people to find their own agency and meet their needs.
 
-## Notes on listening
+Some skills we learned: Powerful questions and listening as coaches
+
+### Notes on powerful questions
+
+Powerful questions that Openscapes mentors use as part of our coaching skills. We use these questions as tools as we support colleagues learning new skills to make our work more collaborative, reproducible, and transparent.
+
+What do we mean by a “powerful question”? It’s a short question that can open up a really powerful conversation. It’s open-ended, usually starts with the word “What”, ideally is 5 words or less, and can’t be answered by yes or no. What feels like success to you? What’s in the way? What, if anything, is going unsaid? Which of your core values is being messed with? 
+
+See the [Powerful Questions Card Deck](https://github.com/Openscapes/powerful-questions-card-deck). We hope you are able to use these for yourself and/or in Seaside Chats/Coworking with others, while strengthening your skills.
+
+### Notes on listening
 
 How we listen differs whether we are in mentor-mode or coach-mode:
 
@@ -336,4 +345,24 @@ How we listen differs whether we are in mentor-mode or coach-mode:
 
 -   When we’re listening as coaches, we’re trying to help the other person define their problem, and tap into their own wisdom to find their solution, likely outside of our domain expertise.
 
+More in-depth on this: **3 levels of listening**.
+
+- L1: about ourself (not really listening);
+- L2: focus on the other person;
+- L3: focus on the other person + environment around us.
+
+**How this shows up for our work as Mentors:**
+
+- L1: listen like a mentor, find where our expertise fits to share back
+- L2: listen like a coach, to help them find/define/solve their own problem. Not solutioneering.
+- L3: listen like a coach, sensing the energy. Empathy. What you pick up other than what they are saying.
+
+
+
 Credit to Tara Robertson for leading some Openscapes Mentors in “Mentoring with a Coach Approach” Series. Blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/)
+
+## Notes on engaging supervisors
+
+-   Include a deadline
+-   Say please forward to all supervisors
+
