@@ -5,6 +5,10 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## March 2025
+
+[The story of self, us, now](https://commonslibrary.org/the-power-of-story-the-story-of-self-us-and-now/) - by Marshall Ganz. Herd through Liz Neeley
+
 ## January 2025
 
 [What docs as code really means](https://passo.uno/what-docs-as-code-means/) - Passo.Uno blog, Heard through Jenny Wong (2i2c). 
