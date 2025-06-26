@@ -7,38 +7,177 @@ We ran a [Data Academy for NOAA Fisheries](https://nmfs-openscapes.github.io/dat
 ## POP
 
 * **Purpose:** entry-level data science training, and establish a program NMFS can repeat  
-* **Outcomes**: upskilled staff, supervisors see value in these skills and staff time  
+* **Outcomes:** upskilled staff, supervisors see value in these skills and staff time  
 * **Process:** Openscapes designs & manages a program in year 1, scale up in year 2-3
 
 ## Overview and basic structure
 
 We ran a 15 week session, where learners had access to the full dataquest platform. 
 We decided on a [curriculum](#curriculum), which they followed through a weekly cadence of lessons. 
-We had weekly "Help Desk" sessions on Wednesdays, and set up a Google Space for chat and Q&A. 
-Each Monday morning we sent an email with:
-- the week's lessons
-- the topics would be covering in that week's demo
-- any action items they needed to take
-- a reminder of the asynchronous (Google Space) and synchronous (Help Desk) support opportunties
+We had weekly "[Help Desk](#help-desk)" sessions on Wednesdays, and set up a Google Space for chat and Q&A. 
+Each Monday morning we sent an [email](#weekly-emails) with the tasks and information needed for the week.
 
 **Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a "help desk" and coworking.
 
 ## Planning
 
-We recorded our planning steps and meeting notes in our [planning doc](https://docs.google.com/document/d/1S_XuI-HGrckq8ySwFvmdQAmBdfMztqBIQ9K5eyfooDs/edit?tab=t.0#heading=h.xjb0wxb4quwl). 
+We recorded our planning steps and meeting notes in our [planning doc](https://docs.google.com/document/d/1S_XuI-HGrckq8ySwFvmdQAmBdfMztqBIQ9K5eyfooDs). 
 We modeled the cohort after a similar initiative at the Bureau of Labour Statistics, and we got lots of good advice from them.
 
 ## Participant Selection & Cohort Administration
 
+We asked NMFS Mentors to share the opportunities with their colleagues:
+
+::: {.callout-tip collapse="true"}
+
+## Example email sent to mentors to promote the Data Academy
+
+Hello Mentors\!
+
+Please share with your colleagues about the upcoming [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy) for R programming skill-building for NOAA Fisheries. FTEs and Affiliates from any Fisheries office are welcome to sign up and there is no cost to staff or your center/office. The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy. 
+
+**What**: You will learn R for data science through lessons on the [dataquest.io](http://dataquest.io/) platform. The Data Academy is **asynchronous** so you can complete the lessons on your own schedule each week, and also **cohort-based** so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through weekly **synchronous help desk hours and coworking** and a **dedicated Google Space** for help and collaboration with other learners. A training certificate will be issued for each course completed. During the Data Academy, you will have access to the full [dataquest.io](http://dataquest.io/) library of courses in addition to the R Curriculum.
+
+**Curriculum**: [https://nmfs-openscapes.github.io/data-academy.html\#curriculum](https://nmfs-openscapes.github.io/data-academy.html#curriculum) 
+
+**Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus 1 hour of optional support from a "help desk" and coworking.  
+
+**When**: April 14  \-  June 17, 2025\. 
+
+* Mondays: Week’s lesson reminder received via email. Complete lessons on your own schedule.  
+* Wednesdays: Help desk and coworking with the Openscapes team alongside other participants (Optional, via Zoom)
+
+**Who**: FTEs and Affiliates from any Fisheries office, are welcome to sign up. The 40 available spots will be distributed across centers and offices.
+
+**What’s the minimum I need to know?** Absolute beginners are encouraged to apply. People should be comfortable working with data in other contexts (e.g., spreadsheets, databases, GIS, other languages such as Python, Matlab, etc.).
+
+**Cost**: Free. There is no cost to staff or your center/office. This opportunity is supported by NOAA funding to Openscapes.
+
+**How to apply:** If you’re interested in participating, please add yourself to the interest sheet: [DataAcademy\_Interest\_Spring2025 \[ nmfs-openscapes \]](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0). Deadline to apply is close of business, March 24\. Selected applicants will be notified April 1\. The 40 available spots will be distributed across centers and offices. Participants will be selected by the Openscapes team with input from NMFS Open Science staff and NMFS Openscapes Mentors. If people decline their offer to participate, we will select people from the waitlist, prioritizing people from the same division.
+
+**Frequently asked questions** and details of the curriculum are listed on the [NMFS Openscapes Data Academy page](https://nmfs-openscapes.github.io/data-academy). 
+
+**What is Openscapes?** Since 2020, [Openscapes](https://openscapes.org/) has helped NOAA Fisheries teams and individuals make substantial progress on difficult workflow transformation goals, such as transitioning to new cloud computing or data storage workflows, improving team awareness and collaboration, and automating (scripting) large data-heavy reports. They have been recognized by the White House, NASA, NIH, California EPA, Posit, Mozilla, and others for their work supporting science teams transitioning to open science and cloud workflows. This opportunity is supported through the “Fully Enable Open Science” initiative in the Fisheries Modernization Strategy. This initiative is part of our NOAA Fisheries Data Strategy and led by the Office of Science and Technology.
+
+Please share this opportunity with your colleagues across NOAA Fisheries\! These details are also listed here:  [https://nmfs-openscapes.github.io/data-academy](https://nmfs-openscapes.github.io/data-academy). 
+
+Cheers,  
+Stefanie Butland, Julie Lowndes, Andy Teucher, Openscapes  
+Eli Holmes, Jon Peake, NMFS Open Science & NMFS Openscapes
+
+:::
+
 People who were interested in participating signed up in the [interest sheet](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?usp=drive_link).
+In signing up, participants wrote their learning goals, from which we attempted to infer their experience level (1 = true beginner, 2 = uncertain, 3 = more experienced). 
+We then asked them to return to the spreadsheet and confirm their experience level, and/or optionally remove themselves from consideration for the first cohort.
+
+::: {.callout-tip collapse="true"}
+
+## Email sent to participants to confirm experience level
+
+Hi All\!
+
+We’re thrilled to see your interest in increasing your R skills and that \>150 people have applied to participate in our first NMFS Openscapes Data Academy\! With only 40 spots available at a time, we have decided to focus Cohort 1 this spring for “true R beginners” with little or no coding experience and hold 3 additional cohorts in the next 12 months for other R learners. The [Data Academy cohorts 2025 doc](https://docs.google.com/document/d/1iQY1JpUZ9Ku2xF_Qb3jwxrCqFFAGYXn0_VqECOOEM3Q/edit?tab=t.0) outlines the plan for each cohort.
+
+**Now we need your help to self-assess so we can select 40 “true beginners” for Cohort 1\.** Please review your Cohort assignment (inferred skill level) in [DataAcademy\_Interest\_Spring2025 \[ nmfs-openscapes \]](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0); we currently have \>40 applicants labeled as Cohort 1\. Assignments were based on your responses to “briefly describe your learning goals for the data academy”, then we (Julie, Andy, Stef, Eli, Jon) assigned cohorts. Have we mis-assigned your skill level? Are you no longer able to commit to \~3 hours a week from April 14 \- July 17, 2025 and need to opt out? Please indicate any changes in the spreadsheet COLUMN G and confirm you have reviewed it in COLUMN H by April 7 close of business. After that, we will distribute the 40 available spots across centers and offices and email Cohort 1 with next steps. 
+
+Folks who are not participating in a current cohort can get great support from the NMFS Open Science Help Desk & R User Group. Check out the NMFS Open Science [Training page](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings) for these and other opportunities.
+
+Thank you all for your enthusiasm for this opportunity, and working with us to provide it to as many folks as possible. We will check in with dates of Cohorts 2-4 as we get closer to them, so you don’t need to commit yet.
+
+Cheers,  
+Stefanie Butland, Andy Teucher, Julie Lowndes, Openscapes  
+Eli Holmes, Jon Peake, NMFS Open Science
+
+:::
+
+The initaly plan was to run one cohort of 40 people, but decided to run the equivalent of two cohorts simultaneously, for a total for 80 people.
+
+We selected all applicants who confirmed their experience as level-1, and chose level-2 applicants if they had confirmed their level, and if their learning goals included clear planned use - enough to complete a cohort of 80 people.
+
+People who were selected were added to a `data-academy` Google Group in Openscapes Google Workspace.
+This Google Group was used for sending mass emails to particpants.
+
+Particpants were also added to a NOAA [Google Chat Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg), for asynchronous help and cooperative learning.
 
 ## Pre-cohort Engagement
 
+Applicants who were selected were sent this email:
+
+::: {.callout-tip collapse="true"}
+
+## Example email to selected participants
+
+Hello All,  
+
+**We are excited to welcome you to the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html) – our first lessons begin next week on Monday April 14\!** Our first cohort for R beginners will be supported with weekly emails, synchronous help desk support from the Openscapes team, and help in a dedicated Google Space. Many thanks to NMFS Openscapes Mentors and NMFS Open Science Team, who have helped shape and amplify this opportunity.  
+
+We are doubling our level-1 R beginners cohort size to 80 people to meet the demand from over 150 signups. Thank you for helping self-assess your skill level; we selected all 70 level-1 folks plus 10 level-2 people, with level-2 folks selected to achieve representation across centers and offices.
+
+**On April 9-10 you will be added to the [dataquest.io](http://dataquest.io/) platform with your NOAA email.** Then, we will follow a weekly cadence, April 14 \- July 17 (we will share Google Calendar invites via a Google Group, so you will see a few emails as we set that all up):
+
+* **Mondays:** Week’s lesson reminder received via email. Complete the lesson on your own schedule.  
+* **Wednesdays:** Help desk and coworking with the Openscapes team and data academy colleagues (Optional, via Zoom). Hours will alternate between 1-2pm PT (starting April 16th), and 12-1pm PT (starting April 23). 
+
+**Action items.**
+
+1. **If you can no longer actively participate, please reply immediately to this email** so we can give your spot to another R beginner. [DataAcademy\_Interest\_Spring2025 \[ nmfs-openscapes \]](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0) lists who else will be participating alongside you.   
+2. **Check that you’ve received Google Calendar invites for our weekly help desk sessions**. If you have not received these invites, please let us know. We will meet remotely via Zoom, which you can do from the browser without installing any software.
+
+**Additional Information.**  
+**All Openscapes events abide by our [Code of Conduct](https://openscapes.org/code-of-conduct).** We are dedicated to providing a positive learning environment for all. Please let us know if you require any accommodations or if there is anything we can do to make this cohort more accessible to you.  
+Please let us know if you have any questions. Thank you for being a part of this; we’re looking forward to continuing skillbuilding and strengthening relationships and open science across NMFS.  
+
+Cheers,  
+Stefanie Butland, Andy Teucher, Ileana Fenwick, Julie Lowndes (Openscapes)  
+Eli Holmes, Jon Peake (NMFS Open Science)
+
+:::
+
+Applicants who were _not_ selected were sent this email:
+
+::: {.callout-tip collapse="true"}
+
+## Example email to applicants not selected
+
+Hi All!
+
+Thank you for applying to participate in our first year of NMFS Openscapes Data Academy. To meet the demand we doubled our level 1 R beginners cohort to 80 people and they have been enrolled. From over 150 applicants, we selected everyone who self-assessed as level 1 (70 people), plus 10 people from level 2 selected to achieve representation across centers and offices.
+
+You are one of the 79 people who signed up but are not in that first cohort. We will support you too: we plan to hold additional cohorts in the next 12 months for R and python learners to learn self-paced through access to the full suite of courses available on the Dataquest platform. You do not need to do anything further to be included. In July, we will get in touch again with a more detailed plan.
+
+In the meantime, anyone can get great support from the NMFS Open Science Help Desk and R User Group. Check out the [NMFS Open Science Training page](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings) for these and other opportunities.
+
+Thank you all for your enthusiasm for this opportunity. Please don’t hesitate to reach out to any of us and keep an eye on [other Openscapes events](https://openscapes.org/connect) that you are welcome to join. 
+
+Cheers,
+Stefanie Butland, Andy Teucher, Julie Lowndes, Openscapes
+Eli Holmes, Jon Peake, NMFS Open Science
+
+:::
+
 ## dataquest.io Setup and Administration
 
-### Curriculum
 
-Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/data-science-courses/career-paths/). These Paths are composed of one or more courses, each of which consist of several modules.
+*   Set up account at [dataquest.io Teams](https://www.dataquest.io/for-business/)
+*   We didn’t start with a pilot so that was unusual and caused some hiccups getting access to the account
+*   [dataquest Teams FAQ](https://support.dataquest.io/en/categories/18-teams-faq)
+*   $283 / license / year
+*   Learners and helpers were given licenses
+*   Julie is the account ownder, Andy and Ileana were admins
+*   Email `teams@dataquest.io` with anything; they’ll get back to us in 24 hours
+*   They will be create a custom path with the two paths (R Basics \+ Visualization) 
+*   Chandra AI for help (in lower left as working through courses)  
+*   Community forum  
+*   API to download metrics on learners for reporting  
+*   Added a voice screenreader to courses, rolling out over the next six weeks
+*   Created custom banner and certificate template
+*   Created bulk upload csv files at: - [DataQuest-bulk-upload](https://docs.google.com/spreadsheets/d/11SD1frhnRjZmX2GELjp72jYt0eCBt5R3Ixv5k--q0EQ/edit?gid=115415807#gid=115415807)
+*   Added learners via csv upload, once all in, email `teams@dataquest.io` to get licenses added, we were sent the invoice. They turned off auto-renewal.
+
+## Curriculum
+
+Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/data-science-courses/career-paths/). These Paths are composed of one or more courses, each of which consist of several lessons.
 
 Participants complete two Skill Paths (view as [weekly spreadsheet](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0)):
 
@@ -63,6 +202,13 @@ Participants have access to the full dataquest.io library of courses in addition
 ## Cohort Engagement
 
 ### Weekly Emails
+
+Each Monday morning we sent an email with:
+
+*	the week's lessons
+*	the topics we would be covering in that week's demo
+*	any action items they needed to take
+*	a reminder of the asynchronous (Google Space) and synchronous (Help Desk) support opportunties
 
 ::: {.callout-tip collapse="true"}
 
@@ -465,6 +611,8 @@ demo topic would be.
 In general, we had between 3 and 10 attendees, with about 4-5 "regulars" who 
 came to almost every session.
 
+We recorded the demos in the main Zoom room, starting with Lesson 7, and shared them in a [Google Drive](https://drive.google.com/drive/folders/1-McZ9o2fNCiC-paaD_KfExkpZ0VMGomE).
+
 ::: {.callout-tip collapse="true"}
 
 ## Example Help Desk session agenda/coworking doc
@@ -608,8 +756,19 @@ Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
 
 :::
 
+Those that removed themselves from the course had this recorded in the [participants selection sheet](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0), as were those who were subsequently added. 
+
+## Tracking progess
+
+Participants progress could be tracked through the *Team Admin* portal using
+pre-populated reports, and raw data could be accessed through the [Teams API](https://support.dataquest.io/en/articles/680-teams-api-documentation).
+
+We used the API to generate reports and figures on progess, these scripts are in the [NMFS-Openscapes Data Academy repo](https://github.com/nmfs-openscapes/data-academy).
+
 ## Lessons Learned
 
-- Wednesdays not great for help desk
-- Help Desk walkthough recordings
-- break week
+*	Explicitly ask about people's coding experience - this was meant to be for 
+    complete beginners, but hard to infer from their description of learning goals.
+*	Wednesdays not great for help desk
+*	Help Desk walkthough recordings
+*	break week
