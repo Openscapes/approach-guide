@@ -1,0 +1,87 @@
+on:
+  # workflow_dispatch allows deploy preview by pushing button on GitHub
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+  issue_comment:
+    types: [created]
+
+name: Deploy Preview
+
+jobs:
+  is-external-pr:
+    # Be helpful with reviewer and remind them to trigger a deploy preview if the PR is from a fork.
+    if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.fork == true }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Error with message for manual deploy
+        run: |
+          echo "::error title=Manual action required for preview::PR from fork can't be deployed as preview to Netlify automatically. Use '/deploy-preview' command in comments to trigger the preview manually."
+        shell: bash
+
+  role-of-commenter:
+    if: github.event.issue.pull_request
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if commenter is a member, owner or collaborator
+        id: commenter-check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          commenter_role=$(gh api repos/$GITHUB_REPOSITORY/collaborators/${{ github.event.comment.user.login }}/permission --jq '.permission')
+          echo "commenter_role=$commenter_role" >> "$GITHUB_OUTPUT"
+          echo "author_association=${{ github.event.comment.author_association }}" >> "$GITHUB_OUTPUT"
+        shell: bash
+        
+  build-deploy-preview:
+    # Deploy a preview only if 
+    # - the PR is not from a fork,
+    # - requested by PR comment /deploy-preview, from a repo user or github action bot (user id 41898282)
+    # FIXME: We need to change the way we filter because somehow some MEMBER in API are seen as CONTRIBUTOR in CI
+    if: >
+      (
+        github.event_name == 'pull_request' && 
+        github.event.pull_request.head.repo.fork != true
+      ) || 
+      (
+        github.event.issue.pull_request && 
+        (
+          github.event.comment.user.id == '41898282' ||
+          github.event.comment.author_association == 'MEMBER' || 
+          github.event.comment.author_association == 'OWNER' || 
+          github.event.comment.author_association == 'COLLABORATOR'
+        ) && 
+        startsWith(github.event.comment.body, '/deploy-preview')
+      ) 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          to: html
+
+      - name: Deploy Preview to Netlify as preview
+        id: netlify-deploy
+        uses: nwtgck/actions-netlify@v3
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        with:
+          publish-dir: './_site'
+          production-deploy: false
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message:
+            'Deploy from GHA: ${{ github.event.pull_request.title || github.event.head_commit.message }} (${{ github.sha }})'
+          alias: deploy-preview-${{ github.event.number }}
+          # these all default to 'true'
+          enable-pull-request-comment: true
+          enable-commit-comment: false
+          enable-commit-status: true
+          overwrites-pull-request-comment: true
+        timeout-minutes: 1
