@@ -1,0 +1,615 @@
+---
+title: Data Academy
+---
+
+We ran a [Data Academy for NOAA Fisheries](https://nmfs-openscapes.github.io/data-academy) in 2025, where a cohort of learners used [dataquest](https://www.dataquest.io/) to learn the basics of R and data science.
+
+## POP
+
+* **Purpose:** entry-level data science training, and establish a program NMFS can repeat  
+* **Outcomes**: upskilled staff, supervisors see value in these skills and staff time  
+* **Process:** Openscapes designs & manages a program in year 1, scale up in year 2-3
+
+## Overview and basic structure
+
+We ran a 15 week session, where learners had access to the full dataquest platform. 
+We decided on a [curriculum](#curriculum), which they followed through a weekly cadence of lessons. 
+We had weekly "Help Desk" sessions on Wednesdays, and set up a Google Space for chat and Q&A. 
+Each Monday morning we sent an email with:
+- the week's lessons
+- the topics would be covering in that week's demo
+- any action items they needed to take
+- a reminder of the asynchronous (Google Space) and synchronous (Help Desk) support opportunties
+
+**Expected time commitment**: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a "help desk" and coworking.
+
+## Planning
+
+We recorded our planning steps and meeting notes in our [planning doc](https://docs.google.com/document/d/1S_XuI-HGrckq8ySwFvmdQAmBdfMztqBIQ9K5eyfooDs/edit?tab=t.0#heading=h.xjb0wxb4quwl). 
+We modeled the cohort after a similar initiative at the Bureau of Labour Statistics, and we got lots of good advice from them.
+
+## Participant Selection & Cohort Administration
+
+People who were interested in participating signed up in the [interest sheet](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?usp=drive_link).
+
+## Pre-cohort Engagement
+
+## dataquest.io Setup and Administration
+
+### Curriculum
+
+Dataquest offers many different "Learning Paths", including [Career Paths](https://www.dataquest.io/data-science-courses/career-paths/) and [Skill Paths](https://www.dataquest.io/data-science-courses/career-paths/). These Paths are composed of one or more courses, each of which consist of several modules.
+
+Participants complete two Skill Paths (view as [weekly spreadsheet](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0)):
+
+#### [R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/) (4 courses)
+
+-   [Introduction to Data Analysis in R](https://www.dataquest.io/course/intro-to-r-rewrite/) (weeks 1-3)
+-   [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/) (weeks 3-7)
+-   [Control Flow, Iteration, and Functions in R](https://www.dataquest.io/course/intermediate-r/) (weeks 8-9)
+-   **BREAK WEEK**
+-   [Specialized Data Processing in R](https://www.dataquest.io/course/intermediate-r-part-two/) (weeks 11-12)
+
+#### [Data Visualization with R](https://www.dataquest.io/path/data-visualization-with-r/) (1 course)
+
+-   [Introduction to Data Visualization in R](https://www.dataquest.io/course/r-data-viz/) (weeks 13-15)
+
+Participants have access to the full dataquest.io library of courses in addition to the R Curriculum. We recommend the following additional courses for those who had extra capacity:
+
+-   [Introduction to Data Cleaning in R](https://www.dataquest.io/course/r-data-viz-2/)
+-   [Introduction to Git and Version Control](https://www.dataquest.io/course/git-and-vcs/)
+-   [Querying Databases with SQL and R](https://www.dataquest.io/course/querying-databases-with-r/)
+
+## Cohort Engagement
+
+### Weekly Emails
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 1:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef, (Eli & Jon yes on week 1 but not afterwards)  
+Subject: Week 1 – NMFS Openscapes Data Academy\!
+
+Hello\!
+
+We are excited to get started on the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html) – our first lessons begin this week\!   
+**This week (April 14-18)**
+
+* **Curriculum goals:** Lesson 1 and 2 of [Introduction to Data Analysis in R](https://www.dataquest.io/course/intro-to-r-rewrite/)  
+  * Lesson 1: [Introduction to Programming in R](https://app.dataquest.io/c/90/m/499/introduction-to-programming-in-r/1/introduction)  
+  * Lesson 2: [Arithmetic Expressions and Variables in R](https://app.dataquest.io/c/90/m/513/arithmetic-expressions-and-variables-in-r/1/understanding-arithmetic-operators-in-r)  
+*  **Help Desk :**  
+  * Wednesday April 16, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590) 
+
+**Action items:**
+
+1. **Check that you’ve received an invitation to the [dataquest.io](http://dataquest.io) platform.** If you have not received these invites, please reply to Andy. On April 11 you were added to dataquest.io with your NOAA email. Also please verify in your account profile that your name is displayed as you would like it \- this will be used when you earn certificates for completing courses.  
+2. **Check that you’ve received Google Calendar invites for our (optional) weekly Wednesday help desk sessions**. If you have not received these invites, please reply to Andy. Come with questions or to complete your lessons on your own, but with company through coworking\! We will meet remotely via Zoom, which you can do from the browser without installing any software.
+
+3. **Install R and RStudio on your computer by week 3\.** We know that each center has a different process for software installation so please try to action this as soon as you are able. 
+
+You will be supported by Openscapes team members Andy Teucher and Ileana Fenwick. Between us we have more than 20 years of experience as R users and developers, in marine science, ecology and conservation, and supporting open science in government, academia, and industry.
+
+**Cohort background information.** We will follow a weekly cadence, April 14 \- July 11\. We encourage everyone to be active in the Cohort as you are able to; peer-learning and peer-teaching is an incredibly effective way to understand and solidify what you’re learning in the DataQuest platform 
+
+* **Mondays:** Week’s lesson reminder received via email. Complete the lesson(s) on your own schedule.  
+* **Wednesdays:** Help desk and coworking with the Openscapes team and data academy colleagues (Optional, via [Zoom](https://zoom.us/j/91025564590)). Hours will alternate between 1-2pm PT (starting April 16th), and 12-1pm PT (starting April 23).   
+* **Asynchronous:** Asking questions and learning from each other in the [Google Space](https://mail.google.com/mail/u/0/#chat/space/AAQA5_f7MGg). 
+
+Over the course of the next 13 weeks we will be completing two “Skills Paths” in the [DataQuest](https://www.dataquest.io/) platform:
+
+1. [R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/)  
+2. [Data Visualization with R](https://www.dataquest.io/path/data-visualization-with-r/)
+
+Please let us know if you have any questions. We are dedicated to providing a positive learning environment for all. Please let us know if there is anything we can do to help you throughout the cohort, as we want to make this opportunity most effective for you. Thank you for being a part of this; we’re looking forward to continuing skillbuilding and workforce development across NOAA Fisheries with you.
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland (Openscapes)  
+Eli Holmes, Jon Peake (NMFS Open Science)
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 2:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef  
+Subject: Week 2 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 2 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)**\!**
+
+**This week (April 21-25)**
+
+* **Curriculum goals:** Lesson 3 and 4 of [Introduction to Data Analysis in R](https://www.dataquest.io/course/intro-to-r-rewrite/)  
+  * Lesson 3: [Logical Expressions in R](https://app.dataquest.io/c/90/m/517?_gl=1*17yvbpe*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..)  
+  * Lesson 4: [Data Manipulation with R: Basics](https://app.dataquest.io/c/90/m/500?_gl=1*1uo8u2a*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..)  
+*  **Help Desk :**  
+  * Wednesday April 23, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+We had a fun and productive Help Desk session last week, with a small but very engaged group of learners. You can see our collaborative notes document [here](https://app.dataquest.io/learning/path/intro-to-r-data-visualization-custom-track) \- we will add to this each week when we meet.
+
+**Action items:**
+
+1. **Install R and RStudio on your computer by week 3 (next week).** We know that each center has a different process for software installation so please try to action this as soon as you are able. There was a short discussion about it in our [Google Space last week](https://chat.google.com/room/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE?cls=10).  
+2. **Please try to follow the learning schedule we are suggesting as much as possible.** Learning in a cohort will be more enjoyable and productive than going it alone, and it will get harder to catch up as time goes on and the lessons get more complex. That said, we understand that everyone is dealing with a lot right now, so please let us know if there is anything we can do to help make your learning journey more manageable.  
+   
+
+**Update:** Dataquest have created a custom [Learning Path](https://app.dataquest.io/learning/path/intro-to-r-data-visualization-custom-track) for us, consisting of [R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/), and [Data Visualization with R](https://www.dataquest.io/path/data-visualization-with-r/). You don’t need to action anything here; you have been automatically enrolled. It is the same curriculum we have been following, and your completed lessons will apply to all applicable paths, including this new one.
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 3:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef  
+Subject: Week 3 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 3 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)**\!**
+
+**This week (April 21-25)**
+
+* **Curriculum goals:** Last lesson of [Introduction to Data Analysis in R](https://www.dataquest.io/course/intro-to-r-rewrite/), and first lesson of [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/):  
+  * Lesson 5 of Introduction to Data Analysis in R: [Project: Install RStudio](https://app.dataquest.io/c/90/m/501?_gl=1*1uo8u2a*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..)  
+  * Lesson 1 of Data Structures in R: [Vectors in R](https://app.dataquest.io/c/92/m/502/vectors-in-r/1/introduction-to-data-structures-generating-vectors)  
+*  **Help Desk :**  
+  * Wednesday April 30, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Help Desk sessions remain small so far, so lots of space to chat and ask questions if you want to join us\! I anticipate that as lessons get more complex the sessions will get busier\! You can see our collaborative notes document [here](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0) \- we will add to this each week when we meet. Also remember that our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE) is a great place to ask (and help answer) questions between Help Desk sessions\!
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 4:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef  
+Subject: Week 4 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 4 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)**\!**  
+**This week (May 5-9)**
+
+* **Curriculum goals:** Just one lesson this week:  
+  * Lesson 2 of [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/): [Matrics](https://app.dataquest.io/c/92/m/503)  
+*  **Help Desk :**  
+  * Wednesday May 7, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+For those who want to know what's ahead, here is our [full weekly plan](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?usp=sharing) for working through the Intro to R and Data Visualization with R learning path in dataquest. If you are having trouble keeping up, feel free to reach out directly to me or Ileana and we would love to help you.
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!  
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 5:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef  
+Subject: Week 5 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 5 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)**\!**  
+**This week (May 12-16)**
+
+* **Curriculum goals:** Just one lesson this week:  
+  * Lesson 2 of [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/): [Lists](https://app.dataquest.io/c/92/m/504)  
+*  **Help Desk :**  
+  * Wednesday May 14, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+We are going to try something new in the Help Desk sessions going forward: Starting this week  Ileana or I will walk through one or two of the sections in the lesson(s) from the week \- this week it is “Lists”. Lists in R are a bit of a strange animal if you haven’t encountered them before, so we will talk through some of the trickier bits of the lesson.
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!  
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 6:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Julie, Stef  
+Subject: Week 6 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 6 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\! Apologies for the late email this week.  
+**This week (May 19-23)**
+
+* **Curriculum goals:** Just one lesson again this week:  
+  * Lesson 4 of [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/): [Dataframes](https://app.dataquest.io/c/92/m/493)  
+*  **Help Desk :**  
+  * Wednesday May 20, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Last week Ileana and I walked through some of the trickier parts of the "Lists" lessons, and there was lots of good discussion\! This week we will do the same for Data Frames. Data Frames are a fundamental structure in data analysis, and I hope this week you will start to see how they will apply to your work in a more tangible way.  
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!  
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 7:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 7 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 7 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\! 
+
+**This week (May 26-30)**
+
+* **Curriculum goals:** One lesson this week, but it’s a bigger one:  
+  * Lesson 5 of [Data Structures in R](https://www.dataquest.io/course/datastructure-in-r-rewrite/): [Guided Project: Investigating COVID-19 Virus Trends](https://app.dataquest.io/c/92/m/505)  
+*  **Help Desk :**  
+  * Wednesday May 28, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0)  
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+The guided project in this week’s lesson brings together a lot of the concepts you’ve learned in the preceding weeks. It may take you a bit more time as you actively practice and build on the skills we have learned so far, and that’s okay. There are many ways to get help if you need it\! You can post in the Google Space so everyone can benefit from the conversation, and please do come to the Help Desk on Wednesday if you can. People have had good luck with the Chandra AI assistant in the dataquest platform, and dataquest links to their version of the solution in the last page of the lesson. I have also put my version on [GitHub](https://github.com/nmfs-openscapes/data-academy/tree/main/guided-projects).
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\! This week and in the future, we’ll be joined in our Help Desk sessions by the amazing Cassie Nickles, so we will have lots of support to help answer your questions and dig into any issues.
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+PS:   
+We had originally planned to have two lessons this week, but since the guided project is a fairly heavy task and it’s a short week due to the holiday, we have decided to push the first lesson of [Control Flow, Iterations, and Functions](https://www.dataquest.io/course/intermediate-r/) to next week. We’ve updated the [curriculum schedule](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0) accordingly.
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 8:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 8 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 8 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\! 
+
+**This week (June 2-6)**
+
+* **Curriculum goals:** Lessons 1 and 2 of [Contol Flow, Iteration, and Functions (4 hrs)](https://www.dataquest.io/course/intermediate-r/):  
+  * Lesson 1: [Control Flow in R](https://app.dataquest.io/c/88/m/494)  
+  * Lesson 2: [Iterations in R](https://app.dataquest.io/c/88/m/514)  
+*  **Help Desk :**  
+  * Wednesday May 28, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0).  
+  * We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the thornier bits of this week’s lessons.   
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 9:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 9 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 9 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\! 
+
+**This week (June 9 \- 13\)**
+
+* **Curriculum goals:** Lessons 3 and 4 of [Contol Flow, Iteration, and Functions (4 hrs)](https://www.dataquest.io/course/intermediate-r/):  
+  * Lesson 1: [Functions in R](https://app.dataquest.io/c/88/m/495)  
+  * Lesson 2: [Guided Project: Creating An Efficient Data Analysis Workflow](https://app.dataquest.io/c/88/m/498)  
+*  **Help Desk :**  
+  * Wednesday June 11, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0).  
+  * We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the thornier bits of this week’s lessons.   
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\! We’ll try to spend some time going over functions, as well as the guided project.
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 10 (Break week):
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 10 – NMFS Openscapes Data Academy\! Break Week\!
+
+Hello, and welcome to Week 10 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\! 
+
+**This week (June 16-20)**
+
+* We’re taking a break this week\! We recognize that keeping up this pace of lessons is a lot, and so we’ve decided to add in a week with no new lessons. Please take a breather, take some time to catch up if you need, and/or review things from previous weeks. We’ve updated the [curriculum](https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0) accordingly, and will extend the schedule by one additional week (wrapping up the scheduled lessons the week of July 21).   
+*  **Help Desk :**  
+  * Wednesday June 18, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0).  
+  * We will be available for questions and discussions, make breakout rooms for quiet work or specific help, and give you any other support you need.   
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 11:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 11 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 11 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\!  We hope the break from new lessons last week was helpful, and look forward to working on this week’s lessons with you\! This week we are looking at manipulation of character strings, and working with dates and times in R \- both critical components of data analysis\!
+
+**This week (June 23-27)**
+
+* **Curriculum goals:** Lessons 1 and 2 of [Specialized Data Processing](https://www.dataquest.io/course/intermediate-r-part-two/):  
+  * Lesson 1: [String Manipulation in R: Fundamentals](https://app.dataquest.io/c/94/m/496)  
+  * Lesson 2: [Date and Time Manipulation in R: Fundamentals](https://app.dataquest.io/c/94/m/497)  
+*  **Help Desk :**  
+  * Wednesday June 25, 1-2pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0).  
+  * We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the trickier bits of this week’s lessons.   
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!   
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
+::: {.callout-tip collapse="true"}
+
+## Certificate reminder email (sent separately in week 11)
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Data Academy \- dataquest.io certificates\!
+
+Hi everyone\!
+
+You've all been doing awesome work and making progress working through the Data Academy [curriculum](https://nmfs-openscapes.github.io/data-academy#curriculum) at your own pace\! Whether you've completed one course or five, you've gained valuable skills along the way. With just **4 weeks remaining** in our program, now's the perfect time to push toward earning your next certificate\!
+
+**Here's what's available to you:**
+
+**Individual Course Certificates** \- Complete any of the courses in the curriculum to earn a certificate for that specific course.
+
+**Path Certificates** \- Finish an entire learning path ([R Basics for Data Analysis](https://www.dataquest.io/path/r-basics-for-data-analysis/) OR [Data Visualization with R](https://www.dataquest.io/path/data-visualization-with-r/)) to earn a comprehensive path certificate that showcases your complete skill set in that area. Complete both of these paths and you will have completed our custom “[Introduction to R and Data Visualization](https://app.dataquest.io/signup?path=intro-to-r-data-visualization-custom-track)” path.
+
+**How to claim your certificates:** Once you complete a course or path, Dataquest automatically generates your certificate. You can see what certificates you have earned by clicking on your profile in the top right, and then click “Profile” \- you can download them all at the bottom of the page\!
+
+**Your access continues until August 18th**. Whether you're close to finishing a course or ready to complete an entire path, every certificate you earn represents real progress in your data journey.
+
+**Need help getting to the finish line?** Join us at the Wednesday Help Desk \- we're here to help you navigate any challenges and make sure you get the certificates you're working toward.
+
+You've already invested so much time and effort, and the certificates are a nice way to show it\!
+
+Cheers,
+
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
+### Google Space
+
+### Help Desk
+
+We ran a weekly 1-hour help desk session on Wednesdays, alternating 12-1 pm and 1-2 pm PT.
+These time slots were chose to accomadate time zones from Alasaka to Eastern.
+We received comments that Wedndesdays weren't ideal as it was often too early in the week and people were not able to progress far enough to have questions ready.
+
+Stefanie ran the logistics of the Help Desk sessions, and there were usually at least two, often three, helpers attending (Andy and/or Cassie and/or Ileana).
+
+Help Desks began as informal, unstructured Q&A sessions, but evolved over the weeks.
+To try to make them more engaging, and entice people to come, we started choosing
+one or two lessons from the week and did a screen-sharing walkthrough in the main room.
+We had one breakout room for independent quiet work, one for active Q&A with a helper, 
+and sometimes one breakout room with a second demo/walkthrough by a helper.
+
+Attendees signed in to the roll call, and added any specific questions/topics they wanted to discuss.
+We added a "silent journaling" section at the beginning, where people would write in the doc:
+
+1. Something you feel good about learning
+2. A place where you are feeling stuck
+
+Attendees voted and/or discussed (depending on numbers) as to what the main room 
+demo topic would be.
+
+In general, we had between 3 and 10 attendees, with about 4-5 "regulars" who 
+came to almost every session.
+
+::: {.callout-tip collapse="true"}
+
+## Example Help Desk session agenda/coworking doc
+
+## **Template Month DD, 2025**
+
+*Edit description below for each week*  
+**This week (June 9 \- 13). Curriculum goals:** Lessons x and y of [Lesson]:
+
+* Lesson 1: [Link to lesson]  
+* Lesson 2: [Link to lesson]
+
+### **Roll Call**
+
+Name / organization / what brings you here today?
+
+* Andy Teucher / Openscapes / here to help\!   
+* Ileana Fenwick / Openscapes / here to help\!   
+* Stef Butland / Openscapes / infrastructure support for the help desk  
+* Cassie Nickles / Openscapes / here to help\!   
+*    
+*    
+*   
+
+### **Welcome**
+
+Announcements, etc.
+
+### **Silent Journaling**
+
+Please take a moment to share:
+
+1\) Something you feel good about learning
+
+*    
+*    
+*    
+* 
+
+2\) A place where you are feeling stuck.
+
+*    
+*    
+*    
+*  
+
+### **Questions & Discussion**
+
+*     
+*    
+*    
+*
+
+### **Breakout rooms**
+
+*Please add a topic to a room below. Add your name to any room you join. Add notes and links to resources. We can come together at 10 mins before the end.*  
+
+Main \- Switchboard & Demo
+
+*  Who’s in the room \- Stef  
+*    
+*  
+
+Room 1 \- Q & A
+
+*  Who’s in the room \-  
+*    
+*   
+*  
+
+Room 2 \- Quiet Work
+
+* Who’s in the room \-   
+*    
+*  
+
+Room 3 \- 
+
+* Who’s in the room \-   
+*    
+*  
+
+Room 4 \- 
+
+* Who’s in the room \-   
+*    
+*  
+
+:::
+
+### Mid-Course Survey
+
+### Engagement with those falling behind
+
+In week 5, we identified about 20 people who had not so far started the curriculum (had less than 1 hour in the platform). 
+We wanted to help them if we could, and give them a way to gracefully give up their spot if they couldn't continue at this time.
+We emailed each of them: 
+
+::: {.callout-tip collapse="true"}
+
+## Email template for those falling behind
+
+Hi **Name,** 
+
+I wanted to reach out to see how I can support you in getting started in our Intro to R and Data Visualization course through DataQuest. We are on Week 5 of our weekly learning plan and we’d like to ensure you are able to catch up and complete the course with this cohort. 
+
+I invite you to use either of the support options below or respond here and let me know how we can help you get started. Learning a new tool can be a challenge and we are here to help in any way we can\!  
+
+* Help Desk :  
+  * Wednesday May 14, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0)  
+* Ongoing asynchronous discussion in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+
+If you don’t feel you have the time or capacity to complete the course at this time, please let us know as spots are limited and we will invite another participant. 
+
+Have a great week\! 
+
+Cheers,   
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland 
+
+:::
+
+Several people opted to give up their spot.
+We identified people on the waiting list, and sent them an email offering them a spot:
+
+::: {.callout-tip collapse="true"}
+
+## Email template offering a new spot mid-stream
+
+Hi \[Name\],
+
+I’m reaching out because you previously expressed interest in the [NMFS-Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy), but weren’t initially selected to participate.
+
+A spot has opened up, and we are hoping you might still be interested in participating. We are on Week 5 of our planned 13 week curriculum. The planned curriculum is intended to take us up to the week of July 14, but you will have access to the platform until August 14\. You should have time to complete all of the material, you will just be on a different schedule from the rest of the group. That said, Ileana and I will be here to support you, so don’t feel as if you will be on your own\!
+
+Please have a look at the [course website](https://nmfs-openscapes.github.io/data-academy) and let me know as soon as you can if you would like to join us.
+
+Thanks so much,  
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland 
+
+:::
+
+## Lessons Learned
+
+- Wednesdays not great for help desk
+- Help Desk walkthough recordings
+- break week
