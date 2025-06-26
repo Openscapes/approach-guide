@@ -9,15 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2 
+        uses: actions/checkout@v4
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           # To install LaTeX to build PDF book 
           tinytex: true 
           # uncomment below and fill to pin a version
-          # version: 0.9.600
+          # version: SPECIFIC-QUARTO-VERSION-HERE
       
       # add software dependencies here
 
