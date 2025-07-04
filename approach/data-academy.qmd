@@ -854,8 +854,8 @@ We used the API to generate reports and figures on progess, these scripts are in
   it in Week 10.
 * This schedule ended up being a bit aggressive, and learners found it difficult
   to dedicate the time and energy required. This was in part due to the intensity
-  of the schedule, and in large part due to increased stress and workload in their jobs,
-  especially as it coincided with field season.
+  of the schedule, and in large part due to increased stress and workload in their jobs.
+  This was exacerbated by coinciding with field season.
 
 ### DataQuest platform / content
 
