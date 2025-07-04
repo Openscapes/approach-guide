@@ -1,0 +1,2045 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Data Academy – Openscapes Approach Guide</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../champions/index.html" rel="next">
+<link href="../approach/qual-assessment.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-336be6ae391cc3facf2dbf6996649154.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-25d2680dcd20d1d3295be7a5976bd4d1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-336be6ae391cc3facf2dbf6996649154.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../approach/index.html">Openscapes Approach</a></li><li class="breadcrumb-item"><a href="../approach/data-academy.html">Data Academy</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main tools-wide">
+    <a href="https://openscapes.org" title="Openscapes.org" class="quarto-navigation-tool px-1" aria-label="Openscapes.org"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/openscapes/approach-guide" title="Openscapes Approach Guide GitHub" class="quarto-navigation-tool px-1" aria-label="Openscapes Approach Guide GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="quarto-navigation-tool px-1" aria-label="Openscapes Twitter"><i class="bi bi-twitter"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../approach/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Openscapes Approach</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/code-of-conduct.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Code of Conduct</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/seaside-chats.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Seaside Chats, etc.</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/onboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Onboarding</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/documentation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Documentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/newsletter.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Newsletter</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/tooling.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tooling</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/partners.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Partners</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/calendar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calendar</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/qual-assessment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Qualitative Assessment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../approach/data-academy.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Data Academy</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../champions/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Champions Program</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/design.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Program Design &amp; Timeline</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/cohort-planning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cohort Planning</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/pre-cohort-engage.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pre-cohort engagement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/pre-cohort-tech.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cohort tech setup</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/lessons.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lesson Planning</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/leading-cohort-calls.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Leading Cohort Calls</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../champions/post-cohort-followup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Post-Cohort followup</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../mentors-framework/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors Framework</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../mentors-framework/onboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Onboarding Mentors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../mentors-framework/mentor-series.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentor Series</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../mentors-framework/mentor-skills.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors Skills</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../mentors-framework/tech-setup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Mentors tech setup</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../mentors-framework/nasa-openscapes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">NASA Openscapes</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pathways/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Pathways to Open Science</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../reflections/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reflections Program</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../resources/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Openscapes Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../contributing/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contributing</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contributing/setup.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Setup</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contributing/workflow.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Workflow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contributing/inspiration.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inspiration</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contributing/monthly-checkins.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Monthly Checkins</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#pop" id="toc-pop" class="nav-link active" data-scroll-target="#pop">POP</a></li>
+  <li><a href="#overview-and-basic-structure" id="toc-overview-and-basic-structure" class="nav-link" data-scroll-target="#overview-and-basic-structure">Overview and basic structure</a></li>
+  <li><a href="#planning" id="toc-planning" class="nav-link" data-scroll-target="#planning">Planning</a></li>
+  <li><a href="#participant-selection-cohort-administration" id="toc-participant-selection-cohort-administration" class="nav-link" data-scroll-target="#participant-selection-cohort-administration">Participant Selection &amp; Cohort Administration</a></li>
+  <li><a href="#pre-cohort-engagement" id="toc-pre-cohort-engagement" class="nav-link" data-scroll-target="#pre-cohort-engagement">Pre-cohort Engagement</a></li>
+  <li><a href="#dataquest.io-setup-and-administration" id="toc-dataquest.io-setup-and-administration" class="nav-link" data-scroll-target="#dataquest.io-setup-and-administration">dataquest.io Setup and Administration</a>
+  <ul class="collapse">
+  <li><a href="#general" id="toc-general" class="nav-link" data-scroll-target="#general">General</a></li>
+  <li><a href="#steps" id="toc-steps" class="nav-link" data-scroll-target="#steps">Steps</a></li>
+  <li><a href="#adding-and-removing-people" id="toc-adding-and-removing-people" class="nav-link" data-scroll-target="#adding-and-removing-people">Adding and removing people</a></li>
+  </ul></li>
+  <li><a href="#curriculum" id="toc-curriculum" class="nav-link" data-scroll-target="#curriculum">Curriculum</a></li>
+  <li><a href="#cohort-engagement" id="toc-cohort-engagement" class="nav-link" data-scroll-target="#cohort-engagement">Cohort Engagement</a>
+  <ul class="collapse">
+  <li><a href="#weekly-emails" id="toc-weekly-emails" class="nav-link" data-scroll-target="#weekly-emails">Weekly Emails</a></li>
+  <li><a href="#google-space" id="toc-google-space" class="nav-link" data-scroll-target="#google-space">Google Space</a></li>
+  <li><a href="#help-desk" id="toc-help-desk" class="nav-link" data-scroll-target="#help-desk">Help Desk</a></li>
+  <li><a href="#mid-course-survey" id="toc-mid-course-survey" class="nav-link" data-scroll-target="#mid-course-survey">Mid-Course Survey</a></li>
+  <li><a href="#engagement-with-those-falling-behind" id="toc-engagement-with-those-falling-behind" class="nav-link" data-scroll-target="#engagement-with-those-falling-behind">Engagement with those falling behind</a></li>
+  </ul></li>
+  <li><a href="#tracking-progess" id="toc-tracking-progess" class="nav-link" data-scroll-target="#tracking-progess">Tracking progess</a></li>
+  <li><a href="#lessons-learned" id="toc-lessons-learned" class="nav-link" data-scroll-target="#lessons-learned">Lessons Learned</a>
+  <ul class="collapse">
+  <li><a href="#dataquest-platform-content" id="toc-dataquest-platform-content" class="nav-link" data-scroll-target="#dataquest-platform-content">DataQuest platform / content</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/openscapes/approach-guide/edit/main/approach/data-academy.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../approach/index.html">Openscapes Approach</a></li><li class="breadcrumb-item"><a href="../approach/data-academy.html">Data Academy</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">Data Academy</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>We ran a <a href="https://nmfs-openscapes.github.io/data-academy">Data Academy for NOAA Fisheries</a> in 2025, where a cohort of learners used <a href="https://www.dataquest.io/">dataquest</a> to learn the basics of R and data science.</p>
+<section id="pop" class="level2">
+<h2 class="anchored" data-anchor-id="pop">POP</h2>
+<ul>
+<li><strong>Purpose:</strong> entry-level data science training, and establish a program NMFS can repeat<br>
+</li>
+<li><strong>Outcomes:</strong> upskilled staff, supervisors see value in these skills and staff time<br>
+</li>
+<li><strong>Process:</strong> Openscapes designs &amp; manages a program in year 1, scale up in year 2-3</li>
+</ul>
+</section>
+<section id="overview-and-basic-structure" class="level2">
+<h2 class="anchored" data-anchor-id="overview-and-basic-structure">Overview and basic structure</h2>
+<p>We ran a 15 week session, where learners had access to the full dataquest platform. We decided on a <a href="#curriculum">curriculum</a>, which they followed through a weekly cadence of lessons. We had weekly “<a href="#help-desk">Help Desk</a>” sessions on Wednesdays, and set up a Google Space for chat and Q&amp;A. Each Monday morning we sent an <a href="#weekly-emails">email</a> with the tasks and information needed for the week.</p>
+<p><strong>Expected time commitment</strong>: Weekly for 3 months: 2-hour chunks of learning time, plus optional 1 hour of support from a “help desk” and coworking.</p>
+</section>
+<section id="planning" class="level2">
+<h2 class="anchored" data-anchor-id="planning">Planning</h2>
+<p>We recorded our planning steps and meeting notes in our <a href="https://docs.google.com/document/d/1S_XuI-HGrckq8ySwFvmdQAmBdfMztqBIQ9K5eyfooDs">planning doc</a>. We modeled the cohort after a similar initiative at the Bureau of Labour Statistics, and we got lots of good advice from them.</p>
+</section>
+<section id="participant-selection-cohort-administration" class="level2">
+<h2 class="anchored" data-anchor-id="participant-selection-cohort-administration">Participant Selection &amp; Cohort Administration</h2>
+<p>We asked NMFS Mentors to share the opportunities with their colleagues:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example email sent to mentors to promote the Data Academy
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hello Mentors!</p>
+<p>Please share with your colleagues about the upcoming <a href="https://nmfs-openscapes.github.io/data-academy">NMFS Openscapes Data Academy</a> for R programming skill-building for NOAA Fisheries. FTEs and Affiliates from any Fisheries office are welcome to sign up and there is no cost to staff or your center/office. The Data Academy is being led by Openscapes as part of the Fisheries Data Modernization Strategy.</p>
+<p><strong>What</strong>: You will learn R for data science through lessons on the <a href="http://dataquest.io/">dataquest.io</a> platform. The Data Academy is <strong>asynchronous</strong> so you can complete the lessons on your own schedule each week, and also <strong>cohort-based</strong> so you’ll get to know your colleagues and have accountability. The Openscapes team will provide support through weekly <strong>synchronous help desk hours and coworking</strong> and a <strong>dedicated Google Space</strong> for help and collaboration with other learners. A training certificate will be issued for each course completed. During the Data Academy, you will have access to the full <a href="http://dataquest.io/">dataquest.io</a> library of courses in addition to the R Curriculum.</p>
+<p><strong>Curriculum</strong>: <a href="https://nmfs-openscapes.github.io/data-academy.html#curriculum">https://nmfs-openscapes.github.io/data-academy.html#curriculum</a></p>
+<p><strong>Expected time commitment</strong>: Weekly for 3 months: 2-hour chunks of learning time, plus 1 hour of optional support from a “help desk” and coworking.</p>
+<p><strong>When</strong>: April 14 - June 17, 2025.</p>
+<ul>
+<li>Mondays: Week’s lesson reminder received via email. Complete lessons on your own schedule.<br>
+</li>
+<li>Wednesdays: Help desk and coworking with the Openscapes team alongside other participants (Optional, via Zoom)</li>
+</ul>
+<p><strong>Who</strong>: FTEs and Affiliates from any Fisheries office, are welcome to sign up. The 40 available spots will be distributed across centers and offices.</p>
+<p><strong>What’s the minimum I need to know?</strong> Absolute beginners are encouraged to apply. People should be comfortable working with data in other contexts (e.g., spreadsheets, databases, GIS, other languages such as Python, Matlab, etc.).</p>
+<p><strong>Cost</strong>: Free. There is no cost to staff or your center/office. This opportunity is supported by NOAA funding to Openscapes.</p>
+<p><strong>How to apply:</strong> If you’re interested in participating, please add yourself to the interest sheet: <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0">DataAcademy_Interest_Spring2025 [ nmfs-openscapes ]</a>. Deadline to apply is close of business, March 24. Selected applicants will be notified April 1. The 40 available spots will be distributed across centers and offices. Participants will be selected by the Openscapes team with input from NMFS Open Science staff and NMFS Openscapes Mentors. If people decline their offer to participate, we will select people from the waitlist, prioritizing people from the same division.</p>
+<p><strong>Frequently asked questions</strong> and details of the curriculum are listed on the <a href="https://nmfs-openscapes.github.io/data-academy">NMFS Openscapes Data Academy page</a>.</p>
+<p><strong>What is Openscapes?</strong> Since 2020, <a href="https://openscapes.org/">Openscapes</a> has helped NOAA Fisheries teams and individuals make substantial progress on difficult workflow transformation goals, such as transitioning to new cloud computing or data storage workflows, improving team awareness and collaboration, and automating (scripting) large data-heavy reports. They have been recognized by the White House, NASA, NIH, California EPA, Posit, Mozilla, and others for their work supporting science teams transitioning to open science and cloud workflows. This opportunity is supported through the “Fully Enable Open Science” initiative in the Fisheries Modernization Strategy. This initiative is part of our NOAA Fisheries Data Strategy and led by the Office of Science and Technology.</p>
+<p>Please share this opportunity with your colleagues across NOAA Fisheries! These details are also listed here: <a href="https://nmfs-openscapes.github.io/data-academy">https://nmfs-openscapes.github.io/data-academy</a>.</p>
+<p>Cheers,<br>
+Stefanie Butland, Julie Lowndes, Andy Teucher, Openscapes<br>
+Eli Holmes, Jon Peake, NMFS Open Science &amp; NMFS Openscapes</p>
+</div>
+</div>
+</div>
+<p>People who were interested in participating signed up in the <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?usp=drive_link">interest sheet</a>. In signing up, participants wrote their learning goals, from which we attempted to infer their experience level (1 = true beginner, 2 = uncertain, 3 = more experienced). We then asked them to return to the spreadsheet and confirm their experience level, and/or optionally remove themselves from consideration for the first cohort.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email sent to participants to confirm experience level
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi All!</p>
+<p>We’re thrilled to see your interest in increasing your R skills and that &gt;150 people have applied to participate in our first NMFS Openscapes Data Academy! With only 40 spots available at a time, we have decided to focus Cohort 1 this spring for “true R beginners” with little or no coding experience and hold 3 additional cohorts in the next 12 months for other R learners. The <a href="https://docs.google.com/document/d/1iQY1JpUZ9Ku2xF_Qb3jwxrCqFFAGYXn0_VqECOOEM3Q/edit?tab=t.0">Data Academy cohorts 2025 doc</a> outlines the plan for each cohort.</p>
+<p><strong>Now we need your help to self-assess so we can select 40 “true beginners” for Cohort 1.</strong> Please review your Cohort assignment (inferred skill level) in <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0">DataAcademy_Interest_Spring2025 [ nmfs-openscapes ]</a>; we currently have &gt;40 applicants labeled as Cohort 1. Assignments were based on your responses to “briefly describe your learning goals for the data academy”, then we (Julie, Andy, Stef, Eli, Jon) assigned cohorts. Have we mis-assigned your skill level? Are you no longer able to commit to ~3 hours a week from April 14 - July 17, 2025 and need to opt out? Please indicate any changes in the spreadsheet COLUMN G and confirm you have reviewed it in COLUMN H by April 7 close of business. After that, we will distribute the 40 available spots across centers and offices and email Cohort 1 with next steps.</p>
+<p>Folks who are not participating in a current cohort can get great support from the NMFS Open Science Help Desk &amp; R User Group. Check out the NMFS Open Science <a href="https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings">Training page</a> for these and other opportunities.</p>
+<p>Thank you all for your enthusiasm for this opportunity, and working with us to provide it to as many folks as possible. We will check in with dates of Cohorts 2-4 as we get closer to them, so you don’t need to commit yet.</p>
+<p>Cheers,<br>
+Stefanie Butland, Andy Teucher, Julie Lowndes, Openscapes<br>
+Eli Holmes, Jon Peake, NMFS Open Science</p>
+</div>
+</div>
+</div>
+<p>The initial plan was to run one cohort of 40 people, but decided to run the equivalent of two cohorts simultaneously, for a total for 80 people.</p>
+<p>We selected all applicants who confirmed their experience as level-1, and chose level-2 applicants if they had confirmed their level, and if their learning goals included clear planned use - enough to complete a cohort of 80 people.</p>
+<p>People who were selected were added to a <code>data-academy</code> Google Group in Openscapes Google Workspace. This Google Group was used for sending mass emails to particpants.</p>
+<p>Particpants were also added to a NOAA <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg">Google Chat Space</a>, for asynchronous help and cooperative learning.</p>
+</section>
+<section id="pre-cohort-engagement" class="level2">
+<h2 class="anchored" data-anchor-id="pre-cohort-engagement">Pre-cohort Engagement</h2>
+<p>Applicants who were selected were sent this email:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example email to selected participants
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hello All,</p>
+<p><strong>We are excited to welcome you to the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a> – our first lessons begin next week on Monday April 14!</strong> Our first cohort for R beginners will be supported with weekly emails, synchronous help desk support from the Openscapes team, and help in a dedicated Google Space. Many thanks to NMFS Openscapes Mentors and NMFS Open Science Team, who have helped shape and amplify this opportunity.</p>
+<p>We are doubling our level-1 R beginners cohort size to 80 people to meet the demand from over 150 signups. Thank you for helping self-assess your skill level; we selected all 70 level-1 folks plus 10 level-2 people, with level-2 folks selected to achieve representation across centers and offices.</p>
+<p><strong>On April 9-10 you will be added to the <a href="http://dataquest.io/">dataquest.io</a> platform with your NOAA email.</strong> Then, we will follow a weekly cadence, April 14 - July 17 (we will share Google Calendar invites via a Google Group, so you will see a few emails as we set that all up):</p>
+<ul>
+<li><strong>Mondays:</strong> Week’s lesson reminder received via email. Complete the lesson on your own schedule.<br>
+</li>
+<li><strong>Wednesdays:</strong> Help desk and coworking with the Openscapes team and data academy colleagues (Optional, via Zoom). Hours will alternate between 1-2pm PT (starting April 16th), and 12-1pm PT (starting April 23).</li>
+</ul>
+<p><strong>Action items.</strong></p>
+<ol type="1">
+<li><strong>If you can no longer actively participate, please reply immediately to this email</strong> so we can give your spot to another R beginner. <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0">DataAcademy_Interest_Spring2025 [ nmfs-openscapes ]</a> lists who else will be participating alongside you.<br>
+</li>
+<li><strong>Check that you’ve received Google Calendar invites for our weekly help desk sessions</strong>. If you have not received these invites, please let us know. We will meet remotely via Zoom, which you can do from the browser without installing any software.</li>
+</ol>
+<p><strong>Additional Information.</strong><br>
+<strong>All Openscapes events abide by our <a href="https://openscapes.org/code-of-conduct">Code of Conduct</a>.</strong> We are dedicated to providing a positive learning environment for all. Please let us know if you require any accommodations or if there is anything we can do to make this cohort more accessible to you.<br>
+Please let us know if you have any questions. Thank you for being a part of this; we’re looking forward to continuing skillbuilding and strengthening relationships and open science across NMFS.</p>
+<p>Cheers,<br>
+Stefanie Butland, Andy Teucher, Ileana Fenwick, Julie Lowndes (Openscapes)<br>
+Eli Holmes, Jon Peake (NMFS Open Science)</p>
+</div>
+</div>
+</div>
+<p>Applicants who were <em>not</em> selected were sent this email:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example email to applicants not selected
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi All!</p>
+<p>Thank you for applying to participate in our first year of NMFS Openscapes Data Academy. To meet the demand we doubled our level 1 R beginners cohort to 80 people and they have been enrolled. From over 150 applicants, we selected everyone who self-assessed as level 1 (70 people), plus 10 people from level 2 selected to achieve representation across centers and offices.</p>
+<p>You are one of the 79 people who signed up but are not in that first cohort. We will support you too: we plan to hold additional cohorts in the next 12 months for R and python learners to learn self-paced through access to the full suite of courses available on the Dataquest platform. You do not need to do anything further to be included. In July, we will get in touch again with a more detailed plan.</p>
+<p>In the meantime, anyone can get great support from the NMFS Open Science Help Desk and R User Group. Check out the <a href="https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/trainings">NMFS Open Science Training page</a> for these and other opportunities.</p>
+<p>Thank you all for your enthusiasm for this opportunity. Please don’t hesitate to reach out to any of us and keep an eye on <a href="https://openscapes.org/connect">other Openscapes events</a> that you are welcome to join.</p>
+<p>Cheers, Stefanie Butland, Andy Teucher, Julie Lowndes, Openscapes Eli Holmes, Jon Peake, NMFS Open Science</p>
+</div>
+</div>
+</div>
+</section>
+<section id="dataquest.io-setup-and-administration" class="level2">
+<h2 class="anchored" data-anchor-id="dataquest.io-setup-and-administration">dataquest.io Setup and Administration</h2>
+<section id="general" class="level3">
+<h3 class="anchored" data-anchor-id="general">General</h3>
+<ul>
+<li>Licences are $283 / year</li>
+<li>The <a href="https://support.dataquest.io/en/categories/18-teams-faq">dataquest Teams FAQ</a> is helpful.</li>
+<li>Email <code>teams@dataquest.io</code> with anything; they’ll get back to us in 24 hours</li>
+<li>Chandra AI is pretty good for in-lesson help (in lower left as working through courses)<br>
+</li>
+<li>There is a voice screenreader in the courses, some learners found it very helpful.</li>
+<li>API to download metrics on learners’ progress for reporting. Scripts and instructions are kept in the <a href="https://github.com/nmfs-openscapes/data-academy">nmfs-openscapes/data-academy repo</a></li>
+</ul>
+</section>
+<section id="steps" class="level3">
+<h3 class="anchored" data-anchor-id="steps">Steps</h3>
+<ul>
+<li>Set up account at <a href="https://www.dataquest.io/for-business/">dataquest.io Teams</a></li>
+<li>We didn’t start with a pilot so that was unusual and caused some hiccups getting access to the account. A few emails and a Zoom meeting got things sorted.</li>
+<li>Julie is the account owner, Andy and Ileana were admins</li>
+<li>They created a custom learning path for us, which consisted of two existing Skills Paths: R Basics for Data Analysis + Data Visualization with R</li>
+<li>Created custom banner and certificate template</li>
+<li>Created bulk upload csv files at: - <a href="https://docs.google.com/spreadsheets/d/11SD1frhnRjZmX2GELjp72jYt0eCBt5R3Ixv5k--q0EQ/edit?gid=115415807#gid=115415807">DataQuest-bulk-upload</a></li>
+<li>Added learners via csv upload, once all in, emailed <code>teams@dataquest.io</code> to get licenses added, we were sent the invoice. They turned off auto-renewal.</li>
+<li>Learners and helpers were given licenses so we could do the lessons</li>
+</ul>
+</section>
+<section id="adding-and-removing-people" class="level3">
+<h3 class="anchored" data-anchor-id="adding-and-removing-people">Adding and removing people</h3>
+<ul>
+<li>Additions and removals annotated manually in the signup sheet <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0">DataAcademy_Interest_Spring2025 [ nmfs-openscapes ]</a><br>
+</li>
+<li>Dataquest initially enrolled the cohort in the custom learning path, but people added after that needed to be added manually:<br>
+<img src="images/dataquest-enroll-custom-path.png" height="200"></li>
+<li>Google Group (Openscapes) is not linked to Google Space (NMFS) - Andy thought he was also adding to the latter when he added to the former</li>
+</ul>
+</section>
+</section>
+<section id="curriculum" class="level2">
+<h2 class="anchored" data-anchor-id="curriculum">Curriculum</h2>
+<p>Dataquest offers many different “Learning Paths”, including <a href="https://www.dataquest.io/data-science-courses/career-paths/">Career Paths</a> and <a href="https://www.dataquest.io/data-science-courses/career-paths/">Skill Paths</a>. These Paths are composed of one or more courses, each of which consist of several lessons.</p>
+<p>Participants complete two Skill Paths (view as <a href="https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0">weekly spreadsheet</a>):</p>
+<section id="r-basics-for-data-analysis-4-courses" class="level4">
+<h4 class="anchored" data-anchor-id="r-basics-for-data-analysis-4-courses"><a href="https://www.dataquest.io/path/r-basics-for-data-analysis/">R Basics for Data Analysis</a> (4 courses)</h4>
+<ul>
+<li><a href="https://www.dataquest.io/course/intro-to-r-rewrite/">Introduction to Data Analysis in R</a> (weeks 1-3)</li>
+<li><a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a> (weeks 3-7)</li>
+<li><a href="https://www.dataquest.io/course/intermediate-r/">Control Flow, Iteration, and Functions in R</a> (weeks 8-9)</li>
+<li><strong>BREAK WEEK</strong></li>
+<li><a href="https://www.dataquest.io/course/intermediate-r-part-two/">Specialized Data Processing in R</a> (weeks 11-12)</li>
+</ul>
+</section>
+<section id="data-visualization-with-r-1-course" class="level4">
+<h4 class="anchored" data-anchor-id="data-visualization-with-r-1-course"><a href="https://www.dataquest.io/path/data-visualization-with-r/">Data Visualization with R</a> (1 course)</h4>
+<ul>
+<li><a href="https://www.dataquest.io/course/r-data-viz/">Introduction to Data Visualization in R</a> (weeks 13-15)</li>
+</ul>
+<p>Participants have access to the full dataquest.io library of courses in addition to the R Curriculum. We recommended the following additional courses for those who had extra capacity:</p>
+<ul>
+<li><a href="https://www.dataquest.io/course/r-data-viz-2/">Introduction to Data Cleaning in R</a></li>
+<li><a href="https://www.dataquest.io/course/git-and-vcs/">Introduction to Git and Version Control</a></li>
+<li><a href="https://www.dataquest.io/course/querying-databases-with-r/">Querying Databases with SQL and R</a></li>
+</ul>
+</section>
+</section>
+<section id="cohort-engagement" class="level2">
+<h2 class="anchored" data-anchor-id="cohort-engagement">Cohort Engagement</h2>
+<section id="weekly-emails" class="level3">
+<h3 class="anchored" data-anchor-id="weekly-emails">Weekly Emails</h3>
+<p>Each Monday morning we sent an email with:</p>
+<ul>
+<li>the week’s lessons</li>
+<li>the topics we would be covering in that week’s demo</li>
+<li>any action items they needed to take</li>
+<li>a reminder of the asynchronous (Google Space) and synchronous (Help Desk) support opportunties</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 1:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef, (Eli &amp; Jon yes on week 1 but not afterwards)<br>
+Subject: Week 1 – NMFS Openscapes Data Academy!</p>
+<p>Hello!</p>
+<p>We are excited to get started on the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a> – our first lessons begin this week!<br>
+<strong>This week (April 14-18)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lesson 1 and 2 of <a href="https://www.dataquest.io/course/intro-to-r-rewrite/">Introduction to Data Analysis in R</a>
+<ul>
+<li>Lesson 1: <a href="https://app.dataquest.io/c/90/m/499/introduction-to-programming-in-r/1/introduction">Introduction to Programming in R</a><br>
+</li>
+<li>Lesson 2: <a href="https://app.dataquest.io/c/90/m/513/arithmetic-expressions-and-variables-in-r/1/understanding-arithmetic-operators-in-r">Arithmetic Expressions and Variables in R</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday April 16, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a></li>
+</ul>
+<p><strong>Action items:</strong></p>
+<ol type="1">
+<li><p><strong>Check that you’ve received an invitation to the <a href="http://dataquest.io">dataquest.io</a> platform.</strong> If you have not received these invites, please reply to Andy. On April 11 you were added to dataquest.io with your NOAA email. Also please verify in your account profile that your name is displayed as you would like it - this will be used when you earn certificates for completing courses.<br>
+</p></li>
+<li><p><strong>Check that you’ve received Google Calendar invites for our (optional) weekly Wednesday help desk sessions</strong>. If you have not received these invites, please reply to Andy. Come with questions or to complete your lessons on your own, but with company through coworking! We will meet remotely via Zoom, which you can do from the browser without installing any software.</p></li>
+<li><p><strong>Install R and RStudio on your computer by week 3.</strong> We know that each center has a different process for software installation so please try to action this as soon as you are able.</p></li>
+</ol>
+<p>You will be supported by Openscapes team members Andy Teucher and Ileana Fenwick. Between us we have more than 20 years of experience as R users and developers, in marine science, ecology and conservation, and supporting open science in government, academia, and industry.</p>
+<p><strong>Cohort background information.</strong> We will follow a weekly cadence, April 14 - July 11. We encourage everyone to be active in the Cohort as you are able to; peer-learning and peer-teaching is an incredibly effective way to understand and solidify what you’re learning in the DataQuest platform</p>
+<ul>
+<li><strong>Mondays:</strong> Week’s lesson reminder received via email. Complete the lesson(s) on your own schedule.<br>
+</li>
+<li><strong>Wednesdays:</strong> Help desk and coworking with the Openscapes team and data academy colleagues (Optional, via <a href="https://zoom.us/j/91025564590">Zoom</a>). Hours will alternate between 1-2pm PT (starting April 16th), and 12-1pm PT (starting April 23).<br>
+</li>
+<li><strong>Asynchronous:</strong> Asking questions and learning from each other in the <a href="https://mail.google.com/mail/u/0/#chat/space/AAQA5_f7MGg">Google Space</a>.</li>
+</ul>
+<p>Over the course of the next 13 weeks we will be completing two “Skills Paths” in the <a href="https://www.dataquest.io/">DataQuest</a> platform:</p>
+<ol type="1">
+<li><a href="https://www.dataquest.io/path/r-basics-for-data-analysis/">R Basics for Data Analysis</a><br>
+</li>
+<li><a href="https://www.dataquest.io/path/data-visualization-with-r/">Data Visualization with R</a></li>
+</ol>
+<p>Please let us know if you have any questions. We are dedicated to providing a positive learning environment for all. Please let us know if there is anything we can do to help you throughout the cohort, as we want to make this opportunity most effective for you. Thank you for being a part of this; we’re looking forward to continuing skillbuilding and workforce development across NOAA Fisheries with you.</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland (Openscapes)<br>
+Eli Holmes, Jon Peake (NMFS Open Science)</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 2:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef<br>
+Subject: Week 2 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 2 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a><strong>!</strong></p>
+<p><strong>This week (April 21-25)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lesson 3 and 4 of <a href="https://www.dataquest.io/course/intro-to-r-rewrite/">Introduction to Data Analysis in R</a>
+<ul>
+<li>Lesson 3: <a href="https://app.dataquest.io/c/90/m/517?_gl=1*17yvbpe*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..">Logical Expressions in R</a><br>
+</li>
+<li>Lesson 4: <a href="https://app.dataquest.io/c/90/m/500?_gl=1*1uo8u2a*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..">Data Manipulation with R: Basics</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday April 23, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>We had a fun and productive Help Desk session last week, with a small but very engaged group of learners. You can see our collaborative notes document <a href="https://app.dataquest.io/learning/path/intro-to-r-data-visualization-custom-track">here</a> - we will add to this each week when we meet.</p>
+<p><strong>Action items:</strong></p>
+<ol type="1">
+<li><strong>Install R and RStudio on your computer by week 3 (next week).</strong> We know that each center has a different process for software installation so please try to action this as soon as you are able. There was a short discussion about it in our <a href="https://chat.google.com/room/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE?cls=10">Google Space last week</a>.<br>
+</li>
+<li><strong>Please try to follow the learning schedule we are suggesting as much as possible.</strong> Learning in a cohort will be more enjoyable and productive than going it alone, and it will get harder to catch up as time goes on and the lessons get more complex. That said, we understand that everyone is dealing with a lot right now, so please let us know if there is anything we can do to help make your learning journey more manageable.</li>
+</ol>
+<p><strong>Update:</strong> Dataquest have created a custom <a href="https://app.dataquest.io/learning/path/intro-to-r-data-visualization-custom-track">Learning Path</a> for us, consisting of <a href="https://www.dataquest.io/path/r-basics-for-data-analysis/">R Basics for Data Analysis</a>, and <a href="https://www.dataquest.io/path/data-visualization-with-r/">Data Visualization with R</a>. You don’t need to action anything here; you have been automatically enrolled. It is the same curriculum we have been following, and your completed lessons will apply to all applicable paths, including this new one.</p>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 3:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef<br>
+Subject: Week 3 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 3 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a><strong>!</strong></p>
+<p><strong>This week (April 21-25)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Last lesson of <a href="https://www.dataquest.io/course/intro-to-r-rewrite/">Introduction to Data Analysis in R</a>, and first lesson of <a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a>:
+<ul>
+<li>Lesson 5 of Introduction to Data Analysis in R: <a href="https://app.dataquest.io/c/90/m/501?_gl=1*1uo8u2a*_gcl_au*MTI4MzIzODQwMS4xNzQ0MDUzODU0*_ga*NDYwNDcxMjk1LjE3NDQwNTM4NTQ.*_ga_YXMFSKC6DP*MTc0NDMyNjIxMi43LjEuMTc0NDMyNjI4OS41OC4wLjY1NDU5OTU2MQ..">Project: Install RStudio</a><br>
+</li>
+<li>Lesson 1 of Data Structures in R: <a href="https://app.dataquest.io/c/92/m/502/vectors-in-r/1/introduction-to-data-structures-generating-vectors">Vectors in R</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday April 30, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Help Desk sessions remain small so far, so lots of space to chat and ask questions if you want to join us! I anticipate that as lessons get more complex the sessions will get busier! You can see our collaborative notes document <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">here</a> - we will add to this each week when we meet. Also remember that our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a> is a great place to ask (and help answer) questions between Help Desk sessions!</p>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 4:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef<br>
+Subject: Week 4 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 4 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a><strong>!</strong><br>
+<strong>This week (May 5-9)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Just one lesson this week:
+<ul>
+<li>Lesson 2 of <a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a>: <a href="https://app.dataquest.io/c/92/m/503">Matrics</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday May 7, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>For those who want to know what’s ahead, here is our <a href="https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?usp=sharing">full weekly plan</a> for working through the Intro to R and Data Visualization with R learning path in dataquest. If you are having trouble keeping up, feel free to reach out directly to me or Ileana and we would love to help you.</p>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!<br>
+Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 5:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef<br>
+Subject: Week 5 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 5 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a><strong>!</strong><br>
+<strong>This week (May 12-16)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Just one lesson this week:
+<ul>
+<li>Lesson 2 of <a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a>: <a href="https://app.dataquest.io/c/92/m/504">Lists</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday May 14, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>We are going to try something new in the Help Desk sessions going forward: Starting this week Ileana or I will walk through one or two of the sections in the lesson(s) from the week - this week it is “Lists”. Lists in R are a bit of a strange animal if you haven’t encountered them before, so we will talk through some of the trickier bits of the lesson.</p>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!<br>
+Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 6:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Julie, Stef<br>
+Subject: Week 6 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 6 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>! Apologies for the late email this week.<br>
+<strong>This week (May 19-23)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Just one lesson again this week:
+<ul>
+<li>Lesson 4 of <a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a>: <a href="https://app.dataquest.io/c/92/m/493">Dataframes</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday May 20, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Last week Ileana and I walked through some of the trickier parts of the “Lists” lessons, and there was lots of good discussion! This week we will do the same for Data Frames. Data Frames are a fundamental structure in data analysis, and I hope this week you will start to see how they will apply to your work in a more tangible way.<br>
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!<br>
+Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 7:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-11" class="callout-11-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 7 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 7 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>!</p>
+<p><strong>This week (May 26-30)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> One lesson this week, but it’s a bigger one:
+<ul>
+<li>Lesson 5 of <a href="https://www.dataquest.io/course/datastructure-in-r-rewrite/">Data Structures in R</a>: <a href="https://app.dataquest.io/c/92/m/505">Guided Project: Investigating COVID-19 Virus Trends</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday May 28, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a><br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>The guided project in this week’s lesson brings together a lot of the concepts you’ve learned in the preceding weeks. It may take you a bit more time as you actively practice and build on the skills we have learned so far, and that’s okay. There are many ways to get help if you need it! You can post in the Google Space so everyone can benefit from the conversation, and please do come to the Help Desk on Wednesday if you can. People have had good luck with the Chandra AI assistant in the dataquest platform, and dataquest links to their version of the solution in the last page of the lesson. I have also put my version on <a href="https://github.com/nmfs-openscapes/data-academy/tree/main/guided-projects">GitHub</a>.</p>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us! This week and in the future, we’ll be joined in our Help Desk sessions by the amazing Cassie Nickles, so we will have lots of support to help answer your questions and dig into any issues.</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+<p>PS:<br>
+We had originally planned to have two lessons this week, but since the guided project is a fairly heavy task and it’s a short week due to the holiday, we have decided to push the first lesson of <a href="https://www.dataquest.io/course/intermediate-r/">Control Flow, Iterations, and Functions</a> to next week. We’ve updated the <a href="https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0">curriculum schedule</a> accordingly.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-12-contents" aria-controls="callout-12" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 8:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-12" class="callout-12-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 8 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 8 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>!</p>
+<p><strong>This week (June 2-6)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lessons 1 and 2 of <a href="https://www.dataquest.io/course/intermediate-r/">Contol Flow, Iteration, and Functions (4 hrs)</a>:
+<ul>
+<li>Lesson 1: <a href="https://app.dataquest.io/c/88/m/494">Control Flow in R</a><br>
+</li>
+<li>Lesson 2: <a href="https://app.dataquest.io/c/88/m/514">Iterations in R</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday May 28, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a>.<br>
+</li>
+<li>We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the thornier bits of this week’s lessons.<br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 9:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-13" class="callout-13-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 9 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 9 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>!</p>
+<p><strong>This week (June 9 - 13)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lessons 3 and 4 of <a href="https://www.dataquest.io/course/intermediate-r/">Contol Flow, Iteration, and Functions (4 hrs)</a>:
+<ul>
+<li>Lesson 1: <a href="https://app.dataquest.io/c/88/m/495">Functions in R</a><br>
+</li>
+<li>Lesson 2: <a href="https://app.dataquest.io/c/88/m/498">Guided Project: Creating An Efficient Data Analysis Workflow</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday June 11, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a>.<br>
+</li>
+<li>We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the thornier bits of this week’s lessons.<br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us! We’ll try to spend some time going over functions, as well as the guided project.</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-14-contents" aria-controls="callout-14" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 10 (Break week):
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-14" class="callout-14-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 10 – NMFS Openscapes Data Academy! Break Week!</p>
+<p>Hello, and welcome to Week 10 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>!</p>
+<p><strong>This week (June 16-20)</strong></p>
+<ul>
+<li>We’re taking a break this week! We recognize that keeping up this pace of lessons is a lot, and so we’ve decided to add in a week with no new lessons. Please take a breather, take some time to catch up if you need, and/or review things from previous weeks. We’ve updated the <a href="https://docs.google.com/spreadsheets/d/1CVpthda3gOVT57nTOfdXjXuAr0vwc5k7avQtDJu-K8I/edit?gid=0#gid=0">curriculum</a> accordingly, and will extend the schedule by one additional week (wrapping up the scheduled lessons the week of July 21).<br>
+</li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday June 18, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a>.<br>
+</li>
+<li>We will be available for questions and discussions, make breakout rooms for quiet work or specific help, and give you any other support you need.<br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-15-contents" aria-controls="callout-15" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 11:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-15" class="callout-15-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 11 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 11 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>! We hope the break from new lessons last week was helpful, and look forward to working on this week’s lessons with you! This week we are looking at manipulation of character strings, and working with dates and times in R - both critical components of data analysis!</p>
+<p><strong>This week (June 23-27)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lessons 1 and 2 of <a href="https://www.dataquest.io/course/intermediate-r-part-two/">Specialized Data Processing</a>:
+<ul>
+<li>Lesson 1: <a href="https://app.dataquest.io/c/94/m/496">String Manipulation in R: Fundamentals</a><br>
+</li>
+<li>Lesson 2: <a href="https://app.dataquest.io/c/94/m/497">Date and Time Manipulation in R: Fundamentals</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday June 25, 1-2pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a>.<br>
+</li>
+<li>We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the trickier bits of this week’s lessons.<br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-16-contents" aria-controls="callout-16" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email for participants - Week 12:
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-16" class="callout-16-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Week 12 – NMFS Openscapes Data Academy!</p>
+<p>Hello, and welcome to Week 12 of the 2025 <a href="https://nmfs-openscapes.github.io/data-academy.html">NMFS Openscapes Data Academy</a>!<br>
+This week we are looking at a new way of iterating in R, using the <code>map()</code> function. This is more common in R than using loops, but understanding one will help you understand the other. We also continue to build on the guided project from Week 9, putting into practice some practical skills like working with missing data, and getting more practice using <code>dplyr</code> functions to manipulate and summarize data.</p>
+<p><strong>This week (June 30 - July 4)</strong></p>
+<ul>
+<li><strong>Curriculum goals:</strong> Lessons 3 and 4 of <a href="https://www.dataquest.io/course/intermediate-r-part-two/">Specialized Data Processing</a>:
+<ul>
+<li>Lesson 3: <a href="https://app.dataquest.io/c/94/m/515">The Map Function in R</a><br>
+</li>
+<li>Lesson 4: <a href="https://app.dataquest.io/c/94/m/516">Guided Project: Creating An Efficient Data Analysis Workflow, Part 2</a><br>
+</li>
+</ul></li>
+<li><strong>Help Desk :</strong><br>
+</li>
+<li>Wednesday July 2, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a>.<br>
+</li>
+<li>We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the trickier bits of this week’s lessons.<br>
+</li>
+<li><strong>Ongoing asynchronous discussion</strong> in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us!<br>
+Cheers,<br>
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-17-contents" aria-controls="callout-17" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Certificate reminder email (sent separately in week 11)
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-17" class="callout-17-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>To: All 80 participants<br>
+From: Andy<br>
+Cc: Ileana, Cassie, Julie, Stef<br>
+Subject: Data Academy - dataquest.io certificates!</p>
+<p>Hi everyone!</p>
+<p>You’ve all been doing awesome work and making progress working through the Data Academy <a href="https://nmfs-openscapes.github.io/data-academy#curriculum">curriculum</a> at your own pace! Whether you’ve completed one course or five, you’ve gained valuable skills along the way. With just <strong>4 weeks remaining</strong> in our program, now’s the perfect time to push toward earning your next certificate!</p>
+<p><strong>Here’s what’s available to you:</strong></p>
+<p><strong>Individual Course Certificates</strong> - Complete any of the courses in the curriculum to earn a certificate for that specific course.</p>
+<p><strong>Path Certificates</strong> - Finish an entire learning path (<a href="https://www.dataquest.io/path/r-basics-for-data-analysis/">R Basics for Data Analysis</a> OR <a href="https://www.dataquest.io/path/data-visualization-with-r/">Data Visualization with R</a>) to earn a comprehensive path certificate that showcases your complete skill set in that area. Complete both of these paths and you will have completed our custom “<a href="https://app.dataquest.io/signup?path=intro-to-r-data-visualization-custom-track">Introduction to R and Data Visualization</a>” path.</p>
+<p><strong>How to claim your certificates:</strong> Once you complete a course or path, Dataquest automatically generates your certificate. You can see what certificates you have earned by clicking on your profile in the top right, and then click “Profile” - you can download them all at the bottom of the page!</p>
+<p><strong>Your access continues until August 18th</strong>. Whether you’re close to finishing a course or ready to complete an entire path, every certificate you earn represents real progress in your data journey.</p>
+<p><strong>Need help getting to the finish line?</strong> Join us at the Wednesday Help Desk - we’re here to help you navigate any challenges and make sure you get the certificates you’re working toward.</p>
+<p>You’ve already invested so much time and effort, and the certificates are a nice way to show it!</p>
+<p>Cheers,</p>
+<p>Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+</section>
+<section id="google-space" class="level3">
+<h3 class="anchored" data-anchor-id="google-space">Google Space</h3>
+<p>We created a Google Space in the NMFS organization, and used it for asynchronous chat and help. We posted reminders about the Help Desk sessions and other announcements, and links to Help Desk notes and recording after the sessions. Participants used it to ask and answer questions.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-18-contents" aria-controls="callout-18" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Opening message in Google Space
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-18" class="callout-18-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi everyone, welcome to the NMFS Data Academy for R!</p>
+<p>We hope you’ll use this space to ask and answer questions, and chat about what we’re learning - for example, where it might be applicable to your work, what it’s inspired you to think about, or even question when and how it might be relevant. Ileana Fenwick and I are also here to answer your questions, and to listen to your feedback about how it is going. I’m really looking forward to working with all of you!</p>
+</div>
+</div>
+</div>
+<p>Next time we should give more tips about using markdown code formatting in the Google Space:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-19-contents" aria-controls="callout-19" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Code formatting message
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-19" class="callout-19-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>To format code in chat here, you can use special code formatting: For inline code, surround the code with single backticks (eg., `character`). For code blocks, you surround it with "fences" of three backticks, or in the formatting toolbar click the "code block" button to insert a code block.
+
+```
+library(tidyverse)
+
+read_csv("file.csv")
+```
+
+(This is markdown formatting that is commonly used to write code in forums like this, here is GitHub's instructions.</code></pre>
+</div>
+</div>
+</div>
+</section>
+<section id="help-desk" class="level3">
+<h3 class="anchored">Help Desk</h3>
+<p>We ran a weekly 1-hour help desk session on Wednesdays, alternating 12-1 pm and 1-2 pm PT. These time slots were chose to accomadate time zones from Alasaka to Eastern. We received comments that Wedndesdays weren’t ideal as it was often too early in the week and people were not able to progress far enough to have questions ready.</p>
+<p>Stefanie ran the logistics of the Help Desk sessions, and there were usually at least two, often three, helpers attending (Andy and/or Cassie and/or Ileana).</p>
+<p>Help Desks began as informal, unstructured Q&amp;A sessions, but evolved over the weeks. To try to make them more engaging, and entice people to come, we started choosing one or two lessons from the week and did a screen-sharing walkthrough in the main room. We had one breakout room for independent quiet work, one for active Q&amp;A with a helper, and sometimes one breakout room with a second demo/walkthrough by a helper.</p>
+<p>Attendees signed in to the roll call, and added any specific questions/topics they wanted to discuss. We added a “silent journaling” section at the beginning, where people would write in the doc:</p>
+<ol type="1">
+<li>Something you feel good about learning</li>
+<li>A place where you are feeling stuck</li>
+</ol>
+<p>Attendees voted and/or discussed (depending on numbers) as to what the main room demo topic would be.</p>
+<p>In general, we had between 3 and 10 attendees, with about 4-5 “regulars” who came to almost every session.</p>
+<p>We recorded the demos in the main Zoom room, starting with Lesson 7, and shared them in a <a href="https://drive.google.com/drive/folders/1-McZ9o2fNCiC-paaD_KfExkpZ0VMGomE">Google Drive</a>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-20-contents" aria-controls="callout-20" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Example Help Desk session agenda/coworking doc
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-20" class="callout-20-contents callout-collapse collapse">
+<section id="template-month-dd-2025" class="level2 callout-body-container callout-body">
+<h2 class="anchored" data-anchor-id="template-month-dd-2025"><strong>Template Month DD, 2025</strong></h2>
+<p><em>Edit description below for each week</em><br>
+<strong>This week (June 9 - 13). Curriculum goals:</strong> Lessons x and y of [Lesson]:</p>
+<ul>
+<li>Lesson 1: [Link to lesson]<br>
+</li>
+<li>Lesson 2: [Link to lesson]</li>
+</ul>
+<section id="roll-call" class="level3">
+<h3 class="anchored" data-anchor-id="roll-call"><strong>Roll Call</strong></h3>
+<p>Name / organization / what brings you here today?</p>
+<ul>
+<li>Andy Teucher / Openscapes / here to help!<br>
+</li>
+<li>Ileana Fenwick / Openscapes / here to help!<br>
+</li>
+<li>Stef Butland / Openscapes / infrastructure support for the help desk<br>
+</li>
+<li>Cassie Nickles / Openscapes / here to help!<br>
+</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</section>
+<section id="welcome" class="level3">
+<h3 class="anchored" data-anchor-id="welcome"><strong>Welcome</strong></h3>
+<p>Announcements, etc.</p>
+</section>
+<section id="silent-journaling" class="level3">
+<h3 class="anchored" data-anchor-id="silent-journaling"><strong>Silent Journaling</strong></h3>
+<p>Please take a moment to share:</p>
+<p>1) Something you feel good about learning</p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p>2) A place where you are feeling stuck.</p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</section>
+<section id="questions-discussion" class="level3">
+<h3 class="anchored" data-anchor-id="questions-discussion"><strong>Questions &amp; Discussion</strong></h3>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</section>
+<section id="breakout-rooms" class="level3">
+<h3 class="anchored" data-anchor-id="breakout-rooms"><strong>Breakout rooms</strong></h3>
+<p><em>Please add a topic to a room below. Add your name to any room you join. Add notes and links to resources. We can come together at 10 mins before the end.</em></p>
+<p>Main - Switchboard &amp; Demo</p>
+<ul>
+<li>Who’s in the room - Stef<br>
+</li>
+<li></li>
+<li></li>
+</ul>
+<p>Room 1 - Q &amp; A</p>
+<ul>
+<li>Who’s in the room -<br>
+</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p>Room 2 - Quiet Work</p>
+<ul>
+<li>Who’s in the room -<br>
+</li>
+<li></li>
+<li></li>
+</ul>
+<p>Room 3 -</p>
+<ul>
+<li>Who’s in the room -<br>
+</li>
+<li></li>
+<li></li>
+</ul>
+<p>Room 4 -</p>
+<ul>
+<li>Who’s in the room -<br>
+</li>
+<li></li>
+<li></li>
+</ul>
+</section>
+</section>
+</div>
+</div>
+</section>
+<section id="mid-course-survey" class="level3">
+<h3 class="anchored" data-anchor-id="mid-course-survey">Mid-Course Survey</h3>
+</section>
+<section id="engagement-with-those-falling-behind" class="level3">
+<h3 class="anchored" data-anchor-id="engagement-with-those-falling-behind">Engagement with those falling behind</h3>
+<p>In week 5, we identified about 20 people who had not so far started the curriculum (had less than 1 hour in the platform). We wanted to help them if we could, and give them a way to gracefully give up their spot if they couldn’t continue at this time. We emailed each of them:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-21-contents" aria-controls="callout-21" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email template for those falling behind
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-21" class="callout-21-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi <strong>Name,</strong></p>
+<p>I wanted to reach out to see how I can support you in getting started in our Intro to R and Data Visualization course through DataQuest. We are on Week 5 of our weekly learning plan and we’d like to ensure you are able to catch up and complete the course with this cohort.</p>
+<p>I invite you to use either of the support options below or respond here and let me know how we can help you get started. Learning a new tool can be a challenge and we are here to help in any way we can!</p>
+<ul>
+<li>Help Desk :
+<ul>
+<li>Wednesday May 14, 12-1pm PT. <a href="https://zoom.us/j/91025564590">https://zoom.us/j/91025564590</a><br>
+</li>
+<li>Our shared <a href="https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0">notes document</a><br>
+</li>
+</ul></li>
+<li>Ongoing asynchronous discussion in our <a href="https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE">Google Space</a></li>
+</ul>
+<p>If you don’t feel you have the time or capacity to complete the course at this time, please let us know as spots are limited and we will invite another participant.</p>
+<p>Have a great week!</p>
+<p>Cheers,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<p>Several people opted to give up their spot. We identified people on the waiting list, and sent them an email offering them a spot:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-22-contents" aria-controls="callout-22" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Email template offering a new spot mid-stream
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-22" class="callout-22-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Hi [Name],</p>
+<p>I’m reaching out because you previously expressed interest in the <a href="https://nmfs-openscapes.github.io/data-academy">NMFS-Openscapes Data Academy</a>, but weren’t initially selected to participate.</p>
+<p>A spot has opened up, and we are hoping you might still be interested in participating. We are on Week 5 of our planned 13 week curriculum. The planned curriculum is intended to take us up to the week of July 14, but you will have access to the platform until August 14. You should have time to complete all of the material, you will just be on a different schedule from the rest of the group. That said, Ileana and I will be here to support you, so don’t feel as if you will be on your own!</p>
+<p>Please have a look at the <a href="https://nmfs-openscapes.github.io/data-academy">course website</a> and let me know as soon as you can if you would like to join us.</p>
+<p>Thanks so much,<br>
+Andy Teucher, Ileana Fenwick, Julie Lowndes, Stefanie Butland</p>
+</div>
+</div>
+</div>
+<p>Those that removed themselves from the course had this recorded in the <a href="https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0">participants selection sheet</a>, as were those who were subsequently added.</p>
+</section>
+</section>
+<section id="tracking-progess" class="level2">
+<h2 class="anchored" data-anchor-id="tracking-progess">Tracking progess</h2>
+<p>Participants progress could be tracked through the <em>Team Admin</em> portal using pre-populated reports, and raw data could be accessed through the <a href="https://support.dataquest.io/en/articles/680-teams-api-documentation">Teams API</a>.</p>
+<p>We used the API to generate reports and figures on progess, these scripts are in the <a href="https://github.com/nmfs-openscapes/data-academy">NMFS-Openscapes Data Academy repo</a>.</p>
+</section>
+<section id="lessons-learned" class="level2">
+<h2 class="anchored" data-anchor-id="lessons-learned">Lessons Learned</h2>
+<ul>
+<li>Explicitly ask about people’s coding experience - this was meant to be for complete beginners, but hard to infer from their description of learning goals.</li>
+<li>Wednesdays not great for help desk - too early in the week when there are “due dates” at the end of the week… some learners hadn’t had enough time to work on the lessons by Wednesday.</li>
+<li>Help Desk walkthough recordings are useful.</li>
+<li>A break week was suggested by a participant, and it was a great idea! We did it in Week 10.</li>
+<li>This schedule ended up being a bit aggressive, and learners found it difficult to dedicate the time and energy required. This was in part due to the intensity of the schedule, and in large part due to increased stress and workload in their jobs. This was exacerbated by coinciding with field season.</li>
+</ul>
+<section id="dataquest-platform-content" class="level3">
+<h3 class="anchored" data-anchor-id="dataquest-platform-content">DataQuest platform / content</h3>
+<ul>
+<li>The platform is pretty good, easy to navigate, saves your progress.</li>
+<li>Chandra AI assistant is useful</li>
+<li>Some of the content is a bit dated:
+<ul>
+<li>tidyverse - some syntax updates (e.g., <code>.default</code> in <code>case_when()</code>, <code>show_col_types</code> in <code>read_csv</code>)</li>
+<li>Use .Rmd instead of Quarto</li>
+<li>should we really be teaching rbind and cbind?</li>
+</ul></li>
+<li>Not enough material on actually <em>working in RStudio</em>, using projects, etc. Maybe would be good to insert a “Coding Strategies” talk/lesson?</li>
+<li>Are functions and <code>map()</code> really necessary for an intro course?</li>
+<li>Takes a bit long to get to actually working with and manipulating data with the tidyverse, quite a lot of foundational material at the beginning, which is good in the long run but not very motivating.</li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/openscapes\.github\.io\/approach-guide");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../approach/qual-assessment.html" class="pagination-link" aria-label="Qualitative Assessment">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Qualitative Assessment</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../champions/index.html" class="pagination-link" aria-label="Champions Program">
+        <span class="nav-page-text">Champions Program</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© CC-By Openscapes Core Team. Openscapes Approach Guide (Version v0.0.1).</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/openscapes/approach-guide/edit/main/approach/data-academy.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/openscapes/approach-guide/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
