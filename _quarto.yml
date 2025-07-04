@@ -44,6 +44,7 @@ website:
           - approach/partners.md
           - approach/calendar.md
           - approach/qual-assessment.qmd
+          - approach/data-academy.qmd
       - section: champions/index.qmd
         contents:
           - champions/design.md
