@@ -1,5 +1,6 @@
 ---
 title: Data Academy
+format: html
 ---
 
 We ran a [Data Academy for NOAA Fisheries](https://nmfs-openscapes.github.io/data-academy) in 2025, where a cohort of learners used [dataquest](https://www.dataquest.io/) to learn the basics of R and data science.
@@ -158,22 +159,35 @@ Eli Holmes, Jon Peake, NMFS Open Science
 
 ## dataquest.io Setup and Administration
 
+### General
+
+*   Licences are $283 / year
+*   The [dataquest Teams FAQ](https://support.dataquest.io/en/categories/18-teams-faq) is helpful.
+*   Email `teams@dataquest.io` with anything; they’ll get back to us in 24 hours
+*   Chandra AI is pretty good for in-lesson help (in lower left as working through courses)  
+*   There is a voice screenreader in the courses, some learners found it very helpful.
+*   API to download metrics on learners' progress for reporting. 
+    Scripts and instructions are kept in the [nmfs-openscapes/data-academy repo](https://github.com/nmfs-openscapes/data-academy)
+
+### Steps
 
 *   Set up account at [dataquest.io Teams](https://www.dataquest.io/for-business/)
-*   We didn’t start with a pilot so that was unusual and caused some hiccups getting access to the account
-*   [dataquest Teams FAQ](https://support.dataquest.io/en/categories/18-teams-faq)
-*   $283 / license / year
-*   Learners and helpers were given licenses
-*   Julie is the account ownder, Andy and Ileana were admins
-*   Email `teams@dataquest.io` with anything; they’ll get back to us in 24 hours
-*   They will be create a custom path with the two paths (R Basics \+ Visualization) 
-*   Chandra AI for help (in lower left as working through courses)  
-*   Community forum  
-*   API to download metrics on learners for reporting  
-*   Added a voice screenreader to courses, rolling out over the next six weeks
+*   We didn’t start with a pilot so that was unusual and caused some hiccups getting access to the account. 
+    A few emails and a Zoom meeting got things sorted.
+*   Julie is the account owner, Andy and Ileana were admins
+*   They created a custom learning path for us, which consisted of two existing Skills Paths: R Basics for Data Analysis + Data Visualization with R
 *   Created custom banner and certificate template
 *   Created bulk upload csv files at: - [DataQuest-bulk-upload](https://docs.google.com/spreadsheets/d/11SD1frhnRjZmX2GELjp72jYt0eCBt5R3Ixv5k--q0EQ/edit?gid=115415807#gid=115415807)
-*   Added learners via csv upload, once all in, email `teams@dataquest.io` to get licenses added, we were sent the invoice. They turned off auto-renewal.
+*   Added learners via csv upload, once all in, emailed `teams@dataquest.io` to get licenses added, we were sent the invoice. They turned off auto-renewal.
+*   Learners and helpers were given licenses so we could do the lessons
+
+### Adding and removing people
+
+- Additions and removals annotated manually in the signup sheet [DataAcademy\_Interest\_Spring2025 \[ nmfs-openscapes \]](https://docs.google.com/spreadsheets/d/1Kzl6akKd030oz-qPzBrikVbHyrjOLR7EgG5emSDkq9Q/edit?gid=0#gid=0)  
+- Dataquest initially enrolled the cohort in the custom learning path, but people added after that needed to be added manually:  
+![](images/dataquest-enroll-custom-path.png){ height=200px }
+- Google Group (Openscapes) is not linked to Google Space (NMFS) - Andy thought he was also adding to the latter when he added to the former
+
 
 ## Curriculum
 
@@ -193,7 +207,7 @@ Participants complete two Skill Paths (view as [weekly spreadsheet](https://docs
 
 -   [Introduction to Data Visualization in R](https://www.dataquest.io/course/r-data-viz/) (weeks 13-15)
 
-Participants have access to the full dataquest.io library of courses in addition to the R Curriculum. We recommend the following additional courses for those who had extra capacity:
+Participants have access to the full dataquest.io library of courses in addition to the R Curriculum. We recommended the following additional courses for those who had extra capacity:
 
 -   [Introduction to Data Cleaning in R](https://www.dataquest.io/course/r-data-viz-2/)
 -   [Introduction to Git and Version Control](https://www.dataquest.io/course/git-and-vcs/)
@@ -550,6 +564,36 @@ Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
 
 :::
 
+
+::: {.callout-tip collapse="true"}
+
+### Email for participants \- Week 12:
+
+To: All 80 participants  
+From: Andy  
+Cc: Ileana, Cassie, Julie, Stef  
+Subject: Week 12 – NMFS Openscapes Data Academy\!
+
+Hello, and welcome to Week 12 of the 2025 [NMFS Openscapes Data Academy](https://nmfs-openscapes.github.io/data-academy.html)\!   
+This week we are looking at a new way of iterating in R, using the `map()` function. This is more common in R than using loops, but understanding one will help you understand the other. We also continue to build on the guided project from Week 9, putting into practice some practical skills like working with missing data, and getting more practice using `dplyr` functions to manipulate and summarize data.
+
+**This week (June 30 \- July 4\)**
+
+* **Curriculum goals:** Lessons 3 and 4 of [Specialized Data Processing](https://www.dataquest.io/course/intermediate-r-part-two/):  
+  * Lesson 3: [The Map Function in R](https://app.dataquest.io/c/94/m/515)  
+  * Lesson 4: [Guided Project: Creating An Efficient Data Analysis Workflow, Part 2](https://app.dataquest.io/c/94/m/516)  
+*  **Help Desk :**  
+  * Wednesday July 2, 12-1pm PT. [https://zoom.us/j/91025564590](https://zoom.us/j/91025564590)  
+  * Our shared [notes document](https://docs.google.com/document/d/17uEkQ-1MIDcBlGBzW_ROlyoKFZ2hJ8iy_4IC3ekKghI/edit?tab=t.0).  
+  * We will have space for questions and discussion, breakout rooms for quiet work or specific help, and we’ll walk through some of the trickier bits of this week’s lessons.   
+* **Ongoing asynchronous discussion** in our [Google Space](https://mail.google.com/chat/u/0/#chat/space/AAQA5_f7MGg/APHglI80sBE/APHglI80sBE)
+
+Have a great week, and we’d love to see you in the Help Desk session on Wednesday if you would like to join us\!   
+Cheers,   
+Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
+
+:::
+
 ::: {.callout-tip collapse="true"}
 
 ## Certificate reminder email (sent separately in week 11)
@@ -584,6 +628,40 @@ Andy Teucher, Ileana Fenwick, Cassie Nickles, Julie Lowndes, Stefanie Butland
 :::
 
 ### Google Space
+
+We created a Google Space in the NMFS organization, and used it for asynchronous
+chat and help. We posted reminders about the Help Desk sessions and other announcements, and links to Help Desk notes and recording after the sessions.
+Participants used it to ask and answer questions.
+
+::: {.callout-tip collapse="true"}
+
+## Opening message in Google Space
+
+Hi everyone, welcome to the NMFS Data Academy for R! 
+
+We hope you'll use this space to ask and answer questions, and chat about what we're learning - for example, where it might be applicable to your work, what it's inspired you to think about, or even question when and how it might be relevant. Ileana Fenwick and I are also here to answer your questions, and to listen to your feedback about how it is going. I'm really looking forward to working with all of you!
+
+:::
+
+Next time we should give more tips about using markdown code formatting in the Google Space:
+
+::: {.callout-tip collapse="true"}
+
+## Code formatting message
+
+````
+To format code in chat here, you can use special code formatting: For inline code, surround the code with single backticks (eg., `character`). For code blocks, you surround it with "fences" of three backticks, or in the formatting toolbar click the "code block" button to insert a code block.
+
+```
+library(tidyverse)
+
+read_csv("file.csv")
+```
+
+(This is markdown formatting that is commonly used to write code in forums like this, here is GitHub's instructions.
+````
+
+:::
 
 ### Help Desk
 
@@ -768,7 +846,28 @@ We used the API to generate reports and figures on progess, these scripts are in
 ## Lessons Learned
 
 *	Explicitly ask about people's coding experience - this was meant to be for 
-    complete beginners, but hard to infer from their description of learning goals.
-*	Wednesdays not great for help desk
-*	Help Desk walkthough recordings
-*	break week
+  complete beginners, but hard to infer from their description of learning goals.
+*	Wednesdays not great for help desk - too early in the week when there are "due dates"
+  at the end of the week... some learners hadn't had enough time to work on the lessons by Wednesday.
+*	Help Desk walkthough recordings are useful.
+*	A break week was suggested by a participant, and it was a great idea! We did 
+  it in Week 10.
+* This schedule ended up being a bit aggressive, and learners found it difficult
+  to dedicate the time and energy required. This was in part due to the intensity
+  of the schedule, and in large part due to increased stress and workload in their jobs,
+  especially as it coincided with field season.
+
+### DataQuest platform / content
+
+* The platform is pretty good, easy to navigate, saves your progress.
+* Chandra AI assistant is useful
+* Some of the content is a bit dated:
+  - tidyverse - some syntax updates (e.g., `.default` in `case_when()`, `show_col_types` in `read_csv`)
+  - Use .Rmd instead of Quarto
+  - should we really be teaching rbind and cbind?
+* Not enough material on actually *working in RStudio*, using projects, etc. Maybe 
+  would be good to insert a "Coding Strategies" talk/lesson?
+* Are functions and `map()` really necessary for an intro course?
+* Takes a bit long to get to actually working with and manipulating data with the 
+  tidyverse, quite a lot of foundational material at the beginning, which is
+  good in the long run but not very motivating.
