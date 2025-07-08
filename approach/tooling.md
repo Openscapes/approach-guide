@@ -387,3 +387,49 @@ IMPT: volume of shared sound is controlled in the source application. If spotify
 -   Quarto uses Zotero locally from the app, not from the web. Login to sync from our Openscapes Zotero library on the cloud, and then Quarto should be able to find them. There is a button in Zotero app to sync to a connected cloud library, if it does not happen automatically.
 
 In our Openscapes group library, we have resources not limited to academic articles, but also youtube videos, blogs, teaching resources, and more.
+
+## Code snippets
+
+Snippets of useful code for things like managing lists of participants in our
+Google sheets
+
+::: {.callout collapse="true"}
+
+## Batch remove emails from participants list that failed/bounced
+
+```r
+library(googlesheets4)
+library(dplyr)
+library(clipr)
+
+gs4_auth(email = "your-email")
+
+ss <- "url-to-your-spreadsheet"
+
+# Read the email address column and pull it as a vector
+champ_emails <- read_sheet(
+  ss,
+  sheet = "Champions",
+  range = "D:D"
+) |>
+  pull(email)
+
+# Read the email address column of failed emails and pull it as a vector
+failed_emails <- read_sheet(
+  ss = ss,
+  sheet = "Failed_emails",
+  range = "C:C"
+) |>
+  pull("email-failed")
+
+# Replace missing emails with an empty string. Use empty string instead of NA
+# otherwise they will be replaced with literal "NA" when copied to the clipboard.
+champ_emails[champ_emails %in% failed_emails] <- ""
+champ_emails[is.na(champ_emails)] <- ""
+
+## Copy emails to the clipboard and paste into the email column
+## in the Champions sheet
+write_clip(champ_emails)
+```
+
+:::
