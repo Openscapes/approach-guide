@@ -1402,6 +1402,17 @@
     ]
   },
   {
+    "objectID": "approach/tooling.html#code-snippets",
+    "href": "approach/tooling.html#code-snippets",
+    "title": "Tooling",
+    "section": "Code snippets",
+    "text": "Code snippets\nSnippets of useful code for things like managing lists of participants in our Google sheets\n\n\n\n\n\n\nBatch remove emails from participants list that failed/bounced\n\n\n\n\n\nlibrary(googlesheets4)\nlibrary(dplyr)\nlibrary(clipr)\n\ngs4_auth(email = \"your-email\")\n\nss &lt;- \"url-to-your-spreadsheet\"\n\n# Read the email address column and pull it as a vector\nchamp_emails &lt;- read_sheet(\n  ss,\n  sheet = \"Champions\",\n  range = \"D:D\"\n) |&gt;\n  pull(email)\n\n# Read the email address column of failed emails and pull it as a vector\nfailed_emails &lt;- read_sheet(\n  ss = ss,\n  sheet = \"Failed_emails\",\n  range = \"C:C\"\n) |&gt;\n  pull(\"email-failed\")\n\n# Replace missing emails with an empty string. Use empty string instead of NA\n# otherwise they will be replaced with literal \"NA\" when copied to the clipboard.\nchamp_emails[champ_emails %in% failed_emails] &lt;- \"\"\nchamp_emails[is.na(champ_emails)] &lt;- \"\"\n\n## Copy emails to the clipboard and paste into the email column\n## in the Champions sheet\nwrite_clip(champ_emails)",
+    "crumbs": [
+      "Openscapes Approach",
+      "Tooling"
+    ]
+  },
+  {
     "objectID": "approach/seaside-chats.html",
     "href": "approach/seaside-chats.html",
     "title": "Seaside Chats, etc.",
