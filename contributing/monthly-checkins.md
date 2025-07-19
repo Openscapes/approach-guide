@@ -5,9 +5,13 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## July 2025
+
+[Unlocking Innovation: Why Federal Procurement Should Embrace Open Source](https://www.techpolicy.press/unlocking-innovation-why-federal-procurement-should-embrace-open-source/) - by Eunice Mercado-Lara, Shannon Dosemagen, Alison Parker / May 23, 2025
+
 ## March 2025
 
-[The story of self, us, now](https://commonslibrary.org/the-power-of-story-the-story-of-self-us-and-now/) - by Marshall Ganz. Herd through Liz Neeley
+[The story of self, us, now](https://commonslibrary.org/the-power-of-story-the-story-of-self-us-and-now/) - by Marshall Ganz. Heard through Liz Neeley
 
 ## January 2025
 
