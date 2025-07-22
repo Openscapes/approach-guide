@@ -125,6 +125,12 @@ Using Edit \> Trim, it can be hard to control how fast the yellow Trim brackets 
 -   Click Trim
 -   Save
 
+## ROR - Research Organization Registry
+
+Openscapes was assigned ROR ID [ror.org/022je8241](https://ror.org/022je8241) in ROR release v1.67.
+
+[ROR](https://ror.org/) is a global, community-led registry of open persistent identifiers for research organizations.
+
 ## R/RStudio
 
 -   all websites and books
@@ -276,9 +282,12 @@ curator\@openscapes.org will get email notification of your request and accept, 
     -   Digital Object Identifier: leave blank
     -   Publication date: date of blog post publication, or presentation
     -   Title: title of post or presentation without adding version number
-    -   Authors: use author name consistent with other Zenodo records in their name; add their [ORCID](https://orcid.org/) ID.
-        -   If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.
+    -   **Authors / creators**:
+        -   We can take advantage of back-end system links between Zenodo, [ROR](https://ror.org/) (Research Organization Registry), and [ORCID](https://orcid.org/) to auto-complete names, ORCID IDs, and affiliations that will automatically appear in Zenodo records. Openscapes was assigned ROR ID [ror.org/022je8241](https://ror.org/022je8241) in ROR release v1.67.
+        -   Start typing the author's name and select from a list of auto-complete options. If none is available, use author name consistent with other Zenodo records in their name; manually add their ORCID ID.
+        -   Author's **affiliation**: Start typing the affiliation name. For Openscapes and other orgs registered with ROR, you will see a dropdown list that includes one annotated as `Source: ROR (preferred)`. Select that one to autocomplete. This will result in a ROR logo and link to Openscapes ROR record being linked in their affiliation (click 'show affiliations' in this [example](https://zenodo.org/records/14428503)).
         -   We keep a list of Openscapes authors ORCID IDs in `OpenscapesParticipantsMainList` Google sheet, Mentors tab
+        -   If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.
     -   Description: for an Openscapes blog post, use the italicized preface; for a presentation, use the abstract. End with "**Link to source blog post:** URL"
     -   Version (optional): We've settled on using [CalVer](https://calver.org/): YYYY.0M (zero-padded month) since Luis López said "I like CalVer for books and environments" when we asked for advice. It's a bit redundant with publication date.
     -   **Keywords**: To promote findability and consistency, we suggest using some of these keywords, based on those used by related records. Wow, keywords appear to be case sensitive. Search keywords:"Open Science" gives 1770 records; keywords:"open science" gives 1395 records; keywords:"open science" OR "Open Science" gives 11112 results (not sure why those don't add up) (May 23, 2023)
@@ -390,14 +399,12 @@ In our Openscapes group library, we have resources not limited to academic artic
 
 ## Code snippets
 
-Snippets of useful code for things like managing lists of participants in our
-Google sheets
+Snippets of useful code for things like managing lists of participants in our Google sheets
 
 ::: {.callout collapse="true"}
-
 ## Batch remove emails from participants list that failed/bounced
 
-```r
+``` r
 library(googlesheets4)
 library(dplyr)
 library(clipr)
@@ -431,5 +438,4 @@ champ_emails[is.na(champ_emails)] <- ""
 ## in the Champions sheet
 write_clip(champ_emails)
 ```
-
 :::
