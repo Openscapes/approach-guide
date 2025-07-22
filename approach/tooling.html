@@ -578,6 +578,7 @@ div.csl-indent {
   <li><a href="#mastodon-bluesky-twitter" id="toc-mastodon-bluesky-twitter" class="nav-link" data-scroll-target="#mastodon-bluesky-twitter">Mastodon / Bluesky / Twitter</a></li>
   <li><a href="#orcidrescognito" id="toc-orcidrescognito" class="nav-link" data-scroll-target="#orcidrescognito">ORCID/Rescognito</a></li>
   <li><a href="#quicktime-video-editing" id="toc-quicktime-video-editing" class="nav-link" data-scroll-target="#quicktime-video-editing">Quicktime video editing</a></li>
+  <li><a href="#ror---research-organization-registry" id="toc-ror---research-organization-registry" class="nav-link" data-scroll-target="#ror---research-organization-registry">ROR - Research Organization Registry</a></li>
   <li><a href="#rrstudio" id="toc-rrstudio" class="nav-link" data-scroll-target="#rrstudio">R/RStudio</a></li>
   <li><a href="#screen-recording" id="toc-screen-recording" class="nav-link" data-scroll-target="#screen-recording">Screen recording</a></li>
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a>
@@ -751,6 +752,11 @@ Eventbrite registration deprecated in favor of Zoom
 <li>Save</li>
 </ul>
 </section>
+<section id="ror---research-organization-registry" class="level2">
+<h2 class="anchored" data-anchor-id="ror---research-organization-registry">ROR - Research Organization Registry</h2>
+<p>Openscapes was assigned ROR ID <a href="https://ror.org/022je8241">ror.org/022je8241</a> in ROR release v1.67.</p>
+<p><a href="https://ror.org/">ROR</a> is a global, community-led registry of open persistent identifiers for research organizations.</p>
+</section>
 <section id="rrstudio" class="level2">
 <h2 class="anchored" data-anchor-id="rrstudio">R/RStudio</h2>
 <ul>
@@ -869,10 +875,13 @@ Eventbrite registration deprecated in favor of Zoom
 <li>Digital Object Identifier: leave blank</li>
 <li>Publication date: date of blog post publication, or presentation</li>
 <li>Title: title of post or presentation without adding version number</li>
-<li>Authors: use author name consistent with other Zenodo records in their name; add their <a href="https://orcid.org/">ORCID</a> ID.
+<li><strong>Authors / creators</strong>:
 <ul>
-<li>If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.</li>
+<li>We can take advantage of back-end system links between Zenodo, <a href="https://ror.org/">ROR</a> (Research Organization Registry), and <a href="https://orcid.org/">ORCID</a> to auto-complete names, ORCID IDs, and affiliations that will automatically appear in Zenodo records. Openscapes was assigned ROR ID <a href="https://ror.org/022je8241">ror.org/022je8241</a> in ROR release v1.67.</li>
+<li>Start typing the author’s name and select from a list of auto-complete options. If none is available, use author name consistent with other Zenodo records in their name; manually add their ORCID ID.</li>
+<li>Author’s <strong>affiliation</strong>: Start typing the affiliation name. For Openscapes and other orgs registered with ROR, you will see a dropdown list that includes one annotated as <code>Source: ROR (preferred)</code>. Select that one to autocomplete. This will result in a ROR logo and link to Openscapes ROR record being linked in their affiliation (click ‘show affiliations’ in this <a href="https://zenodo.org/records/14428503">example</a>).</li>
 <li>We keep a list of Openscapes authors ORCID IDs in <code>OpenscapesParticipantsMainList</code> Google sheet, Mentors tab</li>
+<li>If the person has granted ORCID permission to auto-update from Zenodo, this new record will automatically appear in their ORCID profile. This is a pretty great bonus.</li>
 </ul></li>
 <li>Description: for an Openscapes blog post, use the italicized preface; for a presentation, use the abstract. End with “<strong>Link to source blog post:</strong> URL”</li>
 <li>Version (optional): We’ve settled on using <a href="https://calver.org/">CalVer</a>: YYYY.0M (zero-padded month) since Luis López said “I like CalVer for books and environments” when we asked for advice. It’s a bit redundant with publication date.</li>
