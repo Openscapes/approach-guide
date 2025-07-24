@@ -150,45 +150,51 @@ Want to turn your video into a gif to have your screen recording play automatica
 
 ## Slack
 
-*Are you inviting someone to join Openscapes Slack? Send them the link to this section.*
+### Welcome to Openscapes Slack 🤗! 
 
 *Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
 
-Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days.
+**About:** This is a diverse open science community. We use Slack as a way for people to connect with each other. We want it to be a supportive, trust-based community of folks doing data intensive science. Members include, but are not limited to, people who have participated in a Champions Program, NASA or NOAA Fisheries Openscapes Frameworks, Pathways to Open Science, Reflections, earthaccess contributors, NASA Cloud Cookbook Hackdays, or other Openscapes programs, and their collaborators. Current Slack members can invite others to join - an informal sponsorship approach. These are reviewed and approved by an Openscapes core team member.
 
-**How do I use it?** Slack can feel like a daunting new tool, especially when we're introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) @woodley2020 from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
+**How do I use it?** Slack can feel like a daunting new tool, especially when we're introducing lots of new tools during Champions Cohorts. There are both technical and etiquette aspects to getting comfortable. For technical tips see [Getting started for new members](https://slack.com/intl/en-ca/help/articles/218080037-Getting-started-for-new-members) and [How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide). This Slack [quick start guide](https://doi.org/10.5281/zenodo.3763729) (@woodley2020) from the Center for Scientific Collaboration and Community Engagement includes 1) configuring your account; 2) channels and notifications; 3) communicating.
 
-**About Openscapes Slack:** We use Slack as a way to build community by hosting a space for people to connect with each other around Openscapes-relevant topics. We want it to be a supportive, trust-based community of folks doing data intensive science. Members include, but are not limited to, people who have participated in a Champions Program, NASA Openscapes Framework, Pathways to Open Science, Reflections, NASA Cloud Cookbook Hackdays, or other Openscapes programs. Current Slack members can invite others to join - an informal sponsorship approach.
-
-**When you join**, you'll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #seaside-chats, #shared-joy 🌈. You can browse other channels and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by "listening" to the discussions, then jump right in!
-
-If you're part of a cohort for an Openscapes program you'll also be invited to a private cohort channel. Open isn't all or nothing; being open with this cohort you're getting to know is a good way to start getting comfortable with the Slack community more broadly.
+**When you join**, you'll automatically land in several channels: #welcome, #cool-finds, #events, #general, #random, #shared-joy 🌈. You can browse other channels, like #jobs-funding and choose to join them. People are invariably friendly and open to asking and answering questions. You can get a feel for how things work by "listening" to the discussions, then jump in!
 
 The **#welcome channel** is a place for new members to introduce themselves and for the rest of us to help them feel welcome by adding an emoji or saying "I work on sea turtles too!". Here's a short read on [The Value of #Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/).
 
-### Channel definitions
+If you're part of a cohort for an Openscapes program you may be invited to a private cohort channel. Open isn't all or nothing; being open with the peers you're getting to know is a good way to start getting comfortable with the Slack community more broadly.
+
+Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days.
+
+### Channel purposes
 
 These definitions are meant to help people know where to post or ask questions. They are listed in the Slack channel Topic and Description (because the Topic preview is easily visible in the channel, while the Description, not so much).
 
-When people join, they automatically land in #welcome #general #seaside-chats #events #cool-finds #shared-joy #random.
+**#welcome**: A place for people new to our community to introduce themselves and for the rest of us to make them feel welcome; the default channel that members cannot leave if they leave all other channels.
 
-**#welcome**: A place for people new to our community to introduce themselves and for the rest of us to make them feel welcome; the default channel that members cannot leave if they leave all other channels
+**#general**: A place to discuss ongoing progress, friendly Q & A about good enough practices, team culture, tools. Announcements from the Openscapes team and others.
 
-**#general**: Openscapes team posts Openscapes announcements
+<!-- **#seaside-chats**: A place to discuss ongoing progress. Friendly Q & A about good enough practices, team culture, tools ... -->
 
-**#seaside-chats**: A place to discuss ongoing progress. Friendly Q & A about good enough practices, team culture, tools ...
+**#events**: Events that might be of interest to others in our community. Openscapes events also go in #general.
 
-**#events**: Events that might be of interest to others in our community. Openscapes events go in #general
+**#cool-finds**: Posts, datasets, podcasts, repos, papers, videos, packages, ...things you found that are cool.
 
-**#cool-finds**: Posts, datasets, podcasts, repos, papers, videos, packages, ...things you found that are cool
+**#jobs-funding**: Job opportunities, seeking work, offers to connect people with those "on the inside".
 
-**#jobs**: Job opportunities, seeking work, offers to connect people with those "on the inside"
+**#shared-joy**: Sharing joy of any shape or size.
 
-**#shared-joy**: Sharing joy of any shape or size
+**#random**: Hallway conversations.
 
-**#random**: Non-work banter and water cooler conversation
+**team-openscapes**: (private) \~daily checkins. We started this when our team grew in 2024 so that Stef and I weren’t in DMs anymore. Like we did during [mentor-coaching](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), we check in here daily when we’re working on Openscapes stuff to say hi and give a heads up about what we’re working on. For Stef, Andy, and me this is almost daily, for Liz and Ileana, it’s less so and when it’s makes sense for them, since they're less time. We tag people when they’re needed directly so if it’s better for you to not be notified until you’re tagged that is great too.
 
-**team-openscapes**: (private) \~daily checkins. We started this when our team grew in 2024 so that Stef and I weren’t in DMs anymore. Like we did during [mentor-coaching](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html), we check in here daily when we’re working on Openscapes stuff to say hi and give a heads up about what we’re working on. For Stef, Andy, and me this is almost daily, for Liz it’s less so and when it’s makes sense for her, since she’s less time. We tag people when they’re needed directly so if it’s better for you to not be notified until you’re tagged that is great too.
+### Invite someone to Openscapes Slack
+
+Inviting someone to join Openscapes Slack? In an email or other communication, send them the link to [Welcome to Openscapes Slack 🤗!] and a link to join.
+
+To create a link to join Slack, in the app, `Invite people to join Openscapes` , choose 🔗`Copy invite link`. 99% of the time, we do not invite someone by adding their email to invite from inside the Slack app. Why? With the free plan, we are not able to send a custom invitation note from inside Slack, and with our paid plan we were not able to add a URL to a custom note to provide our welcome info.
+
+The channels people join by default are set in the browser admin interface [Settings & Permissions](https://openscapes.slack.com/admin/settings) \> Default Channels. Currently #welcome, #cool-finds, #events, #general, #random, #shared-joy.
 
 ### Set Slack reminders
 
@@ -199,6 +205,8 @@ Here's how it appears in Slack:\
 "Reminder: Our earthaccess hack starts in 1 hour! Here is the meeting zoom link and the notes"
 
 ### Slack integration with GitHub
+
+We haven't implemented this, but the how-to is here.
 
 We'd love for most resource sharing and conversations to happen in the open and in a more persistent location than Slack. Places like GitHub Discussions are great for this. Thanks to [Matt Fisher](https://github.com/MattF-NSIDC) for getting us started with Slack notifications for GitHub Discussions.
 
