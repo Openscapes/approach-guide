@@ -164,7 +164,7 @@ The **#welcome channel** is a place for new members to introduce themselves and 
 
 If you're part of a cohort for an Openscapes program you may be invited to a private cohort channel. Open isn't all or nothing; being open with the peers you're getting to know is a good way to start getting comfortable with the Slack community more broadly.
 
-Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days.
+Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days. We do this partly to encourage good open documentation practices: if you are discussing workflow or software development, decisions should be put in (open) documentation and not in Slack. 
 
 ### Channel purposes
 
