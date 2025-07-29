@@ -196,6 +196,10 @@ To create a link to join Slack, in the app, `Invite people to join Openscapes` ,
 
 The channels people join by default are set in the browser admin interface [Settings & Permissions](https://openscapes.slack.com/admin/settings) \> Default Channels. Currently #welcome, #cool-finds, #events, #general, #random, #shared-joy.
 
+### Change the email you use in Slack
+
+People change jobs and might want to change the email they use in Slack to continue to use it without creating a new profile. Users can do this on their own. Workspace Owners or Admins cannot do this on a user's behalf on the free plan.  In the app, open your profile (click on your profile icon in lower left to open profile) > click three dots to select Account Settings > This will open your account in the web interface. Click Email Address > expand > add your password and your new email address. (If at first you don't succeed at this step, try again.) You'll need to accept the confirmation email sent to your new address. 
+
 ### Set Slack reminders
 
 Here's an example of how to set a Slackbot reminder for recurring meetings, in this case, biweekly. Add links to "zoom link" and "notes".\
