@@ -325,7 +325,7 @@ curator\@openscapes.org will get email notification of your request and accept, 
 
 ### How to get a DOI for materials on GitHub
 
-See [**Make our documentation citable**](documentation.qmd#make-our-documentation-citable)
+First, make a GitHub Release of the material. One thing to watch for when making a Release on GitHub is go to `/releases` e.g. <https://github.com/Openscapes/pathways-to-open-science/releases> to create a release because it doesn't appear on the right of repository page automatically. Then proceed with [**Make our documentation citable**](documentation.qmd#make-our-documentation-citable).
 
 ### How to cite Openscapes publications
 
