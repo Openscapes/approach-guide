@@ -150,7 +150,7 @@ Want to turn your video into a gif to have your screen recording play automatica
 
 ## Slack
 
-### Welcome to Openscapes Slack 🤗! 
+### Welcome to Openscapes Slack 🤗! {#welcome-to-openscapes-slack}
 
 *Have you received an invitation to join Openscapes Slack? Here's some information to help you get comfortable.*
 
@@ -164,7 +164,7 @@ The **#welcome channel** is a place for new members to introduce themselves and 
 
 If you're part of a cohort for an Openscapes program you may be invited to a private cohort channel. Open isn't all or nothing; being open with the peers you're getting to know is a good way to start getting comfortable with the Slack community more broadly.
 
-Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days. We do this partly to encourage good open documentation practices: if you are discussing workflow or software development, decisions should be put in (open) documentation and not in Slack. 
+Openscapes uses the free Slack plan. This means we can all see message history for the previous 90 days. We do this partly to encourage good open documentation practices: if you are discussing workflow or software development, decisions should be put in (open) documentation and not in Slack.
 
 ### Channel purposes
 
@@ -190,7 +190,7 @@ These definitions are meant to help people know where to post or ask questions. 
 
 ### Invite someone to Openscapes Slack
 
-Inviting someone to join Openscapes Slack? In an email or other communication, send them the link to [Welcome to Openscapes Slack 🤗!] and a link to join.
+Inviting someone to join Openscapes Slack? In an email or other communication, send them the link to [Welcome to Openscapes Slack 🤗!](#welcome-to-openscapes-slack) and a link to join.
 
 To create a link to join Slack, in the app, `Invite people to join Openscapes` , choose 🔗`Copy invite link`. 99% of the time, we do not invite someone by adding their email to invite from inside the Slack app. Why? With the free plan, we are not able to send a custom invitation note from inside Slack, and with our paid plan we were not able to add a URL to a custom note to provide our welcome info.
 
@@ -198,7 +198,7 @@ The channels people join by default are set in the browser admin interface [Sett
 
 ### Change the email you use in Slack
 
-People change jobs and might want to change the email they use in Slack to continue to use it without creating a new profile. Users can do this on their own. Workspace Owners or Admins cannot do this on a user's behalf on the free plan.  In the app, open your profile (click on your profile icon in lower left to open profile) > click three dots to select Account Settings > This will open your account in the web interface. Click Email Address > expand > add your password and your new email address. (If at first you don't succeed at this step, try again.) You'll need to accept the confirmation email sent to your new address. 
+People change jobs and might want to change the email they use in Slack to continue to use it without creating a new profile. Users can do this on their own. Workspace Owners or Admins cannot do this on a user's behalf on the free plan. In the app, open your profile (click on your profile icon in lower left to open profile) \> click three dots to select Account Settings \> This will open your account in the web interface. Click Email Address \> expand \> add your password and your new email address. (If at first you don't succeed at this step, try again.) You'll need to accept the confirmation email sent to your new address.
 
 ### Set Slack reminders
 
@@ -252,7 +252,7 @@ Zenodo has a Sandbox in which one can create and refine a draft Community before
 Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*; too big and its value diminishes. We do curate:
 
 -   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
-    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](../documentation.qmd#make-our-documentation-citable).
+    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](documentation.qmd#make-our-documentation-citable).
 -   key blog posts like ESIP 2022, 2023 panels
     -   create and upload pdf of post from the website, choose type = other
 -   slide decks from key presentations
