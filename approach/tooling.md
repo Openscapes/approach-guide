@@ -252,7 +252,7 @@ Zenodo has a Sandbox in which one can create and refine a draft Community before
 Anyone can request to have their Zenodo record listed in the Zenodo Openscapes Community. Curator is Stefanie Butland via curator\@openscapes.org. We don't want to include *everything*; too big and its value diminishes. We do curate:
 
 -   Resources on GitHub like the Openscapes Champions Lesson Series, NASA Earthdata Cloud Cookbook, Pathways to Open Science
-    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](https://openscapes.github.idocumentation.qmd#make-our-documentation-citable).
+    -   make a "release" on GitHub and submit that to Zenodo, choose type = other, or lesson. See instructions in [Documentation](../documentation.qmd#make-our-documentation-citable).
 -   key blog posts like ESIP 2022, 2023 panels
     -   create and upload pdf of post from the website, choose type = other
 -   slide decks from key presentations
