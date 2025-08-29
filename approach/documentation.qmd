@@ -28,16 +28,6 @@ Blog posts take time. A lot of time. And they often feel extra, especially in a 
 
 ## Make our documentation citable
 
-We want to share our documentation in a way that other people can find it, use it, improve it, and cite it. We use the [Zenodo](tooling.md#sec-zenodo) repository for this purpose. Every upload to Zenodo is assigned a Digital Object Identifier (DOI), to make it citable and trackable.
+We want to share our documentation in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose. Every upload to Zenodo is assigned a Digital Object Identifier (DOI), to make it citable and trackable.
 
-This section describes how to get a DOI for a "research related digital artefact" like our online Quarto books. **We follow [Metadocencia's How-to Guidance](https://www.metadocencia.org/en/post/compartirmaterialdoi/)** by Yanina Bellini Saibene. It's clear, has great annotated screenshots, and is also available in Spanish. Here are specifics for us:
-
-1.  **Select an open license** that makes it clear how people can use the material. The [Openscapes Approach Guide license](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md) is adapted from [The Turing Way license](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md) that accommodates works that include both code and documentation.
-
-2.  **Store the material in a repository that allows us to publish it**, like GitHub. One thing to watch for when making a Release on GitHub is go to `/releases` e.g. <https://github.com/Openscapes/pathways-to-open-science/releases> to create a release because it doesn't appear on the right of repository page automatically.
-
-3.  **Add a digital object identifier (DOI) so that it is citable**, for example by submitting to Zenodo. If the material is on GitHub, first make a Release, then see [How to get a DOI for materials on GitHub](tooling.md#how-to-get-a-doi-for-materials-on-github).
-
-4.  **Add a "how to cite"** section to guide users; here's how to [cite the NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/#citation). We like [Citing The Turing Way](https://the-turing-way.netlify.app/index.html#citing-the-turing-way) as an example to follow.
-
-TODO: add How to cite section to Lesson Series and Pathways.
+See [Tooling / Zenodo](tooling.md#sec-zenodo) for technical details, including how we [Add Citation guidance to Openscapes materials](tooling.md#add-citation-guidance-to-openscapes-materials).
