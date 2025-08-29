@@ -39,10 +39,18 @@ We're collaboratively making the Openscapes Approach Guide with [Quarto](https:/
 
 ## Citation
 
+All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/series/blob/main/LICENSE).
+
+Please cite the Openscapes Approach Guide through the project's Zenodo archive using DOI: [10.5281/zenodo.8034312](https://doi.org/10.5281/zenodo.8034312). This DOI represents all versions, and will always resolve to the latest one.
+
+The citation will look something like:
+
+> Openscapes Core Team, Stefanie Butland, Erin Robinson, Andy Teucher, and Julia Lowndes. “Openscapes Approach Guide”. Zenodo, June 13, 2023. https://doi.org/10.5281/zenodo.8034313.
+
+Please visit the Openscapes Approach Guide [DOI link](https://doi.org/10.5281/zenodo.8034312) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
+
 All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md).
 
-Please cite this guide as:
 
-The Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Approach Guide (Version v0.0.1). <https://openscapes.org/approach-guide>.
 
 ![[Openscapes artwork by Allison Horst](https://www.openscapes.org/gallery/)](images/horst-openscapes-mentors.jpg)
