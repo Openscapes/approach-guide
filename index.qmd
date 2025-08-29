@@ -52,5 +52,8 @@ Please visit the Openscapes Approach Guide [DOI link](https://doi.org/10.5281/ze
 All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md).
 
 
-
 ![[Openscapes artwork by Allison Horst](https://www.openscapes.org/gallery/)](images/horst-openscapes-mentors.jpg)
+
+------------------------------------------------------------------------
+
+<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a>  Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
