@@ -596,7 +596,7 @@ div.csl-indent {
   <li><a href="#how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" id="toc-how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community" class="nav-link" data-scroll-target="#how-to-add-your-existing-zenodo-record-to-the-zenodo-openscapes-community">How to add your existing Zenodo record to the Zenodo Openscapes Community</a></li>
   <li><a href="#how-to-publish-a-new-record-in-zenodo-to-get-a-doi" id="toc-how-to-publish-a-new-record-in-zenodo-to-get-a-doi" class="nav-link" data-scroll-target="#how-to-publish-a-new-record-in-zenodo-to-get-a-doi">How to publish a new record in Zenodo to get a DOI</a></li>
   <li><a href="#how-to-get-a-doi-for-materials-on-github" id="toc-how-to-get-a-doi-for-materials-on-github" class="nav-link" data-scroll-target="#how-to-get-a-doi-for-materials-on-github">How to get a DOI for materials on GitHub</a></li>
-  <li><a href="#how-to-cite-openscapes-publications" id="toc-how-to-cite-openscapes-publications" class="nav-link" data-scroll-target="#how-to-cite-openscapes-publications">How to cite Openscapes publications</a></li>
+  <li><a href="#add-citation-guidance-to-openscapes-materials" id="toc-add-citation-guidance-to-openscapes-materials" class="nav-link" data-scroll-target="#add-citation-guidance-to-openscapes-materials">Add Citation guidance to Openscapes materials</a></li>
   </ul></li>
   <li><a href="#zoom" id="toc-zoom" class="nav-link" data-scroll-target="#zoom">Zoom</a>
   <ul class="collapse">
@@ -834,13 +834,7 @@ Eventbrite registration deprecated in favor of Zoom
 </section>
 <section id="sec-zenodo" class="level2">
 <h2 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h2>
-<p>We cover a lot here. See the subheadings in the navigation bar to the right to jump to a section:</p>
-<ul>
-<li>Zenodo Openscapes Community creation and curation</li>
-<li>How to add your existing Zenodo record to the Zenodo Openscapes Community</li>
-<li>How to publish a new record in Zenodo to get a DOI</li>
-<li>How to get a DOI for materials on GitHub</li>
-</ul>
+<p>We cover a lot here - the Zenodo Openscapes Community, getting a DOI, guidance for citing our work. See the subheadings in the navigation bar to the right to jump to a section.</p>
 <p>We want to share our material in a way that other people can find it, use it, improve it, and cite it. For our lesson materials, like Champions Cohorts, this provides a robust way for people to add their participation to their CV as professional development. We use the Zenodo repository and a <a href="https://zenodo.org/communities/openscapes/">Zenodo Openscapes Community</a> for this purpose.</p>
 <p><a href="https://zenodo.org/">Zenodo</a> is a general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" title="Digital object identifier">digital object identifier</a> (DOI) is minted, which makes the stored items easily citable (adapted from <a href="https://en.wikipedia.org/wiki/Zenodo">Wikipedia</a>). Zenodo allows for versioning and we can preserve GitHub repositories in Zenodo. GitHub itself is <em>not</em> a repository. For the full picture, this 1-hr webinar is helpful: <a href="https://youtu.be/yj2r8RayIX8">Zenodo: open digital repository | 2022.12.07</a>.</p>
 <p>We created a <a href="https://zenodo.org/communities/openscapes/">Zenodo Openscapes Community</a> as a “semantically meaningful group” of research products using these example Zenodo Communities as inspiration: NASA’s <a href="https://zenodo.org/communities/tops/">Transform to Open Science</a>; <a href="https://zenodo.org/communities/cscce/">Center for Scientific Collaboration and Community Engagement (CSCCE)</a>.</p>
@@ -926,11 +920,22 @@ Eventbrite registration deprecated in favor of Zoom
 </section>
 <section id="how-to-get-a-doi-for-materials-on-github" class="level3">
 <h3 class="anchored" data-anchor-id="how-to-get-a-doi-for-materials-on-github">How to get a DOI for materials on GitHub</h3>
-<p>First, make a GitHub Release of the material. One thing to watch for when making a Release on GitHub is go to <code>/releases</code> e.g.&nbsp;<a href="https://github.com/Openscapes/pathways-to-open-science/releases" class="uri">https://github.com/Openscapes/pathways-to-open-science/releases</a> to create a release because it doesn’t appear on the right of repository page automatically. Then proceed with <a href="../approach/documentation.html#make-our-documentation-citable"><strong>Make our documentation citable</strong></a>.</p>
+<p>This section describes how to get a DOI for a “research related digital artefact” like our Quarto books on GitHub; it’s a work in progress, but should get you what you need.</p>
+<p><strong>We follow <a href="https://www.metadocencia.org/en/post/compartirmaterialdoi/">Metadocencia’s How-to Guidance</a></strong> by Yanina Bellini Saibene. It’s clear, has great annotated screenshots, and is also available in Spanish. Here are some specifics for us:</p>
+<ol type="1">
+<li><p><strong>Store the material in a repository that allows us to publish it</strong>, like GitHub.</p></li>
+<li><p><strong>Add an open license</strong> that makes it clear how people can use the material. The <a href="https://github.com/Openscapes/approach-guide/blob/main/LICENSE.md">Openscapes Approach Guide license</a> is adapted from <a href="https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md">The Turing Way license</a> that accommodates works that include both code and documentation.</p></li>
+<li><p>Connect your GitHub Organization to Zenodo (we have already done this). This means that when we make a GitHub Release of our material, a Zenodo record with a DOI is automatically created.</p></li>
+<li><p><strong>Make a GitHub Release</strong> of the material. Go to <code>/releases</code> e.g.&nbsp;<a href="https://github.com/Openscapes/pathways-to-open-science/releases" class="uri">https://github.com/Openscapes/pathways-to-open-science/releases</a> to create a release because it doesn’t appear on the right of repository page automatically.</p></li>
+<li><p><strong>Review and edit the Zenodo record</strong> that has been automatically created.This will likely involve editing the authors, their ORCID IDs, their affiliations. It’s best to find a author’s name by using the search. Selecting a person from the resulting list will add their ORCID ID. It’s important to find affiliations by using the search. Typing ‘Openscapes’ gives you a list to select from; choosing from that list ensures that the Openscapes affilation links to our ROR (Research Organization Registry) record. Save and publish the changes.</p></li>
+<li><p><strong>Add a “how to cite”</strong> section to the resource for which we’ve now got a DOI.</p></li>
+</ol>
 </section>
-<section id="how-to-cite-openscapes-publications" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-cite-openscapes-publications">How to cite Openscapes publications</h3>
-<p>See “Cite as” in the publication’s Zenodo record, in the right-side navigation bar.</p>
+<section id="add-citation-guidance-to-openscapes-materials" class="level3">
+<h3 class="anchored" data-anchor-id="add-citation-guidance-to-openscapes-materials">Add Citation guidance to Openscapes materials</h3>
+<p>Once we have a DOI, we need to let people know how to cite our resource. We like using <a href="https://book.the-turing-way.org/foreword/cite">Citing The Turing Way</a> as an example to follow.</p>
+<p>We add a ‘Citation’ section to the Welcome page, and a Zenodo DOI badge to its README on GitHub. Example: Here’s how we <a href="https://openscapes.github.io/approach-guide/#citation">cite this Approach Guide</a> and show its Zenodo badge in the <a href="https://github.com/Openscapes/approach-guide/blob/main/README.md">README</a>.</p>
+<p>The “Cite as” section in a Zenodo record, in the right-side navigation bar allows you to copy-paste the citation in several formats. To get the markdown format for the badge, we click on the badge itself on our record’s Zenodo page; clicking on the ‘copy to clipboard’ symbol gets you only the URL for the record (which is why it’s really easy to forget how to get the badge info). The code to add a badge looks like this: <code>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8034313.svg)] (https://doi.org/10.5281/zenodo.8034313)</code></p>
 </section>
 </section>
 <section id="zoom" class="level2">
