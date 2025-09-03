@@ -12,7 +12,7 @@ We build shared skillsets in part through [Seaside Chats](https://www.openscapes
 
 ## Coworking
 
-We also have [coworking sessions](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/) where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. These most often have no agenda.
+We also have [coworking sessions](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/) where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. Openscapes staff participates and we draw from our open science network to invite people whose expertise in things like experts in open peer software review or Quarto can help.
 
 ## Hackathons
 
