@@ -11,7 +11,7 @@ Planning with partners can take several months, depending on the needs of their 
 
 ## Planning document
 
-We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1uzQ-hic0Kn0pNyeb9VwVNDwMYRetZgiXkQ2mZIe_TXk/edit?usp=sharing) to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.
+We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1MwbnwePleqhnJYcn9-K-OkYr4VxieLgF8T6rILvCjqk/) to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort.
 
 The following is a high-level overview of what is in the Planning Doc and announcement, with example text. 
 
