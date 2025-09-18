@@ -198,11 +198,11 @@ The [Openscapes Champions Program](https://openscapes.org/champions) is designed
 
 2.  [**Book a 30-minute intro call the week of Sept 26**](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUx3MjBab3hoUGpLfGRlZmF1bHR8ZTcwNmUxNjRjMDQxMGNhMGRkZWY1OTYzN2I1YjVjNmU) – or suggest other times if that is not possible. These optional “1:1’s” are a chance for your team to meet the Openscapes team, learn more about what to expect, start thinking about your goals, and ask any questions. Please discuss with your team and book a time (one time per team).
 
-3.  **Read before our first call[ Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools.
+3.  **Read before our first call[Lowndes et al 2017](https://www.nature.com/articles/s41559-017-0160)**: Our path to better science in less time using open data science tools.
 
 **Additional Information.**
 
-All Openscapes events abide by our[ Code of Conduct](https://openscapes.org/code-of-conduct). We are dedicated to providing a positive learning environment for all. Please let us know if you require any accommodations or if there is anything we can do to make this cohort more accessible to you.
+All Openscapes events abide by our[Code of Conduct](https://openscapes.org/code-of-conduct). We are dedicated to providing a positive learning environment for all. Please let us know if you require any accommodations or if there is anything we can do to make this cohort more accessible to you.
 
 Will be recording all Cohort Calls. They will be available for you if you miss a meeting or to use as a reference, and to help us improve the program, but not shared publicly. If you have any concerns about being recorded, please let us know. We will also have live transcripts. 
 
@@ -279,16 +279,36 @@ Julie and Erin
 
 As we are introduced to team leads and members, we follow them on Mastodon from the Openscapes account.
 
-### 1:1 Intro calls
+### 1:1 Welcome / Intro calls
 
-These are short intro calls with Openscapes and team leads or teams, to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions. This is a way for us to get to know each other and to learn more about their team's needs.
+These are short intro calls with Openscapes and team leads or teams, to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions. This is a way for us to get to know each other and to learn more about their team's needs. We hold these \~3 weeks before the start of the cohort.
 
-We use Google Calendar Appointment Slots or the new Appointment Schedule to schedule these 1:1's \~1 month before the start of the cohort. ([Learn about appointment slots vs (new) schedules](https://support.google.com/calendar/answer/11608416). Note in early access preview of schedules, you can't add additional team members to your appointment schedule so that they're automatically added to booked appointments - must do that manually.) Create \~2 half-day blocks and invite team leads to book and invite their team members.
+Schedule these calls in 2 half-day blocks of time to fit different time zones. Create \~10 separate Google calendar items with 25-minute meetings, each with a unique zoom link. For each meeting, click the 3-dots \> publish \> copy link; add list of times & their links to the Welcome email, inviting individuals and team leads to select a time and invite their team members.
+
+Note: We do not use a [Google Calendar Appointment Schedule](https://support.google.com/calendar/answer/11608416) for these 1:1's because once a person books a meeting, it is not available to others. For large groups like NMFS Openscapes with 3 concurrent cohorts, we want multiple people and teams to be able to join the same welcome call.
+
+Excerpt from welcome email:
+
+**(Optional) Join a 25-minute welcome call Sep 24 or 25** – These optional calls are a chance for you to meet the Openscapes team and other NMFS colleagues in small groups, learn more about what to expect, start thinking about your goals, and ask any questions. If you’d like to join an intro call, you should select one of the times listed below and add it to your calendar. If you joined with a team, invite your other team members to come at the same time! 
+
+-   **Wed Sep 24**
+
+    -   9:00 am PT (add to your calendar \[LINKED\])
+
+    -   9:30 am PT (add to your calendar)
+
+-   **Thu Sep 25**
+
+    -   1:00 pm PT (add to your calendar)
+
+    -   1:30 pm PT (add to your calendar)
 
 ::: {.callout-tip collapse="true"}
-## Example text in the Calendar Appointment Slots:
+## Example text in the Calendar slot:
 
--   Short intro calls with Openscapes and team leads to start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+Title: Openscapes Champions Welcome Call (optional)
+
+Description: These optional welcome calls are a chance for you to meet the Openscapes team and other NMFS colleagues in small groups, learn more about what to expect, start thinking about your goals, and ask any questions. If you’d like to join an intro call, you should select one of the times listed in your welcome email and add it to your calendar. If you joined with a team, invite your other team members to come at the same time!
 :::
 
 Before the 1:1's, create an agenda for each call by copying Google doc: Template_Openscapes_IntroCall
