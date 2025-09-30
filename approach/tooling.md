@@ -230,6 +230,10 @@ The above will subscribe to "discussions" in addition to undesirable [default no
 /github unsubscribe NASA-Openscapes/earthdata-cloud-cookbook issues pulls commits releases deployments
 ```
 
+## YouTube
+
+Openscapes has a [YouTube channel](https://www.youtube.com/@openscapes). To **make a Playlist**, login as Openscapes YouTube Manager. Click on any video to edit Video details. Under Playlists dropdown, you can choose New playlist, and/or select a checkbox to add the video to an existing Playlist. We can a custom image for a Playlist. Go to that Playlist \> hover over the image \> click the pencil icon to edit. Playlist image must be at lease 640 x 360 pixels.
+
 ## Zenodo {#sec-zenodo}
 
 We cover a lot here - the Zenodo Openscapes Community, getting a DOI, guidance for citing our work. See the subheadings in the navigation bar to the right to jump to a section.
