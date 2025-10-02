@@ -5,6 +5,10 @@ format: html
 
 Regular checkins documenting we've learned and what's stood out in the Openscapes community.
 
+## October 2025
+
+[The Berkana Two Loop Model](https://www.sfu.ca/complex-systems-frameworks/frameworks/strategies/two-loop-model.html), by Margaret Wheatley and Deborah Frieze, is a map for creating change in living / social systems. Heard through Liz Neeley
+
 ## July 2025
 
 [Unlocking Innovation: Why Federal Procurement Should Embrace Open Source](https://www.techpolicy.press/unlocking-innovation-why-federal-procurement-should-embrace-open-source/) - by Eunice Mercado-Lara, Shannon Dosemagen, Alison Parker / May 23, 2025
