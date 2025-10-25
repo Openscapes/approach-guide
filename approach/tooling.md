@@ -69,8 +69,8 @@ We use **Google Groups when possible** to easily email groups of people and / or
 
 **Documentation for different applications:**
 
--   [Openscapes Newsletter](https://openscapes.github.io/approach-guide/approach/newsletter.qmd)
--   [Mentors tech setup](https://openscapes.github.io/approach-guide/mentors-framework/tech-setup.qmd)
+-   [Openscapes Newsletter](newsletter.qmd)
+-   [Mentors tech setup](../mentors-framework/tech-setup.qmd)
 
 **Manual additions to a Google Group are limited to 100 emails per organization in a 24 hr period**, i.e. not per workspace manager.
 
