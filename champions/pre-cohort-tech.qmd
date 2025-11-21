@@ -289,7 +289,7 @@ Getting errors? See [troubleshooting documentation](https://github.com/Openscape
 ::: {.callout-note collapse="true"}
 ### Historical aside
 
-[Blank agendas](https://drive.google.com/drive/folders/1II5YXUK_iuV7fXelcUV49RPAXxI7fveJ?usp=sharing) are in a public Google Folder. Before each Cohort Call, we:
+[Blank agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb) are in a public Google Folder. Before each Cohort Call, we:
 
 -   Make a copy
 -   Save it in the Cohort Google Folder
