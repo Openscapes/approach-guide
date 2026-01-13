@@ -350,7 +350,17 @@ The "Cite as" section in a Zenodo record, in the right-side navigation bar allow
 
 ## Zoom
 
-We use Zoom as our primary meeting tool and for registrations for events that will be held via Zoom, such as Community Calls and the Pathways to Open Science series. Below are instructions for event registration, and for sharing audio in a Zoom meeting.
+We use Zoom as our primary meeting tool and for registrations for events that will be held via Zoom, such as Champions Cohorts, Community Calls, and the Pathways to Open Science series. Below are instructions for event registration, and for sharing audio in a Zoom meeting.
+
+### Create a Zoom link for a meeting
+
+To create a Zoom link for a meeting, it's best to do it from inside the web interface: <https://zoom.us/profile>. In Openscapes' Pro account, one person can only host one meeting at a time. Said differently, if one person created 2 overlapping meetings and listed an alternate host, the first person to start that Zoom is fine (whether they are main or alt host), while the second person will not be able to start their meeting.
+
+So, when we have 2 overlapping meetings, 2 different account holders must each create a Zoom meeting. We have learned to be judicious about who creates a Zoom meeting / link, based on who is the likely lead of that meeting. We can and should set one alternative Zoom host in the interface, allowing that alt-host to start the meeting if the meeting host is unable to.
+
+In the web interface, an account holder is not able to see meetings created by another account holder, but we can now see each others’ cloud recordings if we are set as alternate host.
+
+![Image: example Zoom meeting settings](images/zoom-create-meeting.png){fig-alt="screenshot of Zoom meeting settings showing selection of Waiting Room and Alternative Hosts" fig-align="left" width="70%"}
 
 ### Event registration
 
