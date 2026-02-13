@@ -2,43 +2,97 @@
 title: Onboarding
 ---
 
-## Welcome to the team! 
+## Welcome to the team!
 
-As we start collaborating with folks to deliver the Champions Program we will be documenting the onboarding process here. We are onboarding folks to collaborate in different capacities — i.e. as mentors, assistants, evaluators, lesson contributors, guest teachers — so we will be trying to be as streamlined as possible with the most relevant information and skill-building to meet specific needs and timeframes. We are excited for more communities to be able to use the Openscapes approach! 
+Through time, Openscapes has been onboarding folks for different roles and purposes. We are excited for more communities to be able to use the Openscapes approach!
 
-## First Introductions
+A common way we start collaborating with folks is to to deliver the Champions Program, and this page was first built to document the onboarding process to contribute to a Champions Cohort. This focused on onboarding folks to collaborate in different capacities — i.e. as mentors, assistants, evaluators, lesson contributors, guest teachers — so we will be trying to be as streamlined as possible with the most relevant information and skill-building to meet specific needs and timeframes.
+
+To support the growing Openscapes work, we are also onboarding core team members to support Mentors, build and maintain infrastructure, as well as leading Champions Cohorts and other events. Here is some of the ways we've approached this as well.
+
+::: {.callout-note icon="false"}
+## Onboarding Issue: NASA Openscapes Cloud Team Member
+
+We'll soon be onboarding a new team member, whose primary focus is to support the NASA Openscapes Mentor community! From our job posting for this 1/2 time contracting position, we had 24 candidates apply. Working with @lizneeley of [Liminal](https://www.liminalcreations.com/), who is an expert in science communication, design, and sensemaking, we developed a hiring rubric and designed an interview process to create an equitable hiring and evaluation process that aligned with our open kinder science values, community, timeline, and that we can reuse and improve upon in the future. In February we led 2 rounds of interviews with really stellar candidates. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
+
+These are specifics about the role that we shared before the final round of interviews -
+
+## Background: Openscapes Cloud Team Member
+
+**Ethos:** The Openscapes Cloud Team Member position will be supporting NASA Openscapes Mentors and part of the Openscapes Core Team. We expect this to be ¾ NASA and 1⁄4 Core. This isn’t merely a contract; the Openscapes team are leaders in the open science movement. Collaboration is essential to this job: you will not only complete tasks assigned to you, but you will lead and role-model how to support others in Cloud/open source software. To do that, you will need to identify and then support the needs of the NASA Mentors and the Openscapes broader community: building trust and being comfortable learning with others will be essential.
+
+**Scheduling**: The contract is 6 months, with a high probability of an additional year. We meet synchronously with NASA Mentors weekly – we alternate between Wednesdays and Thursdays. We do our best to be responsive to Mentors’ needs, sometimes creating additional coworking times. Our Openscapes Core Team currently works half-time throughout the week, budgeting time around synchronous calls and focusing asynchronous time to advance work in collaboration with the Mentors and prioritized for those calls. We do our best to not have synchronous calls on Mondays and Fridays, and estimate a high end of 10 hours of synchronous calls per week. These calls will also serve to onboard you to how we work so you can learn and then contribute.
+
+Your weekly synchronous responsibilities will include:
+
+-   Openscapes Core Team meetings - (1.5 hrs/week - TBD, likely weekly Tues)
+    -   Purpose: onboarding, sharing across the Openscapes Core Team. Timing will evolve as we go.
+-   NASA Mentor Calls (1.5 hrs/alternating Weds 10-11:30 PT, start Mar 6)
+    -   Purpose: get to know Mentors, how we work, listen for needs, contribute
+-   NASA Mentor Coworking (1.5 hrs/alternating Thurs 10-11:30 PT, start Mar 14)
+    -   Purpose: get to know Mentors, how we work, contribute.
+    -   Focus: Cloud infrastructure & Cookbook hackdays
+
+In addition, there are additional synchronous calls upcoming this spring:
+
+-   NASA Champions launch (1.5-3 hrs/week for 3 weeks, Mar 19 10-11:30 PT; then Thurs 1-2:30 PT Mar 21 -Apr 4)
+    -   Purpose: Setting up NASA Champions Cohort - starts Apr 3
+-   earthaccess hackdays - (2 hrs/alternating Tues, 10-11:30 PT, start April 2)
+    -   Purpose: support python library development, documentation
+-   Workshop planning hackdays - (2 hrs/alternating weeks - start April, TBD)
+    -   Purpose: support cross-workshop planning, automation, documentation
+
+**Tasks:** These tasks were identified by the NASA Openscapes Mentors as priorities for 2024.
+
+-   **earthaccess** - support this NASA Mentors-built and community-maintained python library. Involves supporting a welcoming open source contributing environment, facilitating/tech-hosting hackdays, applying package-development skills, supporting increased user adoption and community engagement while also promoting R and MATLAB complements
+-   **Cloud infrastructure** - work with 2i2c team on Access Policies and implementation; support base image transportability and utility across Python, R, MATLAB, QGIS; support R Cloud efforts and incorporate into Cookbook. Opinionated R experience would be a benefit here.
+-   **Cookbook** - support tutorial review and GitHub pull requests, add to documentation, opinionated Quarto formatting, GitHub Actions; workflows to reduce things living in many places
+-   **Workshop planning** - support MainPlanning GitHub Project; support Mentors adding participants to 2i2c Hub for workshops; use & extend kyber R package for workshop structure automation and survey analysis
+
+## Onboarding
+
+Onboarding the Cloud Team Member will follow the way we have grown Openscapes teams so far: using our [Flywheel](https://openscapes.org/approach#openscapes-flywheel) ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). Our approach is "onboard and delegate" and not "train the trainers". The new team member will join existing calls with the Core team and NASA Openscapes Mentors, where they will first listen and learn, understanding the culture and needs first as they build trust and then offer advice and skills to support the Mentors. We'll be working closely with this person to help identify places to contribute and scoping priorities identified by the Mentors to support NASA Earthdata users. We'll all have a lot to learn from each other!
+
+We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
+
+![Image](https://github.com/Openscapes/how_we_work/assets/5891909/80520158-b44e-4309-9e09-6c2c577c7bbe)
+
+We're really excited to welcome this person to the community and work together ❤
+:::
+
+## First Introductions 
 
 To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including some of the slides listed on the [approach](https://openscapes.org/approach) and [champions](https://openscapes.org/champions) pages. This will help give you an overview of Openscapes as a whole and of the Champions Program.
 
 ## Experience a Cohort Call
 
-The next step is to experience the Cohort Calls to see what they are really like. Hopefully this can happen live, but if not we'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you: 
+The next step is to experience the Cohort Calls to see what they are really like. Hopefully this can happen live, but if not we'll give you access to an example folder of [Openscapes_CohortCalls](https://drive.google.com/drive/folders/1JaQ3Dkrr7pUfesSaxqRqntGlxG0dz2nl?usp=sharing). The folder has four 1.5-hour videos and associated agendas, as well as the drafted blog post. We suggest you:
 
-- Read the blog post to get an overview
-- Watch a `CallRecording` while at the same time reading through the accompanying `CallAgenda` (we'll let you know which one we recommend). We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go
-- Go through a few examples in the `PathwaysShare` folder to get a sense of what Champions share on the last call
+-   Read the blog post to get an overview
+-   Watch a `CallRecording` while at the same time reading through the accompanying `CallAgenda` (we'll let you know which one we recommend). We use the Agendas for live note-taking but don’t screenshare it; you’ll hear us orient you to page numbers and sections as we go
+-   Go through a few examples in the `PathwaysShare` folder to get a sense of what Champions share on the last call
 
 ## Seaside Chats / coworking
 
-We'll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. These are outlines of a few first few meetings. 
+We'll then meet for a Seaside Chat to get oriented and establish a workplan. We expect this to look like the following for different collaborators. These are outlines of a few first few meetings.
 
 ### Cohort Mentors/Assistants
 
-1. **Getting oriented**: discuss Cohort Calls, pre-Cohort engagement & setup, tooling
-    - cohort dates/calendar
-    - add to Slack
-1. **GitHub Clinic**: using GitHub to collaborate and publish from the web
-1. **RMarkdown/Quarto Clinic**: how to contribute to the approach-guide and events site
-1. **Coworking**: from here, we'll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects
+1.  **Getting oriented**: discuss Cohort Calls, pre-Cohort engagement & setup, tooling
+    -   cohort dates/calendar
+    -   add to Slack
+2.  **GitHub Clinic**: using GitHub to collaborate and publish from the web
+3.  **RMarkdown/Quarto Clinic**: how to contribute to the approach-guide and events site
+4.  **Coworking**: from here, we'll likely co-work to develop event pages, Call Agendas and Digests, and use GitHub Issues/Projects
 
 ### Lesson Contributors
 
-1. **Getting oriented**: discuss Cohort Calls, [lesson series](/champions/lessons.html), brainstorm lesson plan
-    - cohort dates/calendar
-    - add to Slack
-1. **Lesson workplan**: solidify lesson plan, establish workplan/coworking
-    - Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
-1. **Coworking**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
+1.  **Getting oriented**: discuss Cohort Calls, [lesson series](/champions/lessons.html), brainstorm lesson plan
+    -   cohort dates/calendar
+    -   add to Slack
+2.  **Lesson workplan**: solidify lesson plan, establish workplan/coworking
+    -   Example: [SASI Cohort Lesson Plan](https://docs.google.com/spreadsheets/d/1nYS_EDhddmG3ILwqmO432tUsjjshlhHnxuoSM4r2cs4/edit#gid=0)
+3.  **Coworking**: from here, we'll likely co-work to develop Call Agendas and use GitHub Issues/Projects
 
 ## Cohort Planning using GitHub Issues
 
