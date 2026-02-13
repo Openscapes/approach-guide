@@ -142,6 +142,12 @@ We have been documenting onboarding from previous turns of the flywheel, and the
 
 ![Image](https://github.com/Openscapes/how_we_work/assets/5891909/80520158-b44e-4309-9e09-6c2c577c7bbe){alt="Image"}
 
+For the Suborbital position, it will also be important to review:
+
+-   [GitHub-Quarto contributing clinic](https://docs.google.com/document/d/1A3hW2leoreaabsmkgvR45UxlWwOE7KksdzfU2vkxb-s/edit?tab=t.0)
+
+-   Suborbital tutorials including <https://nasa.github.io/VITALS/python/Finding_Coincident_Airborne_and_Orbital_Data.html>
+
 We're really excited to welcome this person to the community and work together ❤
 :::
 
