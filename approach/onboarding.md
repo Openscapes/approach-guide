@@ -60,6 +60,91 @@ We have been documenting onboarding from previous turns of the flywheel, and the
 We're really excited to welcome this person to the community and work together ❤
 :::
 
+The above was posted as "How we work" [issue #323](https://github.com/Openscapes/how_we_work/issues/323).
+
+::: {.callout-note icon="false"}
+## Onboarding: NASA Openscapes Suborbital Team Member
+
+We'll soon be onboarding a new team member, whose primary
+focus is to support the NASA Openscapes Mentors and Suborbital scientists as part of the Openscapes Core Team! From our job
+posting for this half time contracting position, we had 36 candidates
+apply. Reusing the approach developed by [\@LizNeeley](https://github.com/LizNeeley) of [Liminal](https://www.liminalcreations.com/),
+who is an expert in science communication, design, and sensemaking, we
+developed a hiring rubric and designed an interview process to create an
+equitable hiring and evaluation process that aligned with our open
+kinder science values, community, timeline, and that we can reuse and
+improve upon in the future. In January we led 2 rounds of interviews
+with really stellar candidates. We have also been delayed in receiving the funding and appreciated these candidates navigating shifting timelines with us. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
+
+These are specifics about the role that we shared before the final round of interviews, with some more details as our timeline has become more solid -
+
+**Ethos:** The Openscapes Suborbital Team Member position will be supporting NASA Openscapes Mentors, Suborbital scientists and part of the Openscapes Core Team. This isn’t merely a contract; the Openscapes team are leaders in the open science movement. Collaboration is essential to this job: you will not only complete tasks assigned to you, but you will lead and role-model how to support others in Suborbital/open source software. To do that, you will need to identify and then support the needs of the NASA Mentors and the Openscapes broader community: building trust and being comfortable learning with others will be essential. 
+
+**Scheduling:** The contract is 8.5 months, with possibility of extension depending on funding. We meet synchronously with NASA Mentors weekly – we alternate between Wednesdays and Thursdays. We do our best to be responsive to Mentor+scientists’ needs, sometimes creating additional coworking times. Our Openscapes Core Team currently works half-time throughout the week, budgeting time around synchronous calls and focusing asynchronous time to advance work in collaboration with the Mentors+scientists and prioritized for those calls. We do our best to not have synchronous calls on Mondays and Fridays, and estimate a high end of 10 hours of synchronous calls per week. These calls will also serve to onboard you to how we work so you can learn and then contribute and lead.
+
+Your weekly synchronous responsibilities will include: 
+
+-   **Openscapes Core Team meetings** - (1.5 hrs/week - currently Tuesdays 8:30-9:45am PT)
+
+    -   Purpose: onboarding, sharing across the Openscapes Core Team.
+
+-   **NASA Mentor Calls and/or Coworking** (1.5 hrs/alternating Wednesdays and Thursdays 10-11:30 PT)
+
+    -   Purpose: get to know Mentors, how we work, contribute to the Cookbook structure and lessons
+
+    -   Focus: Cookbook hackdays, focus on contributing and how to onboard new Mentors 
+
+-   **Suborbital Coworking - to be scheduled, likely weekly, to support teams and to we design the plan and prepare for the Notebook Clinic**\
+
+In addition, there are additional synchronous calls upcoming this spring:
+
+-   **NASA Openscapes Champions Cohort** (1.5 hrs/week for 10 weeks, to be scheduled likely in Apr-Jun)
+
+-   **Notebook Clinic for Suborbital teams** (1.5 hrs/week for 8-10 weeks, to be scheduled likely in the fall)
+
+**Tasks**
+
+The new team member will work closely with lead the Openscapes team to refine/evolve the following as needed. The new team member will onboard to Openscapes approaches with the team and be supported and get feedback as they take on more responsibility. \
+
+1.  **Develop a suborbital science team community**. We will reuse and grow from what works from the last four years of building the NASA Openscapes Mentor community, and connecting to community momentum at NASA. This work involves:
+
+    1.  Joining existing meetings, getting a sense of the group, giving talks, asking questions, sending followup messages, having open documentation of activities, scheduling 1:1 conversations. 
+
+    2.  Hosting regular Coworking sessions; a light-weight way where they connect and help solve common challenges. This will build trust so they would prioritize time for the Clinic, as we design the Clinic to fit their needs. 
+
+2.  **Lead a Notebook Clinic.** We will draw from what we’ve learned from leading 24 Champions Cohorts (Openscapes’ flagship program to help teams make real change around reproducible and transparent workflows). We teach as a team. Following this structure, the clinic would be 10 weeks, 1.5 hours each week, with alternating weeks being lesson-based and hands-on work based (https://openscapes.github.io/series). Our approach includes:
+
+    1.  Focusing on developing relationships with potential participants (above) as well as developing the Clinic itself. The Clinic will build on the rhythm from Coworking and be a friendly place to learn. We will invite suborbital teams to join via a short nomination form, both which Openscapes has found to increase buy-in and decrease attrition. 
+
+    2.  Size of cohort will be 40 people max; we have found this is best for learning, since it enables active engagement and any bigger starts feeling like a webinar. 
+
+    3.  Developing lessons to focus on building reusable workflows with Jupyter Notebooks, Quarto, and GitHub, using the earthaccess python library, and writing documentation that focuses on onboarding. We will develop documentation, tutorials, and templates the teams can reuse.
+
+    4.  We will teach with an open facilitation approach, drawing on our experience as Carpentries certified instructors, using agenda as live shared note taking, and having multiple channels for asking help, including asynchronous chat and synchronous having breakout rooms.
+
+    5.  ​​Notebook Clinic lessons will be added to the Earthdata Cloud Cookbook for discoverability and reuse.
+
+3.  **Amplify suborbital science teams**. We willcreate opportunities to share work, both through talks and through a mechanism for adding contributions to the Earthdata Cloud Cookbook. This involves: 
+
+-   Giving talks to different groups, particularly with NASA staff, NASA Openscapes network of open source communities, industry, academia, other government agencies. 
+
+-   Connect suborbital teams to Openscapes’ network of engineers, teachers, managers, scientists, facilitators, we can help people get the help they need, and help their work get in front of people who need to hear about it. 
+
+-   Improving documentation and onboarding for suborbital teams (and anyone) to contribute workflows to the NASA Earthdata Cookbook. 
+
+**Core team contributions** - we use the same tech and approaches in NASA and Openscapes core work, and thus work to improve systems and teach each other in both settings. Examples include refining project management, adding to documentation, improving GitHub Action/Quarto workflows, writing blog posts, reviewing other people’s work and giving feedback, participating in teaching/mentoring/coaching activities to build our skills.
+
+## Onboarding
+
+Onboarding the Cloud Team Member will follow the way we have grown Openscapes teams so far: using our [Flywheel](https://openscapes.org/approach#openscapes-flywheel) ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). Our approach is "onboard and delegate" and not "train the trainers". The new team member will join existing calls with the Core team and NASA Openscapes Mentors, where they will first listen and learn, understanding the culture and needs first as they build trust and then offer advice and skills to support the Mentors. We'll be working closely with this person to help identify places to contribute and scoping priorities identified by the Mentors to support NASA Earthdata users. We'll all have a lot to learn from each other!
+
+We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
+
+![Image](https://github.com/Openscapes/how_we_work/assets/5891909/80520158-b44e-4309-9e09-6c2c577c7bbe){alt="Image"}
+
+We're really excited to welcome this person to the community and work together ❤
+:::
+
 ## First Introductions 
 
 To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including some of the slides listed on the [approach](https://openscapes.org/approach) and [champions](https://openscapes.org/champions) pages. This will help give you an overview of Openscapes as a whole and of the Champions Program.
