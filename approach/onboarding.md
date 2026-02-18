@@ -126,7 +126,7 @@ The new team member will work closely with the Openscapes team to refine/evolve 
 
 3.  **Amplify suborbital science teams**. We willcreate opportunities to share work, both through talks and through a mechanism for adding contributions to the Earthdata Cloud Cookbook. This involves: 
 
--   Giving talks to different groups, particularly with NASA staff, NASA Openscapes network of open source communities, industry, academia, other government agencies. 
+-   Giving talks to different groups, particularly with NASA staff, NASA Openscapes' network of open source communities, industry, academia, and other government agencies. 
 
 -   Connect suborbital teams to Openscapes’ network of engineers, teachers, managers, scientists, facilitators, we can help people get the help they need, and help their work get in front of people who need to hear about it. 
 
