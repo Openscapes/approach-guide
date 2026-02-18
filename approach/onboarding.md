@@ -153,7 +153,7 @@ We're really excited to welcome this person to the community and work together â
 
 ## First Introductions 
 
-To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including some of the slides listed on the [approach](https://openscapes.org/approach) and [champions](https://openscapes.org/champions) pages. This will help give you an overview of Openscapes as a whole and of the Champions Program.
+To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including the [Approach](https://openscapes.org/approach) page and the [Champions](https://openscapes.github.io/series/program-summary) program summary.
 
 ## Experience a Cohort Call
 
