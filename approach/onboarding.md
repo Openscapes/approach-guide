@@ -10,7 +10,7 @@ A common way we start collaborating with folks is to to deliver the Champions Pr
 
 To support the growing Openscapes work, we are also onboarding core team members to support Mentors, build and maintain infrastructure, as well as leading Champions Cohorts and other events. Here are some of the ways we've approached this as well.
 
-::: {.callout-note icon="false"}
+::: {.callout-note icon="false" collapse="true"}
 ## Onboarding Issue: NASA Openscapes Cloud Team Member
 
 We'll soon be onboarding a new team member, whose primary focus is to support the NASA Openscapes Mentor community! From our job posting for this 1/2 time contracting position, we had 24 candidates apply. Working with @lizneeley of [Liminal](https://www.liminalcreations.com/), who is an expert in science communication, design, and sensemaking, we developed a hiring rubric and designed an interview process to create an equitable hiring and evaluation process that aligned with our open kinder science values, community, timeline, and that we can reuse and improve upon in the future. In February we led 2 rounds of interviews with really stellar candidates. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
