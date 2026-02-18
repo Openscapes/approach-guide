@@ -55,7 +55,7 @@ Onboarding the Cloud Team Member will follow the way we have grown Openscapes te
 
 We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
 
-![Image](https://github.com/Openscapes/how_we_work/assets/5891909/80520158-b44e-4309-9e09-6c2c577c7bbe)
+![](images/documenting-things.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
 
 We're really excited to welcome this person to the community and work together ❤
 :::
