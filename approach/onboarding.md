@@ -120,7 +120,7 @@ The new team member will work closely with the Openscapes team to refine/evolve 
 
     3.  Developing lessons to focus on building reusable workflows with Jupyter Notebooks, Quarto, and GitHub, using the earthaccess python library, and writing documentation that focuses on onboarding. We will develop documentation, tutorials, and templates the teams can reuse.
 
-    4.  We will teach with an open facilitation approach, drawing on our experience as Carpentries certified instructors, using agenda as live shared note taking, and having multiple channels for asking help, including asynchronous chat and synchronous having breakout rooms.
+    4.  We will teach with an open facilitation approach, drawing on our experience as Carpentries certified instructors, using agenda as live shared note taking, and having multiple channels for asking for help, including asynchronous chat and synchronous having breakout rooms.
 
     5.  ​​Notebook Clinic lessons will be added to the Earthdata Cloud Cookbook for discoverability and reuse.
 
