@@ -104,7 +104,7 @@ In addition, there are additional synchronous calls upcoming this year:
 
 **Tasks**
 
-The new team member will work closely with lead the Openscapes team to refine/evolve the following as needed. The new team member will onboard to Openscapes approaches with the team and be supported and get feedback as they take on more responsibility. \
+The new team member will work closely with the Openscapes team to refine/evolve the following as needed. The new team member will onboard to Openscapes' approaches with the team and be supported and get feedback as they take on more responsibility. \
 
 1.  **Develop a suborbital science team community**. We will reuse and grow from what works from the last four years of building the NASA Openscapes Mentor community, and connecting to community momentum at NASA. This work involves:
 
