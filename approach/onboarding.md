@@ -60,7 +60,7 @@ We have been documenting onboarding from previous turns of the flywheel, and the
 We're really excited to welcome this person to the community and work together ❤
 :::
 
-The above was posted as "How we work" [issue #323](https://github.com/Openscapes/how_we_work/issues/323).
+The above was posted as [issue #323](https://github.com/Openscapes/how_we_work/issues/323) in our "How we work" repo.
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Onboarding: NASA Openscapes Suborbital Team Member
