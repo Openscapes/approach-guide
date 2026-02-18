@@ -96,11 +96,11 @@ Your weekly synchronous responsibilities will include: 
 
 -   **Suborbital Coworking - to be scheduled, likely weekly, to support teams and to we design the plan and prepare for the Notebook Clinic**\
 
-In addition, there are additional synchronous calls upcoming this spring:
+In addition, there are additional synchronous calls upcoming this year:
 
--   **NASA Openscapes Champions Cohort** (1.5 hrs/week for 10 weeks, to be scheduled likely in Apr-Jun)
+-   **NASA Openscapes Champions Cohort** (1.5 hrs/week for 10 weeks, to be scheduled likely in the Fall)
 
--   **Notebook Clinic for Suborbital teams** (1.5 hrs/week for 8-10 weeks, to be scheduled likely in the fall)
+-   **Notebook Clinic for Suborbital teams** (structure to be determined, to be scheduled likely in the Fall)
 
 **Tasks**
 
