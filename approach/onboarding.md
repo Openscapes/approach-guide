@@ -112,7 +112,7 @@ The new team member will work closely with the Openscapes team to refine/evolve 
 
     2.  Hosting regular Coworking sessions; a light-weight way where they connect and help solve common challenges. This will build trust so they would prioritize time for the Clinic, as we design the Clinic to fit their needs. 
 
-2.  **Lead a Notebook Clinic.** We will draw from what we’ve learned from leading 24 Champions Cohorts (Openscapes’ flagship program to help teams make real change around reproducible and transparent workflows). We teach as a team. Following this structure, the clinic would be 10 weeks, 1.5 hours each week, with alternating weeks being lesson-based and hands-on work based (https://openscapes.github.io/series). Our approach includes:
+2.  **Lead a Notebook Clinic.** We will draw from what we’ve learned from leading 24 Champions Cohorts (Openscapes’ flagship program to help teams make real change around reproducible and transparent workflows). We teach as a team. Following this structure, we will co-develop a notebook clinic balancing lesson-based cohort calls and hands-on coworking sessions (https://openscapes.github.io/series). Our approach includes:
 
     1.  Focusing on developing relationships with potential participants (above) as well as developing the Clinic itself. The Clinic will build on the rhythm from Coworking and be a friendly place to learn. We will invite suborbital teams to join via a short nomination form, both which Openscapes has found to increase buy-in and decrease attrition. 
 
