@@ -8,7 +8,7 @@ Through time, Openscapes has been onboarding folks for different roles and purpo
 
 A common way we start collaborating with folks is to to deliver the Champions Program, and this page was first built to document the onboarding process to contribute to a Champions Cohort. This focused on onboarding folks to collaborate in different capacities — i.e. as mentors, assistants, evaluators, lesson contributors, guest teachers — so we will be trying to be as streamlined as possible with the most relevant information and skill-building to meet specific needs and timeframes.
 
-To support the growing Openscapes work, we are also onboarding core team members to support Mentors, build and maintain infrastructure, as well as leading Champions Cohorts and other events. Here is some of the ways we've approached this as well.
+To support the growing Openscapes work, we are also onboarding core team members to support Mentors, build and maintain infrastructure, as well as leading Champions Cohorts and other events. Here are some of the ways we've approached this as well.
 
 ::: {.callout-note icon="false"}
 ## Onboarding Issue: NASA Openscapes Cloud Team Member
