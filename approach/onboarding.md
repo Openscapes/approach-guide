@@ -62,7 +62,7 @@ We're really excited to welcome this person to the community and work together â
 
 The above was posted as "How we work" [issue #323](https://github.com/Openscapes/how_we_work/issues/323).
 
-::: {.callout-note icon="false"}
+::: {.callout-note icon="false" collapse="true"}
 ## Onboarding: NASA Openscapes Suborbital Team Member
 
 We'll soon be onboarding a new team member, whose primary
