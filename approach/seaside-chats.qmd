@@ -14,7 +14,16 @@ We build shared skillsets in part through [Seaside Chats](https://www.openscapes
 
 We also have [coworking sessions](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/) where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves screensharing to problem solve. Openscapes staff participates and we draw from our open science network to invite people whose expertise in things like experts in open peer software review or Quarto can help.
 
-## Hackathons
+
+## Mentor Calls
+
+With NASA and NOAA, we meet each week in different formats to move our work forward in different ways. This is how we distinguish Mentors Calls, Coworking, and Hackdays with these groups:
+
+- Mentor Calls for planning, sharing, and learning (biweekly, for Mentors). Also skill-building, onboarding new mentors, and open science tips, depending on what folks are working on.
+- Hackdays and Coworking for working synchronously and screensharing (biweekly, various topics, open to anyone!)
+- Asynchronous work via 2i2c JupyterHub, GitHub, Slack, Google Drive. The majority of time is spent self-directed based on your goals, and you’ll be collaborating with others at your DAAC as well as across DAACs and the broader open science community.
+
+## Hackathons / hackdays
 
 We have hackathons to tackle specific tasks together. We use this word to mean working on something together in real time that benefits the project or team. These are often a good way to get early momentum on a project or to re-invigorate an existing project. We kick-started this guide during a 2-person hackathon! We made the github repo, quarto site architecture (section folders, chapter pages, and markdown headers) to outline the guide and built and iterated as we went.
 
