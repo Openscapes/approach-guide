@@ -9,3 +9,5 @@ _site/
 
 .DS_Store
 .vscode/settings.json
+
+**/*.quarto_ipynb

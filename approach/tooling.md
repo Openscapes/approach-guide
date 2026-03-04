@@ -478,3 +478,37 @@ champ_emails[is.na(champ_emails)] <- ""
 write_clip(champ_emails)
 ```
 :::
+
+::: {.callout collapse="true"}
+
+## Restart GitHub Actions or Netlify build/deploy preview
+
+Sometimes a GitHub Actions workflow or Netlify Deploy preview process will stall
+for an unknown reason, and you just need to restart it to give it a little nudge.
+
+If it is a GitHub Actions workflow you can go to the "Actions" tab, click on the 
+running/stalled workflow, and click "Cancel Workflow" and then "Re-run jobs".
+
+If it is a Netlify Deployment (or deploy preview), a 
+[similar workflow](https://docs.netlify.com/deploy/manage-deploys/manage-deploys-overview/) is 
+available by logging in to your Netlify account.
+
+If you don't have access to those GUI tools (e.g., if you don't have login credentials),
+you can push an _empty commit_ to the repo which should restart the stuck process.
+
+The terminal command to create an empty commit is:
+
+```
+git commit --allow-empty -m "commit message"
+```
+
+Where "commit message" could be something meaningful like:
+
+```
+git commit --allow-empty -m "trigger netlify deploy preview"
+```
+
+Then push to the repository (`git push` or with the RStudio/Positron/VSCode GUI)
+and it should trigger a new build, but with no actual changes to the repo contents.
+
+:::
