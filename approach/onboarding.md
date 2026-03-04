@@ -10,71 +10,12 @@ A common way we start collaborating with folks is to to deliver the Champions Pr
 
 To support the growing Openscapes work, we are also onboarding core team members to support Mentors, build and maintain infrastructure, as well as leading Champions Cohorts and other events. Here are some of the ways we've approached this as well.
 
-::: {.callout-note icon="false" collapse="true"}
-## Onboarding: NASA Openscapes Cloud Team Member
-
-We'll soon be onboarding a new team member, whose primary focus is to support the NASA Openscapes Mentor community! From our job posting for this 1/2 time contracting position, we had 24 candidates apply. Working with @lizneeley of [Liminal](https://www.liminalcreations.com/), who is an expert in science communication, design, and sensemaking, we developed a hiring rubric and designed an interview process to create an equitable hiring and evaluation process that aligned with our open kinder science values, community, timeline, and that we can reuse and improve upon in the future. In February 2024 we led 2 rounds of interviews with really stellar candidates. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
-
-These are specifics about the role that we shared before the final round of interviews -
-
-## Background: Openscapes Cloud Team Member
-
-**Ethos:** The Openscapes Cloud Team Member position will be supporting NASA Openscapes Mentors and be part of the Openscapes Core Team. We expect this to be ¾ NASA and 1⁄4 Core. This isn’t merely a contract; the Openscapes team are leaders in the open science movement. Collaboration is essential to this job: you will not only complete tasks assigned to you, but you will lead and role-model how to support others in Cloud/open source software. To do that, you will need to identify and then support the needs of the NASA Mentors and the Openscapes broader community: building trust and being comfortable learning with others will be essential.
-
-**Scheduling**: The contract is 6 months, with a high probability of an additional year. We meet synchronously with NASA Mentors weekly – we alternate between Wednesdays and Thursdays. We do our best to be responsive to Mentors’ needs, sometimes creating additional coworking times. Our Openscapes Core Team currently works half-time throughout the week, budgeting time around synchronous calls and focusing asynchronous time to advance work in collaboration with the Mentors and prioritized for those calls. We do our best to not have synchronous calls on Mondays and Fridays, and estimate a high end of 10 hours of synchronous calls per week. These calls will also serve to onboard you to how we work so you can learn and then contribute.
-
-Your weekly synchronous responsibilities will include:
-
--   Openscapes Core Team meetings - (1.5 hrs/week - TBD, likely weekly Tues)
-    -   Purpose: onboarding, sharing across the Openscapes Core Team. Timing will evolve as we go.
--   NASA Mentor Calls (1.5 hrs/alternating Weds 10-11:30 PT, start Mar 6)
-    -   Purpose: get to know Mentors, how we work, listen for needs, contribute
--   NASA Mentor Coworking (1.5 hrs/alternating Thurs 10-11:30 PT, start Mar 14)
-    -   Purpose: get to know Mentors, how we work, contribute.
-    -   Focus: Cloud infrastructure & Cookbook hackdays
-
-In addition, there are additional synchronous calls upcoming this spring:
-
--   NASA Champions launch (1.5-3 hrs/week for 3 weeks, Mar 19 10-11:30 PT; then Thurs 1-2:30 PT Mar 21 -Apr 4)
-    -   Purpose: Setting up NASA Champions Cohort - starts Apr 3
--   earthaccess hackdays - (2 hrs/alternating Tues, 10-11:30 PT, start April 2)
-    -   Purpose: support python library development, documentation
--   Workshop planning hackdays - (2 hrs/alternating weeks - start April, TBD)
-    -   Purpose: support cross-workshop planning, automation, documentation
-
-**Tasks:** These tasks were identified by the NASA Openscapes Mentors as priorities for 2024.
-
--   **earthaccess** - support this NASA Mentors-built and community-maintained python library. Involves supporting a welcoming open source contributing environment, facilitating/tech-hosting hackdays, applying package-development skills, supporting increased user adoption and community engagement while also promoting R and MATLAB complements
--   **Cloud infrastructure** - work with 2i2c team on Access Policies and implementation; support base image transportability and utility across Python, R, MATLAB, QGIS; support R Cloud efforts and incorporate into Cookbook. Opinionated R experience would be a benefit here.
--   **Cookbook** - support tutorial review and GitHub pull requests, add to documentation, opinionated Quarto formatting, GitHub Actions; workflows to reduce things living in many places
--   **Workshop planning** - support MainPlanning GitHub Project; support Mentors adding participants to 2i2c Hub for workshops; use & extend kyber R package for workshop structure automation and survey analysis
-
-## Onboarding
-
-Onboarding the Cloud Team Member will follow the way we have grown Openscapes teams so far: using our [Flywheel](https://openscapes.org/approach#openscapes-flywheel) ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). Our approach is "onboard and delegate" and not "train the trainers". The new team member will join existing calls with the Core team and NASA Openscapes Mentors, where they will first listen and learn, understanding the culture and needs first as they build trust and then offer advice and skills to support the Mentors. We'll be working closely with this person to help identify places to contribute and scoping priorities identified by the Mentors to support NASA Earthdata users. We'll all have a lot to learn from each other!
-
-We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
-
-![](images/documenting-things.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
-
-We're really excited to welcome this person to the community and work together ❤
-:::
-
-The above was posted as [issue #323](https://github.com/Openscapes/how_we_work/issues/323) in our "How we work" repo.
+Most of the text below was also incorporated into a [blog post]() cross-posted on nasa-openscapes.github.io. 
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Onboarding: NASA Openscapes Suborbital Team Member
 
-We'll soon be onboarding a new team member, whose primary
-focus is to support the NASA Openscapes Mentors and Suborbital scientists as part of the Openscapes Core Team! From our job
-posting for this half time contracting position, we had 36 candidates
-apply. Reusing the approach developed by [\@LizNeeley](https://github.com/LizNeeley) of [Liminal](https://www.liminalcreations.com/),
-who is an expert in science communication, design, and sensemaking, we
-developed a hiring rubric and designed an interview process to create an
-equitable hiring and evaluation process that aligned with our open
-kinder science values, community, timeline, and that we can reuse and
-improve upon in the future. In January we led 2 rounds of interviews
-with really stellar candidates. We have also been delayed in receiving the funding and appreciated these candidates navigating shifting timelines with us. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
+We'll soon be onboarding a new team member, whose primary focus is to support the NASA Openscapes Mentors and Suborbital scientists as part of the Openscapes Core Team! From our job posting for this half time contracting position, we had 36 candidates apply. Reusing the approach developed by [\@LizNeeley](https://github.com/LizNeeley) of [Liminal](https://www.liminalcreations.com/), who is an expert in science communication, design, and sensemaking, we developed a hiring rubric and designed an interview process to create an equitable hiring and evaluation process that aligned with our open kinder science values, community, timeline, and that we can reuse and improve upon in the future. In January we led 2 rounds of interviews with really stellar candidates. We have also been delayed in receiving the funding and appreciated these candidates navigating shifting timelines with us. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
 
 These are specifics about the role that we shared before the final round of interviews, with some more details as our timeline has become more solid -
 
@@ -151,7 +92,60 @@ For the Suborbital position, it will also be important to review:
 We're really excited to welcome this person to the community and work together ❤
 :::
 
-## First Introductions 
+The below was posted as [issue #323](https://github.com/Openscapes/how_we_work/issues/323) in our "How we work" repo.
+
+::: {.callout-note icon="false" collapse="true"}
+## Onboarding: NASA Openscapes Cloud Team Member
+
+We'll soon be onboarding a new team member, whose primary focus is to support the NASA Openscapes Mentor community! From our job posting for this 1/2 time contracting position, we had 24 candidates apply. Working with @lizneeley of [Liminal](https://www.liminalcreations.com/), who is an expert in science communication, design, and sensemaking, we developed a hiring rubric and designed an interview process to create an equitable hiring and evaluation process that aligned with our open kinder science values, community, timeline, and that we can reuse and improve upon in the future. In February 2024 we led 2 rounds of interviews with really stellar candidates. We are so grateful for these candidates working in this space with very diverse skillsets and backgrounds who are interested in this position and being a part of this NASA Openscapes work and the open science community.
+
+These are specifics about the role that we shared before the final round of interviews -
+
+## Background: Openscapes Cloud Team Member
+
+**Ethos:** The Openscapes Cloud Team Member position will be supporting NASA Openscapes Mentors and be part of the Openscapes Core Team. We expect this to be ¾ NASA and 1⁄4 Core. This isn’t merely a contract; the Openscapes team are leaders in the open science movement. Collaboration is essential to this job: you will not only complete tasks assigned to you, but you will lead and role-model how to support others in Cloud/open source software. To do that, you will need to identify and then support the needs of the NASA Mentors and the Openscapes broader community: building trust and being comfortable learning with others will be essential.
+
+**Scheduling**: The contract is 6 months, with a high probability of an additional year. We meet synchronously with NASA Mentors weekly – we alternate between Wednesdays and Thursdays. We do our best to be responsive to Mentors’ needs, sometimes creating additional coworking times. Our Openscapes Core Team currently works half-time throughout the week, budgeting time around synchronous calls and focusing asynchronous time to advance work in collaboration with the Mentors and prioritized for those calls. We do our best to not have synchronous calls on Mondays and Fridays, and estimate a high end of 10 hours of synchronous calls per week. These calls will also serve to onboard you to how we work so you can learn and then contribute.
+
+Your weekly synchronous responsibilities will include:
+
+-   Openscapes Core Team meetings - (1.5 hrs/week - TBD, likely weekly Tues)
+    -   Purpose: onboarding, sharing across the Openscapes Core Team. Timing will evolve as we go.
+-   NASA Mentor Calls (1.5 hrs/alternating Weds 10-11:30 PT, start Mar 6)
+    -   Purpose: get to know Mentors, how we work, listen for needs, contribute
+-   NASA Mentor Coworking (1.5 hrs/alternating Thurs 10-11:30 PT, start Mar 14)
+    -   Purpose: get to know Mentors, how we work, contribute.
+    -   Focus: Cloud infrastructure & Cookbook hackdays
+
+In addition, there are additional synchronous calls upcoming this spring:
+
+-   NASA Champions launch (1.5-3 hrs/week for 3 weeks, Mar 19 10-11:30 PT; then Thurs 1-2:30 PT Mar 21 -Apr 4)
+    -   Purpose: Setting up NASA Champions Cohort - starts Apr 3
+-   earthaccess hackdays - (2 hrs/alternating Tues, 10-11:30 PT, start April 2)
+    -   Purpose: support python library development, documentation
+-   Workshop planning hackdays - (2 hrs/alternating weeks - start April, TBD)
+    -   Purpose: support cross-workshop planning, automation, documentation
+
+**Tasks:** These tasks were identified by the NASA Openscapes Mentors as priorities for 2024.
+
+-   **earthaccess** - support this NASA Mentors-built and community-maintained python library. Involves supporting a welcoming open source contributing environment, facilitating/tech-hosting hackdays, applying package-development skills, supporting increased user adoption and community engagement while also promoting R and MATLAB complements
+-   **Cloud infrastructure** - work with 2i2c team on Access Policies and implementation; support base image transportability and utility across Python, R, MATLAB, QGIS; support R Cloud efforts and incorporate into Cookbook. Opinionated R experience would be a benefit here.
+-   **Cookbook** - support tutorial review and GitHub pull requests, add to documentation, opinionated Quarto formatting, GitHub Actions; workflows to reduce things living in many places
+-   **Workshop planning** - support MainPlanning GitHub Project; support Mentors adding participants to 2i2c Hub for workshops; use & extend kyber R package for workshop structure automation and survey analysis
+
+## Onboarding
+
+Onboarding the Cloud Team Member will follow the way we have grown Openscapes teams so far: using our [Flywheel](https://openscapes.org/approach#openscapes-flywheel) ([Robinson & Lowndes 2022](https://eartharxiv.org/repository/view/4560/)). Our approach is "onboard and delegate" and not "train the trainers". The new team member will join existing calls with the Core team and NASA Openscapes Mentors, where they will first listen and learn, understanding the culture and needs first as they build trust and then offer advice and skills to support the Mentors. We'll be working closely with this person to help identify places to contribute and scoping priorities identified by the Mentors to support NASA Earthdata users. We'll all have a lot to learn from each other!
+
+We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
+
+![](images/documenting-things.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
+
+We're really excited to welcome this person to the community and work together ❤
+:::
+
+
+## First Introductions
 
 To first get a sense of Openscapes, we recommend looking through [openscapes.org](https://openscapes.org), including the [Approach](https://openscapes.org/approach) page and the [Champions](https://openscapes.github.io/series/program-summary) program summary.
 
