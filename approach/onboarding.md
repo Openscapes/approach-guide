@@ -81,7 +81,7 @@ Onboarding the Cloud Team Member will follow the way we have grown Openscapes te
 
 We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
 
-![](images/documenting-things.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
+![](images/documenting-things-onboarding.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
 
 For the Suborbital position, it will also be important to review:
 
@@ -139,7 +139,7 @@ Onboarding the Cloud Team Member will follow the way we have grown Openscapes te
 
 We have been documenting onboarding from previous turns of the flywheel, and these resources will help us and this new person get up to speed and contribute - including by helping improve the onboarding documentation.
 
-![](images/documenting-things.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
+![](images/documenting-things-onboarding.png){fig-alt="slide showing Documentation in 3 places for 3 audiences for onboarding: project website for nasa leadership, Cloud Cookbook for nasa mentors, Approach Guide for Openscapes team" fig-align="left" width="70%"}
 
 We're really excited to welcome this person to the community and work together ❤
 :::
