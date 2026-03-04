@@ -1085,6 +1085,30 @@ Note
 </div>
 </div>
 </div>
+<div class="callout callout-style-simple callout-none no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">None</span>Restart GitHub Actions or Netlify build/deploy preview
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Sometimes a GitHub Actions workflow or Netlify Deploy preview process will stall for an unknown reason, and you just need to restart it to give it a little nudge.</p>
+<p>If it is a GitHub Actions workflow you can go to the “Actions” tab, click on the running/stalled workflow, and click “Cancel Workflow” and then “Re-run jobs”.</p>
+<p>If it is a Netlify Deployment (or deploy preview), a <a href="https://docs.netlify.com/deploy/manage-deploys/manage-deploys-overview/">similar workflow</a> is available by logging in to your Netlify account.</p>
+<p>If you don’t have access to those GUI tools (e.g., if you don’t have login credentials), you can push an <em>empty commit</em> to the repo which should restart the stuck process.</p>
+<p>The terminal command to create an empty commit is:</p>
+<pre><code>git commit --allow-empty -m "commit message"</code></pre>
+<p>Where “commit message” could be something meaningful like:</p>
+<pre><code>git commit --allow-empty -m "trigger netlify deploy preview"</code></pre>
+<p>Then push to the repository (<code>git push</code> or with the RStudio/Positron/VSCode GUI) and it should trigger a new build, but with no actual changes to the repo contents.</p>
+</div>
+</div>
+</div>
 
 
 
