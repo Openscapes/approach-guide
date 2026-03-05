@@ -147,16 +147,64 @@ Robinson, Erin, and Julia S. Stewart Lowndes. 2022. “The Openscapes Flywheel: 
 
 Potential participants can sign up via Google Form (or Google Sheet - see below).
 
-**Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
+**Google Form:** The event page links to a Google Form (\~10 minutes) that individuals use to self-nominate, or research leads fill out to nominate their team to participate. Below is example text. Remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us. To get started, it's often easiest to copy and modify (fork!) the most relevant or recent Google form.
 
 ::: {.callout-note collapse="true"}
-## Google Form Example
+## Text for Google form - ESA Champions 2026
+
+Hello! This form is to nominate yourself to participate in the Openscapes Champions program for the European Space Agency (ESA). This opportunity is open to researchers and people supporting research affiliated with ESA. **Please nominate yourself by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two who are keen to explore pathways to more open science.
+
+**See [Event page](https://openscapes.org/events/2026-04-15-esa-champions/) for full details.**
+
+-   **First name\***
+
+-   **Last name\***
+
+-   **Email address\***
+
+-   **Group** (e.g. ScienceHub, Phi Lab, ESA Cluster, or others)\*
+
+-   **Earth science discipline** (e.g. ocean, biodiversity, meteorology, etc)\*
+
+-   **Research focus** (15 words or fewer)\*
+
+-   **Web presence** (website, GitHub; optional)
+
+-   **ORCID ID** (see <https://orcid.org/>) (optional)
+
+-   **Briefly describe how you use ESA data in your research.** (links appreciated) \*
+
+-   **Briefly tell us why you are a good candidate for our Champions cohort.** We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\*
+
+-   **Openscapes is committed to providing a welcoming community for all participants.** One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ+, disabled individuals, or any other underrepresented and under-served minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)
+
+-   **Please confirm you are available** for these 5 cohort calls, held at 14:00 - 15:30 GMT. (It is ok if you need to miss one or two sessions; we record so folks can review)\*\
+    *use form checkboxes*
+
+    -   April 15
+    -   April 29
+    -   May 13
+    -   May 27
+    -   June 10
+
+-   **Please read and agree to our code of conduct** before you submit your application to participate. <https://openscapes.org/code-of-conduct>.\*
+
+    -   Radio buttons: agree, disagree
+
+-   **Thank you for the information. What else would you like to share?**
+
+\
+**Confirmation message:** Thank you for nominating yourself! We will be in touch by March 30.
+:::
+
+::: {.callout-note collapse="true"}
+## Text for Google form - NASA Champions, 2022
 
 Title: NASA Openscapes Champions Cohort
 
 Hello! This form is to nominate your research group to participate in the NASA Openscapes Champions Cohort. This is a professional development and leadership opportunity for scientists that use data from NASA's Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) and are interested in collaborative open data science practices and migrating their workflows to the cloud.
 
-This opportunity is open only to research groups that use data from NASA DAACs. Please provide one nomination per research group, by February 1, 2022. See https://nasa-openscapes.github.io/champions for more information about NASA Openscapes, and https://openscapes.org/faqs for more details about team composition.\
+This opportunity is open only to research groups that use data from NASA DAACs. Please provide one nomination per research group, by February 1, 2022. See https://nasa-openscapes.github.io/champions for more information about NASA Openscapes, and https://openscapes.org/faqs for more details about team composition.
 
 -   **First name**
 
@@ -213,7 +261,9 @@ This opportunity is open only to research groups that use data from NASA DAACs. 
 **Confirmation message:** Thank you for the nomination. We will be in touch in late August.
 :::
 
-**Google Sheet:** For some cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
+**Google Sheet:** For some cohorts, like recent NOAA Fisheries cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
+
+**TODO:** add example email text ppl can use to share Event page to engage with potential participants.
 
 ## Selection and coordination
 
