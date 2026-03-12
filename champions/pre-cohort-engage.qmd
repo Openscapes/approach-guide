@@ -26,7 +26,7 @@ We create a post on the [Openscapes Events](https://openscapes.org/events) page 
 
 **European Space Agency (ESA) Openscapes Champions, 2026** [Event page](https://openscapes.org/events/2026-04-15-esa-champions/) + [GitHub Source](https://github.com/Openscapes/website-new/tree/main/events/2026-04-15-esa-champions).
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Text for event page, **ESA Champions 2026**
 
 # ESA Openscapes Champions Program Spring 2026
@@ -84,7 +84,7 @@ Robinson, Erin, and Julia S. Stewart Lowndes. 2022. “The Openscapes Flywheel: 
 
 **NOAA Fisheries Openscapes Champions, 2025** [Event page](https://openscapes.org/events/2025-10-07-nmfs-champions-2025/) + [GitHub source](https://github.com/Openscapes/website-new/tree/main/events/2025-10-07-nmfs-champions-2025).
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Text for event page, **NOAA Fisheries Champions, 2025**
 
 # NOAA Fisheries Openscapes Champions Program Fall 2025
@@ -149,7 +149,7 @@ Potential participants can sign up via Google Form (or Google Sheet - see below)
 
 **Google Form:** The event page links to a Google Form (\~10 minutes) that individuals use to self-nominate, or research leads fill out to nominate their team to participate. Below is example text. Remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us. To get started, it's often easiest to copy and modify (fork!) the most relevant or recent Google form.
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Text for Google form - ESA Champions 2026
 
 Hello! This form is to nominate yourself to participate in the Openscapes Champions program for the European Space Agency (ESA). This opportunity is open to researchers and people supporting research affiliated with ESA. **Please nominate yourself by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two who are keen to explore pathways to more open science.
@@ -197,7 +197,7 @@ Hello! This form is to nominate yourself to participate in the Openscapes Champi
 **Confirmation message:** Thank you for nominating yourself! We will be in touch by March 30.
 :::
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Text for Google form - NASA Champions, 2022
 
 Title: NASA Openscapes Champions Cohort
@@ -263,7 +263,7 @@ This opportunity is open only to research groups that use data from NASA DAACs. 
 
 **Google Sheet:** For some cohorts, like recent NOAA Fisheries cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
 
-::: callout-note
+::: {.callout-tip collapse="true"}
 ## Email to share opportunity
 
 To: group of researchers\
@@ -298,7 +298,7 @@ We have a selection rubric and work with partners to select participating teams.
 
 When teams have nominated themselves, we send an email to potential team leads with more details and ask them to reply cc'ing their teams and scheduling 1:1 intro calls.
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email welcome to selected PIs
 
 Subject: Welcome to the FDD Openscapes Champions Cohort 🎉
@@ -320,7 +320,7 @@ Julie Lowndes, Openscapes
 
 ### Email to confirm individuals
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email welcome to selected NMFS individuals
 
 Subject: Welcome to the NMFS Openscapes Champions Cohort 🎉
@@ -368,7 +368,7 @@ Eli Holmes (NWFSC)
 
 Declining nominees is the worst.
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to decline nominees
 
 Dear NAME,
@@ -392,7 +392,7 @@ Here's the process as the PIs confirm with their teams:
 -   Add team leads and members to the Cohort Calls and optional Coworking sessions on the OpenscapesEvents Google Calendar. Use same Zoom link for both invites.
 -   Reply all welcome email to team members with confirmation (example text below)
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example text for Google Calendar invites
 
 It's helpful to add "Openscapes" as the first word in title of Calendar invite to distinguish it from many other invites in people's calendars.
@@ -408,7 +408,7 @@ Our Cohort folder [Openscapes_CohortCalls \[ 2023-fred-hutch \]](https://drive.g
 description text: Cohort Calls for the [2023 Fred Hutch Openscapes Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) Quicklinks: Shared Cohort Google Folder [Openscapes_CohortCalls \[ 2023-fred-hutch \]](https://drive.google.com/drive/folders/1i-ZZRMvEHDwQ5vJZpX_P4ycqOTwAKnyM?usp=drive_link)
 :::
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email welcome to team members
 
 Thanks \[PI\],
@@ -448,7 +448,7 @@ Excerpt from welcome email:
 
     -   1:30 pm PT (add to your calendar)
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example text in the Calendar slot:
 
 Title: Openscapes Champions Welcome Call (optional)
@@ -458,7 +458,7 @@ Description: These optional welcome calls are a chance for you to meet the Opens
 
 Before the 1:1's, create an agenda for each call by copying Google doc: Template_Openscapes_IntroCall
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example agenda for 1:1 intro calls
 
 **Openscapes Champions Cohort Intro Call**
@@ -512,7 +512,7 @@ Before the 1:1's, create an agenda for each call by copying Google doc: Template
 
 Here is an example Cohort welcome email as a first email communication with a (government) group, and below is cohort welcome email when we have already been communicating with PIs, and then their teams individually.
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to welcome (government) cohort
 
 **Welcome to Openscapes -- NMFS AFSC Champions Cohort**
@@ -560,7 +560,7 @@ Julie, Em, Josh, and Megsie
 
 \~1 week prior to the beginning of the Cohort, we email the full Cohort, welcoming everyone and sharing the plan and a few action items. This includes providing an email address that can access Google Drive and their GitHub username!
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to welcome (academic) cohort: week prior
 
 **Welcome to Openscapes -- Fred Hutch Champions Cohort**
@@ -612,7 +612,7 @@ Julie, Stefanie, Sean, Monica
 
 ### Day prior
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to welcome cohort: day prior
 
 Hi All,
@@ -634,7 +634,7 @@ Zoom call-in information
 
 We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to guest teacher
 
 Subject: Invitation as guest teacher in Openscapes
@@ -656,7 +656,7 @@ Julie and Erin
 
 And some follow up advice to help strategize preparing:
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email advice to guest teacher
 
 I'm following up on our conversation about your Data Strategies lesson for the CA Water Boards Openscapes Cohort. Here's my advice brain-dump ;-) 
@@ -674,7 +674,7 @@ Stef
 
 Followup email the week before:
 
-::: {.callout-note collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Example email to guest teacher: week prior
 
 Hi Emily and Chanté,
