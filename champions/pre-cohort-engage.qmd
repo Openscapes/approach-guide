@@ -6,7 +6,7 @@ title: "Pre-cohort engagement"
 
 Pre-cohort engagement is focused on potential participants for the Cohort.
 
-**We focus our engagement/recruitment of team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
+**We focus our engagement/recruitment on both individuals and team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
 
 We begin this engagement once we've scheduled the dates, \~2 months before the Cohort begins: see the Program Design Chapter for details about timing.
 
@@ -16,9 +16,9 @@ Depending on the Cohort, recruitment may happen by the partners internally rathe
 
 Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity asking individuals to apply or team leads or PI's to nominate their teams, depending on the nature of the cohort.
 
-### Email, Websites, Socials
+### Websites, Email, Socials
 
-Our partners will distribute the announcement via their channels through email, listservs, website, etc. We can also share the announcement from our social accounts ([https://fosstodon.org/\@openscapes](https://fosstodon.org/@openscapes); <https://bsky.app/profile/openscapes.bsky.social>). All announcements will link to the opportunity's post on the Openscapes Events page (see next).
+Our partners will distribute the announcement via their channels through email, listservs, website, etc. We can also share the announcement from our social accounts ([Mastodon](https://fosstodon.org/@openscapes); [Bluesky](https://bsky.app/profile/openscapes.bsky.social){.uri}). All announcements will link to the opportunity's post on the Openscapes Events page (see next).
 
 ### Openscapes Events page
 
@@ -143,7 +143,7 @@ Robinson, Erin, and Julia S. Stewart Lowndes. 2022. “The Openscapes Flywheel: 
 
 **Fred Hutch Openscapes Champions, 2025** [Event page](https://openscapes.org/events/2025-04-09-fred-hutch/) + [GitHub Source](https://github.com/Openscapes/website-new/tree/main/events/2025-04-09-fred-hutch).
 
-### Google form
+### Google form to apply
 
 Potential participants can sign up via Google Form (or Google Sheet - see below).
 
@@ -263,7 +263,26 @@ This opportunity is open only to research groups that use data from NASA DAACs. 
 
 **Google Sheet:** For some cohorts, like recent NOAA Fisheries cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
 
-**TODO:** add example email text ppl can use to share Event page to engage with potential participants.
+::: callout-note
+## Email to share opportunity
+
+To: group of researchers\
+Subject: Invitation to ESA Openscapes Champions Program
+
+Dear \[ \],
+
+You are invited to participate in the Openscapes Champions Program this spring! This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research.
+
+This is a free, cohort-based remote-by-design program for researchers to learn open science approaches for your daily workflows and strengthen collaboration and reproducibility. The program will be held as five sessions in April-June 2026. Nominations are open until March 25. Please see the [event page](https://openscapes.org/events/2026-04-15-esa-champions/) for full details, and this [form where you can sign up]{.underline} \[LINK to form\] to participate.
+
+Open science is collaborative! I encourage you to join with a colleague or two who are keen to explore these practices together.
+
+I’m happy to answer any questions.
+
+Cheers,
+
+\[ \]
+:::
 
 ## Selection and coordination
 
