@@ -6,7 +6,7 @@ title: "Pre-cohort engagement"
 
 Pre-cohort engagement is focused on potential participants for the Cohort.
 
-**We focus our engagement/recruitment of team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
+**We focus our engagement/recruitment on both individuals and team leads** (i.e. PIs) to coordinate for their teams. This is so there is buy-in for the team to invest time into learning with the Openscapes Cohort. The Cohort will explore software and practices that help teams collaborate more efficiently, and are not only for people who code or work with data.
 
 We begin this engagement once we've scheduled the dates, \~2 months before the Cohort begins: see the Program Design Chapter for details about timing.
 
@@ -14,73 +14,197 @@ Depending on the Cohort, recruitment may happen by the partners internally rathe
 
 ## Announcement: call for nominations
 
-Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity as ask team leads to nominate their teams.
+Once we finalize schedules and text in the CohortPlanningDoc, we announce the opportunity asking individuals to apply or team leads or PI's to nominate their teams, depending on the nature of the cohort.
 
-### Email, Mastodon, Fliers
+### Websites, Email, Socials
 
-Our partners will distribute the announcement via their channels through email, listserves, fliers, etc. We can also tweet the announcement from our account (https://fosstodon.org/\@openscapes). All announcements will link to the opportunity's post on the Openscapes events page (see next).
+Our partners will distribute the announcement via their channels through email, listservs, website, etc. We can also share the announcement from our social accounts ([Mastodon](https://fosstodon.org/@openscapes); [Bluesky](https://bsky.app/profile/openscapes.bsky.social){.uri}). All announcements will link to the opportunity's post on the Openscapes Events page (see next).
 
-### Openscapes events page
+### Openscapes Events page
 
-We create a post on the Openscapes Events page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondance, fliers, tweets, etc. Here is an example: <https://openscapes.github.io/events/posts/2021-05-07-css-champions>
+We create a post on the [Openscapes Events](https://openscapes.org/events) page with details about the opportunity. This can be cross-posted elsewhere. It will be linked in any email correspondence, posts, partners' websites, etc. Here are some examples.
+
+**European Space Agency (ESA) Openscapes Champions, 2026** [Event page](https://openscapes.org/events/2026-04-15-esa-champions/) + [GitHub Source](https://github.com/Openscapes/website-new/tree/main/events/2026-04-15-esa-champions).
 
 ::: {.callout-tip collapse="true"}
-## Events page text example
+## Text for event page, **ESA Champions 2026**
 
-## Program overview
+# ESA Openscapes Champions Program Spring 2026
 
-**This is a professional development and leadership opportunity for Fred Hutch research groups to explore open data science practices and strengthen collaboration and reproducibility.**
+An Openscapes Cohort to learn open science approaches for your daily workflows, including FAIR principles for Earth Observation
 
-[**Openscapes**](https://openscapes.org) is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science [^1],[^2]. We mentor research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science[^3], enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+## Join us to do better science in less time, together
 
-[**Openscapes Champions**](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for environmental and Earth science research teams to explore open data science practices. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort. By discussing open software tooling and communities enabling reproducible research (e.g. R/Python, GitHub, metadata, cloud), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture.
+**This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research** to explore open data science practices and make incremental and sustainable change, no matter where you are starting from. The spring 2026 Champions Cohort will run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT. Please nominate yourself **by March 25, 2026**.
 
-**This opportunity is funded by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
+Jump to [how to apply](https://openscapes.org/events/2026-04-15-esa-champions/#sec-how-to-apply), below.
 
-## Cohort details
+[Openscapes](https://openscapes.org/) is an approach and a movement that helps researchers find each other and feel empowered to conduct data-intensive science ([Lowndes et al. 2019](https://openscapes.org/events/2026-04-15-esa-champions/#ref-lowndes2019); [Robinson and Lowndes 2022](https://openscapes.org/events/2026-04-15-esa-champions/#ref-robinson2022)). Since 2019, Openscapes has mentored over 600 researchers at universities across the US and at NASA and NOAA, helping to shift institutional culture to develop climate solutions with open science ([Lowndes et al. 2024](https://openscapes.org/events/2026-04-15-esa-champions/#ref-lowndes2024)).
 
-**Our NWFSC Cohort will meet four times over two months, on alternating Fridays.**
+[ESA EarthCODE](https://earthcode.esa.int/) is part of the ESA’s vision for Earth Observation (EO) Open Science and Innovation. EarthCODE enables scientists to find and reuse research data, use integrated EO platforms to develop scientific workflows, and publish them by automating the “[FAIR](https://www.go-fair.org/fair-principles/?)ification” process - making digital assets more Findable, Accessible, Interoperable, and Reusable. Key EarthCODE stakeholder groups in its first phase include researchers in the Earth System Science Hub, Phi Lab, and ESA Science Clusters.
 
--   **Dates:** Sep 17, Oct 1, Oct 15, Oct 29, 2021
--   **Times:** 11:00-12:30 pm PST
--   **Where:** remotely, via Zoom
--   **Who:** Cohort of 7 NOAA research groups. Each team consists of a team lead (PI, project lead, etc) and up to 4 team members of your choice (analysts, technicians, students, postdocs, etc).
--   **Cost:** Free; this opportunity is sponsored by NWFSC
--   **Expected time commitment:** The minimum expected time commitment is 6hrs/month for 2 months. This includes 3 hours/month over Zoom as a full Champions Cohort, as well as teams meeting independently to further discuss topics between Cohort Calls.
+## Program details
 
-## Nominate your team to participate
+[Openscapes Champions](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for researchers to explore open data science practices. For ESA Openscapes, participants also spend time experimenting and planning FAIR principles for Earth Observation and EarthCODE. [Core lessons](https://openscapes.github.io/series/what-to-expect.html#cohort-calls) include open mindset; GitHub for publishing and project management; team culture, data strategies for future us; coding strategies for future us; open communities.
 
-Nominate your team by filling out this [Google Form](https://forms.gle/ukhkoMzLXGdQXqtg7) by August 20, 2021. This opportunity is open only to those affiliated with NOAA NMFS. Please submit one nomination per team, preferably by the team lead (PI, project lead, etc). We will confirm participation by late August 2021.
+**We will meet as a cohort five times over two months**, on alternating Wednesdays in April - June, 2026.
 
-Learn more about the [Openscapes Champions Program](https://openscapes.org/champions), [stories from previous cohorts](https://openscapes.org/cohorts)\], and [FAQs about forming your team](https://openscapes.org/faq). Questions? Contact Openscapes: hello at openscapes
+-   **Dates**: April 15, 29, May 13, 27, June 10.
 
-\[\^1\]: \[Lowndes et al. 2019: Supercharge your research\](https://openscapes.github.io/supercharge-research/)
+-   **Times**: 14:00 - 15:30 GMT.
 
-\[\^2\]: \[Robinson & Lowndes 2022: The Openscapes Flywheel\](https://eartharxiv.org/repository/view/4560/)
+-   **Where**: remotely, via Zoom.
 
-\[\^3\]: \[Lowndes 2019: Open software means kinder science\](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
+-   **Who**: ESA-affiliated researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting ESA research. Preference will be given to Science Hub, Phi Lab, and ESA Cluster researchers if we reach capacity.
+
+-   **Cost**: Free; this opportunity is supported by the ESA EarthCODE Project through a contract to Openscapes.
+
+-   **Expected time commitment**: 6hrs/month for 2 months is an expected time commitment. This accounts for 3 hours/month of synchronous Zoom calls, optional coworking times, and collaborating with your peers to strengthen shared workflows.
+
+For more information about the Openscapes and our Champions Program, see “Openscapes as a mechanism for Crossing the Chasm between idea and adoption in science” ([slides](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/)) and [What to Expect](https://openscapes.github.io/series/what-to-expect). For stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA Fisheries, other government agencies and academic groups, please browse these [blog posts](https://openscapes.org/blog#category=champions).
+
+## How to apply
+
+To nominate yourself, please **fill out the nomination form** (*link disabled here*) **by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two – it is more fun to participate together and you have more accountability. You don’t need to be working on the same project, only an interest in improving workflows.
+
+Questions? Contact hello \@ openscapes.org.
+
+This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int/).
+
+## References
+
+*(Reference list is generated via Zotero integration with RStudio + Quarto, creates a `references.bib` file)*
+
+Lowndes, Julia S. Stewart, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, and Chelsea L. Wood. 2019. “Supercharge Your Research: A Ten-Week Plan for Open Data Science.” *Nature*, October. <https://doi.org/10.1038/d41586-019-03335-4>.
+
+Lowndes, Julia S. Stewart, Anna M. Holder, Emily H. Markowitz, and Kathryn Doering Corey Clatterbuck Amanda L. Bradford. 2024. “Shifting Institutional Culture to Develop Climate Solutions with Open Science.” *Ecology and Evolution*, April. <https://doi.org/10.1002/ece3.11341>.
+
+Robinson, Erin, and Julia S. Stewart Lowndes. 2022. “The Openscapes Flywheel: A Framework for Managers to Facilitate and Scale Inclusive Open Science Practices,” October. https://doi.org/<https://doi.org/10.31223/X5CQ02>.
 :::
 
-[^1]: [Lowndes et al. 2019: Supercharge your research](https://openscapes.github.io/supercharge-research/)
+**NOAA Fisheries Openscapes Champions, 2025** [Event page](https://openscapes.org/events/2025-10-07-nmfs-champions-2025/) + [GitHub source](https://github.com/Openscapes/website-new/tree/main/events/2025-10-07-nmfs-champions-2025).
 
-[^2]: [Robinson & Lowndes 2022: The Openscapes Flywheel](https://eartharxiv.org/repository/view/4560/)
+::: {.callout-tip collapse="true"}
+## Text for event page, **NOAA Fisheries Champions, 2025**
 
-[^3]: [Lowndes 2019: Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science)
+# NOAA Fisheries Openscapes Champions Program Fall 2025
 
-### Google form
+120 Openscapes Champions in 3 Cohorts for NOAA’s National Marine Fisheries Service
+
+## **Join us to do better science in less time, together**
+
+**This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research** to explore open data science practices and make incremental and sustainable change, no matter where you are starting from. The spring 2026 Champions Cohort will run from **April 15th to June 10th, 2026**, meeting biweekly 14:00 - 15:30 GMT. Please nominate yourself **by March 25, 2026**.
+
+Jump to [how to apply](https://openscapes.org/events/2026-04-15-esa-champions/#sec-how-to-apply), below.
+
+[Openscapes](https://openscapes.org/) is an approach and a movement that helps researchers find each other and feel empowered to conduct data-intensive science ([Lowndes et al. 2019](https://openscapes.org/events/2026-04-15-esa-champions/#ref-lowndes2019); [Robinson and Lowndes 2022](https://openscapes.org/events/2026-04-15-esa-champions/#ref-robinson2022)). Since 2019, Openscapes has mentored over 600 researchers at universities across the US and at NASA and NOAA, helping to shift institutional culture to develop climate solutions with open science ([Lowndes et al. 2024](https://openscapes.org/events/2026-04-15-esa-champions/#ref-lowndes2024)).
+
+[ESA EarthCODE](https://earthcode.esa.int/) is part of the ESA’s vision for Earth Observation (EO) Open Science and Innovation. EarthCODE enables scientists to find and reuse research data, use integrated EO platforms to develop scientific workflows, and publish them by automating the “[FAIR](https://www.go-fair.org/fair-principles/?)ification” process - making digital assets more Findable, Accessible, Interoperable, and Reusable. Key EarthCODE stakeholder groups in its first phase include researchers in the Earth System Science Hub, Phi Lab, and ESA Science Clusters.
+
+## **Program details**
+
+[Openscapes Champions](https://www.openscapes.org/champions/) is a remote-by-design mentorship program for researchers to explore open data science practices. For ESA Openscapes, participants also spend time experimenting and planning FAIR principles for Earth Observation and EarthCODE. [Core lessons](https://openscapes.github.io/series/what-to-expect.html#cohort-calls) include open mindset; GitHub for publishing and project management; team culture, data strategies for future us; coding strategies for future us; open communities.
+
+**We will meet as a cohort five times over two months**, on alternating Wednesdays in April - June, 2026.
+
+-   **Dates**: April 15, 29, May 13, 27, June 10.
+
+-   **Times**: 14:00 - 15:30 GMT.
+
+-   **Where**: remotely, via Zoom.
+
+-   **Who**: ESA-affiliated researchers (postdoctoral fellows, graduate students, principal investigators, other academic researchers) and people supporting ESA research. Preference will be given to Science Hub, Phi Lab, and ESA Cluster researchers if we reach capacity.
+
+-   **Cost**: Free; this opportunity is supported by the ESA EarthCODE Project through a contract to Openscapes.
+
+-   **Expected time commitment**: 6hrs/month for 2 months is an expected time commitment. This accounts for 3 hours/month of synchronous Zoom calls, optional coworking times, and collaborating with your peers to strengthen shared workflows.
+
+For more information about the Openscapes and our Champions Program, see “Openscapes as a mechanism for Crossing the Chasm between idea and adoption in science” ([slides](https://docs.google.com/presentation/d/1B3dSYr0eptGgDL_V6EZchU_BrJ-uS3v2K-miDkbhSqc/)) and [What to Expect](https://openscapes.github.io/series/what-to-expect). For stories from over 25 past Openscapes Champions Cohorts from NASA Earthdata, NOAA Fisheries, other government agencies and academic groups, please browse these [blog posts](https://openscapes.org/blog#category=champions).
+
+## **How to apply**
+
+To nominate yourself, please **fill out the nomination form** (*link disabled here*) **by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two – it is more fun to participate together and you have more accountability. You don’t need to be working on the same project, only an interest in improving workflows.
+
+Questions? Contact hello \@ openscapes.org.
+
+This opportunity is funded by the [European Space Agency EarthCODE](https://earthcode.esa.int/).
+
+## **References**
+
+**\
+***(Reference list is generated via Zotero integration with RStudio + Quarto, creates a `references.bib` file)*
+
+Lowndes, Julia S. Stewart, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, and Chelsea L. Wood. 2019. “Supercharge Your Research: A Ten-Week Plan for Open Data Science.” *Nature*, October. <https://doi.org/10.1038/d41586-019-03335-4>.
+
+Lowndes, Julia S. Stewart, Anna M. Holder, Emily H. Markowitz, and Kathryn Doering Corey Clatterbuck Amanda L. Bradford. 2024. “Shifting Institutional Culture to Develop Climate Solutions with Open Science.” *Ecology and Evolution*, April. <https://doi.org/10.1002/ece3.11341>.
+
+Robinson, Erin, and Julia S. Stewart Lowndes. 2022. “The Openscapes Flywheel: A Framework for Managers to Facilitate and Scale Inclusive Open Science Practices,” October. https://doi.org/<https://doi.org/10.31223/X5CQ02>.
+:::
+
+**Fred Hutch Openscapes Champions, 2025** [Event page](https://openscapes.org/events/2025-04-09-fred-hutch/) + [GitHub Source](https://github.com/Openscapes/website-new/tree/main/events/2025-04-09-fred-hutch).
+
+### Google form to apply
 
 Potential participants can sign up via Google Form (or Google Sheet - see below).
 
-**Google Form:** The events page links to a Google Form (\~10 minutes) that research leads fill out to nominate their team to participate. Below is example text - and remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us.
+**Google Form:** The event page links to a Google Form (\~10 minutes) that individuals use to self-nominate, or research leads fill out to nominate their team to participate. Below is example text. Remember to change the settings (so it's not restricted to any particular respondents) and have the thank you message say when they'll expect to hear from us. To get started, it's often easiest to copy and modify (fork!) the most relevant or recent Google form.
 
 ::: {.callout-tip collapse="true"}
-## Google Form Example
+## Text for Google form - ESA Champions 2026
+
+Hello! This form is to nominate yourself to participate in the Openscapes Champions program for the European Space Agency (ESA). This opportunity is open to researchers and people supporting research affiliated with ESA. **Please nominate yourself by March 25**. Open science is collaborative! We encourage you to sign up with a colleague or two who are keen to explore pathways to more open science.
+
+**See [Event page](https://openscapes.org/events/2026-04-15-esa-champions/) for full details.**
+
+-   **First name\***
+
+-   **Last name\***
+
+-   **Email address\***
+
+-   **Group** (e.g. ScienceHub, Phi Lab, ESA Cluster, or others)\*
+
+-   **Earth science discipline** (e.g. ocean, biodiversity, meteorology, etc)\*
+
+-   **Research focus** (15 words or fewer)\*
+
+-   **Web presence** (website, GitHub; optional)
+
+-   **ORCID ID** (see <https://orcid.org/>) (optional)
+
+-   **Briefly describe how you use ESA data in your research.** (links appreciated) \*
+
+-   **Briefly tell us why you are a good candidate for our Champions cohort.** We aim to invite a diverse group of researchers to learn together. Please tell us how your interests, career position, expertise, reproducible research efforts, and/or potential of future contribution to the open science community will help make a productive and creative cohort. Or simply tell what you hope to learn by joining and what types of data challenges you face.\*
+
+-   **Openscapes is committed to providing a welcoming community for all participants.** One of our priorities is to support and amplify the diversity of researchers participating in open science. Therefore, we strongly encourage applications from women, people of colour, LGBTQ+, disabled individuals, or any other underrepresented and under-served minorities in research. If you identify with any of these groups and wish to share this information with us, or wish to share specific needs to participate over Zoom, please use the box below. (optional)
+
+-   **Please confirm you are available** for these 5 cohort calls, held at 14:00 - 15:30 GMT. (It is ok if you need to miss one or two sessions; we record so folks can review)\*\
+    *use form checkboxes*
+
+    -   April 15
+    -   April 29
+    -   May 13
+    -   May 27
+    -   June 10
+
+-   **Please read and agree to our code of conduct** before you submit your application to participate. <https://openscapes.org/code-of-conduct>.\*
+
+    -   Radio buttons: agree, disagree
+
+-   **Thank you for the information. What else would you like to share?**
+
+\
+**Confirmation message:** Thank you for nominating yourself! We will be in touch by March 30.
+:::
+
+::: {.callout-tip collapse="true"}
+## Text for Google form - NASA Champions, 2022
 
 Title: NASA Openscapes Champions Cohort
 
 Hello! This form is to nominate your research group to participate in the NASA Openscapes Champions Cohort. This is a professional development and leadership opportunity for scientists that use data from NASA's Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) and are interested in collaborative open data science practices and migrating their workflows to the cloud.
 
-This opportunity is open only to research groups that use data from NASA DAACs. Please provide one nomination per research group, by February 1, 2022. See https://nasa-openscapes.github.io/champions for more information about NASA Openscapes, and https://openscapes.org/faqs for more details about team composition.\
+This opportunity is open only to research groups that use data from NASA DAACs. Please provide one nomination per research group, by February 1, 2022. See https://nasa-openscapes.github.io/champions for more information about NASA Openscapes, and https://openscapes.org/faqs for more details about team composition.
 
 -   **First name**
 
@@ -137,7 +261,28 @@ This opportunity is open only to research groups that use data from NASA DAACs. 
 **Confirmation message:** Thank you for the nomination. We will be in touch in late August.
 :::
 
-**Google Sheet:** For some cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
+**Google Sheet:** For some cohorts, like recent NOAA Fisheries cohorts, a Google Form isn't the right way to have potential participants to share their interest, particularly as team form. NOAA Fisheries partners have found it best to coordinate internally with a Google Spreadsheet, that may or may not be linked from an events page. Here is a [Template Sign-Up Google Sheet](https://docs.google.com/spreadsheets/d/1TkgQ1VNYK4MeY9WhO_OEp1AHeTqf16v7VvCWwSOD5M0/edit?usp=sharing) from SEFSC & AFSC.
+
+::: {.callout-tip collapse="true"}
+## Email to share opportunity
+
+To: group of researchers\
+Subject: Invitation to ESA Openscapes Champions Program
+
+Dear \[ \],
+
+You are invited to participate in the Openscapes Champions Program this spring! This is a professional development and leadership opportunity for European Space Agency (ESA) affiliated researchers and people supporting ESA research.
+
+This is a free, cohort-based remote-by-design program for researchers to learn open science approaches for your daily workflows and strengthen collaboration and reproducibility. The program will be held as five sessions in April-June 2026. Nominations are open until March 25. Please see the [event page](https://openscapes.org/events/2026-04-15-esa-champions/) for full details, and this [form where you can sign up]{.underline} \[LINK to form\] to participate.
+
+Open science is collaborative! I encourage you to join with a colleague or two who are keen to explore these practices together.
+
+I’m happy to answer any questions.
+
+Cheers,
+
+\[ \]
+:::
 
 ## Selection and coordination
 
