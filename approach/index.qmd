@@ -39,7 +39,7 @@ A few resources:
 
 ## Psychological Safety
 
-We practice and promote [psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/), described by [Dr. Amy Edmundson](https://en.wikipedia.org/wiki/Amy_Edmondson) as a shared belief held by members of a team that the team is safe for interpersonal risk taking.
+We practice and promote [psychological safety](https://online.hbs.edu/blog/post/psychological-safety-in-the-workplace), described by [Dr. Amy Edmundson](https://en.wikipedia.org/wiki/Amy_Edmondson) as a shared belief held by members of a team that the team is safe for interpersonal risk taking.
 
 Part of this practice is to start off team meetings with check-ins to see how everyone is doing that day/week, and explicitly voicing to new partners that psychological safety is foundational to our work and to speak up if something is ever not feeling right.
 
