@@ -26,6 +26,11 @@ Blog posts take time. A lot of time. And they often feel extra, especially in a 
 3.  **Share with co-authors early.** But not too early. Often we are trying to do the legwork to get a blog post structured and drafted describing the work they've already put into the event or slides. So along with the next point, do this until it's good enough, and share!
 4.  **Be ok with imperfect, and done!** Yes, there is more to say if you put months of time into this. And we may find a sentence to be polished after posting, and that's ok. We aim to share ideas and momentum from our community with the mindset that sharing some and imperfectly is better than silence.
 
+When we draft posts we do in Google Docs for easy edits then move to Quarto. We have a Google folder [ OpenscapesCommsEngagement > Blogs ] full of google docs where we start drafts and ask others to review, comment, suggest edits as needed. The workflow:creating the blogpost in google docs. Review/approval. Move to a qmd file (can copy from a formatted google doc to a qmd in Visual Editor mode of RStudio or Positron, then edit further as needed) and then PR of the qmd file to the main repo.
+
+If we're drafting in Quarto first (which we have done to test/practice what it's like to use GitHub review features) we can borrow a practice from rOpenSci from Stef: "we moved to 80 char lines for that reason. So much easier to review & make suggested commits."
+
+
 ## Make our documentation citable
 
 We want to share our documentation in a way that other people can find it, use it, improve it, and cite it. We use the Zenodo repository for this purpose. Every upload to Zenodo is assigned a Digital Object Identifier (DOI), to make it citable and trackable.
