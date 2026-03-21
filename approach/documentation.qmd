@@ -55,19 +55,36 @@ important. So, here are some strategies we use to write blogs:
     posting, and that's ok. We aim to share ideas and momentum from our community
     with the mindset that sharing some and imperfectly is better than silence.
 
-When we draft posts we do in Google Docs for easy edits then move to Quarto. We
+### Workflow 
+
+We draft posts in Google Docs for easy edits then move to Quarto. We
 have a Google folder [ OpenscapesCommsEngagement > Blogs ] full of google docs
 where we start drafts and ask others to review, comment, suggest edits as
-needed. The workflow:creating the blogpost in google docs. Review/approval. Move
-to a qmd file (can copy from a formatted google doc to a qmd in Visual Editor
-mode of RStudio or Positron, then edit further as needed) and then PR of the qmd
-file to the main repo.
+needed.
 
-If we're drafting in Quarto first (which we have done to test/practice what it's
-like to use GitHub review features) we can borrow a practice from rOpenSci from
-Stef: "we moved to 80 char lines for that reason. So much easier to review &
-make suggested commits."
+All the draft docs share a template which includes the following metadata:
 
+```
+Publish date: 
+Location:
+URL:
+Title:
+Authors:
+Image:
+```
+
+The steps to create a blogpost are: 
+
+ 1. Create the blogpost in google docs. 
+ 2. Ask others to review/approve.
+ 3. Move contents to a qmd file (can copy from a formatted google doc to a qmd
+ in Visual Editor mode of RStudio or Positron, then edit further as needed)
+ 4. Finally, create a Pull Request of the qmd file to the main
+    [repo](https://github.com/Openscapes/approach-guide).
+
+TODO: When including text in a Quarto file, wrap at lines at ~80 characters.
+This improves readability in Git diffs and makes code review and suggested 
+eddits easier.
 
 ## Make our documentation citable
 
