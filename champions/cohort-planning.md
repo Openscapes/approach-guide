@@ -27,7 +27,7 @@ We have a dedicated [NMFS Openscapes](https://nmfs-openscapes.github.io/) websit
 
 ## Cohort planning document
 
-We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1MwbnwePleqhnJYcn9-K-OkYr4VxieLgF8T6rILvCjqk/) and CohortEngagement sheet \[TODO: make template\] to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort. We use it to take notes from meetings, and to draft various communications. This is an implicit introduction to how we work, with our open processess so that all of this work is open to the planning teams.
+We make a copy of our [Openscapes-CohortPlanningDoc](https://docs.google.com/document/d/1MwbnwePleqhnJYcn9-K-OkYr4VxieLgF8T6rILvCjqk/) and CohortEngagement sheet \[TODO: make template\] to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort. We use it to take notes from meetings and to draft various communications. We continually update and add to the Cohort Planning doc as dates are set and communications are drafted. This is an implicit introduction to how we work, with our open processess so that all of this work is open to the planning teams.
 
 The later section on Champions [Cohort tech setup](pre-cohort-tech.qmd) describes and links to the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) through which we manage checklists in Issues focused on engagement and tech setup after dates are set.
 
@@ -97,16 +97,20 @@ We’d like to share about this in our next meeting. Our goals are to introduce 
 Cheers, Julie
 :::
 
-## Engagement Spreadsheet
+## Champions Engagement Spreadsheet
 
-*TODO: maybe a more distinguishable name à la "Cohort Calendaring"*
+[OpenscapesCohortEngagement \[ template \]](https://docs.google.com/spreadsheets/d/1rOptS7XtLTTWuDAUBQzJF5R7XLB5O7SohnWJmZh1fQA/edit?gid=0#gid=0)
 
-TODO: dev more
+TODO: dev more; POP it.
 
-Tabs:
+Spreadsheet Tabs:
 
 -   stakeholder groups
 
--   participants - starting from highest priority group. Can use ORCID website to quickly review their fields
+-   potential participants - starting from highest priority group. Can use ORCID website to quickly review their fields
+
+-   engagement - Places to cross-post to engage people to self-nominate
+
+-   mentor possibilities
 
 -   checklist
