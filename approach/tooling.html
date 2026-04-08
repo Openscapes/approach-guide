@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Tooling – Openscapes Approach Guide</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -59,7 +62,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
-  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -89,19 +91,18 @@ div.csl-indent {
 <link href="../approach/newsletter.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-30a00d46ff9c5cec6f04f8be5136edc9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-baa7277bdaa197f7fa648f4c808c5a46.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-30a00d46ff9c5cec6f04f8be5136edc9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-4f6c76eb3047e5f7ef13169113902be3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-208cffd2d6f11f321837cabdc7ed6084.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-4f6c76eb3047e5f7ef13169113902be3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -592,7 +593,11 @@ div.csl-indent {
   <li><a href="#set-slack-reminders" id="toc-set-slack-reminders" class="nav-link" data-scroll-target="#set-slack-reminders">Set Slack reminders</a></li>
   <li><a href="#slack-integration-with-github" id="toc-slack-integration-with-github" class="nav-link" data-scroll-target="#slack-integration-with-github">Slack integration with GitHub</a></li>
   </ul></li>
-  <li><a href="#youtube" id="toc-youtube" class="nav-link" data-scroll-target="#youtube">YouTube</a></li>
+  <li><a href="#youtube" id="toc-youtube" class="nav-link" data-scroll-target="#youtube">YouTube</a>
+  <ul class="collapse">
+  <li><a href="#playlists" id="toc-playlists" class="nav-link" data-scroll-target="#playlists">Playlists</a></li>
+  <li><a href="#upload-a-video" id="toc-upload-a-video" class="nav-link" data-scroll-target="#upload-a-video">Upload a video</a></li>
+  </ul></li>
   <li><a href="#sec-zenodo" id="toc-sec-zenodo" class="nav-link" data-scroll-target="#sec-zenodo">Zenodo</a>
   <ul class="collapse">
   <li><a href="#what-do-we-curate-in-our-zenodo-openscapes-community" id="toc-what-do-we-curate-in-our-zenodo-openscapes-community" class="nav-link" data-scroll-target="#what-do-we-curate-in-our-zenodo-openscapes-community">What do we curate in our Zenodo Openscapes Community?</a></li>
@@ -838,7 +843,31 @@ div.csl-indent {
 </section>
 <section id="youtube" class="level2">
 <h2 class="anchored" data-anchor-id="youtube">YouTube</h2>
-<p>Openscapes has a <a href="https://www.youtube.com/@openscapes">YouTube channel</a>. To <strong>make a Playlist</strong>, login as Openscapes YouTube Manager. Click on any video to edit Video details. Under Playlists dropdown, you can choose New playlist, and/or select a checkbox to add the video to an existing Playlist. We can a custom image for a Playlist. Go to that Playlist &gt; hover over the image &gt; click the pencil icon to edit. Playlist image must be at lease 640 x 360 pixels.</p>
+<p>Openscapes has a <a href="https://www.youtube.com/@openscapes">YouTube channel</a>.</p>
+<section id="playlists" class="level3">
+<h3 class="anchored" data-anchor-id="playlists">Playlists</h3>
+<p>To make a Playlist, login as Openscapes YouTube Manager. Click on any video to edit Video details. Under Playlists dropdown, you can choose New playlist, and/or select a checkbox to add the video to an existing Playlist. We can add a custom image for a Playlist. Go to that Playlist &gt; hover over the image &gt; click the pencil icon to edit. Playlist image must be at lease 640 x 360 pixels.</p>
+</section>
+<section id="upload-a-video" class="level3">
+<h3 class="anchored" data-anchor-id="upload-a-video">Upload a video</h3>
+<ul>
+<li>Check beginning and end of video to see if it needs to be trimmed. To edit a video, see <a href="#quicktime-video-editing">Quicktime video editing</a></li>
+<li>Log in to YouTube as @openscapes (not e.g.&nbsp;stefanie @openscapes.org)</li>
+<li>Click Create in upper right corner -&gt; Upload video</li>
+<li>Drag and drop or select video</li>
+<li>Fill in title and description. Note can’t hyperlink text in title or description; add url as text. Add links to relevant resources and credit the presenter and their organization.</li>
+<li>Choose a thumbnail - autogenerated usually works well</li>
+<li>Select playlist(s) (e.g.&nbsp;NOAA Fisheries Openscapes + NASA Openscapes)</li>
+<li>Click Next</li>
+<li>Video elements - generally no actions required here</li>
+<li>Click Next</li>
+<li>Initial check - Sometimes checks flag copyrighted songs. “Community Guidelines check” took a long time</li>
+<li>Click Next</li>
+<li>Choose visibility: public</li>
+<li>Click publish</li>
+<li>Copy YouTube link and share.</li>
+</ul>
+</section>
 </section>
 <section id="sec-zenodo" class="level2">
 <h2 class="anchored" data-anchor-id="sec-zenodo">Zenodo</h2>
@@ -1114,9 +1143,9 @@ Note
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-woodley2020" class="csl-entry" role="listitem">
-Woodley, Lou, and Katie Pratt. 2020. <span>“Slack Quick Start Guide,”</span> April. <a href="https://doi.org/10.5281/ZENODO.3763729">https://doi.org/10.5281/ZENODO.3763729</a>.
+Woodley, Lou, and Katie Pratt. 2020. <em>Slack Quick Start Guide</em>. April 23. <a href="https://doi.org/10.5281/ZENODO.3763729">https://doi.org/10.5281/ZENODO.3763729</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
