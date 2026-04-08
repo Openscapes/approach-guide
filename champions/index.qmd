@@ -46,7 +46,7 @@ Additionally, we lead:
 
 Openscapes will co-create recruiting materials (e.g., Champions Cohort listings at [openscapes.org/events](https://openscapes.github.io/events/#category=Champions%20Cohort)), and will lightly email participants preceding, throughout, and following the workshop. The Openscapes team will provide curriculum, support coordination, and teach the remote lesson series along with helpers. We are beginning to evaluate the Champions program as well.
 
-**Note: Participants attend as teams.** Teams include team leads (e.g., PIs, program managers, faculty) and team members (e.g., analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are:
+**Note: Participants attend as individuals or as teams.** Teams include team leads (e.g., PIs, program managers, faculty) and team members (e.g., staff, analysts, post-docs, students, technicians). The goals of combining team leads and members across varying skill sets and expertise are:
 
 1)  Everyone sees the value in open project management and data sharing practices
 2)  Leads enable their team members to invest time in learning skills and developing open and reproducible lab workflows
