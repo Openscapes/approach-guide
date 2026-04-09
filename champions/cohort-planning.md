@@ -27,7 +27,7 @@ We have a dedicated [NMFS Openscapes](https://nmfs-openscapes.github.io/) websit
 
 ## Cohort planning document
 
-We make a copy of our [OpenscapesCohortPlanningDoc \[ template \]](https://docs.google.com/document/d/1MwbnwePleqhnJYcn9-K-OkYr4VxieLgF8T6rILvCjqk/) and [OpenscapesCohortEngagement \[ template \]](https://docs.google.com/spreadsheets/d/1rOptS7XtLTTWuDAUBQzJF5R7XLB5O7SohnWJmZh1fQA/edit?usp=drive_link) sheet to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort. We use it to take notes from meetings and to draft various communications. We continually update and add to the Cohort Planning doc as dates are set and communications are drafted. This is an implicit introduction to how we work, with our open processess so that all of this work is open to the planning teams.
+We make a copy of our [OpenscapesCohortPlanningDoc \[ template \]](https://docs.google.com/document/d/1MwbnwePleqhnJYcn9-K-OkYr4VxieLgF8T6rILvCjqk/) and [Champions Engagement Spreadsheet] to share with our Partners. This planning document is to help us finalize dates and text language for announcing and coordinating our Openscapes Cohort. We use it to take notes from meetings and to draft various communications. We continually update and add to the Cohort Planning doc as dates are set and communications are drafted. This is an implicit introduction to how we work, with our open processess so that all of this work is open to the planning teams.
 
 The later section on Champions [Cohort tech setup](pre-cohort-tech.qmd) describes and links to the [CohortPlanning GitHub Project](https://github.com/orgs/Openscapes/projects/7) through which we manage checklists in Issues focused on engagement and tech setup after dates are set.
 
@@ -99,18 +99,24 @@ Cheers, Julie
 
 ## Champions Engagement Spreadsheet
 
-[OpenscapesCohortEngagement \[ template \]](https://docs.google.com/spreadsheets/d/1rOptS7XtLTTWuDAUBQzJF5R7XLB5O7SohnWJmZh1fQA/edit?gid=0#gid=0)
+When we engage with a new community for a Champions Cohort we make a copy of [OpenscapesCohortEngagement \[ template \]](https://docs.google.com/spreadsheets/d/1rOptS7XtLTTWuDAUBQzJF5R7XLB5O7SohnWJmZh1fQA/edit?gid=0#gid=0) spreadsheet and populate it.
 
 TODO: dev more; POP it.
 
-Spreadsheet Tabs:
+**Purpose**:
+
+**Outcomes**:
+
+**Process**:
+
+**Audience**:
+
+[POP planning tool](https://suzannehawkes.com/2010/04/09/pop-everything/)
+
+**Spreadsheet Tabs**:
 
 -   stakeholder groups
-
 -   potential participants - starting from highest priority group. Can use ORCID website to quickly review their fields
-
 -   engagement - Places to cross-post to engage people to self-nominate
-
 -   mentor possibilities
-
 -   checklist
