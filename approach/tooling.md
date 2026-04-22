@@ -376,13 +376,45 @@ We use Zoom as our primary meeting tool and for registrations for events that wi
 
 ### Create a Zoom link for a meeting
 
-To create a Zoom link for a meeting, it's best to do it from inside the web interface: <https://zoom.us/profile>. In Openscapes' Pro account, one person can only host one meeting at a time. Said differently, if one person created 2 overlapping meetings and listed an alternate host, the first person to start that Zoom is fine (whether they are main or alt host), while the second person will not be able to start their meeting.
+To create a Zoom link for a meeting, it's best to do it from inside the web interface: <https://zoom.us/profile>.
 
-So, when we have 2 overlapping meetings, 2 different account holders must each create a Zoom meeting. We have learned to be judicious about who creates a Zoom meeting / link, based on who is the likely lead of that meeting. We can and should set one alternative Zoom host in the interface, allowing that alt-host to start the meeting if the meeting host is unable to.
+“Schedule a meeting” button: click
+
+-   For evergreen link:
+
+    -   Recurring: click. Then:
+
+    -   “No Fixed Time” from dropdown menu
+
+        -   Mindset: zoom link is for the *concept* of a meeting “NASA Mentors”, not for date-times. So “no fixed time”. Gives us flexibility to move a meeting in calendar.
+
+-   “Allow participants to join any time” \> click
+
+-   Topic: use topic name consistent with title in Google Calendar. (even if not connected)
+
+#### Our practice
+
+In Openscapes' Pro account, **one person can only host one meeting at a time**. Said differently, if one person created 2 overlapping meetings and listed an alternate host, the first person to start that Zoom is fine (whether they are main or alt host), while the second person will not be able to start their meeting.
+
+So, when we have 2 overlapping meetings, 2 different account holders must each create a Zoom meeting. We have learned to be judicious about who creates a Zoom meeting / link, based on who is the likely lead of that meeting. We can and should set one (only one) alternative Zoom host in the interface, allowing that alt-host to start the meeting if the meeting host is unable to.
 
 In the web interface, an account holder is not able to see meetings created by another account holder, but we can now see each others’ cloud recordings if we are set as alternate host.
 
 ![Image: example Zoom meeting settings](images/zoom-create-meeting.png){fig-alt="screenshot of Zoom meeting settings showing selection of Waiting Room and Alternative Hosts" fig-align="left" width="70%"}
+
+-   We use Waiting room, not password.
+
+-   Don’t have Zoom connected to GCal: yes this could be connected by giving Zoom all permissions to contacts but we’d rather have this friction than do that.
+
+-   Do not reuse a zoom link: don’t want to conflict with an existing meeting (more worried about that than zoom bombing because waiting room)
+
+-   For any Zoom link you create for a recurring call: update the crumb trail
+
+    -   Add it to the calendar invite
+
+    -   Add to the relevant Agenda doc
+
+    -   Add to Core Team Doc, at top in our listing of Zoom links for recurring meetings.
 
 ### Event registration
 
