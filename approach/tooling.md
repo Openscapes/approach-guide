@@ -138,6 +138,11 @@ Openscapes was assigned ROR ID [ror.org/022je8241](https://ror.org/022je8241) in
 -   communications and technical writing (RMarkdown, bookdown, blogdown, Quarto)
 -   [RStudio and GitHub setup instructions](https://openscapes.github.io/series/how-to/setup-rstudio-github.html)
 
+## Python
+
+- [earthaccess](https://github.com/nsidc/earthaccess): Join us for our
+  [bi-weekly hack days](https://earthaccess.readthedocs.io/en/latest/work-with-us/#bi-weekly-alternating-weeks-earthaccess-hack-days)!
+
 ## Screen recording
 
 Thanks to Emma Ganley and Sam Csik for versions of this tip.
