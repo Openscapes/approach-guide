@@ -613,10 +613,64 @@ Zoom call-in information
 
 ## Guest teachers
 
-We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a new slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
+We invite guest teachers to present topics during Cohort Calls, either from our existing slides or they can contribute their own on a similar topic. For example, Dr. Jessica Couture contributed a slide deck on metadata and presented this during the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson, and in 2025 Dr Rachael Blake of Intertidal Agency contributed a lesson on metadata ([slides](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/); [recording](https://youtu.be/NbwVUdHMCVk)) for the [data strategies for future us](https://openscapes.github.io/series/data-strategies.html) lesson. Most of our guest teachers are Champions from previous cohorts (Jessica is a Champion from the 2019-inaugural cohort), and we are able to offer an honorarium for their time and expertise.
 
 ::: {.callout-tip collapse="true"}
-## Example email to guest teacher
+## Example email to guest teacher - an Openscapes Mentor
+
+Subject: Invitation as guest teacher in Openscapes
+
+Hi \[ potential guest teacher\],
+
+I hope you’re having a good start to the week. I wanted to follow up with you after we chatted about this with a formal invitation to guest teach in the European Space Agency (ESA) Champions Cohort ([event page](https://openscapes.org/events/2026-04-15-esa-champions/))!
+
+We wanted to **invite you as a guest teacher at our first Cohort Call on April 15, 14:00 - 15:30 BST.** This will be to give the Better Science In Less Time lesson Cohort Calls for 20-25 minutes, presenting \~12 mins of slides and co-leading the following discussion with Julie (likely breakout groups and then group discussion). You can use existing slides or structure from previous [better science lessons](https://openscapes.github.io/series/core-lessons/better-science.html), but the goal is to tell your own story arc to open science: a bit of your background research, what was hard, what you do now, what you learned and advise others. ESA is building cloud infrastructure different from the US (including ESA’s EarthCODE platform), so ok to be specific about what you use but also making general takeaways will be great. And this is what you already do, so hopefully you can reuse! We can help you with the format and timing; I’ve cc’d Stef here to help lead that. The exact time will be TBD within the first hour of the Cohort Call , but you’re welcome to just attend for your part. We are able to offer an honorarium as well.
+
+We’re excited to hear your ideas, and if this isn’t the right thing now to think about if there’s another way we can involve you in the future if you’d like, especially since your connections with ICESat-2 and you’ll be at EGU and meet some of these folks in person.
+
+Cheers,
+
+Julie
+:::
+
+::: {.callout-tip collapse="true"}
+## Example email to guest teacher - A new partner
+
+Subject: Invitation as guest teacher in Openscapes
+
+Hi \[ potential guest teacher\],
+
+It’s exciting to see participants’ enthusiasm for this first-ever ESA Openscapes Champions Cohort! I’m writing to you about being guest teachers for parts of Cohort Calls 3 and 4, and to share our process for supporting guest teachers to help bring your expertise into the types of lessons we’ve found resonate with our participants.
+
+**Teaching with Openscapes**
+
+The content and delivery for an Openscapes lesson is different from your typical tutorial or workshop lesson. We design and deliver lessons as if you are sitting across the table from a dear grad school friend who doesn’t yet know about metadata or FAIR principles and practices. During the Calls, we introduce teachers so participants have context and an understanding of your expertise. It would be great if you were both willing to teach!
+
+You’ll get a feel for this in Calls 1 and 2, then meet with us twice: first to talk through the lesson plan, and then do a dry run in the weeks before teaching. For Call 3 you would teach an existing slide deck, and for Call 4 create a new lesson on Tools, standards, and technologies supporting FAIR in the EarthCODE federation. This approach serves to onboard you to our process, reuse and test existing materials with a new ESA audience (Call 3) and adapt EarthCODE to a new audience (Call 4).
+
+**Lesson Topics**
+
+Call 3 on May 13: **Metadata - Documenting your Data.** You would teach a 20-min lesson from these [slides](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/) & [recording](https://youtu.be/NbwVUdHMCVk) by Dr Rachael Blake, Intertidal Agency. The level of material Rachael covers is ideal for participants; we find that many people don’t yet grasp what metadata is before this. Following your lesson, we make it actionable with small-group discussions in breakout rooms in response to a prompt such as, “How do these metadata principles fit with metadata for EO science workflows and data management.?”
+
+Call 4 on May 27: **Tools, standards, and technologies supporting FAIR in the EarthCODE federation** (15 mins). By the time Call 4 comes, you will have a sense of what the participants need and can use on this subject. We’ll ask you to share a bullet-list outline of your lesson plan meeting with us to finalize, and before creating slides.
+
+**Date-times for lesson prep huddles**
+
+**Would these date-times work for you** for 1) an initial 1-hr prep meeting and 2) a 1-hr dry-run, prior to Cohort Call 3 on May 13? These times work for us: 
+
+1.  Initial prep: Apr 21 or 22, between 14:00 - 16:00 GMT or Apr 23, 14:00 - 15:00 GMT. 
+
+2.  Dry run: May 5 or 6, between 1- 3 pm GMT.
+
+Please let us know about the scheduling, and any other questions. We’re excited to work with you on this!
+
+Cheers,
+
+Julie and Stef
+:::
+
+::: {.callout-tip collapse="true"}
+## Example email to guest teacher - 2021
 
 Subject: Invitation as guest teacher in Openscapes
 
