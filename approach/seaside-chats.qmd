@@ -119,7 +119,7 @@ We have physical stickers we share with our community. These hex stickers are so
 We use these dimensions following RStudio. We are looking for a new place to print stickers.
 
 -   Die cut stickers
--   Size: 1.74" x 2"
+-   Size: 1.74 x 2 inches (4.42 x 5.08 cm)
 
 ![](images/khora-laptop-sleep.jpg){fig-align="center" width="60%"}
 
