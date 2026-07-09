@@ -29,7 +29,7 @@ We have hackathons to tackle specific tasks together. We use this word to mean w
 
 ## Community Calls
 
-We host \~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming [events](https://openscapes.github.io/events/#category:community_call) that Openscapes has either hosted or joined.
+We host \~4 Community Calls per year where we discuss and explore topics relevant to Openscapes. See past and upcoming [events](https://openscapes.github.io/events/#category:community_call) that Openscapes has either hosted or joined. Here is the [OpenscapesCommunityCall_Template](https://docs.google.com/document/d/1qmbdlfRSeadfzkfIT479FaJr4LAG3gaSFLbvMwgRql4/edit?tab=t.0#heading=h.6bwtopfrdnn1) that we use for Community Calls, as well as conference sessions like ESIP (Earth Science Information Partners). 
 
 Community Calls are an hour long and generally follow this structure:
 
