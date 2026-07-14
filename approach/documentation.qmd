@@ -19,6 +19,16 @@ We can build out this page with different ways we do documentation, but a first 
 
 We write a lot of blog posts. They give visibility to things that are otherwise hidden. One example is writing a blog post for a workshop on [Audience Building and Strategic Planning](https://www.openscapes.org/blog/2021/01/06/audience-building/). This was a lot of work to put together, and we think it's valuable for others! In addition to posting the slides, how could we amplify it more and tell a story around those slides that make it more sharable? That's right, a blog post.
 
+### Blog POP
+
+This is the POP (Purpose, Outcomes, Process) for Blog posts about Champions Cohorts, but these are also relevant for posts in general:
+
+- **Purpose**: showcase awesome science teams and inspire more learning. Elevate Mentors. Amplify Mentors’ reflections in debriefs. Elevate Partners. Tie to bigger themes/reflections we’ve had, write down ideas, have a link to summarize events we’ve led (so we remember and can share), notes to ourselves about what we did differently. This will function as a cheat-sheet for everyone in the future about what we did, who was involved, why it was important, and what we were thinking.
+- **Outcomes**: a short blog post, co-authored with Mentors and partners
+- **Process**: See startegies below. “start in the action”, reuse structure, draw from digest and debrief notes; “good enough”. Include co-authors, invite feedback but no obligation to be a co-author.
+
+### Blog strategies
+
 Blog posts take time. A lot of time. And they often feel extra, especially in a culture of needing peer-reviewed publications. But they are super valuable, and important. So, along with a [Google Doc Template](https://docs.google.com/document/d/1DuyxqU6c262kyDVVdYeAXYkL1NUdPdcpnUP6Hkhk6Ec/edit?usp=sharing), here are some strategies we use to write blogs:
 
 1.  **Reuse structure.** Copy-paste a previous blog post structure. Ah, yes, we have the publish date, the title, the authors up top, some italics introducing what this is and who the authors are, with quick links. Then, 3-4 headers with up to 3 paragraphs each and a few pictures. Delete the content but start from there.
