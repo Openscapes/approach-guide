@@ -3,18 +3,27 @@ title: "Tooling"
 bibliography: references.bib
 ---
 
-We try to use a few tools that interoperate well and are open source and collaborative.
+We try to use a few tools that interoperate well and are open source and
+collaborative.
 
-We also explore and learn new tools but always always with an eye towards interoperability with our current tooling, and with an understanding of how the open science community and environmental/Earth science communities are working.
+We also explore and learn new tools but always always with an eye towards
+interoperability with our current tooling, and with an understanding of how the
+open science community and environmental/Earth science communities are working.
 
-Below are the tools that we use, why we use them, and set up instructions. (Here are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
+Below are the tools that we use, why we use them, and set up instructions.
+(Here are some [Macbook setup notes](https://github.com/Openscapes/teaching-learning-resources/issues/12)).
 
 ::: {.callout-note collapse="true"}
 ## Eventbrite registration deprecated in favor of Zoom
 
-We use Eventbrite to manage registrations for events like the Pathways to Open Science series, and Community Calls. We plan to explore Zoom registration to see if it's a good alternative for our needs.
+We use Eventbrite to manage registrations for events like the Pathways to Open
+Science series, and Community Calls. We plan to explore Zoom registration to
+see if it's a good alternative for our needs.
 
-For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/), we created a **"series" of 6 events** instead of individual events. Challenge was that every event will list the same duration, while reality was they alternated weekly with 1.5hrs for community call and 1hr for coworking.
+For [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/),
+we created a **"series" of 6 events** instead of individual events. Challenge
+was that every event will list the same duration, while reality was they
+alternated weekly with 1.5hrs for community call and 1hr for coworking.
 
 ### Eventbrite - Zoom - Google Cal how-to set up an event
 
@@ -42,6 +51,34 @@ Recommended workflow for now:
 -   coordination with Issues and GitHub Projects
 -   publishing all our R-based web communications
 -   comms through website
+
+### Repositories tips
+
+When cloning repositories that are large, and we need to make a change in
+just one specific file (or set of files), we can clone just specific sections
+of the repository. This can be done the following way:
+
+
+```
+ git clone --filter=blob:none --no-checkout https://github.com/ronnyhdez/website-new.git
+ cd website-new
+ git sparse-checkout init --no-cone
+ git sparse-checkout set blog/2026-*
+ git checkout main
+```
+
+The commands above will place in my working directory just the files under
+the `blog/` folder that start with the year `2026`. All the other files from
+the repository are still part of the repository and the git history, but are
+not shown on my local working directory.
+
+The `--filter=blob:none` option avoids downloading file contents until they are
+needed, while `--no-checkout` prevents Git from immediately populating the
+working directory.
+
+The `sparse-checkout` will set which files are going to appear in our working
+directory. Finally we populate with just the files we need from the `main` branch.
+
 
 ## Google Workspace
 
