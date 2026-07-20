@@ -100,9 +100,9 @@ div.csl-indent {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5f20bf4d51153bff4e69583407f38fa9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-e550e3d5911ef67ec905a428e638ed3e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-5f20bf4d51153bff4e69583407f38fa9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8669a12e31676afb62465428d2923f05.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-955fac14949dbc1e881ae3ae9b37b7a7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-8669a12e31676afb62465428d2923f05.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -572,7 +572,10 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github">GitHub</a></li>
+  <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github">GitHub</a>
+  <ul class="collapse">
+  <li><a href="#repositories-tips" id="toc-repositories-tips" class="nav-link" data-scroll-target="#repositories-tips">Repositories tips</a></li>
+  </ul></li>
   <li><a href="#google-workspace" id="toc-google-workspace" class="nav-link" data-scroll-target="#google-workspace">Google Workspace</a>
   <ul class="collapse">
   <li><a href="#zoom-over-google-meet" id="toc-zoom-over-google-meet" class="nav-link" data-scroll-target="#zoom-over-google-meet">Zoom over Google Meet</a></li>
@@ -688,6 +691,18 @@ div.csl-indent {
 <li>publishing all our R-based web communications</li>
 <li>comms through website</li>
 </ul>
+<section id="repositories-tips" class="level3">
+<h3 class="anchored" data-anchor-id="repositories-tips">Repositories tips</h3>
+<p>When cloning repositories that are large, and we need to make a change in just one specific file (or set of files), we can clone just specific sections of the repository. This can be done the following way:</p>
+<pre><code> git clone --filter=blob:none --no-checkout https://github.com/ronnyhdez/website-new.git
+ cd website-new
+ git sparse-checkout init --no-cone
+ git sparse-checkout set blog/2026-*
+ git checkout main</code></pre>
+<p>The commands above will place in my working directory just the files under the <code>blog/</code> folder that start with the year <code>2026</code>. All the other files from the repository are still part of the repository and the git history, but are not shown on my local working directory.</p>
+<p>The <code>--filter=blob:none</code> option avoids downloading file contents until they are needed, while <code>--no-checkout</code> prevents Git from immediately populating the working directory.</p>
+<p>The <code>sparse-checkout</code> will set which files are going to appear in our working directory. Finally we populate with just the files we need from the <code>main</code> branch.</p>
+</section>
 </section>
 <section id="google-workspace" class="level2">
 <h2 class="anchored" data-anchor-id="google-workspace">Google Workspace</h2>
@@ -1107,38 +1122,38 @@ Note
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(googlesheets4)</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(clipr)</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">gs4_auth</span>(<span class="at">email =</span> <span class="st">"your-email"</span>)</span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>ss <span class="ot">&lt;-</span> <span class="st">"url-to-your-spreadsheet"</span></span>
-<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Read the email address column and pull it as a vector</span></span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>champ_emails <span class="ot">&lt;-</span> <span class="fu">read_sheet</span>(</span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  ss,</span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">sheet =</span> <span class="st">"Champions"</span>,</span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">range =</span> <span class="st">"D:D"</span></span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pull</span>(email)</span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Read the email address column of failed emails and pull it as a vector</span></span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>failed_emails <span class="ot">&lt;-</span> <span class="fu">read_sheet</span>(</span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>  <span class="at">ss =</span> ss,</span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  <span class="at">sheet =</span> <span class="st">"Failed_emails"</span>,</span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="at">range =</span> <span class="st">"C:C"</span></span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pull</span>(<span class="st">"email-failed"</span>)</span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a><span class="co"># Replace missing emails with an empty string. Use empty string instead of NA</span></span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="co"># otherwise they will be replaced with literal "NA" when copied to the clipboard.</span></span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>champ_emails[champ_emails <span class="sc">%in%</span> failed_emails] <span class="ot">&lt;-</span> <span class="st">""</span></span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>champ_emails[<span class="fu">is.na</span>(champ_emails)] <span class="ot">&lt;-</span> <span class="st">""</span></span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a><span class="do">## Copy emails to the clipboard and paste into the email column</span></span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a><span class="do">## in the Champions sheet</span></span>
-<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a><span class="fu">write_clip</span>(champ_emails)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(googlesheets4)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(clipr)</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">gs4_auth</span>(<span class="at">email =</span> <span class="st">"your-email"</span>)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>ss <span class="ot">&lt;-</span> <span class="st">"url-to-your-spreadsheet"</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Read the email address column and pull it as a vector</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>champ_emails <span class="ot">&lt;-</span> <span class="fu">read_sheet</span>(</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>  ss,</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">sheet =</span> <span class="st">"Champions"</span>,</span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">range =</span> <span class="st">"D:D"</span></span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pull</span>(email)</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Read the email address column of failed emails and pull it as a vector</span></span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>failed_emails <span class="ot">&lt;-</span> <span class="fu">read_sheet</span>(</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>  <span class="at">ss =</span> ss,</span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>  <span class="at">sheet =</span> <span class="st">"Failed_emails"</span>,</span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a>  <span class="at">range =</span> <span class="st">"C:C"</span></span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pull</span>(<span class="st">"email-failed"</span>)</span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a><span class="co"># Replace missing emails with an empty string. Use empty string instead of NA</span></span>
+<span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a><span class="co"># otherwise they will be replaced with literal "NA" when copied to the clipboard.</span></span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a>champ_emails[champ_emails <span class="sc">%in%</span> failed_emails] <span class="ot">&lt;-</span> <span class="st">""</span></span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a>champ_emails[<span class="fu">is.na</span>(champ_emails)] <span class="ot">&lt;-</span> <span class="st">""</span></span>
+<span id="cb4-29"><a href="#cb4-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a><span class="do">## Copy emails to the clipboard and paste into the email column</span></span>
+<span id="cb4-31"><a href="#cb4-31" aria-hidden="true" tabindex="-1"></a><span class="do">## in the Champions sheet</span></span>
+<span id="cb4-32"><a href="#cb4-32" aria-hidden="true" tabindex="-1"></a><span class="fu">write_clip</span>(champ_emails)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
 </div>
