@@ -457,8 +457,10 @@ In the web interface, an account holder is not able to see meetings created by a
 
 We can set up registration for a single event like a Community Call, or for a series like Pathways to Open Science.
 
--   Create a meeting. Check ✔️ 'Recurring meeting' for a series.
+-   Create a meeting. For a Community Call, choose Template > Community Call. Check ✔️ 'Recurring meeting' for a series, like Pathways.
 -   Check Registration ✔️ Required \> ✔️ Attendees register once and can attend any of the occurrences
+-   We use Waiting room, not password.
+-   Check Allow participants to join any time; Mute participants upon entry; Prevent screen capture of meeting content; Allow the alternative host to manage this meeting's assets
 -   Options \> Show \> Alternative Hosts: add someone else who has Openscapes Zoom license
 -   Save
 -   The 'Registration Link' is the URL we add to an event page.
