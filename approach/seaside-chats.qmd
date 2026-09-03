@@ -120,6 +120,7 @@ We use these dimensions following RStudio. We are looking for a new place to pri
 
 -   Die cut stickers
 -   Size: 1.74 x 2 inches (4.40cm width x 5.00cm height)
+- Details: vinyl, matte finish
 
 ![](images/khora-laptop-sleep.jpg){fig-align="center" width="60%"}
 
